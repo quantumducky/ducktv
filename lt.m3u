@@ -1,21 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="998f17ab41e2017832982d6a6f57ed68",BTV
-http://46.251.40.201:9981/stream/channelid/722964377?ticket=1CDFD112A899CE54F400727B840C32D46C07D6B3&profile=pass
-#EXTINF:-1 tvg-id="a6c75c017b48c38a8eca5f14ed13f65e",CurrentTime
-http://46.251.40.201:9981/stream/channelid/22857638?ticket=C1D201D296ADC28B4911DC0E903AC34D773B9C15&profile=pass
-#EXTINF:-1 tvg-id="7e059e1750b152070fca4f55577c9a2f",Info TV
-http://46.251.40.201:9981/stream/channelid/396232062?ticket=829E8DFF143DE49FCF4A8EDB0591C0408807B421&profile=pass
-#EXTINF:-1 tvg-id="efeafd893d5e7533be91764cdc5d92b3",Lietuvos rytas TV
-http://46.251.40.201:9981/stream/channelid/167635695?ticket=F40DDB910B12CB7DFA9E33C69A942FC887709C77&profile=pass
-#EXTINF:-1 tvg-id="d09f77e7b942ef3788e213d2f4eae69d",LIUKS!
-http://46.251.40.201:9981/stream/channelid/1735892944?ticket=BCC72B28ECD2945AAFA3840EA53917E0144B7F61&profile=pass
-#EXTINF:-1 tvg-id="be57fe1ff4064b1b1cd3e285c2e6bade",LNK
-http://46.251.40.201:9981/stream/channelid/536762302?ticket=4951CF7E5AC2FB09BBC364FF464641BC5BF9F519&profile=pass
-#EXTINF:-1 tvg-id="8a2fb374ffb3d4e85e5105d9483881fc",TV1
-http://46.251.40.201:9981/stream/channelid/1957900170?ticket=FE11CA651850BD6A17F4821B1ABA70B89170B98F&profile=pass
-#EXTINF:-1 tvg-id="01bdfe334e17b3ddb5991ef6ec882426",TV3
-http://46.251.40.201:9981/stream/channelid/872332545?ticket=FAB8C4AA605C6BF23A645F7C66452D2ABF60A0D5&profile=pass
-#EXTINF:-1 tvg-id="fa693d500796ad03c3af97c91f900ed8",TV6
-http://46.251.40.201:9981/stream/channelid/1346202106?ticket=7B1495FD2D5ED68D961D3EBD3DBE1FEA83FFA478&profile=pass
-#EXTINF:-1 tvg-id="9fd4be91cdf51bf42df3ad8a2c51b242",TV8
-http://46.251.40.201:9981/stream/channelid/297718943?ticket=3A87F5B39B40AF854A6CFE27FA86B3619BC861B5&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="BTV" ttv-logo="LTU_BTV.png",BTV
+http://46.251.40.201:9981/stream/channelid/722964377?ticket=5EBD8669DFD5853A03DB8BA469900445F87CCFA6&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Info TV" ttv-logo="Info TV.png",Info TV
+http://88.216.48.14:80/infotv/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Info TV" ttv-logo="Info TV.png",Info TV
+http://46.251.40.201:9981/stream/channelid/396232062?ticket=30735223FE85437A0D09BB60250F524A13FF06C4&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Lietuvos ryto televizija" tvg-logo="http://www.kaunozurnalistai.lt/imgs/691/LRYTAS_TV_LOGOTIPAS__didele_.jpg",Lietuvos ryto televizija
+http://46.251.40.201:9981/stream/channelid/167635695?ticket=2572402B7E5D89F3BAF92105CCA0205E610C3A7A&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Liuks!" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/f/f9/Liuks.jpg",Liuks!
+http://46.251.40.201:9981/stream/channelid/1735892944?ticket=E71CCB2B2569480D3442EEF470B46EBB0098DE01&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" ttv-logo="LNK.png",LNK
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" ttv-logo="LNK.png",LNK
+http://88.216.48.14:80/lnk/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" ttv-logo="LNK.png",LNK
+http://46.251.40.201:9981/stream/channelid/536762302?ticket=76CD5407560E1586FB3D5F19D2E401306C87B1C3&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LRT Televizija" ttv-logo="LRT.png",LRT
+http://88.216.48.14:80/lrthd/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="Seimas tiesiogiai" ttv-logo="Seimas tiesiogiai.png",Seimas tiesiogiai
+http://88.216.48.14:80/seimas/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV1" country="lt" ttv-logo="LTU_TV1.png",TV1
+http://88.216.48.14:80/tv1/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV1" country="lt" ttv-logo="TV1.png",TV1
+http://46.251.40.201:9981/stream/channelid/1957900170?ticket=65D98DF64D680D2638A58780D684C97509E2DAB5&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Литва" ttv-logo="TV3 LT.png",TV3
+http://88.216.48.14:80/tv3/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 Литва" ttv-logo="TV3 LT.png",TV3
+http://46.251.40.201:9981/stream/channelid/872332545?ticket=F4FB4841A9B8DB0E7DEAD4E7E1466B0F04BEB8D0&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Литва" ttv-logo="TV6.png",TV6
+http://88.216.48.14:80/tv6/live.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV6 Литва" ttv-logo="TV6.png",TV6
+http://46.251.40.201:9981/stream/channelid/1346202106?ticket=539D9A22E5CA8FE849685DBC8233B883301D04DA&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV8 LT" ttv-logo="TV8 LT.png",TV8
+http://88.216.48.14:80/tv8/live.m3u8
