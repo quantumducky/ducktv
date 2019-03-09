@@ -158,3 +158,77 @@ http://185.38.12.50/sec/1552177634/31393430acaa543b829e0ce25481ceb8756808ceb511f
 #EXTGRP:Охотник за разумом
 http://185.38.12.60/sec/1552177666/3337373663c46585c0fc0dda552e631a8ead5c0a3c908c89/ivs/f6/df/a6ffa9e3f123/hls/tracks-2,5/index.m3u8
 
+
+
+
+
+#EXTINF:0,--- S1 - Мир Дикого запада ---
+#EXTGRP:Мир Дикого запада
+http://test.com/index.m3u8
+
+#EXTINF:4290,S1E1 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.40/sec/1552184280/3533303728f073260be45bc81936f3de18edc8ff5f9c22ce/ivs/a4/8e/977ddd7ac021/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3516,S1E2 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184308/3736343563e39cd00f926541962d984e7d330a458fbfebe9/ivs/e8/03/f69ef4e86e88/hls/tracks-3,5/index.m3u8
+
+#EXTINF:3512,S1E3 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184329/3636313283e9d5b876b10e05d0cc1e93b255ac511a82c005/ivs/5f/18/42c797fad7e4/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3518,S1E4 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184367/38393736450f22cf20072f1cee429a024d59f6e03d1a911b/ivs/48/f9/ebcff2da7dc1/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3397,S1E5 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.57/sec/1552184398/323733348c0a724493cf64806d1f3b84da04b337509e5b7b/ivs/d8/9f/d391f3fad030/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3438,S1E6 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184420/35333331385bc5f6b60bc288e6418726c0aa8069e58ccde7/ivs/37/9e/ecc0d8cb3c47/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3395,S1E7 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.47/sec/1552184445/39303430300e8a790a6be282c4d0714039cd2d1c47919790/ivs/ac/bf/ca10c67f155f/hls/tracks-3,5/index.m3u8
+
+#EXTINF:3461,S1E8 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.57/sec/1552184472/39353635aea07222ba1b6bb29e7692ab651fdb37761c9b1a/ivs/b2/fd/28b97d1440ba/hls/tracks-2,5/index.m3u8
+
+
+
+#EXTINF:4480,S2E1 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://37.220.39.62/sec/1552184793/3638353411f03f0e9f9c412303d49f66afd9c6724fe9daf3/ivs/ab/48/e215fbf2167c/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3576,S2E2 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184828/3533323251df3246ad15c9a7a83e656e28d1c3696bd23b1f/ivs/8c/b5/40492462c58a/hls/tracks-3,5/index.m3u8
+
+#EXTINF:3583,S2E3 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.44/sec/1552184842/3437373134120dda4412086867f701d68d2a58c6c4deaa94/ivs/a1/6d/7d5d37708995/hls/tracks-3,5/index.m3u8
+
+#EXTINF:4385,S2E4 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.43/sec/1552184856/393934336db0a2bebc6326a37c704a1b6250ab773b9bbd74/ivs/18/71/6f9ff1a7e84e/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3661,S2E5 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.60/sec/1552184879/343738314a79fb7541d5dd3e7a962d204cb571406bd3a58b/ivs/58/d8/53b3dd6378be/hls/tracks-2,5/index.m3u8
+
+#EXTINF:3563,S2E6 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://37.220.39.62/sec/1552184915/38313434024329dc636ea14f5322e25af918d3fbb31aeecc/ivs/c7/b3/760308f66ee5/hls/tracks-3,5/index.m3u8
+
+#EXTINF:3631,S2E7 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.60/sec/1552184939/38383439129ccca6c33489425e550cca63add45227dc064b/ivs/9c/c9/d84c2ff300e0/hls/tracks-3,5/index.m3u8
+
+#EXTINF:3603,S2E8 - Мир Дикого запада
+#EXTGRP:Мир Дикого запада
+http://185.38.12.50/sec/1552184960/37303732e23458cbb493d58868a810cb0403f499db8c1697/ivs/09/31/5d5031e0eaee/hls/tracks-3,5/index.m3u8
+
