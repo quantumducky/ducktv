@@ -200,6 +200,10 @@ http://185.38.12.57/sec/1552184472/39353635aea07222ba1b6bb29e7692ab651fdb37761c9
 
 
 
+#EXTINF:0,--- S2 - Мир Дикого запада ---
+#EXTGRP:Мир Дикого запада
+http://test.com/index.m3u8
+
 #EXTINF:4480,S2E1 - Мир Дикого запада
 #EXTGRP:Мир Дикого запада
 http://37.220.39.62/sec/1552184793/3638353411f03f0e9f9c412303d49f66afd9c6724fe9daf3/ivs/ab/48/e215fbf2167c/hls/tracks-2,5/index.m3u8
