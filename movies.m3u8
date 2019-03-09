@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,--- S1 ---
 #EXTGRP:Настоящий детектив
-http://test.com
+http://test.com/index.m3u8
 #EXTINF:3582,S1E1
 #EXTGRP:Настоящий детектив
 http://185.38.12.36/sec/1552174545/323937314e74b0fe93ef41e3fd1554afa151c1eba245872d/ivs/4c/aa/a3970c1589c2.mp4/hls/tracks-1,4/index.m3u8
