@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:0,--- S1 ---
+#EXTGRP:Настоящий детектив
+#EXTINF:3582,S1E1
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174545/323937314e74b0fe93ef41e3fd1554afa151c1eba245872d/ivs/4c/aa/a3970c1589c2.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3574,S1E2
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174640/383136318a26a4e58e41f825b6f19c53eacfdbf0e1582d67/ivs/2a/4d/90490c438228.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3600,S1E3
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174665/36333634a3084df76e9e7358a9a3f9c365de29a6f59dcd0fe/ivs/4d/31/275d4282704f.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3532,S1E4
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174684/35393035742b58288c920ee6388aadd4315aa0db696369f4/ivs/fc/cb/aa3c52059617.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3551,S1E5
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174696/38343439aab0ecff9288b74b703a4df77c46750552451168/ivs/e6/f1/06c24436d6cd.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3613,S1E6
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174728/393130337ad8c0f93f2030a57461481436f4274ab255e863/ivs/3d/98/dd45df0b6cb9.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3319,S1E7
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174759/393637305ee1b94702475addf00f819eefb196404f7e9510/ivs/f7/fa/dce7b31b0083.mp4/hls/tracks-1,4/index.m3u8
+#EXTINF:3355,S1E8
+#EXTGRP:Настоящий детектив
+http://185.38.12.36/sec/1552174803/35333834e6537aa0c0ef9d3ace2ede0354c464485b3fa991/ivs/27/0d/3e2034fdcf31.mp4/hls/tracks-1,4/index.m3u8
