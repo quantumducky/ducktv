@@ -1,63 +1,62 @@
 #EXTM3U
-#EXTINF:0,--- S1 ---
+#EXTINF:0,--- S1 - Настоящий детектив ---
 #EXTGRP:Настоящий детектив / True Detective
 http://test.com/index.m3u8
-#EXTINF:3582,S1E1
+#EXTINF:3582,E1 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174545/323937314e74b0fe93ef41e3fd1554afa151c1eba245872d/ivs/4c/aa/a3970c1589c2.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3574,S1E2
+#EXTINF:3574,E2 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174640/383136318a26a4e58e41f825b6f19c53eacfdbf0e1582d67/ivs/2a/4d/90490c438228.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3600,S1E3
+#EXTINF:3600,E3 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174665/36333634a3084df76e9e7358a9a3f9c365de29a6f59dcd0fe/ivs/4d/31/275d4282704f.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3532,S1E4
+#EXTINF:3532,E4 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174684/35393035742b58288c920ee6388aadd4315aa0db696369f4/ivs/fc/cb/aa3c52059617.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3551,S1E5
+#EXTINF:3551,E5 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174696/38343439aab0ecff9288b74b703a4df77c46750552451168/ivs/e6/f1/06c24436d6cd.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3613,S1E6
+#EXTINF:3613,E6 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174728/393130337ad8c0f93f2030a57461481436f4274ab255e863/ivs/3d/98/dd45df0b6cb9.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3319,S1E7
+#EXTINF:3319,E7 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174759/393637305ee1b94702475addf00f819eefb196404f7e9510/ivs/f7/fa/dce7b31b0083.mp4/hls/tracks-1,4/index.m3u8
-#EXTINF:3355,S1E8
+#EXTINF:3355,E8 - Настоящий детектив
 #EXTGRP:Настоящий детектив / True Detective
 http://185.38.12.36/sec/1552174803/35333834e6537aa0c0ef9d3ace2ede0354c464485b3fa991/ivs/27/0d/3e2034fdcf31.mp4/hls/tracks-1,4/index.m3u8
 
 
-#EXTINF:0,--- S1 ---
 #EXTGRP:Охотник за разумом / Mindhunter
 http://test.com/index.m3u8
-#EXTINF:3611,S1E1
+#EXTINF:3611,E1 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.40/sec/1552177411/3334383253941c584ab9a72c2af9165948c0469f98555639/ivs/f1/30/f03deb015f3a/hls/tracks-2,5/index.m3u8
-#EXTINF:3370,S1E2
+#EXTINF:3370,E2 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177438/343137330ff60241bbdccd11454e26de66b3482f8a4ef276/ivs/98/2c/3f559cb73ed3/hls/tracks-2,5/index.m3u8
-#EXTINF:2728,S1E3
+#EXTINF:2728,E3 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177458/34303232ad60e3a6e02a96c7979a83845889b42d4c4521fd/ivs/90/d0/def9be381b4a/hls/tracks-2,5/index.m3u8
-#EXTINF:3250,S1E4
+#EXTINF:3250,E4 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177480/38333134be3d1615454946ee1df7fa8e3564075957d0b48f/ivs/5c/98/58409cb3c5dd/hls/tracks-2,5/index.m3u8
-#EXTINF:2531,S1E5
+#EXTINF:2531,E5 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.47/sec/1552177530/333531350ac274478884aa0d2d8a7650d7e50a5646cfe137/ivs/c0/52/076343dfeb8c/hls/tracks-2,5/index.m3u8
-#EXTINF:2073,S1E6
+#EXTINF:2073,E6 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177568/31333431d99d1262fc546b214841c027a68e1a57a50955e3/ivs/f5/ee/8cb4d2800877/hls/tracks-2,5/index.m3u8
-#EXTINF:3180,S1E7
+#EXTINF:3180,E7 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177592/37363530597866762e17114393309be4889d6668e607a883/ivs/3d/5d/c1a76a32daf4/hls/tracks-2,5/index.m3u8
-#EXTINF:3238,S1E8
+#EXTINF:3238,E8 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177614/35323932cae6e7f8b9c78e7b63c883b07c5f02fe6cea8b58/ivs/ad/3c/47c3aab95c1f/hls/tracks-2,5/index.m3u8
-#EXTINF:2904,S1E9
+#EXTINF:2904,E9 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.50/sec/1552177634/31393430acaa543b829e0ce25481ceb8756808ceb511f2a5/ivs/c0/83/014b8c0ef1d9/hls/tracks-2,5/index.m3u8
-#EXTINF:3180,S1E10
+#EXTINF:3180,E10 - Охотник за разумом
 #EXTGRP:Охотник за разумом / Mindhunter
 http://185.38.12.60/sec/1552177666/3337373663c46585c0fc0dda552e631a8ead5c0a3c908c89/ivs/f6/df/a6ffa9e3f123/hls/tracks-2,5/index.m3u8
