@@ -20,3 +20,44 @@ http://s1.seplay.net/content/stream/films/true.detective.s01e06.1080p.bdrip/hls/
 http://s1.seplay.net/content/stream/films/true.detective.s01e07.1080p.bdrip/hls/720/index.m3u8
 #EXTINF:3297,S1 | Ep8
 http://s1.seplay.net/content/stream/films/true.detective.s01e08.1080p.bdrip/hls/720/index.m3u8
+
+
+#EXTINF:3573, ####  S2  ####
+http://test.com/index.m3u8
+#EXTINF:3651,S2 | Ep1
+http://s1.seplay.net/content/stream/films/true.detective.s02e01.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3609,S2 | Ep2
+http://s1.seplay.net/content/stream/films/true.detective.s02e02.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3519,S2 | Ep3
+http://s1.seplay.net/content/stream/films/true.detective.s02e03.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3346,S2 | Ep4
+http://s1.seplay.net/content/stream/films/true.detective.s02e04.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3581,S2 | Ep5
+http://s1.seplay.net/content/stream/films/true.detective.s02e05.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3584,S2 | Ep6
+http://s1.seplay.net/content/stream/films/true.detective.s02e06.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:3856,S2 | Ep7
+http://s1.seplay.net/content/stream/films/true.detective.s02e07.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+#EXTINF:5213,S2 | Ep8
+http://s1.seplay.net/content/stream/films/true.detective.s02e08.hdtv.1080p.3xrus.eng.subs.casstudio.tv/hls/720/index.m3u8
+
+
+#EXTINF:3573, ####  S2  ####
+http://test.com/index.m3u8
+#EXTINF:3575,S3 | Ep1
+http://s2.seplay.net/content/stream/films/true.detective.s03e01.the.great.war.and.modern.memory.1080p.amzn.webdl.h.264.rus.a.dd2.0.srt_85425/hls/720/index.m3u8
+#EXTINF:3519,S3 | Ep2
+http://s2.seplay.net/content/stream/films/true.detective.s03e02.kiss.tomorrow.goodbye.1080p.amzn.webdl.h.264.rus.a.dd2.0.srt_85424/hls/720/index.m3u8
+#EXTINF:3387,S3 | Ep3
+http://s3.seplay.net/content/stream/films/true.detective.s03e03.the.big.never.1080p.amzn.webdl.h.264.rus.a.dd2.0.srteniahd_86211/hls/720/index.m3u8
+#EXTINF:4078,S3 | Ep4
+http://s3.seplay.net/content/stream/films/true.detective.s03e04.the.hour.and.the.day.1080p.amzn.webdl.h.264.rus.a.dd2.0.srteniahd_87113/hls/720/index.m3u8
+#EXTINF:3579,S3 | Ep5
+http://s3.seplay.net/content/stream/films/true.detective.s03e05.if.you.have.ghosts.1080p.amzn.webdl.rus.eng_teamhd_90171/hls/720/index.m3u8
+#EXTINF:3537,S3 | Ep6
+http://s2.seplay.net/content/stream/films/true.detective.s03e06.hunters.in.the.dark.1080p.amzn.webdl.h.264.rus.a.dd2.0.srteniahd_88728/hls/720/index.m3u8
+#EXTINF:3531,S3 | Ep7
+http://s3.seplay.net/content/stream/films/true.detective.s03e07.the.final.country.1080p.amzn.webdl.h.264.rus.a.dd2.0.srteniahd_89629/hls/720/index.m3u8
+#EXTINF:4622,S3 | Ep8
+http://s2.seplay.net/content/stream/films/true.detective.s03e08.now.am.found.1080p.amzn.webdl.h.264.rus.a.dd2.0.srteniahd_90699/hls/720/index.m3u8
+
