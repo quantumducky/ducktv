@@ -7,8 +7,8 @@
 
 <channel>
   <logo_30x30><![CDATA[http://ottv.tk/media/logo-red.gif]]></logo_30x30>
-  <playlist_url><![CDATA[http://ottv.tk/plst/plstfb/m3uToXml.php?file=../Постоянный список.m3u#.XML]]></playlist_url>
-  <title><![CDATA[Playlist 1]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tvshows.m3u8]]></playlist_url>
+  <title><![CDATA[TV Shows]]></title>
   <description>
     <![CDATA[
     <center>
