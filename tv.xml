@@ -1,0 +1,39 @@
+<item>
+<title>ottv.tk</title>
+<icon>http://ottv.tk/public/media/logo-light.png</icon>
+<background-image>http://ottv.tk/public/media/background.jpg</background-image>
+
+<items>
+
+  <channel>
+    <logo_30x30>http://ottv.tk/media/logo-red.gif</logo_30x30>
+    <playlist_url>http://iptv.tools/list.m3u</playlist_url>
+    <title>iptv.tools</title>
+    <description>
+    </description>
+  </channel>
+
+  <channel>
+    <logo_30x30>http://ottv.tk/media/logo-red.gif</logo_30x30>
+    <playlist_url>https://webhalpme.ru/iptvforever.m3u</playlist_url>
+    <title>iptvforever</title>
+    <description>
+      <br><center>
+      <img  src="http://ottv.tk/media/logo-red.gif"  width="22%">
+      <br>
+      <hr>
+      <br>
+      <br>
+      <br>
+      В этом разделе закрепленные плейлисты
+      <br>
+      если у вас есть свой плейлист и вы хотите поделиться им
+      <br>
+      напишите на ottv@ottv.tk
+      <br>
+    </description>
+  </channel>
+
+</items>
+
+</item>
