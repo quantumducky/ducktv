@@ -1,37 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 
-<title><![CDATA[Test Page]]></title>
+<title><![CDATA[Duck TV]]></title>
 
 <items>
 
 <channel>
   <logo_30x30><![CDATA[http://ottv.tk/media/logo-red.gif]]></logo_30x30>
   <playlist_url><![CDATA[http://ottv.tk/plst/plstfb/m3uToXml.php?file=../Постоянный список.m3u#.XML]]></playlist_url>
-  <title><![CDATA[Постоянный список.m3u#]]></title>
+  <title><![CDATA[Playlist 1]]></title>
   <description>
     <![CDATA[
     <center>
-      <img  height="40%" src="http://ottv.tk/public/media/teka.png"  width="20%"/>
-      <br><br>
-      <h2>
-          <font color="gold">Это закрепленный список,<br>присланные плейлисты,
-          <br> добавленые плейлисты - ниже.
-          <br></font>
-      </h2>
-      <img src="http://ottv.tk/public/media/info.png" style="width: 10%; height: 10%; float: left;">
-      Необходимо понимать, что <big>общие</big> плейлисты не могут долго и стабильно показывать, 
-      поэтому каналы могут часто зависать или перестать показывать вовсе.
-      <br> 
-      Если вы хотите смотреть стабильные трансляции, необходимо оформить подписку.
-      <hr><br> 
-      Чтобы добавить свой постоянный плейлист напишите по адресу:
-      <br> 
-      <h3>
-          <font color=Lime>ottv@ottv.tk</font>
-          
-      </h3>
-          <br>    <br>    <br> <img  src="https://2no.co/ZlFP3" border="0">
+      <img  height="40%" src="https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg"  width="20%"/>
     </center>
     ]]>
   </description>
