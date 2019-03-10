@@ -1,0 +1,22 @@
+#EXTM3U
+
+# Настоящий детектив / True Detective
+
+#EXTINF:3573, ####  S1  ####
+http://test.com/index.m3u8
+#EXTINF:3585,S1 | Ep1
+http://s1.seplay.net/content/stream/films/true.detective.s01e01.1080p.bdrip_92015/hls/720/index.m3u8
+#EXTINF:3480,S1 | Ep2
+http://s1.seplay.net/content/stream/films/true.detective.s01e02.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3500,S1 | Ep3
+http://s1.seplay.net/content/stream/films/true.detective.s01e03.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3424,S1 | Ep4
+http://s1.seplay.net/content/stream/films/true.detective.s01e04.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3448,S1 | Ep5
+http://s1.seplay.net/content/stream/films/true.detective.s01e05.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3519,S1 | Ep6
+http://s1.seplay.net/content/stream/films/true.detective.s01e06.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3221,S1 | Ep7
+http://s1.seplay.net/content/stream/films/true.detective.s01e07.1080p.bdrip/hls/720/index.m3u8
+#EXTINF:3297,S1 | Ep8
+http://s1.seplay.net/content/stream/films/true.detective.s01e08.1080p.bdrip/hls/720/index.m3u8
