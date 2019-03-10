@@ -2,23 +2,25 @@
 
 # Охотник за разумом / Mindhunter
 
-#EXTINF:3573,Ep 1
+#EXTINF:3573, ####  S1  ####
+http://test.com/index.m3u8
+#EXTINF:3573,S1 | Ep1
 http://s1.seplay.net/content/stream/films/mindhunter.s01e01.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:3337,Ep 2
+#EXTINF:3337,S1 | Ep 2
 http://s1.seplay.net/content/stream/films/mindhunter.s01e02.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:2693,Ep 3
+#EXTINF:2693,S1 | Ep 3
 http://s1.seplay.net/content/stream/films/mindhunter.s01e03.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:3218,Ep 4
+#EXTINF:3218,S1 | Ep 4
 http://s1.seplay.net/content/stream/films/mindhunter.s01e04.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:2499,Ep 5
+#EXTINF:2499,S1 | Ep 5
 http://s1.seplay.net/content/stream/films/mindhunter.s01e05.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:2040,Ep 6
+#EXTINF:2040,S1 | Ep 6
 http://s1.seplay.net/content/stream/films/mindhunter.s01e06.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:3147,Ep 7
+#EXTINF:3147,S1 | Ep 7
 http://s1.seplay.net/content/stream/films/mindhunter.s01e07.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:3203,Ep 8
+#EXTINF:3203,S1 | Ep 8
 http://s1.seplay.net/content/stream/films/mindhunter.s01e08.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:2871,Ep 9
+#EXTINF:2871,S1 | Ep 9
 http://s1.seplay.net/content/stream/films/mindhunter.s01e09.webrip.1080p.lostfilm/hls/720/index.m3u8
-#EXTINF:3144,Ep 10
+#EXTINF:3144,S1 | Ep 10
 http://s1.seplay.net/content/stream/films/mindhunter.s01e10.webrip.1080p.lostfilm/hls/720/index.m3u8
