@@ -5,38 +5,32 @@
 
 <items>
 
-<channel>
-  <!-- <logo_30x30><![CDATA[https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg]]></logo_30x30> -->
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mindhunter.m3u8]]></playlist_url>
-  <title><![CDATA[Охотник за разумом / Mindhunter]]></title>
-  <!-- <description>
+<!-- Example channel markup -->
+
+<!-- <channel>
+  <logo_30x30><![CDATA[https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg]]></logo_30x30>
+  <playlist_url><![CDATA[https://test.com/index.m3u8]]></playlist_url>
+  <title><![CDATA[Title]]></title>
+  <description>
     <![CDATA[
     <center>
       <img  height="60%" src="https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg"  width="30%"/>
     </center>
     ]]>
-  </description> -->
+  </description>
+</channel> -->
+
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/main.xml]]></playlist_url>
+  <title><![CDATA[Serialai]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/true_detective.m3u8]]></playlist_url>
-  <title><![CDATA[Настоящий детектив / True Detective]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/main.xml]]></playlist_url>
+  <title><![CDATA[Filmai]]></title>
 </channel>
 
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_terror.m3u8]]></playlist_url>
-  <title><![CDATA[Террор / The Terror]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/westworld.m3u8]]></playlist_url>
-  <title><![CDATA[Мир Дикого Запада / Westworld]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/better_call_saul.m3u8]]></playlist_url>
-  <title><![CDATA[Лучше звоните Солу / Better Call Saul]]></title>
-</channel>
 
 <!-- <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
