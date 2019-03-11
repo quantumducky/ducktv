@@ -33,5 +33,10 @@
   <title><![CDATA[Мир Дикого Запада / Westworld]]></title>
 </channel>
 
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+  <title><![CDATA[test]]></title>
+</channel>
+
 
 </items></item>
