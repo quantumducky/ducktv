@@ -1,0 +1,100 @@
+#EXTM3U
+
+# Лучше звоните Солу / Better Call Saul
+
+#EXTINF:3573, ####  S1  ####
+http://test.com/index.m3u8
+#EXTINF:3182,S1 | Ep1
+http://s1.seplay.net/content/stream/films/1x01__uno_65043/hls/720/index.m3u8
+#EXTINF:2771,S1 | Ep2
+http://s1.seplay.net/content/stream/films/1x02__mixo_65044/hls/720/index.m3u8
+#EXTINF:2828,S1 | Ep3
+http://s1.seplay.net/content/stream/films/1x03__nacho_65045/hls/720/index.m3u8
+#EXTINF:2817,S1 | Ep4
+http://s1.seplay.net/content/stream/films/1x04__geroj_65046/hls/720/index.m3u8
+#EXTINF:2652,S1 | Ep5
+http://s1.seplay.net/content/stream/films/1x05__alpijskij_pastushok_65047/hls/720/index.m3u8
+#EXTINF:2542,S1 | Ep6
+http://s1.seplay.net/content/stream/films/1x06__pyatnol_65048/hls/720/index.m3u8
+#EXTINF:2824,S1 | Ep7
+http://s1.seplay.net/content/stream/films/1x07__bingo_65049/hls/720/index.m3u8
+#EXTINF:2850,S1 | Ep8
+http://s1.seplay.net/content/stream/films/1x08__riko_65050/hls/720/index.m3u8
+#EXTINF:2843,S1 | Ep9
+http://s1.seplay.net/content/stream/films/1x09__pimento_65051/hls/720/index.m3u8
+#EXTINF:2959,S1 | Ep10
+http://s1.seplay.net/content/stream/films/1x10__marko_65052/hls/720/index.m3u8
+
+
+
+#EXTINF:3573, ####  S2  ####
+http://test.com/index.m3u8
+#EXTINF:2828,S2 | Ep1
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e01.switch.1080p.webrip.kvk.casstudio.tv_62202/hls/720/index.m3u8
+#EXTINF:2852,S2 | Ep2
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e02.cobbler.1080p.webrip.kvk.casstudio.tv_62203/hls/720/index.m3u8
+#EXTINF:2540,S2 | Ep3
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e03.amarillo.1080p.webrip.kvk.casstudio.tv_62204/hls/720/index.m3u8
+#EXTINF:2604,S2 | Ep4
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e04.gloves.off.1080p.webrip.kvk.casstudio.tv_62205/hls/720/index.m3u8
+#EXTINF:2769,S2 | Ep5
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e05.rebecca.1080p.webrip.kvk.casstudio.tv_62206/hls/720/index.m3u8
+#EXTINF:2784,S2 | Ep6
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e06.bali.hai.1080p.webrip.kvk.casstudio.tv_62207/hls/720/index.m3u8
+#EXTINF:2544,S2 | Ep7
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e07.inflatable.1080p.webrip.kvk.casstudio.tv_62208/hls/720/index.m3u8
+#EXTINF:2906,S2 | Ep8
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e08.fifi.1080p.webrip.kvk.casstudio.tv_62209/hls/720/index.m3u8
+#EXTINF:2974,S2 | Ep9
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e09.nailed.1080p.webrip.kvk.casstudio.tv_62210/hls/720/index.m3u8
+#EXTINF:2909,S2 | Ep10
+http://s1.seplay.net/content/stream/films/better.call.saul.s02e10.klick.1080p.webrip.kvk.casstudio.tv_62211/hls/720/index.m3u8
+
+
+#EXTINF:3573, ####  S3  ####
+http://test.com/index.m3u8
+#EXTINF:3129,S3 | Ep1
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e01.webrip.1080p.kvk_62217/hls/720/index.m3u8
+#EXTINF:3096,S3 | Ep2
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e02.webrip.1080p.kvk_62218/hls/720/index.m3u8
+#EXTINF:2725,S3 | Ep3
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e03.webrip.1080p.kvk_62219/hls/720/index.m3u8
+#EXTINF:2856,S3 | Ep4
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e04.webrip.1080p.kvk_62220/hls/720/index.m3u8
+#EXTINF:2972,S3 | Ep5
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e05.webrip.1080p.kvk_62221/hls/720/index.m3u8
+#EXTINF:2862,S3 | Ep6
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e06.webrip.1080p.casstudiotv_62212/hls/720/index.m3u8
+#EXTINF:3167,S3 | Ep7
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e07.webrip.1080p.casstudiotv_62213/hls/720/index.m3u8
+#EXTINF:2938,S3 | Ep8
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e08.webrip.1080p.casstudiotv_62214/hls/720/index.m3u8
+#EXTINF:2957,S3 | Ep9
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e09.webrip.1080p.casstudiotv_62215/hls/720/index.m3u8
+#EXTINF:3361,S3 | Ep10
+http://s1.seplay.net/content/stream/films/better.call.saul.s03e10.webrip.1080p.casstudiotv_62216/hls/720/index.m3u8
+
+
+
+#EXTINF:3573, ####  S4  ####
+http://test.com/index.m3u8
+#EXTINF:2911,S4 | Ep1
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e01.smoke.1080p.webrip.kvk.casstudio.tv_71803/hls/720/index.m3u8
+#EXTINF:2771,S4 | Ep2
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e02.breathe.720p.webrip.kvk.casstudio.tv_72907/hls/720/index.m3u8
+#EXTINF:2545,S4 | Ep3
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e03.something.beautiful.720p.webrip.kvk.casstudio.tv_73063/hls/720/index.m3u8
+#EXTINF:2803,S4 | Ep4
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e04.talk.1080p.webdl.kvk.casstudio.tv_73262/hls/720/index.m3u8
+#EXTINF:3175,S4 | Ep5
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e05.quite.a.ride.720p.webrip.kvk.casstudio.tv_74075/hls/720/index.m3u8
+#EXTINF:2863,S4 | Ep6
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e06.pinata.720p.webrip.kvk.casstudio.tv_74435/hls/720/index.m3u8
+#EXTINF:2502,S4 | Ep7
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e07.something.stupid.720p.webdl.kvk.casstudio.tv_75141/hls/720/index.m3u8
+#EXTINF:3181,S4 | Ep8
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e08.coushatta.720p.webdl.kvk.casstudio.tv_76167/hls/720/index.m3u8
+#EXTINF:3331,S4 | Ep9
+http://s1.seplay.net/content/stream/films/better.call.saul.s04e09.wiedersehen.720p.webdl.kvk.casstudio.tv_77172/hls/720/index.m3u8
+#EXTINF:3638,S4 | Ep10
+http://s2.seplay.net/content/stream/films/better.call.saul.s04e10.winner.720p.webdl.kvk.casstudio.tv_77633/hls/720/index.m3u8
