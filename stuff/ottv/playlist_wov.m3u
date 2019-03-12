@@ -1,0 +1,268 @@
+#EXTM3U
+#EXTINF:0 tvg-id="pervy-pl4" tvg-name="Первый канал (+4)" tvg-logo="" group-title="Базовый Россия +4",Первый канал (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1668
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1267
+#EXTINF:0 tvg-id="rossia1-pl4" tvg-name="Россия 1 (+4)" tvg-logo="" group-title="Базовый Россия +4",Россия 1 (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1667
+#EXTINF:0 tvg-id="tnt-pl4" tvg-name="ТНТ (+4)" tvg-logo="" group-title="Базовый Россия +4",ТНТ (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1671
+#EXTINF:0 tvg-id="sts-pl2" tvg-name="СТС (+2)" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_451_B_70_1680000_0_0_0.png" group-title="Базовый Россия +2",СТС (+2)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1263
+#EXTINF:0 tvg-id="sts-pl4" tvg-name="СТС (+4)" tvg-logo=":0:1:B276:521:D:0:0:0:0:" group-title="Базовый Россия +4",СТС (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1672
+#EXTINF:0 tvg-id="sts-love" tvg-name="СТС Love" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_452_B_70_1680000_0_0_0.png" group-title="Развлекательные",СТС Love
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/212
+#EXTINF:0 tvg-id="ntv" tvg-name="НТВ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_523_D_70_1680000_0_0_0.png" group-title="Базовые Россия",НТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/258
+#EXTINF:0 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_70A_12_70_1680000_0_0_0.png" group-title="Базовый Россия +2",НТВ (+2)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1265
+#EXTINF:0 tvg-id="ntv-pl4" tvg-name="НТВ (+4)" tvg-logo="" group-title="Базовый Россия +4",НТВ (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1670
+#EXTINF:0 tvg-id="rentv" tvg-name="РЕН ТВ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_3EC_A_70_1680000_0_0_0.png" group-title="Базовые Россия",РЕН ТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/264
+#EXTINF:0 tvg-id="rentv-pl4" tvg-name="РЕН ТВ (+4)" tvg-logo="" group-title="Базовый Россия +4",РЕН ТВ (+4)
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1669
+#EXTINF:0 tvg-id="tvcentr" tvg-name="ТВЦ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_841_15_70_1680000_0_0_0.png" group-title="Базовые Россия",ТВЦ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/164
+#EXTINF:0 tvg-id="5kanal-ru" tvg-name="Пятый канал" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_3EB_A_70_1680000_0_0_0.png" group-title="Базовые Россия",Пятый канал
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1330
+#EXTINF:0 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="http://www.ipstream.one/picons/220x132/rtvieurope.png" group-title="Новости",RTVi
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/340
+#EXTINF:0 tvg-id="dozhd" tvg-name="Дождь" tvg-logo="http://www.ipstream.one/picons/220x132/dozhdtv.png" group-title="Новости",Дождь
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/310
+#EXTINF:0 tvg-id="ntv-mir" tvg-name="НТВ Мир" tvg-logo="http://www.ipstream.one/picons/220x132/ntvmir.png" group-title="Базовые Россия",НТВ Мир
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/296
+#EXTINF:0 tvg-id="piatnica" tvg-name="Пятница" tvg-logo="http://www.ipstream.one/picons/220x132/pytniza.png" group-title="Развлекательные",Пятница
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/265
+#EXTINF:0 tvg-id="yu" tvg-name="Ю" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_528_D_70_1680000_0_0_0.png" group-title="Развлекательные",Ю
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/222
+#EXTINF:0 tvg-id="super" tvg-name="Супер" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_529_D_70_1680000_0_0_0.png" group-title="Развлекательные",Супер
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1809
+#EXTINF:0 tvg-id="che" tvg-name="Че" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_455_B_70_1680000_0_0_0.png" group-title="Базовые Россия",Че
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/142
+#EXTINF:0 tvg-id="kultura" tvg-name="Россия-Культура" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_3ED_A_70_1680000_0_0_0.png" group-title="Базовые Россия",Россия-Культура
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/196
+#EXTINF:0 tvg-id="zvezda" tvg-name="Телеканал Звезда" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_51F_D_70_1680000_0_0_0.png" group-title="Базовые Россия",Телеканал Звезда
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/412
+#EXTINF:0 tvg-id="moskva-24" tvg-name="Москва 24" tvg-logo="http://www.ipstream.one/picons/220x132/moskva24.png" group-title="Новости",Москва 24
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1432
+#EXTINF:0 tvg-id="euronews" tvg-name="Euronews" tvg-logo="http://www.ipstream.one/picons/220x132/euronews.png" group-title="Новости",Euronews
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1468
+#EXTINF:0 tvg-id="rossia-24" tvg-name="Россия-24" tvg-logo="http://www.ipstream.one/picons/220x132/rossiya24.png" group-title="Новости",Россия-24
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/259
+#EXTINF:0 tvg-id="kinoxit" tvg-name="КИНОХИТ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_6B_1_70_1680000_0_0_0.png" group-title="Кино",КИНОХИТ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/276
+#EXTINF:0 tvg-id="kinomiks" tvg-name="КИНОМИКС" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_69_1_70_1680000_0_0_0.png" group-title="Кино",КИНОМИКС
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/336
+#EXTINF:0 tvg-id="kinoseria" tvg-name="КИНОСЕРИЯ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_71_1_70_1680000_0_0_0.png" group-title="Кино",КИНОСЕРИЯ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/284
+#EXTINF:0 tvg-id="kinopokaz-hd1" tvg-name="Шокирующее" tvg-logo="http://www.ipstream.one/picons/220x132/kinopokazhd1.png" group-title="Кино",Шокирующее
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/341
+#EXTINF:0 tvg-id="paramount-comedy" tvg-name="Paramount Comedy" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AAE_13_70_1680000_0_0_0.png" group-title="Кино",Paramount Comedy
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/337
+#EXTINF:0 tvg-id="fox-hd" tvg-name="FOX HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_42CD_11_70_1680000_0_0_0.png" group-title="Кино",FOX HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/109
+#EXTINF:0 tvg-id="foxlife" tvg-name="Fox Life" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_326_8_70_168AFFC_0_0_0.png" group-title="Кино",Fox Life
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/330
+#EXTINF:0 tvg-id="fox" tvg-name="Fox Russia" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AAB_13_70_1680000_0_0_0.png" group-title="Кино",Fox Russia
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/274
+#EXTINF:0 tvg-id="amedia1" tvg-name="Amedia 1" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_836_15_70_1680000_0_0_0.png" group-title="Кино",Amedia 1
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/140
+#EXTINF:0 tvg-id="amedia2" tvg-name="Amedia 2" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_845_15_70_1680000_0_0_0.png" group-title="Кино",Amedia 2
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/307
+#EXTINF:0 tvg-id="amedia-hit" tvg-name="Amedia Hit" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_837_15_70_1680000_0_0_0.png" group-title="Кино",Amedia Hit
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/308
+#EXTINF:0 tvg-id="amedia-premium" tvg-name="AMEDIA Premium HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_6593_9_70_1680000_0_0_0.png" group-title="Кино",AMEDIA Premium HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/242
+#EXTINF:0 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_83B_15_70_1680000_0_0_0.png" group-title="Кино",Еврокино
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/150
+#EXTINF:0 tvg-id="kino-tv" tvg-name="КИНО ТВ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_45A_B_70_1680000_0_0_0.png" group-title="Кино",КИНО ТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/157
+#EXTINF:0 tvg-id="lubimoe-kino" tvg-name="Любимое Кино" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2D2_7_70_1680000_0_0_0.png" group-title="Кино",Любимое Кино
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/291
+#EXTINF:0 tvg-id="rodnoe-kino" tvg-name="РОДНОЕ КИНО" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_73_1_70_1680000_0_0_0.png" group-title="Кино",РОДНОЕ КИНО
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/191
+#EXTINF:0 tvg-id="nash-detektiv" tvg-name="Наш детектив HD" tvg-logo="http://www.ipstream.one/picons/220x132/nashdetektiv.png" group-title="Кино",Наш детектив HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1331
+#EXTINF:0 tvg-id="sony-scifi" tvg-name="SONY Sci-Fi" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2C7_7_70_1680000_0_0_0.png" group-title="Кино",SONY Sci-Fi
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/227
+#EXTINF:0 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="http://www.ipstream.one/picons/220x132/strahd.jpg" group-title="Кино",Страшное HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/278
+#EXTINF:0 tvg-id="hollywood-hd" tvg-name="Hollywood HD" tvg-logo="http://www.ipstream.one/picons/220x132/hollywoodhd.jpg" group-title="Кино",Hollywood HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/243
+#EXTINF:0 tvg-id="tv1000" tvg-name="TV 1000" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4A9E_13_70_1680000_0_0_0.png" group-title="Кино",TV 1000
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/238
+#EXTINF:0 tvg-id="tv1000-action" tvg-name="TV1000 Action" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4A9F_13_70_1680000_0_0_0.png" group-title="Кино",TV1000 Action
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/234
+#EXTINF:0 tvg-id="vip-comedy" tvg-name="VIP Comedy" tvg-logo="http://www.ipstream.one/picons/220x132/vipcomedy.png" group-title="Кино",VIP Comedy
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/235
+#EXTINF:0 tvg-id="vip-megahit" tvg-name="VIP Megahit" tvg-logo="http://www.ipstream.one/picons/220x132/vipmegahit.png" group-title="Кино",VIP Megahit
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/236
+#EXTINF:0 tvg-id="vip-premiere" tvg-name="VIP Premiere" tvg-logo="http://www.ipstream.one/picons/220x132/vippremiere.png" group-title="Кино",VIP Premiere
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/237
+#EXTINF:0 tvg-id="tv1000-russkoe-kino" tvg-name="TV1000 Русское кино" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA0_13_70_1680000_0_0_0.png" group-title="Кино",TV1000 Русское кино
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/239
+#EXTINF:0 tvg-id="" tvg-name="TEST 4K" tvg-logo="" group-title="Кино",TEST 4K
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1557
+#EXTINF:0 tvg-id="eda-hd" tvg-name="Еда Премиум" tvg-logo="http://www.ipstream.one/picons/220x132/edahd.png" group-title="Познавательные",Еда Премиум
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/131
+#EXTINF:0 tvg-id="kuxnia-tv" tvg-name="Кухня ТВ" tvg-logo="http://www.ipstream.one/picons/220x132/kuhny.png" group-title="Познавательные",Кухня ТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/277
+#EXTINF:0 tvg-id="shot-tv" tvg-name="SHOT TV" tvg-logo="http://www.ipstream.one/picons/220x132/egoist.png" group-title="18+",SHOT TV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/149
+#EXTINF:0 tvg-id="sony-turbo" tvg-name="Sony Turbo" tvg-logo="http://www.ipstream.one/picons/220x132/sonyturbo.png" group-title="Развлекательные",Sony Turbo
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/225
+#EXTINF:0 tvg-id="paramount-channel" tvg-name="Paramount Channel" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AB1_13_70_1680000_0_0_0.png" group-title="Кино",Paramount Channel
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/314
+#EXTINF:0 tvg-id="viasat-history" tvg-name="Viasat History" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA2_13_70_1680000_0_0_0.png" group-title="Познавательные",Viasat History
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/200
+#EXTINF:0 tvg-id="viasat-explore" tvg-name="Viasat Explore" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA1_13_70_1680000_0_0_0.png" group-title="Познавательные",Viasat Explore
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/199
+#EXTINF:0 tvg-id="viasat-nature" tvg-name="Viasat Nature" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA3_13_70_1680000_0_0_0.png" group-title="Познавательные",Viasat Nature
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/201
+#EXTINF:0 tvg-id="nst" tvg-name="НСТ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_324_8_70_168AFFC_0_0_0.png" group-title="Базовые Россия",НСТ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1397
+#EXTINF:0 tvg-id="national-geographic" tvg-name="Nat Geographic" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_32D_8_70_168AFFC_0_0_0.png" group-title="Познавательные",Nat Geographic
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/312
+#EXTINF:0 tvg-id="national-geographic-hd" tvg-name="National Geographic HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_6592_9_70_1680000_0_0_0.png" group-title="Познавательные",National Geographic HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1439
+#EXTINF:0 tvg-id="history-hd" tvg-name="History HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_6594_9_70_1680000_0_0_0.png" group-title="Познавательные",History HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1434
+#EXTINF:0 tvg-id="avto24" tvg-name="Авто 24" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2BE_7_70_1680000_0_0_0.png" group-title="Познавательные",Авто 24
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/240
+#EXTINF:0 tvg-id="avto-plus" tvg-name="Авто Плюс" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_66_1_70_1680000_0_0_0.png" group-title="Познавательные",Авто Плюс
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/303
+#EXTINF:0 tvg-id="hd-life" tvg-name="HD Life" tvg-logo="http://www.ipstream.one/picons/220x132/hdlife.png" group-title="Познавательные",HD Life
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/757
+#EXTINF:0 tvg-id="discovery-channel" tvg-name="Discovery Channel" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_323_8_70_168AFFC_0_0_0.png" group-title="Познавательные",Discovery Channel
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/245
+#EXTINF:0 tvg-id="discovery-channel" tvg-name="Discovery Channel HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_2F49_C_70_1680000_0_0_0.png" group-title="Познавательные",Discovery Channel HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/110
+#EXTINF:0 tvg-id="id-xtra-ru" tvg-name="ID Xtra" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_327_8_70_168AFFC_0_0_0.png" group-title="Познавательные",ID Xtra
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/224
+#EXTINF:0 tvg-id="dtx" tvg-name="DTX" tvg-logo="http://www.ipstream.one/picons/220x132/dtx.jpg" group-title="Познавательные",DTX
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/329
+#EXTINF:0 tvg-id="discovery-science" tvg-name="Discovery Science" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_456_B_70_1680000_0_0_0.png" group-title="Познавательные",Discovery Science
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/145
+#EXTINF:0 tvg-id="travel-channel" tvg-name="Travel Channel HD" tvg-logo="http://www.ipstream.one/picons/220x132/teletravelhd.png" group-title="Познавательные",Travel Channel HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1558
+#EXTINF:0 tvg-id="eureka-hd" tvg-name="Eureka HD" tvg-logo="http://www.ipstream.one/picons/220x132/eurekahd.png" group-title="Познавательные",Eureka HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1281
+#EXTINF:0 tvg-id="animal-planet-ru" tvg-name="Animal Planet" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_321_8_70_168AFFC_0_0_0.png" group-title="Познавательные",Animal Planet
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/306
+#EXTINF:0 tvg-id="oxota-i-rybalka" tvg-name="Охота и рыбалка" tvg-logo="http://www.ipstream.one/picons/220x132/ohotaribalka.png" group-title="Познавательные",Охота и рыбалка
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/271
+#EXTINF:0 tvg-id="dikiy" tvg-name="Дикий" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_850_15_70_1680000_0_0_0.png" group-title="Развлекательные",Дикий
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1565
+#EXTINF:0 tvg-id="viasat-sport" tvg-name="Viasat Sport" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA4_13_70_1680000_0_0_0.png" group-title="Спорт",Viasat Sport
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/169
+#EXTINF:0 tvg-id="viasat-sport-hd" tvg-name="Viasat Sport HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_42D2_11_70_1680000_0_0_0.png" group-title="Спорт",Viasat Sport HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/166
+#EXTINF:0 tvg-id="match-boets" tvg-name="МАТЧ! Боец" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_516_D_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Боец
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/217
+#EXTINF:0 tvg-id="match-nash-sport" tvg-name="МАТЧ! Наш спорт" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_518_D_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Наш спорт
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/332
+#EXTINF:0 tvg-id="match-hd" tvg-name="Матч! HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_89C_16_70_1680000_0_0_0.png" group-title="Спорт",Матч! HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/165
+#EXTINF:0 tvg-id="match-arena" tvg-name="МАТЧ! Арена" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_515_D_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Арена
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/210
+#EXTINF:0 tvg-id="match-igra" tvg-name="МАТЧ! Игра" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_517_D_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Игра
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/143
+#EXTINF:0 tvg-id="match-planeta" tvg-name="МАТЧ! Планета" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_70_1_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Планета
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/282
+#EXTINF:0 tvg-id="match-football1-hd" tvg-name="МАТЧ! Футбол 1 HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_3719_E_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ! Футбол 1 HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/118
+#EXTINF:0 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_57A_E_70_1680000_0_0_0.png" group-title="Спорт",Матч! Футбол 3 HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/656
+#EXTINF:0 tvg-id="nash-football-hd" tvg-name="МАТЧ ПРЕМЬЕР HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_57B_E_70_1680000_0_0_0.png" group-title="Спорт",МАТЧ ПРЕМЬЕР HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/720
+#EXTINF:0 tvg-id="football-ru" tvg-name="Футбол" tvg-logo="" group-title="Спорт",Футбол
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/170
+#EXTINF:0 tvg-id="box-tv" tvg-name="Бокс ТВ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_1A6_4_70_1680000_0_0_0.png" group-title="Спорт",Бокс ТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/168
+#EXTINF:0 tvg-id="m1global" tvg-name="M-1 Global TV" tvg-logo="" group-title="Спорт",M-1 Global TV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1852
+#EXTINF:0 tvg-id="kxl" tvg-name="КХЛ" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_526_D_70_1680000_0_0_0.png" group-title="Спорт",КХЛ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/220
+#EXTINF:0 tvg-id="kxl-hd" tvg-name="КХЛ HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_2F4A_C_70_1680000_0_0_0.png" group-title="Спорт",КХЛ HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/187
+#EXTINF:0 tvg-id="eurosport1-ru" tvg-name="Eurosport" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2C0_7_70_1680000_0_0_0.png" group-title="Спорт",Eurosport
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/162
+#EXTINF:0 tvg-id="eurosport1-ru" tvg-name="Eurosport 1 HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_6591_9_70_1680000_0_0_0.png" group-title="Спорт",Eurosport 1 HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/167
+#EXTINF:0 tvg-id="eurosport2-hd" tvg-name="Eurosport 2 HD" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_19_42D3_11_70_1680000_0_0_0.png" group-title="Спорт",Eurosport 2 HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/161
+#EXTINF:0 tvg-id="eurosport-gold" tvg-name="Eurosport Gold HD" tvg-logo="" group-title="Спорт",Eurosport Gold HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1584
+#EXTINF:0 tvg-id="extreme-sports" tvg-name="Extreme Sport" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA5_13_70_1680000_0_0_0.png" group-title="Спорт",Extreme Sport
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/163
+#EXTINF:0 tvg-id="russky-ekstrim" tvg-name="Русский Экстрим" tvg-logo="http://www.ipstream.one/picons/220x132/russextrim.png" group-title="Спорт",Русский Экстрим
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/297
+#EXTINF:0 tvg-id="tochka-otryva" tvg-name="Точка отрыва" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_4AA6_13_70_1680000_0_0_0.png" group-title="Спорт",Точка отрыва
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/98
+#EXTINF:0 tvg-id="setanta-sports" tvg-name="SETANTA SPORT +" tvg-logo="http://www.ipstream.one/picons/220x132/setanta_sports.jpg" group-title="Спорт",SETANTA SPORT +
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/134
+#EXTINF:0 tvg-id="setanta-sports" tvg-name="SETANTA SPORT" tvg-logo="http://www.ipstream.one/picons/220x132/setanta_sports.jpg" group-title="Спорт",SETANTA SPORT
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/133
+#EXTINF:0 tvg-id="mtv-russia" tvg-name="MTV" tvg-logo="http://www.ipstream.one/picons/220x132/mtv.png" group-title="Музыка",MTV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/292
+#EXTINF:0 tvg-id="mtv-dance" tvg-name="MTV Dance" tvg-logo="http://www.ipstream.one/picons/220x132/mtvdance.png" group-title="Музыка",MTV Dance
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/293
+#EXTINF:0 tvg-id="mtv-hits" tvg-name="MTV HITS" tvg-logo="http://www.ipstream.one/picons/220x132/mtvhits.png" group-title="Музыка",MTV HITS
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/244
+#EXTINF:0 tvg-id="mtv-rocks" tvg-name="MTV Rocks" tvg-logo="http://www.ipstream.one/picons/220x132/mtvrocks.png" group-title="Музыка",MTV Rocks
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/333
+#EXTINF:0 tvg-id="muzyka-pervogo" tvg-name="Музыка первого" tvg-logo="http://www.ipstream.one/picons/220x132/muzika1.png" group-title="Музыка",Музыка первого
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/294
+#EXTINF:0 tvg-id="europa-plus-tv" tvg-name="Europa Plus TV" tvg-logo="http://www.ipstream.one/picons/220x132/europaplustv.png" group-title="Музыка",Europa Plus TV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/151
+#EXTINF:0 tvg-id="nashe-tv" tvg-name="Наше ТВ" tvg-logo="http://www.ipstream.one/picons/220x132/nashetv.png" group-title="Музыка",Наше ТВ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1548
+#EXTINF:0 tvg-id="muztv" tvg-name="МУЗ" tvg-logo="http://www.ipstream.one/picons/220x132/muztv.png" group-title="Музыка",МУЗ
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1549
+#EXTINF:0 tvg-id="ru-tv" tvg-name="RU.TV" tvg-logo="http://www.ipstream.one/picons/220x132/rutv.png" group-title="Музыка",RU.TV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/342
+#EXTINF:0 tvg-id="bridge-tv" tvg-name="Bridge TV" tvg-logo="http://www.ipstream.one/picons/220x132/bridgetv.png" group-title="Музыка",Bridge TV
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/232
+#EXTINF:0 tvg-id="bridge-tv-dance" tvg-name="Bridge TV Dance" tvg-logo="http://www.ipstream.one/picons/220x132/bridgetvdance.png" group-title="Музыка",Bridge TV Dance
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/290
+#EXTINF:0 tvg-id="tnt-music" tvg-name="ТНТ MUSIC" tvg-logo="http://www.ipstream.one/picons/220x132/thtmusic.png" group-title="Музыка",ТНТ MUSIC
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/158
+#EXTINF:0 tvg-id="bridge-tv-ruxit" tvg-name="BRIDGE TV Русский Хит" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_847_15_70_1680000_0_0_0.png" group-title="Музыка",BRIDGE TV Русский Хит
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/248
+#EXTINF:0 tvg-id="bridge-tv-classic" tvg-name="BRIDGE TV Classic" tvg-logo="http://www.ipstream.one/picons/220x132/bridgetvclassic.png" group-title="Музыка",BRIDGE TV Classic
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1546
+#EXTINF:0 tvg-id="vh1-classic" tvg-name="VH-1 Classic" tvg-logo="" group-title="Музыка",VH-1 Classic
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/298
+#EXTINF:0 tvg-id="1hd" tvg-name="1HD" tvg-logo="http://www.ipstream.one/picons/220x132/1hdmusictelevision.png" group-title="Музыка",1HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/132
+#EXTINF:0 tvg-id="mcm-top" tvg-name="MCM Top" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_711_12_70_1680000_0_0_0.png" group-title="Музыка",MCM Top
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/156
+#EXTINF:0 tvg-id="cartoon-network" tvg-name="Cartoon Network" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_322_8_70_168AFFC_0_0_0.png" group-title="Детские",Cartoon Network
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/327
+#EXTINF:0 tvg-id="disney" tvg-name="Disney" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_520_D_70_1680000_0_0_0.png" group-title="Детские",Disney
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/146
+#EXTINF:0 tvg-id="ginger-hd" tvg-name="Ginger HD" tvg-logo="http://www.ipstream.one/picons/220x132/gingerhd.png" group-title="Детские",Ginger HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1282
+#EXTINF:0 tvg-id="gulli-girl" tvg-name="Gulli Girls" tvg-logo="http://www.ipstream.one/picons/220x132/gulligirl.png" group-title="Детские",Gulli Girls
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/262
+#EXTINF:0 tvg-id="2na2" tvg-name="2x2" tvg-logo="http://www.ipstream.one/picons/220x132/2and2.png" group-title="Детские",2x2
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/320
+#EXTINF:0 tvg-id="karusel" tvg-name="Карусель" tvg-logo="http://www.ipstream.one/picons/220x132/karusel.png" group-title="Детские",Карусель
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/155
+#EXTINF:0 tvg-id="detsky-mir" tvg-name="Детский мир" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2BF_7_70_1680000_0_0_0.png" group-title="Детские",Детский мир
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/355
+#EXTINF:0 tvg-id="o_" tvg-name="O!" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_328_8_70_168AFFC_0_0_0.png" group-title="Детские",O!
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/288
+#EXTINF:0 tvg-id="jimjam" tvg-name="Jim Jam" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2C4_7_70_1680000_0_0_0.png" group-title="Детские",Jim Jam
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/154
+#EXTINF:0 tvg-id="nickelodeon-ru" tvg-name="Nickelodeon" tvg-logo="http://www.ipstream.one/picons/220x132/1_0_16_2C5_7_70_1680000_0_0_0.png" group-title="Детские",Nickelodeon
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/184
+#EXTINF:0 tvg-id="tiji" tvg-name="TiJi" tvg-logo="" group-title="Детские",TiJi
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/316
+#EXTINF:0 tvg-id="tlum-hd" tvg-name="Тлум HD" tvg-logo="http://www.ipstream.one/picons/220x132/tlumhd.png" group-title="Детские",Тлум HD
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/241
+#EXTINF:0 tvg-id="multimuzyka" tvg-name="Мультимузыка" tvg-logo="http://www.ipstream.one/picons/220x132/multimuzika.png" group-title="Детские",Мультимузыка
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/595
+#EXTINF:0 tvg-id="detsky" tvg-name="Детский" tvg-logo="http://www.ipstream.one/picons/220x132/detskiy.png" group-title="Детские",Детский
+http://ott.shara.club:25461/udma88/RdFRpyUEf8/1853
