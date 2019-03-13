@@ -10,6 +10,14 @@
   </stream_url>
   <description>
     <![CDATA[
+    <div style="border: 1px solid yellow;">
+      <div style="width: 50%">
+        Hello
+      </div>
+      <div style="width: 50%">
+        Right
+      </div>
+    </div>
     <center>
       <img width="20%" height="30%" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       <br>
