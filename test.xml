@@ -12,7 +12,8 @@
     <![CDATA[
     <div style="display: table; width: 100%;">
       <div style="display: table-cell; width: 40%;">
-        <img src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
+        <!-- <img src="https://st.kp.yandex.net/images/film_big/5908.jpg" /> -->
+        Hello
       </div>
       <div style="display: table-cell; width: 60%;">
         <p>
