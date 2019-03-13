@@ -14,13 +14,13 @@
 
       <!-- Poster -->
       <div style="display: table-cell; width: 40%;">
-        <img width="100%" style="border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
+        <img width="100%" style="padding: 8px; border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       </div>
 
       <!-- Description -->
       <div style="display: table-cell; width: 60%; vertical-align:top;>
-        <center>
-          <h1 style="padding: 8px;">King Kong</h1>
+        <center style="padding: 8px;">
+          <h1>King Kong</h1>
         </center>
         <h3 style="padding: 8px;">
           История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
