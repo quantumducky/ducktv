@@ -11,20 +11,15 @@
   <description>
     <![CDATA[
     <div style="display: table; width: 100%;">
-      <div style="display: table-cell; width: 50%; background-color: blue;">
-        Hello
+      <div style="display: table-cell; width: 40%;">
+        <img src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       </div>
-      <div style="display: table-cell; width: 50%; background-color: red;">
-        There
+      <div style="display: table-cell; width: 60%;">
+        <p>
+          История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
+        </p>
       </div>
     </div>
-    <center>
-      <img width="20%" height="30%" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
-      <br>
-      <p>
-      История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
-      </p>
-    </center>
     ]]>
   </description>
 </channel>
