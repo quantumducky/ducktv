@@ -3,7 +3,7 @@
 <items>
 
 <channel>
-  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_796660.jpg]]></logo_30x30>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_big/5908.jpg]]></logo_30x30>
   <title><![CDATA[King Kong]]></title>
   <stream_url>
     <![CDATA[http://kinoteatr.kg/video1/Filmu/7King%20Kong.2005.60fps.mp4]]>
@@ -11,15 +11,19 @@
   <description>
     <![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
+
+      <!-- Poster -->
       <div style="display: table-cell; width: 40%;">
         <img width="100%" style="border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       </div>
-      <div style="display: table-cell; width: 60%; vertical-align:top;">
+
+      <!-- Description -->
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding: 16px;>
         <h1>King Kong</h1>
-        <h3 style="padding: 16px;">
+        <h3>
           История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
         </h3>
-        <h4 style="padding: 16px;">
+        <h4>
           История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
         </h4>
         <p>
