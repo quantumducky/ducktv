@@ -4,17 +4,17 @@
 
 <channel>
   <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_796660.jpg]]></logo_30x30>
-  <title><![CDATA[Test m3u8]]></title>
+  <title><![CDATA[King Kong]]></title>
   <stream_url>
-    <![CDATA[http://s1.seplay.net/content/stream/films/1x01__uno_65043/hls/720/index.m3u8]]>
+    <![CDATA[http://kinoteatr.kg/video1/Filmu/7King%20Kong.2005.60fps.mp4]]>
   </stream_url>
   <description>
     <![CDATA[
-    <div style="display: table; width: 100%; vertical-align:middle;">
+    <div style="display: table; width: 100%; vertical-align:top;">
       <div style="display: table-cell; width: 40%;">
-        <img width="100%" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
+        <img width="100%" style="border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       </div>
-      <div style="display: table-cell; width: 60%; vertical-align:middle;">
+      <div style="display: table-cell; width: 60%; vertical-align:top;">
         <p style="padding: 16px;">
           История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
         </p>
