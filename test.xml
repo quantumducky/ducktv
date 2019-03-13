@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item>
-
-<title><![CDATA[Duck TV]]></title>
 
 <items>
 
 <channel>
-  <!-- <logo_30x30><![CDATA[https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg]]></logo_30x30> -->
-  <playlist_url>
-    <![CDATA[https://streamguard.cc/manifest/index.m3u8?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzb3VyY2UiOiJzZXNzaW9uIiwiZXhwIjoxNTUyMzA2MzMyLCJ2IjoiMTczOWZlNDY0ZTYyYzFjZiIsImEiOmZhbHNlLCJwIjoxMDg1LCJoIjoiYmUwMDBhZDg3MzA5OGExNzc4MTYyZjkyZDE2MDM3OTVkOGQwMDUyMGMyZDVkZjhkZTc0MjE4NWE1YTI3NGE4NCJ9.HF-94aO2b_oPgMXfZ7tCu4bdWWLeo0r6fIFkBKdeWPM]]>
-  </playlist_url>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_796660.jpg]]></logo_30x30>
   <title><![CDATA[Test m3u8]]></title>
-  <!-- <description>
+  <stream_url>
+    <![CDATA[http://s1.seplay.net/content/stream/films/1x01__uno_65043/hls/720/index.m3u8]]>
+  </stream_url>
+  <description>
     <![CDATA[
     <center>
-      <img  height="60%" src="https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg"  width="30%"/>
+      <img  height="60%" src="https://st.kp.yandex.net/images/film_iphone/iphone360_796660.jpg" />
+      <br>
+      <p>
+      История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
+      </p>
     </center>
     ]]>
-  </description> -->
+  </description>
 </channel>
 
-<channel>
-  <playlist_url>
-    <![CDATA[https://streamguard.cc/manifest/mp4.json?tok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzb3VyY2UiOiJzZXNzaW9uIiwiZXhwIjoxNTUyMzA2MzMyLCJ2IjoiMTczOWZlNDY0ZTYyYzFjZiIsImEiOmZhbHNlLCJwIjoxMDg1LCJoIjoiYmUwMDBhZDg3MzA5OGExNzc4MTYyZjkyZDE2MDM3OTVkOGQwMDUyMGMyZDVkZjhkZTc0MjE4NWE1YTI3NGE4NCJ9.HF-94aO2b_oPgMXfZ7tCu4bdWWLeo0r6fIFkBKdeWPM]]>
-  </playlist_url>
-  <title><![CDATA[test mp4]]></title>
-</channel>
-
-</items></item>
+</items>

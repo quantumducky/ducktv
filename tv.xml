@@ -10,6 +10,7 @@
 <!-- <channel>
   <logo_30x30><![CDATA[https://i.pinimg.com/originals/d6/60/e1/d660e1277aab7c268b718b4572f88389.jpg]]></logo_30x30>
   <playlist_url><![CDATA[https://test.com/index.m3u8]]></playlist_url>
+  <stream_url><![CDATA[https://test.com/index.m3u8]]></stream_url>
   <title><![CDATA[Title]]></title>
   <description>
     <![CDATA[
@@ -22,20 +23,20 @@
 
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/main.xml]]></playlist_url>
   <title><![CDATA[Serialai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/main.xml]]></playlist_url>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/all.m3u8]]></playlist_url>
   <title><![CDATA[Filmai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/all.m3u8]]></playlist_url>
 </channel>
 
 
-<!-- <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+<channel>
   <title><![CDATA[test]]></title>
-</channel> -->
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+</channel>
 
 
 </items></item>
