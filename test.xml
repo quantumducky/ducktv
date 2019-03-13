@@ -10,12 +10,12 @@
   </stream_url>
   <description>
     <![CDATA[
-    <div style="border: 1px solid yellow;">
-      <div style="width: 50%">
+    <div style="display: table; width: 100%;">
+      <div style="display: table-cell; width: 50%; background-color: blue;">
         Hello
       </div>
-      <div style="width: 50%">
-        Right
+      <div style="display: table-cell; width: 50%; background-color: red;">
+        There
       </div>
     </div>
     <center>
