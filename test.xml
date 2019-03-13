@@ -10,11 +10,11 @@
   </stream_url>
   <description>
     <![CDATA[
-    <div style="display: table; width: 100%;">
+    <div style="display: table; width: 100%; vertical-align:middle;">
       <div style="display: table-cell; width: 40%;">
         <img width="100%" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
       </div>
-      <div style="display: table-cell; width: 60%;">
+      <div style="display: table-cell; width: 60%; vertical-align:middle;">
         <p style="padding: 16px;">
           История об испытаниях и невзгодах, которые приходится преодолеть Солу Гудману, адвокату по уголовным делам, в тот период, когда он пытается открыть свою собственную адвокатскую контору в Альбукерке, штат Нью-Мексико.
         </p>
