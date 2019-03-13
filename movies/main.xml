@@ -1,16 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item>
-
-<title><![CDATA[Filmai]]></title>
 
 <items>
 
 <channel>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_391729.jpg]]></logo_30x30>
+  <title><![CDATA[Отрочество (2014)]]></title>
+  <stream_url>
+    <![CDATA[https://moviex.pro/content/stream/films/otrochestvo/hls/720/index.m3u8]]>
+  </stream_url>
+  <description>
+    <![CDATA[
+    <div style="display: table; width: 100%; vertical-align:top;">
+
+      <!-- Poster -->
+      <div style="display: table-cell; width: 40%;">
+        <img width="100%" style="border-radius: 25px;" src"https://st.kp.yandex.net/images/film_iphone/iphone360_391729.jpg" />
+      </div>
+
+      <!-- Description -->
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
+          <center>
+            <h1 style="color: #ffaf59;">
+              Отрочество (2014)
+            </h1>
+          </center>
+          <div style="font-size: 1.25em;">
+            <p>
+              История охватывает двенадцать лет жизни Мейсона (от первого класса в школе до первого дня в колледже) и складывается из небольших эпизодов, показывающих взросление и отношения с родителями ребёнка, подростка, юноши.
+            </p>
+          </div>
+      </div>
+    </div>
+    ]]>
+  </description>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_9691.jpg]]></logo_30x30>
+  <title><![CDATA[Бесславные ублюдки (2009)]]></title>
+  <stream_url>
+    <![CDATA[https://moviex.pro/content/stream/films/besslavnye_ublyudki.2009.bdrip.1080p.rus.eng/hls/720/index.m3u8]]>
+  </stream_url>
+  <description>
+    <![CDATA[
+    <div style="display: table; width: 100%; vertical-align:top;">
+
+      <!-- Poster -->
+      <div style="display: table-cell; width: 40%;">
+        <img width="100%" style="border-radius: 25px;" src"https://st.kp.yandex.net/images/film_iphone/iphone360_9691.jpg" />
+      </div>
+
+      <!-- Description -->
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
+          <center>
+            <h1 style="color: #ffaf59;">
+              Бесславные ублюдки (2009)
+            </h1>
+          </center>
+          <div style="font-size: 1.25em;">
+            <p>
+              Вторая мировая война, в оккупированной немцами Франции группа американских солдат-евреев наводит страх на нацистов, жестоко убивая и скальпируя солдат.
+            </p>
+          </div>
+      </div>
+    </div>
+    ]]>
+  </description>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_iphone/iphone360_635772.jpg]]></logo_30x30>
   <title><![CDATA[Игра в имитацию (2014)]]></title>
-  <playlist_url>
+  <stream_url>
     <![CDATA[https://moviex.pro/content/stream/films/igra_v_imitacziyu/hls/720/index.m3u8]]>
-  </playlist_url>
+  </stream_url>
+  <description>
+    <![CDATA[
+    <div style="display: table; width: 100%; vertical-align:top;">
+
+      <!-- Poster -->
+      <div style="display: table-cell; width: 40%;">
+        <img width="100%" style="border-radius: 25px;" src"https://st.kp.yandex.net/images/film_iphone/iphone360_635772.jpg" />
+      </div>
+
+      <!-- Description -->
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
+          <center>
+            <h1 style="color: #ffaf59;">
+              Игра в имитацию (2014)
+            </h1>
+          </center>
+          <div style="font-size: 1.25em;">
+            <p>
+              Английский математик и логик Алан Тьюринг пытается взломать код немецкой шифровальной машины Enigma во время Второй мировой войны.
+            </p>
+          </div>
+      </div>
+    </div>
+    ]]>
+  </description>
 </channel>
 
 </items>
-</item>
