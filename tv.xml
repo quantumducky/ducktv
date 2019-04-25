@@ -34,8 +34,8 @@
 
 
 <channel>
-  <title><![CDATA[test]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/main.xml]]></playlist_url>
+  <title><![CDATA[LT]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/lt.xml]]></playlist_url>
 </channel>
 
 

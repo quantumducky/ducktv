@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items>
+
+<channel>
+  <logo_30x30><![CDATA[http://www.lrta.eu/images/article/btv_logo.jpg]]></logo_30x30>
+  <title><![CDATA[BTV]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/1987217957]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lt/thumb/4/47/Info_tv_logo_new.jpg/550px-Info_tv_logo_new.jpg]]></logo_30x30>
+  <title><![CDATA[Info TV]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/719287493]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg]]></logo_30x30>
+  <title><![CDATA[LNK]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/90559179]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1.png]]></logo_30x30>
+  <title><![CDATA[TV1]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/56157198]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv3-1.png]]></logo_30x30>
+  <title><![CDATA[TV3]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/329581901]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv3-1.png]]></logo_30x30>
+  <title><![CDATA[TV3]]></title>
+  <stream_url>
+    <![CDATA[http://46.251.40.201:9981/stream/channelid/872332545?ticket=9C8BE65475E5F1FE550D92B82A30B7326873D9DE&profile=pass]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://vignette.wikia.nocookie.net/logopedia/images/b/b3/TV6_Latvija_Logo_%284%29.png]]></logo_30x30>
+  <title><![CDATA[TV6]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/1905105072]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv8.png]]></logo_30x30>
+  <title><![CDATA[TV8]]></title>
+  <stream_url>
+    <![CDATA[http://78.61.128.80:9981/stream/channelid/171905922]]>
+  </stream_url>
+</channel>
+
+<channel>
+  <logo_30x30><![CDATA[https://www.cgates.lt/wp-content/uploads/2017/10/logo-tvplay-sports.png]]></logo_30x30>
+  <title><![CDATA[TV PLAY Sports]]></title>
+  <stream_url>
+    <![CDATA[http://145.239.255.4:8080/VSB/mono.m3u8?token=token=yHjfUcepa2]]>
+  </stream_url>
+</channel>
+
+<!-- <channel>
+  <logo_30x30><![CDATA[]]></logo_30x30>
+  <title><![CDATA[]]></title>
+  <stream_url>
+    <![CDATA[]]>
+  </stream_url>
+</channel> -->
+
+
+</items>
+
+
