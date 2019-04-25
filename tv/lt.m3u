@@ -1,0 +1,24 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Lietuviški" tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV
+http://78.61.128.80:9981/stream/channelid/1987217957
+#EXTINF:-1 group-title="Lietuviški" tvg-id="info-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/thumb/4/47/Info_tv_logo_new.jpg/550px-Info_tv_logo_new.jpg",Info TV
+http://78.61.128.80:9981/stream/channelid/719287493
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lietuvos-ryto-televizija" tvg-logo="http://www.kaunozurnalistai.lt/imgs/691/LRYTAS_TV_LOGOTIPAS__didele_.jpg",Lietuvos Rytas
+http://78.61.128.80:9981/stream/channelid/1539400844
+#EXTINF:-1 group-title="Lietuviški" tvg-id="liuks" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/f/f9/Liuks.jpg",Liuks!
+http://78.61.128.80:9981/stream/channelid/249384462
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
+http://78.61.128.80:9981/stream/channelid/90559179
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv1-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1.png",TV1
+http://78.61.128.80:9981/stream/channelid/56157198
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv3-1.png",TV3
+http://78.61.128.80:9981/stream/channelid/329581901
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv3-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv3-1.png",TV3
+http://46.251.40.201:9981/stream/channelid/872332545?ticket=9C8BE65475E5F1FE550D92B82A30B7326873D9DE&profile=pass
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv6-lt" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/TV6_Latvija_Logo_%284%29.png",TV6
+http://78.61.128.80:9981/stream/channelid/1905105072
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tv8-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv8.png",TV8
+http://78.61.128.80:9981/stream/channelid/171905922
+#EXTINF:-1 group-title="Lietuviški" tvg-id="tvplay-sports" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tvplay-sports.png",TVPlay Sports
+http://145.239.255.4:8080/VSB/mono.m3u8?token=token=yHjfUcepa2
