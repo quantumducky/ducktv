@@ -18,6 +18,7 @@ http://1korol.at.ua/
 http://tvpremiumhd.club/
 
 
+
 API:
 https://github.com/ramusus/kinopoiskpy
 
@@ -27,4 +28,11 @@ http://widget.ottplayer.es/
 
 http://ottv.tk/public/plst/plstfb/playlist.php?ott
 ottv.tk#.XML
+
+
+Dr Q:
+https://serialage.tv
+http://onser.info
+
+
 

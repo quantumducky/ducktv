@@ -32,16 +32,16 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/all.m3u8]]></playlist_url>
 </channel>
 
+<channel>
+  <title><![CDATA[AMTV]]></title>
+  <playlist_url><![CDATA[http://androidmanija.lt/amtv.m3u]]></playlist_url>
+</channel>
 
 <channel>
   <title><![CDATA[LT]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv/lt.xml]]></playlist_url>
 </channel>
 
-<channel>
-  <title><![CDATA[LT (m3u]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv/lt.m3u]]></playlist_url>
-</channel>
 
 
 </items></item>
