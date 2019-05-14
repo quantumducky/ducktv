@@ -37,5 +37,40 @@
   </description>
 </channel>
 
-</items>
 
+<channel>
+  <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_big/5908.jpg]]></logo_30x30>
+  <title><![CDATA[King Kong]]></title>
+  <stream_url>
+    <![CDATA[http://212.113.38.99/realhls/st7/fhd/The.Wolf.of.Wall.Street.2013.BDRip.1080p.Rus.Eng.mp4/index-v1-a1.m3u8]]>
+  </stream_url>
+  <description>
+    <![CDATA[
+    <div style="display: table; width: 100%; vertical-align:top;">
+
+      <!-- Poster -->
+      <div style="display: table-cell; width: 40%;">
+        <img width="100%" style="border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" />
+      </div>
+
+      <!-- Description -->
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
+          <center>
+            <h1 style="color: #ffaf59;">King Kong</h1>
+          </center>
+          <div style="font-size: 1.25em;">
+            <p>
+              В 1930-м году съемочная группа под предводительством режиссера-неудачника Карла Дэнхэма отправляется на загадочный Остров Черепа неподалеку от Суматры, чтобы изучать легенды о гигантской горилле по кличке Конг. По прибытии на место они обнаруживают, что Кинг Конг и правда существует.
+            </p>
+            <p>
+              Горилла живет в самой чаще непроходимых джунглей, где помимо него, спрятанные от всего мира, обитают многие создания из доисторических времен. Исследователи оказываются между двух огней — с одной стороны Кинг Конг, а с другой — его враги динозавры…
+            </p>
+          </div>
+      </div>
+
+    </div>
+    ]]>
+  </description>
+</channel>
+
+</items>

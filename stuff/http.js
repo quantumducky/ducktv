@@ -3,8 +3,7 @@ let P = require('bluebird'),
     cheerio = require('cheerio'),
     Iconv = require('iconv-lite'),
     fs = require('fs'),
-    path = require('path'),
-    Rx = require('rxjs/Rx');
+    path = require('path');
 
 
 
@@ -59,33 +58,47 @@ function readFileData(file, callback) {
 }
 
 
-// for (film of films) {
-//   let url = generateQuery(film);
-//   doGetRequest(url, function(err, body){
+let url = "http://klplayer.website/player/playerjs.html?file=http://212.113.38.99/hls/0f14377f99a9b469d104282c67687e3e//fhd/The.Wolf.of.Wall.Street.2013.BDRip.1080p.Rus.Eng.m3u8";
+
+doGetRequest(url, function(err, body){
+  if (err) {
+    console.log(err.message);
+  } else {
+    // let $ = cheerio.load(body);
+    // let href = $('#b_results > li').first().find('h2 > a').attr('href');
+    // let id = href.slice(0, -1).split('/').slice(-1)[0].split('-').slice(-1)[0];
+    console.log(body);
+}});
+
+
+
+
+// function doGetRequest(url, callback) {
+//   request.get(url, function (err, response, body) {
 //     if (err) {
-//       console.log(err.message);
+//       callback(new Error('Error while calling "' + url + '". ' + err.message));
 //     } else {
-//       let $ = cheerio.load(body);
-//       let href = $('#b_results > li').first().find('h2 > a').attr('href');
-//       let id = href.slice(0, -1).split('/').slice(-1)[0].split('-').slice(-1)[0];
-//       console.log(id);
-//   }});
+//       body = Iconv.decode(new Buffer(body, 'binary'), 'win1251');
+//       callback(null, body);
+//     }
+//   });
 // }
 
-
-function generateQuery(filmTitle) {
-  let url = 'https://www.bing.com/search?q=' + filmTitle.split(' ').join('+') + '+site:kinopoisk.ru';
-  return encodeURI(url);
-}
-
-
 function doGetRequest(url, callback) {
-  request.get(url, function (err, response, body) {
+  var requestOptions = {
+    url: url,
+    headers: {
+      'Accept-Language': 'ru-RU,ru;q=0.8,en-US;q=0.6,en;q=0.4,pl;q=0.2',
+      'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'
+    },
+    encoding: 'binary'
+  };
+  request.get(requestOptions, function (err, response, body) {
     if (err) {
       callback(new Error('Error while calling "' + url + '". ' + err.message));
     } else {
       body = Iconv.decode(new Buffer(body, 'binary'), 'win1251');
-      callback(null, body);
+      callback(null, response);
     }
   });
 }
