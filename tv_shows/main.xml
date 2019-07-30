@@ -21,11 +21,6 @@
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_terror.m3u8]]></playlist_url>
-  <title><![CDATA[Террор]]></title>
-</channel>
-
-<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/westworld.m3u8]]></playlist_url>
   <title><![CDATA[Мир Дикого Запада]]></title>
 </channel>
