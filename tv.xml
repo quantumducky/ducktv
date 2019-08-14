@@ -33,15 +33,14 @@
 </channel>
 
 <channel>
-  <title><![CDATA[AMTV]]></title>
-  <playlist_url><![CDATA[http://androidmanija.lt/amtv.m3u]]></playlist_url>
+  <title><![CDATA[Daug Kanalu]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv/channels_19_08_09.m3u]]></playlist_url>
 </channel>
 
 <channel>
-  <title><![CDATA[LT]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv/lt.xml]]></playlist_url>
+  <title><![CDATA[AMTV]]></title>
+  <playlist_url><![CDATA[http://androidmanija.lt/amtv.m3u]]></playlist_url>
 </channel>
-
 
 
 </items></item>
