@@ -1,0 +1,52 @@
+#EXTM3U
+#EXTINF:-1,TV1000
+http://212.112.101.69:8081/stream56/output.m3u8
+#EXTINF:-1,TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1,TV1000 Action
+http://212.112.101.69:8081/stream58/output.m3u8
+#EXTINF:-1,TV1000 Action
+http://ott-cdn.ucom.am/s91/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://212.112.101.69:8081/stream57/output.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://ott-cdn.ucom.am/s95/index.m3u8
+#EXTINF:-1,Hay kino
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:-1,Filmzone ATV
+http://ott-cdn.ucom.am/s48/index.m3u8
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1,Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,Кинозал 7 Канал
+http://212.112.101.69:8081/stream76/output.m3u8
+#EXTINF:-1,Кинозал Cinemax
+http://212.112.101.69:8081/stream42/output.m3u8
+#EXTINF:-1,Кинозал СТВ
+http://212.112.101.69:8081/stream23/output.m3u8
+#EXTINF:-1,Кинозал Санат KG
+http://212.112.101.69:8081/stream19/output.m3u8
+#EXTINF:-1,Кинозал Семейный
+http://212.112.101.69:8081/stream25/output.m3u8
+#EXTINF:-1,Киноман
+http://ott-cdn.ucom.am/s94/index.m3u8
+#EXTINF:-1,Киноменю HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1,Комедийное
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1,ViP Comedy
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Comedy
+http://ott-cdn.ucom.am/s97/index.m3u8
+#EXTINF:-1,ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Megahit
+http://188.35.9.11:2016
+#EXTINF:-1,VIP Megahit HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1,ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ViP Premiere
+http://188.35.9.11:2013

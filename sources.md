@@ -1,6 +1,6 @@
 
 Duck TV Main:
-https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml
+https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 
 
 Shows:

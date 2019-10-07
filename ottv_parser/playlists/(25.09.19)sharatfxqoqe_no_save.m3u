@@ -1,0 +1,491 @@
+﻿#EXTM3U catchup="shift" catchup-days="2" timeshift="2" catchup="XC"
+#EXTINF:0 catchup="shift" catchup-days="2",Первый HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/194.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Первый канал
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/260.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Первый канал (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1262.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Первый канал (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1668.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Первый канал (+6)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2273.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Первый канал (+8)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2276.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/197.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/266.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1 (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1267.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1 (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1667.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1 (+6)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2274.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия 1 (+8)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2277.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/102.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/349.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1264.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1671.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ (+7)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2280.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ4
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/230.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",СТС
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/214.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",СТС (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1263.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",СТС (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1672.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",СТС Love
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/212.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1136.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/258.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1265.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1670.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ (+7)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2275.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РЕН ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/264.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РЕН HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1880.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РЕН ТВ (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1266.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РЕН ТВ (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1669.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВЦ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/164.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВЦ (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2267.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВЦ (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2268.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВ-3
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/263.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВ-3 (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2263.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТВ-3 (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2264.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Домашний
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/148.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Домашний (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2265.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Домашний (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2266.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятый канал
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1330.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятый канал (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2269.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятый канал (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2270.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Мир
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2130.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Мир Premium HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2131.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ОТР
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2327.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КВН ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/311.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",RTVi
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/340.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дождь
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/310.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дождь HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2128.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ Мир
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/296.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятница HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2142.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятница
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/265.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятница (+2)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2271.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Пятница (+4)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2272.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Ю
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/222.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Супер
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1809.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Че
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/142.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия-Культура
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/196.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Телеканал Звезда
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/412.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Москва 24
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1432.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РБК
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/257.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",360° Подмосковье
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2015.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Euronews
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1468.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Россия-24
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/259.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",365 дней ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/272.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Шокирующее
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/341.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Комедийное HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/126.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Paramount Comedy
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/337.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",FOX HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/109.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Fox Life
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/330.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Fox Russia
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/274.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Amedia 1
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/140.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Amedia 2
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/307.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Amedia Hit
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/308.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",AMEDIA Premium HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/242.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дом Кино Премиум HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/147.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Еврокино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/150.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНО ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/157.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Кино ТВ HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2127.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Любимое Кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/291.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дом Кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/328.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наш Кинороман HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/127.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наше Крутое HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1331.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",SONY Sci-Fi
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/227.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Страшное HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/278.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НСТ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1397.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Hollywood HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/243.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Sony Entertainment Television
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/226.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TV 1000
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/238.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TV1000 Action
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/234.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",VIP Comedy
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/235.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",VIP Megahit
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/236.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",VIP Premiere
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/237.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TV1000 Русское кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/239.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TV1000 Premium HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2310.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русский бестселлер
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1579.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русский детектив
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1580.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русская комедия
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1578.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русский Иллюзион
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1629.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русский роман
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1863.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Кинопремиум HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/128.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Остросюжетное HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/125.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Ultra HD Cinema
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1557.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Кино UHD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2306.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Сериал UHD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2307.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Победа
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2208.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ Сериал
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1980.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Мир Сериала
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1990.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",FAN
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2075.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",FAN HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2076.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Spike Russia
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1994.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Бобёр
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1979.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Еда Премиум
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/131.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Food Network
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2185.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Food Network HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2186.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",SHOT TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/149.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Sony Turbo
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/225.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",E tv
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2014.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Paramount Channel
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/314.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat History
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/200.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat Explore
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/199.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat Nature
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/201.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Nat Geographic
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/312.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",National Geographic HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1439.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",History HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1434.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",H2
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1870.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ Стиль
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1982.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Конный мир HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1991.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat Nature/History HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1433.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Nat Geo Wild HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/180.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Авто 24
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/240.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Драйв
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1869.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Авто Плюс
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/303.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Морской
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2202.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Discovery Channel
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/245.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Discovery Channel HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/110.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ID Xtra
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/224.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",DTX
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/329.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Discovery Science
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/145.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Discovery Science HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2062.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Travel Channel HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1558.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Travel+Adventure
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2122.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Travel+Adventure HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2123.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наука 2.0
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1868.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eureka HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1281.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",НТВ Право
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1981.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Приключения HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1284.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Animal Planet
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/306.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Animal Planet HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/141.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",В мире животных HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2124.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Fine Living
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2001.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Fine living HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2002.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TLC
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1967.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",TLC HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1966.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Охота и рыбалка
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/271.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",RTG HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2322.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дикая охота HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2324.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Планета HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2323.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Охотник и Рыболов HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2129.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Дикий
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1565.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Моя Планета
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1879.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat Sport
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/169.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Viasat Sport HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/166.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Боец
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/217.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Страна
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/332.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Матч ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/171.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Матч! HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/165.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Арена
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/210.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Арена HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/104.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Игра
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/143.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Игра HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/117.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Планета
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/282.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Футбол 1
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/279.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Футбол 1 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/118.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Футбол 2
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/280.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Футбол 2 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/105.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ! Футбол 3
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/281.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Матч! Футбол 3 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/656.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ ПРЕМЬЕР
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/181.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МАТЧ ПРЕМЬЕР HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/720.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Футбол
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/170.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Футбол HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2326.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Бокс ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/168.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",UFC ТВ (TEST)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2189.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КХЛ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/220.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КХЛ HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/187.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/162.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 1 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/167.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 2 HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/161.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport Gold HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1584.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Eurosport 4K
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2147.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Extreme Sport
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/163.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Русский Экстрим
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/297.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Точка отрыва
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/98.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Сетанта Спорт +
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/134.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Сетанта Спорт
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/133.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",MTV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/292.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",MTV Dance
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/293.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",MTV HITS
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/244.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",MTV Rocks
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/333.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Музыка первого
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/294.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Europa Plus TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/151.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наше ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1548.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",МУЗ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1549.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",RU.TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/342.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Bridge TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/232.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Bridge TV Dance
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/290.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",BRIDGE HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/111.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",ТНТ MUSIC
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/158.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",BRIDGE TV Русский Хит
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/248.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Жара
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/348.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",BRIDGE TV Classic
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1546.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",VH-1 Classic
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/298.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",1HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/132.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",iConcerts HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1895.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",MCM Top
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/156.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОХИТ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/276.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОМИКС
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/336.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСЕРИЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/284.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОКОМЕДИЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/273.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСВИДАНИЕ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/190.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОПРЕМЬЕРА HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/129.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСЕМЬЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/192.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Мужское кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/285.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РОДНОЕ КИНО
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/191.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наше новое кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/304.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Кухня ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/277.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",HD Life
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/757.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",M-1 Global TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1852.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Ля-минор
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2013.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОХИТ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/276.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОМИКС
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/336.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСЕРИЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/284.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОКОМЕДИЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/273.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСВИДАНИЕ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/190.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОПРЕМЬЕРА HD
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/129.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",КИНОСЕМЬЯ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/192.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Мужское кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/285.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",РОДНОЕ КИНО
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/191.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Наше новое кино
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/304.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Кухня ТВ
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/277.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",HD Life
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/757.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",M-1 Global TV
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1852.m3u8
+#EXTINF:0 catchup="shift" catchup-days="2",Ля-минор
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2013.m3u8
