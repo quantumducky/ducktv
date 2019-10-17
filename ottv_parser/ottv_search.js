@@ -3,7 +3,7 @@ const fs = require('fs').promises;
 
 (async () => {
 
-  const SEARCH_TERM = "euro";
+  const SEARCH_TERM = "tvplay";
   let found = [];
 
   // Load log file.
@@ -29,6 +29,24 @@ const fs = require('fs').promises;
     }
   }
 
-  console.log(found);
+  let results = '#EXTM3U\n';
+  found.forEach(result => {
+    results += '#EXTINF:0, ' + result.title.split(',').slice(-1) + '\n';
+    results += result.url + '\n';
+  })
+
+  let fileHandle;
+  try {
+    fileHandle = await fs.writeFile(`./results.m3u8`, results);
+    console.log(`Search results have been written to the file.`);
+  } catch (err) {
+    console.log(`Error writing search results to the file.`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
+
+  console.log(results);
   console.log("Done.");
 })();

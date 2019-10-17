@@ -1,0 +1,35 @@
+{
+  "search_term": "tvplay",
+  "found": [
+    {
+      "title": "#EXTINF:0 tvg-id=\"TVPlaySports.lt\" group-title=\"Lietuviski\",TVPlay Sport",
+      "url": "http://88.216.48.147/flussonic/TVPlaySport/video.m3u8",
+      "playlist": "(03.10.19)tvpliusbbtj_no_save.m3u"
+    },
+    {
+      "title": "#EXTINF:-1 group-title=\"Lietuva\",TVPlay Sports HD",
+      "url": "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2781",
+      "playlist": "(30.09.19)fox-tvfalwrh_no_save.m3u"
+    },
+    {
+      "title": "#EXTINF:-1 group-title=\"Lietuva\",TVPlay Sports+ HD",
+      "url": "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2783",
+      "playlist": "(30.09.19)fox-tvfalwrh_no_save.m3u"
+    },
+    {
+      "title": "#EXTINF:0,tvplaysportshd HD",
+      "url": "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvplaysportshd&login=taras777&key=uVGrxhs",
+      "playlist": "(20.09.19)22222sowftlk_no_save.m3u"
+    },
+    {
+      "title": "#EXTINF:0,TVPlaySport",
+      "url": "http://88.216.48.147/flussonic/TVPlaySport/video.m3u8",
+      "playlist": "(12.10.19)2222eywelqtp_no_save.m3u"
+    },
+    {
+      "title": "#EXTINF:0,tvplaysportshd HD",
+      "url": "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvplaysportshd&login=taras777&key=uVGrxhs",
+      "playlist": "(12.10.19)2222eywelqtp_no_save.m3u"
+    }
+  ]
+}

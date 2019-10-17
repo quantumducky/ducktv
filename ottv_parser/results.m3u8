@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0, TVPlay Sport
+http://88.216.48.147/flussonic/TVPlaySport/video.m3u8
+#EXTINF:0, TVPlay Sports HD
+http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2781
+#EXTINF:0, TVPlay Sports+ HD
+http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2783
+#EXTINF:0, tvplaysportshd HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvplaysportshd&login=taras777&key=uVGrxhs
+#EXTINF:0, TVPlaySport
+http://88.216.48.147/flussonic/TVPlaySport/video.m3u8
+#EXTINF:0, tvplaysportshd HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvplaysportshd&login=taras777&key=uVGrxhs
