@@ -41,7 +41,7 @@ const URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
       let m3uResponse = await fetch(playlist.url);
       m3u = await m3uResponse.text();
     } catch(err) {
-      console.log(`Error fetching '${url}'.`);
+      console.log(`Error fetching '${playlist.url}'.`);
       continue;
     }
     
