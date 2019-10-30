@@ -3,7 +3,7 @@ const prompts = require('prompts');
 const fetch = require('node-fetch');
 
 
-(async () => {
+const searchChannel = async () => {
 
   let SEARCH_TERM = '';
   let foundChannels = [];
@@ -43,17 +43,14 @@ const fetch = require('node-fetch');
       }
     }
 
-    console.log(`Found ${foundChannels.length} matching channels.\Checking for working channels...`);
+    console.log(`Found ${foundChannels.length} matching channels.\nChecking for working channels...`);
 
     let workingChannels = [];
     await Promise.all(foundChannels.map(async channel => {
       try {
         let res = await fetch(channel.url);
         if (res.ok) workingChannels.push(channel);
-        console.log(`Working: ${channel.url}`)
-      } catch (err) {
-        console.log(`Broken: ${channel.url}`)
-      }
+      } catch (err) {}
     }))
 
   
@@ -75,4 +72,7 @@ const fetch = require('node-fetch');
       }
     }
   }
-})();
+}
+
+
+searchChannel();

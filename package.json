@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/quantumducky/ducktv#readme",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "get-urls": "^9.2.0",
     "node-fetch": "^2.6.0",
     "prompts": "^2.2.1",
     "xml2js": "^0.4.22"

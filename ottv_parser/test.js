@@ -1,28 +1,19 @@
 const fetch = require('node-fetch');
+const cheerio = require('cheerio');
 
-const urls = [
-  'http://88.216.48.147/flussonic/TVPlaySport/video.m3u8',
-  'http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2781',
-  'http://88.216.48.147/flussonic/TVPlaySport/video.m3u8',
-];
+
+const URL = 'https://www.filmai.org/5695-deadpool-2016.html';
 
 (async () => {
 
-  Promise.all(urls.map(async url => {
-    try {
-      let res = await fetch(url);
-      console.log(res.ok);
-    } catch (err) {
-      console.log('not working')
-    }
-  }));
-
-  // try {
-  //   let response = await fetch(URL);
-  //   let status = await response.status;
-  //   // console.log(status);
-  // } catch (err) {
-  //   console.log('not working')
-  // }
+  try {
+    let response = await fetch(URL);
+    let res = await response.text();
+    let $ = cheerio.load(res);
+    let poster = $('div.film-poster');
+    console.log(poster.html());
+  } catch (err) {
+    console.log('not working');
+  }
 
 })();
