@@ -1,13 +1,85 @@
 const fetch = require('node-fetch');
+const fs = require('fs').promises;
 const cheerio = require('cheerio');
 const getUrls = require('get-urls');
 
 
 const BASE_URL = 'https://www.filmai.org';
-// const URL = 'https://www.filmai.org/5695-deadpool-2016.html';
-const URL = 'https://www.filmai.org/5930-me-before-you-2016.html';
+const LIMIT = 10;
 
-const parseMovie = (movieURL) => {
+(async () => {
+
+  // Load log file.
+  let logFile = await fs.readFile('log.json', 'utf-8');
+  let log = await JSON.parse(logFile);
+  let urls = log.urls;
+  let fetchedSet = new Set(log.fetched);
+  let failedSet = new Set(log.failed);
+
+  // Load movies file
+  let moviesFile = await fs.readFile('movies.json', 'utf-8');
+  let moviesLog = await JSON.parse(moviesFile);
+  let movies = moviesLog.movies;
+
+  let tried = 0;
+  let fetched = 0;
+
+  try {
+    while (fetched < LIMIT && tried < urls.length) {
+      let movieUrl = urls[tried++];
+      if (fetchedSet.has(movieUrl)) {
+        continue;
+      }
+      parseMovie(movieUrl)
+        .then(movie => {
+          movies.push(movie);
+          fetchedSet.add(movieUrl);
+          console.log(`Parsed movie (${fetched}): ${movieUrl}`);
+          fetched++;
+        })
+        .catch(() => {
+          failedSet.add(movieUrl);
+        });
+      await new Promise((resolve) => setTimeout(resolve, 200));
+    }
+  } catch (err) {
+    console.log(err);
+  } finally {
+    log.fetched = Array.from(fetchedSet);
+    log.failed = Array.from(failedSet);
+  
+    // Updating log file.
+    let json = JSON.stringify(log, null, 2);
+    let fileHandle;
+    try {
+      fileHandle = await fs.writeFile(`./log.json`, json);
+      console.log(`Log updated.`);
+    } catch (err) {
+      console.log(`Error updating log file.`);
+    } finally {
+      if (fileHandle !== undefined) {
+        fileHandle.close();
+      }
+    }
+
+    // Updating movies file.
+    let jsonMovies = JSON.stringify(movies, null, 2);
+    try {
+      fileHandle = await fs.writeFile(`./movies.json`, jsonMovies);
+      console.log(`Movies log updated.`);
+    } catch (err) {
+      console.log(`Error updating movies log file.`);
+    } finally {
+      if (fileHandle !== undefined) {
+        fileHandle.close();
+      }
+    }
+  }
+})();
+
+
+
+function parseMovie(movieURL) {
   return new Promise(async (resolve, reject) => {
     try {
       let movie = {}; // contains movie properties
@@ -18,6 +90,7 @@ const parseMovie = (movieURL) => {
       let $ = cheerio.load(res);
 
       // Parse movie properties
+      movie.url = movieURL;
       movie.title = $('header.mov-top > h1').text();
       movie.imdbText = $('header.mov-top > div.mov-date > b').text();
       movie.imdb = parseFloat(movie.imdbText.split(' ')[1].replace(',', '.'));
@@ -49,8 +122,4 @@ const parseMovie = (movieURL) => {
       reject(`Failed to parse URL: ${movieURL}`);
     }
   })
-};
-
-// parseMovie(URL)
-//   .then(movie => console.log(movie))
-//   .catch(err => console.log(err));
+}

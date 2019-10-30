@@ -29,7 +29,7 @@
 
 <channel>
   <title><![CDATA[Filmai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/all.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/main.xml]]></playlist_url>
 </channel>
 
 <channel>
