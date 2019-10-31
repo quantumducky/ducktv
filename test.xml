@@ -10,4 +10,9 @@
 	<description><![CDATA[<img alt="image should be here" src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
 	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
 </channel>
+<channel>
+	<title><![CDATA[from ottv]]></title>
+	<description><![CDATA[Жмите чтобы посмотреть <img height="65" src="http://ottv.tk/public/media/hand.png" style=" float: left; width="195"> <center><img src="http://ottv.tk/public/media/stop.png"width='200'></img><font color="#ff9900"> <h2>Уважаемый пользователь, платная подписка окончена,<br>если хотите продолжить просмотр платного варианта - <br>жмите ок на пульте, чтобы посмотреть как.<br> Сейчас вам доступен бесплатный вариант нашего сервиса. <br> Здесь мы собрали для вас много интересного! <br> Приятного пользования.</h2></font> <p><img height="65" src="http://ottv.tk/public/media/info.png" style=" float: left; margin-left: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="65"> Проект в разработке и варианты оплаты индивидуально присылаются по запросу на ottv@ottv.tk </center>]]></description>
+	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
+</channel>
 </items>
