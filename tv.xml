@@ -42,5 +42,10 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/ottv_parser/results.m3u8]]></playlist_url>
 </channel>
 
+<channel>
+  <title><![CDATA[Test]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+</channel>
+
 
 </items></item>

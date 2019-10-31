@@ -5,9 +5,18 @@ const getUrls = require('get-urls');
 
 
 const BASE_URL = 'https://www.filmai.org';
-const LIMIT = 10;
+const LIMIT = 100;
 
-(async () => {
+const URL = 'https://www.filmai.org/9607-as-esu-leonardo-2019-i-leonardo.html';
+
+
+// main();
+
+parseMovie(URL)
+  .then(movie => console.log(movie))
+  .catch(err => console.log(err));
+
+async function main() {
 
   // Load log file.
   let logFile = await fs.readFile('log.json', 'utf-8');
@@ -30,14 +39,15 @@ const LIMIT = 10;
       if (fetchedSet.has(movieUrl)) {
         continue;
       }
-      parseMovie(movieUrl)
+      await parseMovie(movieUrl)
         .then(movie => {
           movies.push(movie);
           fetchedSet.add(movieUrl);
-          console.log(`Parsed movie (${fetched}): ${movieUrl}`);
+          console.log(`Fetched movie (${fetched}): ${movieUrl}`);
           fetched++;
         })
         .catch(() => {
+          console.log(`Failed to fetch movie (${fetched}): ${movieUrl}`);
           failedSet.add(movieUrl);
         });
       await new Promise((resolve) => setTimeout(resolve, 200));
@@ -63,7 +73,8 @@ const LIMIT = 10;
     }
 
     // Updating movies file.
-    let jsonMovies = JSON.stringify(movies, null, 2);
+    moviesLog.fetchedMovies = movies.length;
+    let jsonMovies = JSON.stringify(moviesLog, null, 2);
     try {
       fileHandle = await fs.writeFile(`./movies.json`, jsonMovies);
       console.log(`Movies log updated.`);
@@ -75,8 +86,7 @@ const LIMIT = 10;
       }
     }
   }
-})();
-
+}
 
 
 function parseMovie(movieURL) {
@@ -94,8 +104,9 @@ function parseMovie(movieURL) {
       movie.title = $('header.mov-top > h1').text();
       movie.imdbText = $('header.mov-top > div.mov-date > b').text();
       movie.imdb = parseFloat(movie.imdbText.split(' ')[1].replace(',', '.'));
-      // movie.description = $('div.full-text.clearfix').contents().not('a').text();
-      movie.posterURL = BASE_URL + $('div.film-poster > img').attr('src');
+      movie.description = $('div.full-text.clearfix').contents().not('a').text();
+      movie.posterURL = $('div.film-poster > img').attr('src');
+      movie.posterURL = movie.posterURL.startsWith('http') ? movie.posterURL : BASE_URL + movie.posterURL;
       movie.videoURL = Array.from(getUrls($('div.box.full-text > script').html()))[0].split('?')[0];
 
       
@@ -119,7 +130,7 @@ function parseMovie(movieURL) {
 
       resolve(movie);
     } catch (err) {
-      reject(`Failed to parse URL: ${movieURL}`);
+      reject(`Failed to parse URL: ${movieURL}\n${err}`);
     }
   })
 }
