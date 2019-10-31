@@ -11,8 +11,8 @@ async function generatePlaylistsByGenres() {
   let movies = moviesLog.movies;
 
   let moviesByYear = {};
-  for (movie of movies.slice(20, 30)) {
-    let year = movie.year;
+  for (movie of movies.slice(500, 550)) {
+    let year = movie.year ? movie.year : 'Kiti';
     if (!(year in moviesByYear)) {
       moviesByYear[year] = [];
     }
@@ -27,7 +27,7 @@ async function generatePlaylistsByGenres() {
 
   let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
 
-  for (year in moviesByYear) {
+  for (year of Object.keys(moviesByYear).sort().reverse()) {
     generateMoviePlaylist(moviesByYear[year], `../movies/years/${year}.xml`);
     mainXml += `
     <channel>
