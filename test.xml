@@ -2,17 +2,17 @@
 <items>
 <channel>
 	<title><![CDATA[Ocean(mp4)]]></title>
-	<description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+	<description><![CDATA[<p>p1</p><p>p2</p><p>p3</p>]]></description>
 	<stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
 </channel>
 <channel>
 	<title><![CDATA[Bunny(1080p)]]></title>
-	<description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+	<description><img src="https://edem.tv/favicon.ico" alt="item 2 image">Item 2</description>
 	<stream_url><![CDATA[http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[ElephantsDream]]></title>
-	<description><![CDATA[<img src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
-	<stream_url><![CDATA[https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4]]></stream_url>
+	<title><![CDATA[Me before you]]></title>
+	<description><![CDATA[<img alt="image should be here" src="https://edem.tv/favicon.ico">Edem IPTV]]></description>
+	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
 </channel>
 </items>
