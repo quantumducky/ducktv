@@ -27,11 +27,11 @@
       </div>
 
 
-      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; font-size: 1.4em;">
+      <div style="display: table-cell; width: 60%; vertical-align:top; margin-left:8px; margin-right:8px; font-size: 1.4em;">
         <center>
-          <h2 style="color: #ffaf59;">
+          <h3 style="color: #ffaf59;">
             Aš prieš tave / Me Before You (2016)
-          </h2>
+          </h3>
         </center>
         <div>
           <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_124.png" width="16px"></img>&nbsp;<span style="color: #C0C0C0">IMDB: 7,6 (16919 balsai)</span>
@@ -57,7 +57,7 @@
           </p>
         </div>
       </div>
-      
+
     </div>
   ]]></description>
 	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
