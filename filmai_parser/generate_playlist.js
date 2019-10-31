@@ -11,7 +11,7 @@ async function generatePlaylistsByGenres() {
   let movies = moviesLog.movies;
 
   let moviesByYear = {};
-  for (movie of movies.slice(500, 550)) {
+  for (movie of movies) {
     let year = movie.year ? movie.year : 'Kiti';
     if (!(year in moviesByYear)) {
       moviesByYear[year] = [];

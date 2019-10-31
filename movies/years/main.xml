@@ -6,6 +6,11 @@
     </channel>
     
     <channel>
+      <title><![CDATA[5]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/5.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
       <title><![CDATA[2019]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2019.xml]]></playlist_url>
     </channel>
@@ -36,13 +41,33 @@
     </channel>
     
     <channel>
+      <title><![CDATA[2013]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2013.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
       <title><![CDATA[2012]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2012.xml]]></playlist_url>
     </channel>
     
     <channel>
+      <title><![CDATA[2011]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2011.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
       <title><![CDATA[2010]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2010.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[2009]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2009.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[2008]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2008.xml]]></playlist_url>
     </channel>
     
     <channel>
@@ -56,6 +81,11 @@
     </channel>
     
     <channel>
+      <title><![CDATA[2005]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2005.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
       <title><![CDATA[2004]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2004.xml]]></playlist_url>
     </channel>
@@ -63,6 +93,11 @@
     <channel>
       <title><![CDATA[2003]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2003.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[2002]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2002.xml]]></playlist_url>
     </channel>
     
     <channel>
@@ -76,8 +111,293 @@
     </channel>
     
     <channel>
+      <title><![CDATA[1999]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1999.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1998]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1998.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1997]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1997.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1996]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1996.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1995]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1995.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1994]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1994.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1993]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1993.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1992]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1992.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1991]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1991.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1990]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1990.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1989]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1989.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1988]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1988.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1987]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1987.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1986]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1986.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1985]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1985.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1984]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1984.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1983]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1983.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1982]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1982.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1981]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1981.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1980]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1980.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1979]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1979.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1978]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1978.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1977]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1977.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
       <title><![CDATA[1976]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1976.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1975]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1975.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1974]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1974.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1973]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1973.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1972]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1972.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1971]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1971.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1970]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1970.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1969]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1969.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1968]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1968.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1967]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1967.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1966]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1966.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1965]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1965.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1964]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1964.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1963]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1963.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1962]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1962.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1961]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1961.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1960]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1960.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1959]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1959.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1958]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1958.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1957]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1957.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1956]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1956.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1954]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1954.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1953]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1953.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1951]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1951.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1950]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1950.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1948]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1948.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1946]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1946.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1942]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1942.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1941]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1941.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1940]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1940.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1939]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1939.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1932]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1932.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1930]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1930.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1927]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1927.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[1922]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/1922.xml]]></playlist_url>
     </channel>
     
 </items>
