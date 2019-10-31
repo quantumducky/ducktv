@@ -6,7 +6,7 @@
 	<title><![CDATA[Aš prieš tave / Me Before You (2016)]]></title>
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
-      <div style="display: table-cell; width: 40%;">
+      <div style="display: table-cell; width: 40%; border: 3px solid red;">
         <div>
           <img src="http://filmai.org/uploads/posts/covers/a2063e3163aa4d206446c0fae76a084b.jpg" style="border-radius: 25px;"></img>
         </div>
@@ -22,17 +22,17 @@
           </div>
         </div>
       </div>
-      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px; font-size: 1.25em;">
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; border: 3px solid red; font-size: 1.25em;">
         <center>
           <h2 style="color: #ffaf59;">
             Aš prieš tave / Me Before You (2016)
           </h2>
         </center>
         <div>
-          <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_124.png" width="16px"></img>&nbsp;<span style="color: #D3D3D3">IMDB: 7,6 (16919 balsai)</span>
+          <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_124.png" width="16px"></img>&nbsp;<span style="color: #C0C0C0">IMDB: 7,6 (16919 balsai)</span>
         </div>
         <div>
-          <span style="color: #ffaf59;"><b>Kalba:</b></span> Lietuvių subtitrai
+          <span style="color: #ffaf59;"><b>Kalba:</b></span> <span style="color: #C0C0C0">Lietuvių subtitrai</span>
         </div>
         <div>
           <span style="color: #ffaf59;"><b>Metai:</b></span> 2009
