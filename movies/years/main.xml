@@ -6,11 +6,6 @@
     </channel>
     
     <channel>
-      <title><![CDATA[5]]></title>
-      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/5.xml]]></playlist_url>
-    </channel>
-    
-    <channel>
       <title><![CDATA[2019]]></title>
       <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2019.xml]]></playlist_url>
     </channel>

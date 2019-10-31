@@ -12,7 +12,9 @@ async function generatePlaylistsByGenres() {
 
   let moviesByYear = {};
   for (movie of movies) {
-    let year = movie.year ? movie.year : 'Kiti';
+    let year = movie.year
+      ? String(movie.year).length == 4 ? movie.year : 'Kiti'
+      : ( movie.title.match(/\b(19|20)\d{2}\b/g) ? movie.title.match(/\b(19|20)\d{2}\b/g)[0] : 'Kiti');
     if (!(year in moviesByYear)) {
       moviesByYear[year] = [];
     }
