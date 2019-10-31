@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <channel>
+      <title><![CDATA[2018]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2018.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[2019]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/2019.xml]]></playlist_url>
+    </channel>
+    
+</items>

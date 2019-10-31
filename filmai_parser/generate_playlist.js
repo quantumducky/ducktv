@@ -1,17 +1,64 @@
 const fs = require('fs').promises;
 
 
-playlistByGenres();
+generatePlaylistsByGenres();
 
-async function playlistByGenres() {
+async function generatePlaylistsByGenres() {
 
   // Load movies log file.
   let moviesFile = await fs.readFile('movies.json', 'utf-8');
   let moviesLog = await JSON.parse(moviesFile);
   let movies = moviesLog.movies;
 
+  let moviesByYear = {};
+  for (movie of movies.slice(20, 30)) {
+    let year = movie.year;
+    if (!(year in moviesByYear)) {
+      moviesByYear[year] = [];
+    }
+    let movieList = moviesByYear[year];
+    movieList.push(movie);
+    moviesByYear[year] = movieList;
+  }
+
+  for (year in moviesByYear) {
+    moviesByYear[year].sort( (m1, m2) => m1.title.toLowerCase().localeCompare(m2.title.toLowerCase()) );
+  }
+
+  let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+
+  for (year in moviesByYear) {
+    generateMoviePlaylist(moviesByYear[year], `../movies/years/${year}.xml`);
+    mainXml += `
+    <channel>
+      <title><![CDATA[${year}]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/${year}.xml]]></playlist_url>
+    </channel>
+    `
+  }
+
+  mainXml += '\n</items>';
+
+  // Write results to main XML file.
+  let fileHandle;
+  try {
+    fileHandle = await fs.writeFile('../movies/years/main.xml', mainXml);
+    console.log(`Main playlist generated.`);
+  } catch (err) {
+    console.log(`Error generating playlist file.\n${err}`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
+
+}
+
+
+async function generateMoviePlaylist(movies, playlistPath) {
+
   let results = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
-  movies.slice(1,90).forEach(movie => {
+  movies.forEach(movie => {
     results += createMovieItem(movie);
   })
   results += '\n</items>';
@@ -19,10 +66,10 @@ async function playlistByGenres() {
   // Write results to XML file.
   let fileHandle;
   try {
-    fileHandle = await fs.writeFile(`./results.xml`, results);
-    console.log(`movies have been written to the file.`);
+    fileHandle = await fs.writeFile(playlistPath, results);
+    console.log(`${movies.length} movies have been written to '${playlistPath}'`);
   } catch (err) {
-    console.log(`Error generating playlist file.`);
+    console.log(`Error generating playlist file.\n${err}`);
   } finally {
     if (fileHandle !== undefined) {
       fileHandle.close();
