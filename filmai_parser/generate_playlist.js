@@ -63,7 +63,7 @@ function createMovieItem(movie) {
             <div style="color: #ffaf59; font-size: 1.6em; margin-bottom:8px;">${movie.title}</div>
           </center>
           <div>
-            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_24.png" height="24px"></img>&nbsp;<span style="color: #ffaf59;"><b>IMDB: </b></span><span style="color: #C0C0C0">${movie.imdbText ? movie.imdbText.slice(6) : '-'}</span>
+            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_24.png" style="border-radius: 25px;" height="24px"></img>&nbsp;<span style="color: #ffaf59;"><b>: </b></span><span style="color: #C0C0C0">${movie.imdbText ? movie.imdbText.slice(6) : '-'}</span>
           </div>
           <div>
             <span style="color: #ffaf59;"><b>Kalba: </b></span><span style="color: #C0C0C0">${movie.language ? movie.language : '-'}</span>
