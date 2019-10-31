@@ -37,12 +37,12 @@
 
 <channel>
   <logo_30x30><![CDATA[https://st.kp.yandex.net/images/film_big/5908.jpg]]></logo_30x30>
-  <title><![CDATA[Test 1]]></title>
+  <title><![CDATA[Test 2]]></title>
   <stream_url>
     <![CDATA[http://212.113.38.99/realhls/st7/fhd/The.Wolf.of.Wall.Street.2013.BDRip.1080p.Rus.Eng.mp4/index-v1-a1.m3u8]]>
   </stream_url>
   <description>
-    <center><img src="http://ottv.tk/public/media/btv.png"width='200'></img><font color="#ff9900"> <h2>Общедоступные каналы найденые на просторах интернет.<br> Этот раздел пополняется всеми пользователями,<br>вы тоже можете добавить сюда свой плейлист.<br> по адресу <span style="color:#000000"><span style="background-color:#FFFF00">http://ottv.tk/upload</span></span><br> пароль в нижней строке:<span style="color:#0000ff"><span style="background-color:#FFFF00"> 123456 </span></span> </h2></font><img src="https://iplogger.com/1Bkg77"> <img src="http://ottv.tk/public/media/info.png"width='200'></img> Всю информацию по данному разделу можно посмотреть<br>на странице по адресу: <span style="color:#000000"><span style="background-color:#FFFF00">http://ottv.tk/share</span></span> 
+    <![CDATA[<div style="display: table; width: 100%; vertical-align:top;"><div style="display: table-cell; width: 40%;"><img width="100%" style="border-radius: 25px;" src="https://st.kp.yandex.net/images/film_big/5908.jpg" /></div></div>]]>
   </description>
 </channel>
 
