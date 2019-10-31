@@ -8,10 +8,21 @@
     <div style="display: table; width: 100%; vertical-align:top;">
       <div style="display: table-cell; width: 40%;">
         <div>
-          <img src="http://filmai.org/uploads/posts/covers/a2063e3163aa4d206446c0fae76a084b.jpg"></img>
+          <img src="http://filmai.org/uploads/posts/covers/a2063e3163aa4d206446c0fae76a084b.jpg" style="border-radius: 25px;"></img>
+        </div>
+        <div style="font-size: 1.25em;">
+          <div>
+            <span style="color: #ffaf59;"><b>Šalis:</b></span> Australija
+          </div>
+          <div>
+            <span style="color: #ffaf59;"><b>Aktoriai:</b></span> Al Pacino, Ellen Barkin, John Goodman
+          </div>
+          <div>
+            <span style="color: #ffaf59;"><b>Režisierius:</b></span> Harold Becker
+          </div>
         </div>
       </div>
-      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px; font-size: 1.5em;">
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px; font-size: 1.25em;">
         <center>
           <h2 style="color: #ffaf59;">
             Aš prieš tave / Me Before You (2016)
@@ -37,15 +48,6 @@
             <span style="color: #ffaf59;"><b>Aprašymas:</b></span><br>
             Viljamas Treinoras – galantiškas, energingas, sėkmingą bankininko karjerą pradėjęs ir gyvenimą pilnomis saujomis sėmęs jaunuolis. Tačiau visa tai subyrėjo akimirksniu, kuomet gatvėje Viljamą partrenkė motociklas. Atsipeikėjęs ligoninėje ir sužinojęs, kad niekada nebegalės valdyti savo kūno, vyras prarado bet kokį norą gyventi, apsišarvavo cinizmu...
           </p>
-        </div>
-        <div>
-          <span style="color: #ffaf59;"><b>Šalis:</b></span> Australija
-        </div>
-        <div>
-          <span style="color: #ffaf59;"><b>Aktoriai:</b></span> Al Pacino, Ellen Barkin, John Goodman
-        </div>
-        <div>
-          <span style="color: #ffaf59;"><b>Režisierius:</b></span> Harold Becker
         </div>
       </div>
     </div>
