@@ -6,11 +6,13 @@
 	<title><![CDATA[Aš prieš tave / Me Before You (2016)]]></title>
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
-      <div style="display: table-cell; width: 40%; border: 3px solid red;">
-        <div>
-          <img src="http://filmai.org/uploads/posts/covers/a2063e3163aa4d206446c0fae76a084b.jpg" style="border-radius: 25px;"></img>
-        </div>
-        <div style="font-size: 1.25em;">
+      <div style="display: table-cell; width: 40%;">
+        <center>
+          <div>
+            <img src="http://filmai.org/uploads/posts/covers/6fac29dd879efb9e1c97a047573737ca.jpg" style="border-radius: 25px;"></img>
+          </div>
+        </center>
+        <div style="font-size: 1.4em;">
           <div>
             <span style="color: #ffaf59;"><b>Šalis:</b></span> Australija
           </div>
@@ -22,7 +24,7 @@
           </div>
         </div>
       </div>
-      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; border: 3px solid red; font-size: 1.25em;">
+      <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; font-size: 1.4em;">
         <center>
           <h2 style="color: #ffaf59;">
             Aš prieš tave / Me Before You (2016)
