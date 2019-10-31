@@ -9,15 +9,14 @@ const BASE_URL = 'https://www.filmai.org';
 const LIMIT = 500;
 const WAIT_TIME = 200;
 
-const URL = 'https://www.filmai.org/9223-savas-zmogus-labiausiai-ieskomas-2019-inside-man-most-wanted.html';
-// const URL = 'https://www.filmai.org/236-septyneri-metai-tibete-seven-years-in-tibet-1997.html';
+const URL = 'https://www.filmai.org/267-rudens-legendos-legends-of-the-fall-1994.html';
 
 
-main();
+// main();
 
-// parseMovie(URL)
-//   .then(movie => console.log(movie))
-//   .catch(err => console.log(err));
+parseMovie(URL)
+  .then(movie => console.log(movie))
+  .catch(err => console.log(err));
 
 async function main() {
 
