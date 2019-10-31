@@ -107,8 +107,8 @@ function parseMovie(movieURL) {
       movie.description = $('div.full-text.clearfix').contents().not('a').text();
       movie.posterURL = $('div.film-poster > img').attr('src');
       movie.posterURL = movie.posterURL.startsWith('http') ? movie.posterURL : BASE_URL + movie.posterURL;
+      // Some movies might not have videoURL
       movie.videoURL = Array.from(getUrls($('div.box.full-text > script').html()))[0].split('?')[0];
-      // some movies might not have videoURL
 
       
       // Parse elements in the movie info section
