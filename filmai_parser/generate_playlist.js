@@ -11,7 +11,7 @@ async function playlistByGenres() {
   let movies = moviesLog.movies;
 
   let results = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
-  movies.slice(10,90).forEach(movie => {
+  movies.slice(1,90).forEach(movie => {
     results += createMovieItem(movie);
   })
   results += '\n</items>';
@@ -42,7 +42,7 @@ function createMovieItem(movie) {
         <div style="display: table-cell; width: 40%;">
           <center>
             <div>
-              <img src="${movie.posterURL}" style="border-radius: 25px;"></img>
+              <img src="${movie.posterURL}" style="border-radius: 25px; width: 100%"></img>
             </div>
           </center>
           <div style="font-size: 1.4em;">
@@ -63,7 +63,7 @@ function createMovieItem(movie) {
             <div style="color: #ffaf59; font-size: 1.6em; margin-bottom:8px;">${movie.title}</div>
           </center>
           <div>
-            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_32.png" width="20px"></img>&nbsp;<span style="color: #C0C0C0">IMDB: ${movie.imdbText ? movie.imdbText.slice(6) : '-'}</span>
+            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_24.png" width="20px"></img>&nbsp;<span style="color: #C0C0C0">IMDB: ${movie.imdbText ? movie.imdbText.slice(6) : '-'}</span>
           </div>
           <div>
             <span style="color: #ffaf59;"><b>Kalba: </b></span><span style="color: #C0C0C0">${movie.language ? movie.language : '-'}</span>
