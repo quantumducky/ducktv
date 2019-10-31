@@ -6,11 +6,11 @@
 	<stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
 </channel>
 <channel>
-	<title><![CDATA[testing columns]]></title>
+	<title><![CDATA[testing border rad]]></title>
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
       <div style="display: table-cell; width: 40%;">
-        <img src="https://static.filmai.in/uploads/posts/2016-07/1468398288_me-before-you-poster-1.jpg" width='200'></img>
+        <img src="https://static.filmai.in/uploads/posts/2016-07/1468398288_me-before-you-poster-1.jpg" width="100%" style="border-radius: 25px;"></img>
       </div>
       <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
         Test text

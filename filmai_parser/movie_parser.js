@@ -7,7 +7,7 @@ const getUrls = require('get-urls');
 const BASE_URL = 'https://www.filmai.org';
 const LIMIT = 100;
 
-const URL = 'https://www.filmai.org/9607-as-esu-leonardo-2019-i-leonardo.html';
+const URL = 'https://www.filmai.org/9223-savas-zmogus-labiausiai-ieskomas-2019-inside-man-most-wanted.html';
 
 
 // main();
