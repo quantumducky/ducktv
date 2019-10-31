@@ -7,7 +7,9 @@
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
       <div style="display: table-cell; width: 40%;">
-        <img src="https://static.filmai.in/uploads/posts/2016-07/1468398288_me-before-you-poster-1.jpg"></img>
+        <div>
+          <img src="http://filmai.org/uploads/posts/covers/a2063e3163aa4d206446c0fae76a084b.jpg" width="200px"></img>
+        </div>
       </div>
       <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
         <center>
