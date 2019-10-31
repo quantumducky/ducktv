@@ -5,17 +5,19 @@ const getUrls = require('get-urls');
 
 
 const BASE_URL = 'https://www.filmai.org';
-const LIMIT = 100;
 
-// const URL = 'https://www.filmai.org/9223-savas-zmogus-labiausiai-ieskomas-2019-inside-man-most-wanted.html';
-const URL = 'https://www.filmai.org/236-septyneri-metai-tibete-seven-years-in-tibet-1997.html';
+const LIMIT = 500;
+const WAIT_TIME = 200;
+
+const URL = 'https://www.filmai.org/9223-savas-zmogus-labiausiai-ieskomas-2019-inside-man-most-wanted.html';
+// const URL = 'https://www.filmai.org/236-septyneri-metai-tibete-seven-years-in-tibet-1997.html';
 
 
-// main();
+main();
 
-parseMovie(URL)
-  .then(movie => console.log(movie))
-  .catch(err => console.log(err));
+// parseMovie(URL)
+//   .then(movie => console.log(movie))
+//   .catch(err => console.log(err));
 
 async function main() {
 
@@ -37,21 +39,21 @@ async function main() {
   try {
     while (fetched < LIMIT && tried < urls.length) {
       let movieUrl = urls[tried++];
-      if (fetchedSet.has(movieUrl)) {
+      if (fetchedSet.has(movieUrl) || failedSet.has(movieUrl)) {
         continue;
       }
       await parseMovie(movieUrl)
         .then(movie => {
           movies.push(movie);
           fetchedSet.add(movieUrl);
-          console.log(`Fetched movie (${fetched}): ${movieUrl}`);
+          console.log(`Fetched movie (${fetched+1}): ${movieUrl}`);
           fetched++;
         })
         .catch(() => {
-          console.log(`Failed to fetch movie (${fetched}): ${movieUrl}`);
+          console.log(`Failed to fetch movie (${fetched+1}): ${movieUrl}`);
           failedSet.add(movieUrl);
         });
-      await new Promise((resolve) => setTimeout(resolve, 200));
+      await new Promise((resolve) => setTimeout(resolve, WAIT_TIME));
     }
   } catch (err) {
     console.log(err);
@@ -104,7 +106,7 @@ function parseMovie(movieURL) {
       movie.url = movieURL;
       movie.title = $('header.mov-top > h1').text();
       movie.imdbText = $('header.mov-top > div.mov-date > b').text();
-      movie.imdb = parseFloat(movie.imdbText.split(' ')[1].replace(',', '.'));
+      movie.imdb = movie.imdbText ? parseFloat(movie.imdbText.split(' ')[1].replace(',', '.')) : 0;
       movie.description = $('div.full-text.clearfix').contents().not('a').text();
       movie.posterURL = $('div.film-poster > img').attr('src');
       movie.posterURL = movie.posterURL.startsWith('http') ? movie.posterURL : BASE_URL + movie.posterURL;

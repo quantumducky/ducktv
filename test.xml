@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <items>
-<channel>
-	<title><![CDATA[item 1]]></title>
-	<description><![CDATA[<p>p1</p><p>p2</p><p>p3</p>]]></description>
-	<stream_url><![CDATA[http://vjs.zencdn.net/v/oceans.mp4]]></stream_url>
-</channel>
+
 <channel>
 	<title><![CDATA[Aš prieš tave / Me Before You (2016)]]></title>
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
       <div style="display: table-cell; width: 40%;">
-        <img src="https://static.filmai.in/uploads/posts/2016-07/1468398288_me-before-you-poster-1.jpg" width="100%" style="border-radius: 25px;"></img>
+        <img src="https://static.filmai.in/uploads/posts/2016-07/1468398288_me-before-you-poster-1.jpg" width="100%"></img>
       </div>
       <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:16px;">
         <center>
@@ -18,9 +15,12 @@
             Aš prieš tave / Me Before You (2016)
           </h3>
         </center>
+        <div>
+          <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_124.png"></img>&nbsp;IMDB: 7,6 (16919 balsai)
+        </div>
         <div style="font-size: 0.8em;">
           <p>
-            \n\t\t\tViljamas Treinoras – galantiškas, energingas, sėkmingą bankininko karjerą pradėjęs ir gyvenimą pilnomis saujomis sėmęs jaunuolis. Tačiau visa tai subyrėjo akimirksniu, kuomet gatvėje Viljamą partrenkė motociklas. Atsipeikėjęs ligoninėje ir sužinojęs, kad niekada nebegalės valdyti savo kūno, vyras prarado bet kokį norą gyventi, apsišarvavo cinizmu ir atstūmė pačius artimiausius žmones. Tačiau vieną dieną Treinorų namų slenkstį peržengia iš pažiūros keistuolė Luiza Klark...Mažame Anglijos provincijos miestelyje gyvenanti ir desperatiškai darbo ieškanti 26-erių metų Luiza, negali sau leisti atsisakyti gerai apmokamo pasiūlymo tapti Viljamo pagalbininke ir kompanione. Pradžioje absoliučiai ignoruojama, Luiza pasiryžta nepasiduoti niūrioms Viljamo nuotaikoms ir parodyti vaikinui, kad gyventi verta, nepaisant pačių tragiškiausių aplinkybių. Prasideda naujas, nuotykių ir netikėtumų, vilties ir meilės kupinas Viljamo ir Luizos gyvenimo tarpsnis, iš esmės pakeisiantis juos abu.Vaidina: Sam Claflin („Bado žaidynės“, „Su meile, Rouzė“) Emilia Clarke („Terminatorius: Genesys“, „Sostų karai“), Brendan Coyle („Dauntono abatija”), Charles Dance („Vaizduotės žaidimas”), Matthew Lewis („Hario Poterio” filmai), Jenna Coleman („Kapitonas Amerika: pirmasis keršytojas”)  \n \n\t\t
+            Viljamas Treinoras – galantiškas, energingas, sėkmingą bankininko karjerą pradėjęs ir gyvenimą pilnomis saujomis sėmęs jaunuolis. Tačiau visa tai subyrėjo akimirksniu, kuomet gatvėje Viljamą partrenkė motociklas. Atsipeikėjęs ligoninėje ir sužinojęs, kad niekada nebegalės valdyti savo kūno, vyras prarado bet kokį norą gyventi, apsišarvavo cinizmu...
           </p>
         </div>
       </div>
@@ -28,9 +28,5 @@
   ]]></description>
 	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
 </channel>
-<channel>
-	<title><![CDATA[from ottv]]></title>
-	<description><![CDATA[Жмите чтобы посмотреть <img height="65" src="http://ottv.tk/public/media/hand.png" style=" float: left; width="195"> <center><img src="http://ottv.tk/public/media/stop.png"width='200'></img><font color="#ff9900"> <h2>Уважаемый пользователь, платная подписка окончена,<br>если хотите продолжить просмотр платного варианта - <br>жмите ок на пульте, чтобы посмотреть как.<br> Сейчас вам доступен бесплатный вариант нашего сервиса. <br> Здесь мы собрали для вас много интересного! <br> Приятного пользования.</h2></font> <p><img height="65" src="http://ottv.tk/public/media/info.png" style=" float: left; margin-left: 5px; margin-bottom: 5px; border-width: 0px; border-style: solid;" width="65"> Проект в разработке и варианты оплаты индивидуально присылаются по запросу на ottv@ottv.tk </center>]]></description>
-	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
-</channel>
+
 </items>
