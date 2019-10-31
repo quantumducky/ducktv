@@ -60,6 +60,8 @@ async function main() {
   } finally {
     log.fetched = Array.from(fetchedSet);
     log.failed = Array.from(failedSet);
+    log.totalFetched = log.fetched.length;
+    log.totalFailed = log.failed.length;
   
     // Updating log file.
     let json = JSON.stringify(log, null, 2);

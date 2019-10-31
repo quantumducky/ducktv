@@ -18,7 +18,13 @@
         <div>
           <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_124.png" width="16px"></img>&nbsp;IMDB: 7,6 (16919 balsai)
         </div>
-        <div style="font-size: 0.8em;">
+        <div>
+          <span style="color: #ffaf59;"><b>Kalba:</b></span> Lietuvių subtitrai
+        </div>
+        <h4 style="color: #ffaf59;">
+          Aprašymas:
+        </h4>
+        <div style="font-size: 1em;">
           <p>
             Viljamas Treinoras – galantiškas, energingas, sėkmingą bankininko karjerą pradėjęs ir gyvenimą pilnomis saujomis sėmęs jaunuolis. Tačiau visa tai subyrėjo akimirksniu, kuomet gatvėje Viljamą partrenkė motociklas. Atsipeikėjęs ligoninėje ir sužinojęs, kad niekada nebegalės valdyti savo kūno, vyras prarado bet kokį norą gyventi, apsišarvavo cinizmu...
           </p>
