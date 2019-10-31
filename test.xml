@@ -63,4 +63,14 @@
 	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
 </channel>
 
+<channel>
+  <title><![CDATA[playlist 1]]></title>
+  <description>
+    <![CDATA[
+    Playlist by genre.
+    ]]>
+  </description>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/filmai_parser/results.xml]]></playlist_url>
+</channel>
+
 </items>
