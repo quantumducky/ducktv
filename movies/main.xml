@@ -14,7 +14,7 @@
 
 <channel>
   <title><![CDATA[Pagal Reitingą]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/rating/main.xml]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/main.xml]]></playlist_url>
 </channel>
 
 <channel>
