@@ -1,8 +1,63 @@
 const fs = require('fs').promises;
 
 
-generatePlaylistsByGenres();
+generatePlaylistsByAlphabet();
+// generatePlaylistsByGenres();
 // generatePlaylistsByYears();
+
+
+async function generatePlaylistsByAlphabet() {
+
+  // Load movies log file.
+  let moviesFile = await fs.readFile('movies.json', 'utf-8');
+  let moviesLog = await JSON.parse(moviesFile);
+  let movies = moviesLog.movies;
+
+  let moviesByFirstChar = {};
+  for (movie of movies) {
+    let firstChar = movie.title.trim().toUpperCase().replace(/\"|\„|\,|\(/g, '')[0];
+    firstChar = firstChar.match(/\d/g) ? '0-9' : firstChar;
+    if (!(firstChar in moviesByFirstChar)) {
+      moviesByFirstChar[firstChar] = [];
+    }
+    let movieList = moviesByFirstChar[firstChar];
+    movieList.push(movie);
+    moviesByFirstChar[firstChar] = movieList;
+  }
+
+  for (firstChar in moviesByFirstChar) {
+    const format = (t) => t.title.replace(/\"|\„|\,|\(/g, '').toLowerCase();
+    moviesByFirstChar[firstChar].sort( (m1, m2) => format(m1).localeCompare(format(m2)) );
+  }
+
+  let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+
+  for (firstChar of Object.keys(moviesByFirstChar).sort((m1, m2) => m1.localeCompare(m2))) {
+    generateMoviePlaylist(moviesByFirstChar[firstChar], `../movies/alphabet/${firstChar}.xml`);
+    mainXml += `
+    <channel>
+      <title><![CDATA[${firstChar}]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/${firstChar}.xml]]></playlist_url>
+    </channel>
+    `
+  }
+
+  mainXml += '\n</items>';
+
+  // Write results to main XML file.
+  let fileHandle;
+  try {
+    fileHandle = await fs.writeFile('../movies/alphabet/main.xml', mainXml);
+    console.log(`Main playlist generated.`);
+  } catch (err) {
+    console.log(`Error generating playlist file.\n${err}`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
+}
+
 
 async function generatePlaylistsByGenres() {
 
