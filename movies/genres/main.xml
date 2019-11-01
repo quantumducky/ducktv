@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <channel>
+      <title><![CDATA[Animacija]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Animacija.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Biografinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Biografinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Dokumentinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Dokumentinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Drama]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Drama.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Fantastinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Fantastinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Istorinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Istorinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Karinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Karinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Kiti]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Kiti.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Komedija]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Komedija.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Kriminalinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Kriminalinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Mistinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Mistinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Muzikinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Muzikinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Nuotykių]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Nuotykių.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Romantinis]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Romantinis.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Siaubo]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Siaubo.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Sportas]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Sportas.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Trileris]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Trileris.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Veiksmo]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Veiksmo.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Vesternas]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Vesternas.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Šeimai]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/Šeimai.xml]]></playlist_url>
+    </channel>
+    
+</items>

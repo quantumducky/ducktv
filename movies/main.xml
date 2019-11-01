@@ -7,4 +7,9 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/main.xml]]></playlist_url>
 </channel>
 
+<channel>
+  <title><![CDATA[Pagal Žanrą]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/main.xml]]></playlist_url>
+</channel>
+
 </items>

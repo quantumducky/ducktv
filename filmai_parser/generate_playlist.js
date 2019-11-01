@@ -2,8 +2,105 @@ const fs = require('fs').promises;
 
 
 generatePlaylistsByGenres();
+// generatePlaylistsByYears();
 
 async function generatePlaylistsByGenres() {
+
+  // Load movies log file.
+  let moviesFile = await fs.readFile('movies.json', 'utf-8');
+  let moviesLog = await JSON.parse(moviesFile);
+  let movies = moviesLog.movies;
+
+  let moviesByGenre = {
+    'Drama': [],
+    'Komedija': [],
+    'Veiksmo': [],
+    'Trileris': [],
+    'Kriminalinis': [],
+    'Fantastinis': [],
+    'Romantinis': [],
+    'Nuotykių': [],
+    'Siaubo': [],
+    'Mistinis': [],
+    'Šeimai': [],
+    'Biografinis': [],
+    'Istorinis': [],
+    'Muzikinis': [],
+    'Karinis': [],
+    'Sportas': [],
+    'Animacija': [],
+    'Vesternas': [],
+    'Dokumentinis': [],
+    'Kiti': [],
+  };
+  for (movie of movies) {
+    let genres = movie.genres ? movie.genres : ['Kiti'];
+
+    for (genre of genres) {
+      let genreToAdd;
+      if (genre in moviesByGenre) {
+        genreToAdd = genre;
+      } else if (genre == 'Dramos') {
+        genreToAdd = 'Drama';
+      } else if (genre == 'Komedijos') {
+        genreToAdd = 'Komedija';
+      } else if (genre == 'Trileriai') {
+        genreToAdd = 'Trileris';
+      } else if (genre == 'Kriminaliniai') {
+        genreToAdd = 'Kriminalinis';
+      } else if (genre == 'Nuotykiai') {
+        genreToAdd = 'Nuotykių';
+      } else if (genre == 'Fantastiniai' || genre == 'Fantastika' || genre == 'Moksliniai') {
+        genreToAdd = 'Fantastinis';
+      } else if (genre == 'Mistiniai') {
+        genreToAdd = 'Mistinis';
+      } else if (genre == 'Romantiniai') {
+        genreToAdd = 'Romantinis';
+      } else if (genre == 'Biografiniai') {
+        genreToAdd = 'Biografinis';
+      } else {
+        genreToAdd = 'Kiti';
+      }
+      let movieList = moviesByGenre[genreToAdd];
+      movieList.push(movie);
+      moviesByGenre[genreToAdd] = movieList;
+    }
+  }
+
+  for (genre in moviesByGenre) {
+    moviesByGenre[genre].sort( (m1, m2) => m1.title.toLowerCase().localeCompare(m2.title.toLowerCase()) );
+  }
+
+  let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+
+  for (genre of Object.keys(moviesByGenre).sort()) {
+    generateMoviePlaylist(moviesByGenre[genre], `../movies/genres/${genre}.xml`);
+    mainXml += `
+    <channel>
+      <title><![CDATA[${genre}]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/genres/${genre}.xml]]></playlist_url>
+    </channel>
+    `
+  }
+
+  mainXml += '\n</items>';
+
+  // Write results to main XML file.
+  let fileHandle;
+  try {
+    fileHandle = await fs.writeFile('../movies/genres/main.xml', mainXml);
+    console.log(`Main playlist generated.`);
+  } catch (err) {
+    console.log(`Error generating playlist file.\n${err}`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
+}
+
+
+async function generatePlaylistsByYears() {
 
   // Load movies log file.
   let moviesFile = await fs.readFile('movies.json', 'utf-8');
