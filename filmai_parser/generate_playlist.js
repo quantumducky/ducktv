@@ -1,9 +1,77 @@
 const fs = require('fs').promises;
 
 
-generatePlaylistsByAlphabet();
+generatePlaylistsByRating();
+// generatePlaylistsByAlphabet();
 // generatePlaylistsByGenres();
 // generatePlaylistsByYears();
+
+
+async function generatePlaylistsByRating() {
+
+  // Load movies log file.
+  let moviesFile = await fs.readFile('movies.json', 'utf-8');
+  let moviesLog = await JSON.parse(moviesFile);
+  let movies = moviesLog.movies;
+
+  let moviesByRating = {
+    '9.0 ir daugiau': [],
+    '8.0 - 8.9': [],
+    '7.0 - 7.9': [],
+    '6.0 - 6.9': [],
+    '5.0 - 5.9': [],
+    '4.0 - 4.9': [],
+    '3.9 ir mažiau': [],
+    'Nėra reitingo': [],
+  };
+  for (movie of movies) {
+    let imdb = movie.imdb;
+    let rating;
+    if (imdb == 0) { rating = 'Nėra reitingo' }
+    else if (imdb >= 9) { rating = '9.0 ir daugiau' }
+    else if (imdb >= 8 && imdb < 9) { rating = '8.0 - 8.9' }
+    else if (imdb >= 7 && imdb < 8) { rating = '7.0 - 7.9' }
+    else if (imdb >= 6 && imdb < 7) { rating = '6.0 - 6.9' }
+    else if (imdb >= 5 && imdb < 6) { rating = '5.0 - 5.9' }
+    else if (imdb >= 4 && imdb < 5) { rating = '4.0 - 4.9' }
+    else if (imdb < 4) { rating = '3.9 ir mažiau' }
+
+    let movieList = moviesByRating[rating];
+    movieList.push(movie);
+    moviesByRating[rating] = movieList;
+  }
+
+  for (rating in moviesByRating) {
+    moviesByRating[rating].sort( (m1, m2) => m1.imdb > m2.imdb ? -1: 1 );
+  }
+
+  let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+
+  for (rating of Object.keys(moviesByRating)) {
+    generateMoviePlaylist(moviesByRating[rating], `../movies/ratings/${rating.replace(/\ /g, '_')}.xml`);
+    mainXml += `
+    <channel>
+      <title><![CDATA[${rating}]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/${rating.replace(/\ /g, '_')}.xml]]></playlist_url>
+    </channel>
+    `
+  }
+
+  mainXml += '\n</items>';
+
+  // Write results to main XML file.
+  let fileHandle;
+  try {
+    fileHandle = await fs.writeFile('../movies/ratings/main.xml', mainXml);
+    console.log(`Main playlist generated.`);
+  } catch (err) {
+    console.log(`Error generating playlist file.\n${err}`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
+}
 
 
 async function generatePlaylistsByAlphabet() {

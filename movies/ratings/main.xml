@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <channel>
+      <title><![CDATA[9.0 ir daugiau]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/9.0_ir_daugiau.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[8.0 - 8.9]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/8.0_-_8.9.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[7.0 - 7.9]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/7.0_-_7.9.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[6.0 - 6.9]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/6.0_-_6.9.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[5.0 - 5.9]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/5.0_-_5.9.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[4.0 - 4.9]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/4.0_-_4.9.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[3.9 ir mažiau]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/3.9_ir_mažiau.xml]]></playlist_url>
+    </channel>
+    
+    <channel>
+      <title><![CDATA[Nėra reitingo]]></title>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/ratings/Nėra_reitingo.xml]]></playlist_url>
+    </channel>
+    
+</items>
