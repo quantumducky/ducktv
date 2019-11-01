@@ -37,7 +37,7 @@ async function generatePlaylistsByAlphabet() {
     mainXml += `
     <channel>
       <title><![CDATA[${firstChar}]]></title>
-      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/years/${firstChar}.xml]]></playlist_url>
+      <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/alphabet/${firstChar}.xml]]></playlist_url>
     </channel>
     `
   }
