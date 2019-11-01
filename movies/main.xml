@@ -13,6 +13,11 @@
 </channel>
 
 <channel>
+  <title><![CDATA[Pagal Reitingą]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/rating/main.xml]]></playlist_url>
+</channel>
+
+<channel>
   <title><![CDATA[Pagal Alfabetą]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/alphabet/main.xml]]></playlist_url>
 </channel>
