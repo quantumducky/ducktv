@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0, TVPlay Sport
-http://88.216.48.147/flussonic/TVPlaySport/video.m3u8
-#EXTINF:0, tvplaysportshd HD
-http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftvplaysportshd&login=taras777&key=uVGrxhs
+#EXTINF:0, TVPlay Sports
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:0, TVPlay Sports Plus HD
+http://78.31.227.252:8080/tvplaysportsplus/mono.m3u8
+#EXTINF:0, TVPlay Sports HD
+http://78.31.227.252:8080/ViasatSportBaltic/mono.m3u8

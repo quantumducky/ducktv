@@ -1,0 +1,174 @@
+#EXTM3U
+#EXTINF:-1,360 Tunebox
+http://88.216.8.122:8080/360tunebox/index.m3u8?token=ADM1-1559672816-fd5c2508eb36dd6feceaced4f6a3033fa085c0ae
+http://88.216.8.122:8080/animal_planet/index.m3u8
+#EXTINF:-1,Balticum TV
+http://88.216.8.122:8080/balticum/index.m3u8
+#EXTINF:-1,Balticum Auksinis
+http://88.216.8.122:8080/balticum_auksinis/index.m3u8
+#EXTINF:-1,Balticum Platinum HD
+http://88.216.8.122:8080/balticum_platinum_hd/index.m3u8
+#EXTINF:-1,BBC World
+http://88.216.8.122:8080/bbc/index.m3u8
+#EXTINF:-1,BTV
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:-1,Cartoon_Network
+http://88.216.8.122:8080/cartoon_network/index.m3u8
+#EXTINF:-1,CGTN EN
+http://88.216.8.122:80/cctv_news/index.m3u8
+#EXTINF:-1,CNN
+http://88.216.8.122:8080/cnn/index.m3u8
+#EXTINF:-1,Dacha
+http://88.216.8.122:8080/dacha/index.m3u8
+#EXTINF:-1,Deutsche Welle
+http://88.216.8.122:8080/dw/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://88.216.8.122:8080/discovery_channel/index.m3u8
+#EXTINF:-1,Discovery Science
+http://88.216.8.122:8080/discovery_science/index.m3u8
+#EXTINF:-1,Docubox HD
+http://88.216.8.122:8080/docubox_hd/index.m3u8
+#EXTINF:-1,Dozd
+http://88.216.8.122:8080/dozd/index.m3u8
+#EXTINF:-1,Epoque
+http://88.216.8.122:8080/epoque/index.m3u8
+#EXTINF:-1,Erox
+http://88.216.8.122:80/erox/index.m3u8
+#EXTINF:-1,Euronews
+http://88.216.8.122:8080/euronews/index.m3u8
+#EXTINF:-1,Eurosport
+http://88.216.8.122:8080/eurosport/index.m3u8
+#EXTINF:-1,Eurosport_2
+http://88.216.8.122:8080/eurosport_2/index.m3u8
+#EXTINF:-1,Fashion TV
+http://88.216.8.122:8080/fashion_tv/index.m3u8
+#EXTINF:-1,Fauna
+http://88.216.8.122:8080/fauna/index.m3u8
+#EXTINF:-1,Fightbox HD
+http://88.216.8.122:8080/fightbox_hd/index.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://88.216.8.122:8080/filmbox_arthouse/index.m3u8
+#EXTINF:-1,Filmbox Baltic
+http://88.216.8.122:8080/filmbox_baltic/index.m3u8
+#EXTINF:-1,Filmbox Extra HD
+http://88.216.8.122:8080/filmbox_extra_hd/index.m3u8
+#EXTINF:-1,Info TV
+http://88.216.8.122:8080/info_tv/index.m3u8
+#EXTINF:-1,Init TV
+http://88.216.8.122:8080/init_tv/index.m3u8
+#EXTINF:-1,kabel eins
+http://88.216.8.122:8080/kabel_eins/index.m3u8
+#EXTINF:-1,Kidzone
+http://88.216.8.122:8080/kidzone/index.m3u8
+#EXTINF:-1,Konnyi Mir
+http://88.216.8.122:8080/konnyi_mir/index.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+http://88.216.8.122:8080/lietuvos_ryto_tv/index.m3u8
+#EXTINF:-1,Liuks
+http://88.216.8.122:8080/liuks/index.m3u8
+#EXTINF:-1,LNK
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:-1,LRT televizija
+http://88.216.8.122:8080/lrt_televizija/index.m3u8
+#EXTINF:-1,LRT TELEVIZIJA HD
+http://88.216.8.122:80/lrt_televizija_hd/index.m3u8
+#EXTINF:-1,LRT PLIUS
+http://88.216.8.122:80/lrt_kultura/index.m3u8
+#EXTINF:-1,MCM TOP HD
+http://88.216.8.122:8080/mcm_top/index.m3u8
+#EXTINF:-1,Mezzo
+http://88.216.8.122:8080/mezzo/index.m3u8
+#EXTINF:-1,MIR
+http://88.216.8.122:8080/mir/index.m3u8
+#EXTINF:-1,MIR24
+http://88.216.8.122:8080/mir_24/index.m3u8
+#EXTINF:-1,MIR Premium HD
+http://88.216.8.122:8080/mir_hd/index.m3u8
+#EXTINF:-1,Moya Planeta
+http://88.216.8.122:8080/moya_planeta/index.m3u8
+#EXTINF:-1,MTV Europe
+http://88.216.8.122:8080/mtv_europe/index.m3u8
+#EXTINF:-1,Nashe_Kino
+http://88.216.8.122:8080/nashe_kino/index.m3u8
+#EXTINF:-1,National Geographic
+http://88.216.8.122:8080/national_geographic/index.m3u8
+#EXTINF:-1,Nauka
+http://88.216.8.122:8080/nauka/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://88.216.8.122:8080/nickelodeon/index.m3u8
+#EXTINF:-1,Noviy Mir
+http://88.216.8.122:8080/noviy_mir/index.m3u8
+#EXTINF:-1,Perec Int.
+http://88.216.8.122:80/peretz/index.m3u8
+#EXTINF:-1,PRO 7
+http://88.216.8.122:8080/pro_sieben/index.m3u8
+#EXTINF:-1,REN TV
+http://88.216.8.122:8080/ren_tv/index.m3u8
+#EXTINF:-1,Rossiya24
+http://88.216.8.122:8080/rossiya24/index.m3u8
+#EXTINF:-1,RTL
+http://88.216.8.122:8080/rtl/index.m3u8
+#EXTINF:-1,RTL 2
+http://88.216.8.122:8080/rtl2/index.m3u8
+#EXTINF:-1,RTVi
+http://88.216.8.122:8080/rtvi/index.m3u8
+#EXTINF:-1,SAT 1
+http://88.216.8.122:8080/sat1/index.m3u8
+#EXTINF:-1,Setanta Sport HD
+http://88.216.8.122:8080/setanta_hd/index.m3u8
+#EXTINF:-1,Shanson TV
+http://88.216.8.122:8080/shanson_tv/index.m3u8
+#EXTINF:-1,Sony Channel
+http://88.216.8.122:8080/sony_channel/index.m3u8
+#EXTINF:-1,Sony Entertainment
+http://88.216.8.122:8080/sony_entertainment/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://88.216.8.122:8080/sony_turbo/index.m3u8
+#EXTINF:-1,Sport 1
+http://88.216.8.122:8080/sport_1/index.m3u8
+#EXTINF:-1,STS International
+http://88.216.8.122:8080/sts_international/index.m3u8
+#EXTINF:-1,SUPER RTL
+http://88.216.8.122:8080/super_rtl/index.m3u8
+#EXTINF:-1,Terra
+http://88.216.8.122:8080/terra/index.m3u8
+#EXTINF:-1,TNT International
+http://88.216.8.122:8080/tnt_international/index.m3u8
+#EXTINF:-1,TNT4
+http://88.216.8.122:8080/tnt4/index.m3u8
+#EXTINF:-1,Travel
+http://88.216.8.122:8080/travel/index.m3u8
+#EXTINF:-1,Trofey
+http://88.216.8.122:8080/trofey/index.m3u8
+#EXTINF:-1,TV1
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:-1,TV1000
+http://88.216.8.122:8080/tv1000/index.m3u8
+#EXTINF:-1,TV1000 Russkoe kino
+http://88.216.8.122:8080/tv_1000_russkoe_kino/index.m3u8
+#EXTINF:-1,TV3
+http://88.216.8.122:8080/tv3/mpegts
+#EXTINF:-1,TV5 Monde
+http://88.216.8.122:8080/tv5/index.m3u8
+#EXTINF:-1,TV6
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:-1,TV8
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:-1,TVCi
+http://88.216.8.122:8080/tvci/index.m3u8
+#EXTINF:-1,TVPlay Sports
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1,TVP Polonia
+http://88.216.8.122:8080/tvp_polonia/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://88.216.8.122:8080/viasat_explore/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://88.216.8.122:8080/viasat_history/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://88.216.8.122:8080/viasat_nature/index.m3u8
+#EXTINF:-1,ViP Comedy HD
+http://88.216.8.122:8080/vip_comedy/index.m3u8
+#EXTINF:-1,VOX
+http://88.216.8.122:8080/vox/index.m3u8
+#EXTINF:-1,TV XXI
+http://88.216.8.122:8080/tv_xxi/index.m3u8
