@@ -2,7 +2,7 @@
 
 <items>
 
-<channel>
+<!-- <channel>
 	<title><![CDATA[Aš prieš tave / Me Before You (2016)]]></title>
 	<description><![CDATA[
     <div style="display: table; width: 100%; vertical-align:top;">
@@ -61,16 +61,11 @@
     </div>
   ]]></description>
 	<stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Me_Before_You_2016_BDRip.mp4]]></stream_url>
-</channel>
+</channel> -->
 
 <channel>
-  <title><![CDATA[playlist 1]]></title>
-  <description>
-    <![CDATA[
-    Playlist by genre.
-    ]]>
-  </description>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/filmai_parser/results.xml]]></playlist_url>
+  <title><![CDATA[Išlydėtojai]]></title>
+  <channel_url><![CDATA[https://vxf2.filmai.in/play/5eoKFHpFXrXzi7sFwBpZug/1575063147/2/29600_LT_Departures_2008_DVDRip.mp4]]></channel_url>
 </channel>
 
 </items>

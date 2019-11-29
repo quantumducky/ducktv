@@ -43,8 +43,8 @@
 </channel>
 
 <channel>
-  <title><![CDATA[Test]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+  <title><![CDATA[Kita]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.xml]]></playlist_url>
 </channel>
 
 
