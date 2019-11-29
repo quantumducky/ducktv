@@ -44,7 +44,7 @@
 
 <channel>
   <title><![CDATA[Kita]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.xml]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.m3u8]]></playlist_url>
 </channel>
 
 
