@@ -1,0 +1,143 @@
+#EXTM3U url-tvg="https://webarmen.com/my/iptv/xmltv.xml.gz"
+#EXTINF:-1 group-title="- IPTV webarmen.com/iptv" tvg-id="1" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/0.png" tvg-name="[Обновлён 02.01.2020 22:16 | каналов 149]", [Обновлён 02.01.2020 22:16 | каналов 131]
+#EXTGRP:- IPTV webarmen.com/iptv
+https://webarmen.com/my/iptv/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV webarmen.com/iptv" tvg-id="2" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/0.png" tvg-name="[Telegram https://t.me/webarmen | Группа https://vk.com/iptvweb]",[Telegram https://t.me/webarmen | Группа https://vk.com/iptvweb]
+#EXTGRP:- IPTV webarmen.com/iptv
+https://webarmen.com/my/iptv/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV webarmen.com/iptv" tvg-id="3" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/0.png" tvg-name="[Поддержите! https://webarmen.com/iptv]",[Поддержите! https://webarmen.com/iptv]
+#EXTGRP:- IPTV webarmen.com/iptv
+https://webarmen.com/my/iptv/uploads/files/webarmen_iptv.mp4
+#EXTINF:-1 group-title="- IPTV webarmen.com/iptv" tvg-id="4" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/0.png" tvg-name="[Ваша поддержка помогает развивать проект и улучшать его качество!]",[Ваша поддержка помогает развивать проект и улучшать его качество!]
+#EXTGRP:- IPTV webarmen.com/iptv
+https://webarmen.com/my/iptv/uploads/files/dog.mp4
+#EXTINF:-1 group-title="Новости;HD" tvg-id="2.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/2.png" tvg-name="Первый канал HD",Первый канал HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="177.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" tvg-name="Россия 1",Россия 1
+#EXTGRP:LIVE
+http://fr01.spr24.net/5673/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:-1 group-title="Новости" tvg-id="200.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/200.png" tvg-name="Москва 24",Москва 24
+#EXTGRP:Новости
+http://176.49.55.50:1234/udp/233.7.70.35:5000
+#EXTINF:-1 group-title="Новости" tvg-id="217.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/217.png" tvg-name="Ru TV",Ru TV
+#EXTGRP:Развлекательные
+http://188.35.9.9:21121/udp/184p
+#EXTINF:-1 group-title="Развлекательные" tvg-id="157.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/157.png" tvg-name="ТВ Центр",ТВ Центр
+#EXTGRP:Развлекательные
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные" tvg-id="136.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/136.png" tvg-name="ТВ-3",ТВ-3
+#EXTGRP:Развлекательные
+http://str1.fox-tv.fun:80/1plus1/mono.m3u8?token=happy_new_year_2020
+#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/183.png" tvg-name="Армения ТВ",Армения ТВ
+#EXTGRP:Развлекательные
+http://188.35.9.26:11031/udp/160g
+#EXTINF:-1 group-title="Развлекательные" tvg-id="199.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/199.png" tvg-name="E TV",E TV
+#EXTGRP:Кулинария
+http://31.130.19.65:81/udp/238.1.2.87:1234
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="11.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/11.png" tvg-name="Discovery Science HD",Discovery Science HD
+#EXTGRP:Познавательные
+http://5.129.5.72:81/udp/239.1.21.143:1234
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="18.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/18.png" tvg-name="Discovery Channel HD",Discovery Channel HD
+#EXTGRP:Познавательные
+http://2.60.50.50:1234/udp/233.7.70.12:5000
+#EXTINF:-1 group-title="Познавательные;HD" tvg-id="10.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/10.png" tvg-name="Discovery HD Showcase",Discovery HD Showcase
+#EXTGRP:Познавательные
+http://46.44.30.232:81/udp/224.0.90.246:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="77.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/77.png" tvg-name="Investigation Discovery",Investigation Discovery
+#EXTGRP:Познавательные
+http://188.35.9.9:21031/udp/038m
+#EXTINF:-1 group-title="Познавательные" tvg-id="16.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/16.png" tvg-name="Travel Channel",Travel Channel
+#EXTGRP:Познавательные
+http://89.107.36.241:81/udp/239.195.4.50:1234
+#EXTINF:-1 group-title="Познавательные" tvg-id="27.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/27.png" tvg-name="Планета",Планета
+#EXTGRP:Познавательные
+http://176.49.55.50:1234/udp/233.7.70.132:5000
+#EXTINF:-1 group-title="Познавательные" tvg-id="58.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/58.png" tvg-name="Наука 2.0",Наука 2.0
+#EXTGRP:Фильмы
+http://188.35.9.9:21031/udp/035c
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="24.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/24.png" tvg-name="Amedia Hit HD",Amedia Hit HD
+#EXTGRP:Фильмы
+http://94.78.215.124:1234/udp/225.54.225.167:5000
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="19.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/19.png" tvg-name="Дом кино премиум HD",Дом кино премиум HD
+#EXTGRP:Фильмы
+http://109.171.6.220:81/udp/239.54.6.224:1234
+#EXTINF:-1 group-title="Фильмы" tvg-id="172.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/172.png" tvg-name="Дом кино",Дом кино
+#EXTGRP:Фильмы
+http://95.191.235.160:1234/udp/225.54.23.33:5000
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="49.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/49.png" tvg-name="ViP Megahit HD",ViP Megahit HD
+#EXTGRP:Фильмы
+http://95.191.228.28:1234/udp/225.54.43.22:5000
+#EXTINF:-1 group-title="Фильмы" tvg-id="25.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/25.png" tvg-name="Кинохит",Кинохит
+#EXTGRP:Фильмы
+http://89.107.36.241:81/udp/239.195.6.14:1234
+#EXTINF:-1 group-title="Фильмы" tvg-id="87.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/87.png" tvg-name="Киносемья",Киносемья
+#EXTGRP:Фильмы
+http://31.130.19.65:81/udp/238.1.2.86:1234
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="146.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/146.png" tvg-name="Остросюжетное HD",Остросюжетное HD
+#EXTGRP:Фильмы
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+#EXTINF:-1 group-title="Фильмы;Ужасы;HD" tvg-id="95.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/95.png" tvg-name="Страшное HD",Страшное HD
+#EXTGRP:Фильмы
+http://90.189.185.11:1234/udp/225.54.53.32:5000
+#EXTINF:-1 group-title="Фильмы;Ужасы" tvg-id="41.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/41.png" tvg-name="НСТ",НСТ
+#EXTGRP:Фильмы
+http://109.171.127.22:81/udp/239.54.5.117:1234
+#EXTINF:-1 group-title="Фильмы" tvg-id="40.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/40.png" tvg-name="Paramount Comedy",Paramount Comedy
+#EXTGRP:Фильмы
+http://str1.fox-tv.fun:80/tvxxi/mono.m3u8?token=happy_new_year_2020
+#EXTINF:-1 group-title="Фильмы" tvg-id="122.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/122.png" tvg-name="Москва Доверие",Москва Доверие
+#EXTGRP:Фильмы
+http://92.127.243.28:1234/udp/225.54.23.45:5000
+#EXTINF:-1 group-title="Фильмы;HD" tvg-id="212.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/212.png" tvg-name="Кино ТВ HD",Кино ТВ HD
+#EXTGRP:Фильмы
+http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы;HD" tvg-id="159.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/159.png" tvg-name="Fox Life HD",Fox Life HD
+#EXTGRP:Сериалы
+http://79.133.109.246:999/udp/239.191.254.108:13343
+#EXTINF:-1 group-title="Сериалы" tvg-id="176.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/176.png" tvg-name="Загородная жизнь",Загородная жизнь
+#EXTGRP:Сериалы
+http://91.235.148.209:999/udp/239.191.255.31:13343
+#EXTINF:-1 group-title="Сериалы" tvg-id="162.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/162.png" tvg-name="Супер",Супер
+#EXTGRP:Сериалы
+http://canais.servidor.tv:8080/Ingrid123/Ingrid123/1463
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/93.png" tvg-name="HBO",HBO
+#EXTGRP:Сериалы
+http://209.222.97.118:25461/live/pantera22/pantera22/2770.ts
+#EXTINF:-1 group-title="Детям;HD" tvg-id="29.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/29.png" tvg-name="Nickelodeon HD",Nickelodeon HD
+#EXTGRP:Детям
+http://5.129.5.72:81/udp/239.1.21.52:1234
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/195.png" tvg-name="VIVA Russia",VIVA Russia
+#EXTGRP:Музыкальные
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="31.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/31.png" tvg-name="Bridge TV",Bridge TV
+#EXTGRP:Музыкальные
+http://str1.fox-tv.fun:80/vh1classic/mono.m3u8?token=happy_new_year_2020
+#EXTINF:-1 group-title="Спорт;HD" tvg-id="32.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/32.png" tvg-name="Матч! HD",Матч! HD
+#EXTGRP:Спорт
+http://79.133.109.246:999/udp/239.191.254.204:13343
+#EXTINF:-1 group-title="Спорт" tvg-id="65.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/65.png" tvg-name="Матч! Футбол 1",Матч! Футбол 1
+#EXTGRP:Спорт
+http://94.78.215.124:1234/udp/225.54.225.217:5000
+#EXTINF:-1 group-title="Спорт" tvg-id="66.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/66.png" tvg-name="Матч! Футбол 3",Матч! Футбол 3
+#EXTGRP:Спорт
+http://92.126.199.210:1234/udp/225.54.23.190:5000
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/45.png" tvg-name="Наш футбол HD",Наш футбол HD
+#EXTGRP:Спорт
+http://188.35.9.9:21081/udp/157s
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/90.png" tvg-name="Bein Sport HD",Bein Sport HD
+#EXTGRP:Спорт
+http://ultimateiptv.me:8081/najat/najat123/892
+#EXTINF:-1 group-title="Спорт" tvg-id="84.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/84.png" tvg-name="Viasat Sport",Viasat Sport
+#EXTGRP:Спорт
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="Спорт;HD" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/126.png" tvg-name="SKY Sport News HD",SKY Sport News HD
+#EXTGRP:Спорт
+http://178.196.237.240:3000/play/ccSkyNEwscc
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/125.png" tvg-name="Sky Sport News",Sky Sport News
+#EXTGRP:Спорт
+http://178.196.237.240:7777/play/a01u
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/216.png" tvg-name="UFC",UFC
+#EXTGRP:Спорт
+http://tv.iptv5region.com:25461/dia/dia/626
+#EXTINF:-1 group-title="Животные" tvg-id="56.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/56.png" tvg-name="Viasat Nature",Viasat Nature

@@ -1,0 +1,137 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Общие",Первый HD
+http://85.208.223.249:7088/udp/239.192.0.101:8000
+#EXTINF:-1 group-title="Общие",НТВ 
+http://31.40.128.20/hls/004_ntv.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 group-title="Кино",Рен ТВ 
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Общие",Москва 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:, Пятница! HD
+#EXTGRP:Общие
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:, Пятый Канал
+http://46.32.68.167/s/live/5/ontv.ml/0/0.m3u8
+#EXTINF:-1,Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир Premium 
+#EXTGRP:HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Звезда
+#EXTGRP:HD
+http://livezvezda.cdnvideo.ru/zv/zvezda2.sdp/playlist.m3u8
+#EXTINF:-1,Домашний
+http://46.32.68.167/s/live/14/ontv.ml/0/0.m3u8
+#EXTINF:-1,Домашний
+http://46.165.2.202:8080/domashniy/mpegts
+#EXTINF:-1,Москва Доверие
+http://cdn.ottg.tv/6289/video.m3u8?username=Artart111&password=firence&token=b1b3377aaba83fb9b6eb3ff0ea1dc635&ch_id=563
+#EXTINF:-1,Звезда
+#EXTGRP:Общие
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,ОТР
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
+#EXTINF:-1,Телеканал 360
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:, ТНТ HD 
+#EXTGRP:Общие
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:, ТНТ4 
+#EXTGRP:Общие
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:, СТС
+#EXTGRP:Общие
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1,СТС International
+#EXTGRP:Общие
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:, Супер 
+#EXTGRP:Общие
+http://85.112.114.11:8086/udp/238.2.49.249:1234
+#EXTINF:-1,Загородная Жизнь
+http://46.32.68.167/s/live/421/ontv.ml/0/0.m3u8
+#EXTINF:-1,Дом Кино 
+http://46.32.68.167/s/live/207/ontv.ml/0/0.m3u8
+#EXTINF:-1,Persik
+http://persik.by/stream/5914/413845/10542.m3u8
+#EXTINF:-1 group-title="Кино",Культура
+http://46.32.68.167/s/live/6/ontv.ml/0/0.m3u8
+#EXTINF:0,Мульт
+http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+#EXTINF:-1,National Geographic HD
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:-1,Nat Geo Wild HD
+http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8
+#EXTINF:-1,FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:-1,FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:-1,Sony Channel HD
+http://178.124.183.5/hls/VPRSUR2WN2/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+#EXTINF:-1,Sony Sci-Fi 
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1,Русский иллюзион 
+http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+#EXTINF:-1,Кино UHD
+http://188.35.9.26:16050/udp/238.0.16.1:69000
+#EXTINF:-1,НСТ
+http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:-1,Кинопремьера HD
+http://178.124.183.5/hls/CH_KINOPREMERA/variant.m3u8?version=2
+#EXTINF:-1,Киносемья
+http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:-1,Киносерия
+http://178.124.183.5/hls/CH_KINOSERIA/variant.m3u8?version=2
+#EXTINF:-1,Мужское кино
+http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Русская Комедия
+http://188.113.190.12/214/index.m3u8
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Кино
+http://178.163.16.8:4022/udp/234.0.0.250:2000
+#EXTINF:-1,Русский Роман
+#EXTINF:-1,Star Cinema
+http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2
+#EXTINF:-1,Star Family
+http://178.124.183.5/hls/CH_FAMILY/variant.m3u8?version=2
+#EXTINF:-1,Bolt
+http://178.124.183.5/hls/CH_BOLT/variant.m3u8?version=2
+#EXTINF:-1,Amedia Premium HD
+http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:-1,Мир сериала
+http://46.32.68.167/s/live/261/86.169.51.136/0/0.m3u8
+#EXTINF:-1,CBS Reality
+http://46.32.68.167/s/live/262/86.169.51.136/0/0.m3u8
+#EXTINF:-1,Сарафан
+http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
+#EXTINF:-1,Бобёр
+http://46.32.68.167/s/live/418/100.0.0.5/1/0.m3u8
+#EXTINF:-1,Че +2
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1 group-title="Общие",Дача
+http://193.33.39.107:8088/dacha/index.m3u8
+#EXTINF:-1,RU TV HD
+#EXTGRP:HD
+http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+#EXTGRP:Музыка
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,Евроновости
+#EXTGRP:Другое
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,Россия 24
+https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
+#EXTINF:-1,პირველი არხი tvg-logo="http://embed.myvideo.ge/v3_imgs/tv/tv_gpb"    
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1,მეორე არხი
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,რუსთავი 2
+http://md-store4.tulix.tv/rustavi2/index.m3u8
+#EXTINF:-1,იმედი tvg-logo="imedi"
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ფორმულა
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v2a1/mono.m3u8

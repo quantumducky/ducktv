@@ -1,0 +1,947 @@
+#EXTM3U
+#EXTINF:-1 group-title="HD;Россия" ,Первый канал HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FORTHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Первый канал
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FORT&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,Россия 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Россия 1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1NTVplus&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Россия 24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya24&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Россия К
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiyaK&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,НТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,НТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,НТВ Мир
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVMIR&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,ТНТ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTNTHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,ТНТ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTNT&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,РЕН ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frentvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,РЕН ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRenTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,ТНТ4 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,ТНТ4
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,СТС
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTS&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,СТС Love
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCTCLove&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Че
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FChe&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,МИР HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMirHDNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Мир ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMir&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Мир 24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMir24NTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,5 канал (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F5kanal&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,Пятница HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Пятница
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPyatnica&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Домашний
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDomashiy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,ТВ Центр
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVC&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Звезда
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZvezda&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,360° Подмосковье HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F360podmoskoviehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,360° Новости HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F360news&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,365 Дней ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F365&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Известия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIsvestiya&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,Известия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fizvestiahd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Россия" ,Дождь. Optimistic channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDozdHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Дождь. Optimistic channel
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDozdSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Москва-24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMoskva24&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Санкт-Петербург
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSanktpeterburg&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,ОТР
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fotp&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Ностальгия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNostalgia&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Сарафан
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSarafan&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,RTVi
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTVI&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Перец International
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPeretzInt&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,КВН ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKVN&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,2x2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F2x2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Россия" ,Ю
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKanalJ&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Беларусь" ,Беларусь 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Беларусь" ,Беларусь 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Беларусь" ,Беларусь 3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Беларусь" ,Беларусь 24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelarus24&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Беларусь" ,СТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Feurochannel&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Беларусь",8 канал (Беларусь) HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10037&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Беларусь" ,Белсат ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelsat&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Беларусь" ,ТРО
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBelRos&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина" ,112 Украина
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F112Ukraine&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,112 Украина HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F112UkraineHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,24 (Телеканал новостей 24) HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F24nowostihd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина" ,5 канал
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F5kanalUA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",Интер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FINTER&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",Интер +
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FInterplus&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",НТН
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTN&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",Zoom
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoom&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",К1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",К2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина",Мега
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMega&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,UA:Перший HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUAPerviyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,NewsOne HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNewsOneHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Украина" ,Киев
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKievTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,Zik HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fzikhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,Громадське HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHromadskeTVHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,UATV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUATV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,4 канал HD Украина
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTIHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,7 канал HD Украина
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F7kanalHDUA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,Еспресо TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEspressoHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,Oboz TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOBOZTVHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,Телевсесвит HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelevsesvitHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Украина" ,ПравдаТУТ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPravdaTUTHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,AMC
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAMCRUS&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Amedia 1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FA1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Amedia 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Amedia 2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FA2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Amedia 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Amedia Hit
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Amedia Hit HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Amedia Premium
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Amedia Premium HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Film.Ua Live HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmUALive&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Film.Ua Drama HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmuaDramaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Film.Ua Drama
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmuaDrama&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,FilmBox ArtHouse HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ffilmboxarthousehdtene&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,FilmBox ArtHouse
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmBoxArthouseHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,FilmBox
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmbox&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Film Zone
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmzone&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Film Zone+ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFilmzoneplusHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,FOX HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,FOX
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFox&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Fox Life HD 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ffoxlifehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Fox Life
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFoxLife&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Paramount Comedy HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Paramount Comedy
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FParamountComedy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Paramount HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Paramount
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FParamountChannel&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,SET (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSony&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,SET Россия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fsonyhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,AXN Sci-Fi Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSonySciFi&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Sony Turbo
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSonyTurbo&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,TV1000 East
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000NTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,TV1000 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,TV1000 Action East
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000ActionNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,TV1000 Action East HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000actionhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,TV1000 World kino
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000WorldKino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,TV1000 Русское кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000RusKino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,TV1000 Русское кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000rukinohd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы",TV 3 Film
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumLT&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы",TV 3 Film HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,VIP Comedy
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000Comedy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,VIP Comedy HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViPComedyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,VIP Megahit
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVIPMegahit&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,VIP Megahit HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViPMegahitHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,VIP Premiere
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVIPPremiere&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,VIP Premiere HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViPPremiereHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,VIP Serial
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVIPSerialSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,VIP Serial HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,ZeeTV Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZeeNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Дом кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDomkino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Дом кино премиум
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDKPremium&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Дом кино премиум HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDomkinoPremiumHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Кинопоказ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokazSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Киномикс
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinomix&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Киномикс HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Киносемья
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemya&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Киносемья HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Киносвидание
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanie&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Киносвидание HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Кинохит
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinohit&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Кинохит HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Мужское кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Мужское кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Наше новое кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashenovoekino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Наше новое кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10004&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Киносерия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoseria&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Киносерия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKINOSERIYAHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Кинокомедия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomedia&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Кинокомедия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomediyaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Кинопремьера HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Киноужас HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frivne1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Родное кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRodnoekino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Индийское кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIndiyskoekino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Кино ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Любимое кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashelubimoekinoNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Кино ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Еврокино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurokino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Еврокино HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,КиноПремиум HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoPremiumHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Наш кинороман HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Шокирующее HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz1HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Комедийное HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz2HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Остросюжетное HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Наше крутое HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashDetektivHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Наше любимое HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNasheLubimoeHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Романтичное HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Страшное
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTRASNOETV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Страшное HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fstrashnoehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,НСТ (Страшное)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNST&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Мир сериала
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMirseriala&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Русская комедия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianComedy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,ТВ3 Россия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3HDRUS&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,ТВ3 Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV3&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,ТВ XXI
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVXXINTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,НТВ Сериал
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVSerial&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,НТВ Хит
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHit&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Иллюзион+
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIllusionplus&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Иллюзион+ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Русский иллюзион
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianIllusion&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Русский иллюзион HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Русский бестселлер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianBestseller&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Русский детектив
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frussiandetektiv&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Русский роман
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianRoman&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Русский роман HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frussianromanhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Победа HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPOBEDA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Феникс+Кино
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ffenixkino&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Супер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSuper&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Супер HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSuperHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Bolt
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoltUKR&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Bolt HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoltHDUKR&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Bolt HD Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBOLTHDRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Bollywood
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBollywood&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Bollywood HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBollywoodHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Spike
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSpike&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Spike HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Cinema
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fcinema&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Cinema (Космос ТВ) HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10002&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Kino Sat
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosat&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Star Cinema HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Star Cinema HD Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHDRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Star Family HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Star Family HD Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHDRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Hollywood
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAMC&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Hollywood HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMGMHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Fan
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFanHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Fan HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFanHDL&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Epic Drama
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEpicDramaHDRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Epic Drama HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEpicDramaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" tvg-logo="http://911tv.info/images/channel/1567941987.png" ,TOP VHS HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTopComedyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://911tv.info/images/channel/1567941987.png" ,TOP Cinema HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPCinema&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="https://img11.lostpic.net/2018/07/24/7273048f00827df00730058c037bad8b.png" ,TOP 80s
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" tvg-logo="http://911tv.info/images/channel/1557733163.png" ,TOP СССР
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Sky1000 Russian HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTopHorrorHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Кино и сериалы" ,Dorama
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDorama&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Кино и сериалы" ,Dorama HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDoramaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTVHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Арена
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchArena&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Арена HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchArenaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Боец
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchBoec&login=voryag&key=FRedfr66
+#EXTINF:- group-title="Спорт" ,Матч! Игра
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchIgra&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Игра HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchIgraHD&login=voryag&key=FRedfr66
+#EXTINF:- group-title="Спорт" ,Матч! Планета
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchPlaneta&login=voryag&key=FRedfr66
+#EXTINF:- group-title="Спорт" ,Матч! Страна
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchNashSport&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Премьер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbal&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Премьер HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbalHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Футбол 1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Футбол 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Футбол 2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Футбол 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Матч! Футбол 3
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Матч! Футбол 3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Футбол
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftelekanalfootbal&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Футбол HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelekanalFootbalHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Футбол 1 HD
+http://cdn05n.ipstream.one/futbol1hd_ua/video.m3u8?token=u.43979.7e778368aaa347ae912e482c4a888eef18
+#EXTINF:-1 group-title="HD;Спорт" ,Сетанта Спорт HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Сетанта Спорт + HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaEurasiaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-logo="http://ott.onlineott.tv/logos/1415.png" group-title="Спорт",Сетанта Спорт UA
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10019&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Сетанта Спорт UA HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10018&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-id="setanta-kz" tvg-logo="http://ott.onlineott.tv/logos/1399.png" group-title="HD;Спорт",Setanta Казахстан HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10050&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Eurosport 1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Eurosport 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Eurosport 2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Eurosport 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Eurosport Gold
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgold&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Eurosport Gold HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgoldhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,КХЛ ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKHL&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,КХЛ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKHLHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Русский экстрим
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianExtremeSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Русский экстрим HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianEkstrimHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Fast&Funbox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFastFunHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,FightBox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFightBoxHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Viasat Sport
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Viasat Sport HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatSportHDNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Viasat Sport Premium HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUmultzal2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Xsport
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FXsport&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Xsport HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FXsportHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Спорт 1
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSport1&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Спорт 2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSport2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Спорт 1 Baltic
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSport1Baltic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Спорт 2 Baltic
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSport2Baltic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Бокс ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoksTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Мотоспорт ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMotorsports&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Конный мир HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKonnyiMirHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Fuel HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ffueltvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,MostVideo HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMostVideoTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Super Tennis HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSuperTennisHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,M-1 Global
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FM1Global&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,M-1 Global HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10003&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Авто плюс HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAVTOPLUSHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,UFC HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUFCHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Спорт" ,Мир баскетбола
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMirBasketbola&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Спорт" ,Беларусь 5 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FB5&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Animal planet Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Animal planet Россия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Discovery Channel (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannel&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Discovery Россия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Discovery Восточная Европа
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryCEE&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Discovery Восточная Европа HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHDEuropa&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Discovery HD Showcase
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryShowcaseHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Discovery Science
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryScience&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Discovery Science HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Discovery Wold
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryWorld&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,DTX
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDTX&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,DTX HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdtxhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Investigation Discovery
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryIDXtra&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Investigation Discovery HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fidxhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,National Geographic (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicRu&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,National Geographic HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Nat Geo Wild Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWild&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Nat Geo Wild HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,History (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHistory&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,History Россия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHistoryHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,H2
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FH2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,H2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fh2tvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,HD-Life
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHDLife&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Travel channel
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannel&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Travel channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannelHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Travel+Adventure
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTravelAdventureNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Travel+Adventure HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Большая Азия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBigAsiaSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Большая Азия HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fbolshajaasia&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,DocuBox
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDocubox&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,DocuBox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDocuBoxHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Планета HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Приключения HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTeletravelHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Eureka HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurekaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,В мире животных HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalFamelyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,RTG TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTGTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,RTG HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRTGHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Поехали!
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPoexali&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Viasat Explorer (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatExplorerNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Viasat Explorer (Россия) HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatexplorehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Viasat Nature
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Viasat Nature HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Viasat History
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatHistoryNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Viasat History HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fviasathistoryhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Viasat Nature/History HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FViasatNatureHistoryHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Живая природа HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZhivajaPrirodaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Морской HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fmorskojhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Ocean TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOceanTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Глазами туриста HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGlazamiTuristaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Телепутешествия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTeleputishestvie&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Galaxy-TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGalaxy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Galaxy-TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTAINYGALAKTIKIHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,NANO TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNANOHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Fine Living
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFineLiving&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Fine Living HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFineLivingHDXTRA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Твой дом HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftvoidomhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Загородный
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZagorodniy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Загородный HD Int
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZagorodniyINT&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Дача HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDachaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Авто 24
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAvto24&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Авто 24 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Favto24hd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Первый автомобильный HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPervyiAvtomobilnyiHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Охотник и рыболов HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fohotnikiribakhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Охотник и рыболов HD Int
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOhotnikirybolovINT&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Дикий
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDikiy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Дикая охота HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDikayaOxotaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Дикая Рыбалка HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDikayaRybalkaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Диалоги о рыбалке HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdialogiorubalkehd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Трофей HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTrofeyHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,TLC HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTLCHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,myZen.tv HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fmyzentvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Еда HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fedahd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Кухня ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKuxniyaTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Кухня ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKUXYJAHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Телекафе
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelekafe&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Food Network HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ffoodnetworkhdrt&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Museum HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fmuseumhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Театр HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTHEATERHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Доктор
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDoktor&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Доктор HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDoktorHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Настоящее время HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNastoyasheVremiyaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Точка отрыва HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOCHKAOTRIVAHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,FashionBox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFashionBox&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Fashion TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFashionHDTELEK&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,HDFASHION
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FHDFashion&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,ID Fashion HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FIDFashionHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Наша Сибирь HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashaSibirHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Совершенно секретно
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSovsekretno&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,РБК ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRBK&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,24Техно
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTexno24&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Оружие
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Forujie&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Мужской
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoy&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Живи
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZhivi&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Зоо ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoo75e&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,ZooПарк
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZooparkNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Драйв
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDrive75e&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Усадьба
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FUsadba&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Домашние животные
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDomashnieZhivotnie&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Вопросы и ответы
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVoprosyiotvety75e&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Психология 21
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPsihologia21&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Ретро
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRetro&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Охота и рыбалка
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOhotairubalka&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Живая планета
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZhivayaPlaneta&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Моя планета
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMoyaPlaneta&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Познавательные" ,Планета HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Наука 2.0
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNauka20&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Наука Украина
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNauka&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Тайна
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTayna&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Кто есть кто
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKtoestkto&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Время
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVremya&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Мир увлечений
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMirUvlecheniya&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-logo="http://ott.onlineott.tv/logos/1405.png" group-title="Познавательные" ,Наша тема
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashatema&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-logo="http://ott.onlineott.tv/logos/1405.png" group-title="HD;Познавательные",Наша тема HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10046&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Тномер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTnomer&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,Бобер
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBober&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,НТВ Стиль
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVStyle&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,НТВ Право
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVPravo&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Познавательные" ,CBS Reality
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCBSReality&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,1HD.ru
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F1HD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,AIVA HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSportklub2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Bridge TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Bridge TV Hits
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeDance&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Bridge TV Русский Хит
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeRussianHit&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Bridge TV Classic
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBridgeTVClassic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Bridge HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBRIDGEHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,EU Music
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEUMusic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,EU Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEUMusicHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Mezzo Live HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMezzoLiveHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MTV Россия
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MTV Hits
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMTVHits&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MTV Dance
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMTVDance&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MTV Rocks
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMTVRocks&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,MTV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fmtvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,MTV Live HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMTVLiveHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MCM Top
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMCMTop&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,ЖАРА
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZhara&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,ЖАРА HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZharaHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MusicBox RU
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRussianMusicBox&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,MusicBox RU HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frumusicboxhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,MusicBox UA
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMusicBoxUA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,MusicBox UA HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMusicBoxUAHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Trace Urban HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10001&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,RU.TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRUTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,RU.TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frutvhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Муз-ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Музыка Первого
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzikapervogo&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,O!2 
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FO2SD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,O!2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FO2&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Europa Plus TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEuropaPlus&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Europa Plus TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEuropaplusHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Deluxe Music
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDeluxeMusic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Deluxe Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDEluxeMusicHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Stingray iConcert HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ficoncertshd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Наше ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNasheTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Наш HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNasheHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Наше Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNasheMusicHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,360TuneBox HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F360TuneBoxHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,4Ever Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F4evermusicHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,ТНТ Music
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTNTMusic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,ТНТ Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,С Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCmusicTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Polsat Music HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPolsatMusicHDPL&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Музыка" ,Planeta HD BG
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FPlanetaHDBG&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,VH1 Europe
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVH1Europen&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,VH1 Classic Europe
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVH1Classic&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Ля-минор
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLaMinor&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Шансон ТВ
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FShansonTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Музыка" ,Радио Страна FM
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRadioStranaFM&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Ani
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FAni&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Baby TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBabyTVXTRA&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Duck TV
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDuckTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Nick Jr
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickJr&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Nick Toons
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickToon&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Nickelodeon (Россия)
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeon&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Nickelodeon HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,NIKI Kids
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKids&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,NIKI Kids HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,NIKI Junior
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJunior&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,NIKI Junior HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Канал Disney
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisney&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Disney Junior
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Disney XD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Cartoon Network
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FCartoonNetworkNTV&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Cartoon Network HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,СТС Kids
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsSD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,СТС Kids HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Наше Kids HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashKidsHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Мульт
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMult&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Мультимания
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMultimania&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Мульт и музыка
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMultiMusika&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Мультик HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Карусель
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKarusel&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,В гостях у сказки
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FVgostiahUSkaski&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Lale
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLale&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Lale HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FLaleHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Тлум HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Капитан Фантастика HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGingerHD&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="HD;Детские" ,Детский HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Boomerang
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Малыш
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMalysh&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,МАМА
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMama&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Радость моя
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRadostMoya&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,JimJam
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FJimJam&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Tiji
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTiji&login=voryag&key=FRedfr66
+#EXTINF:-1 group-title="Детские" ,Gulli Girl
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FGulliGirl&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-id="kidzone" tvg-logo="http://ott.onlineott.tv/logos/1054.png" group-title="Детские",KidZone
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidZone&login=voryag&key=FRedfr66
+#EXTINF:-1 tvg-id="kidzone-plus" tvg-logo="http://ott.onlineott.tv/logos/1069.png" group-title="HD;Детские",KidZone HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKidzoneHD&login=voryag&key=FRedfr66

@@ -1,0 +1,119 @@
+﻿#EXTM3U
+#EXTINF:-1,rtg HD
+http://185.78.112.18/rtg_hd/index.m3u8
+#EXTINF:-1,rtdoc HD
+http://185.78.112.18/rtdoc_hd/index.m3u8
+#EXTINF:-1,rt HD
+http://185.78.112.18/rt_hd/index.m3u8
+#EXTINF:-1,rossia HD
+http://185.78.112.18/rossia_hd/index.m3u8
+#EXTINF:-1,planeta HD
+http://185.78.112.18/planeta_hd/index.m3u8
+#EXTINF:-1,ort HD
+http://185.78.112.18/ort_hd/index.m3u8
+#EXTINF:-1,natgeo HD
+http://185.78.112.18/natgeo_hd/index.m3u8
+#EXTINF:-1,nash_football HD
+http://185.78.112.18/nash_football_hd/index.m3u8
+#EXTINF:-1,mir HD
+http://185.78.112.18/mir_hd/index.m3u8
+#EXTINF:-1,khl HD
+http://185.78.112.18/khl_hd/index.m3u8
+#EXTINF:-1,fox HD
+http://185.78.112.18/fox_hd/index.m3u8
+#EXTINF:-1,FoxLife HD
+http://185.78.112.18/fox_life_hd/index.m3u8
+#EXTINF:-1,football2 HD
+http://185.78.112.18/football2_hd/index.m3u8
+#EXTINF:-1,football1 HD
+http://185.78.112.18/football1_hd/index.m3u8
+#EXTINF:-1,football3 HD
+http://185.78.112.18/football3_hd/index.m3u8
+#EXTINF:-1,premiera HD
+http://185.78.112.18/premiera/index.m3u8
+#EXTINF:-1,ViasatSportHD
+http://185.78.112.18/ViasatSportHD/index.m3u8
+#EXTINF:-1,ViasatHistoryHD
+http://185.78.112.18/ViasatHistoryHD/index.m3u8
+#EXTINF:-1,Телепутешествия HD
+http://185.78.112.18/teletravel_hd/index.m3u8
+#EXTINF:-1,Еда HD
+http://185.78.112.18/eda_hd/index.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://185.78.112.18/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://185.78.112.18/natgeo_wild_hd/index.m3u8
+#EXTINF:-1,Мужское кино HD
+http://185.78.112.18/muzhskoe-kino_hd/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://185.78.112.18/BollywoodHD/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://185.78.112.18/match-igra_hd/index.m3u8
+#EXTINF:-1,Матч тв HD
+http://185.78.112.18/match_hd/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://185.78.112.18/arena_hd/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://185.78.112.18/mtvlivehd/index.m3u8
+#EXTINF:-1,1HD MUSIC
+http://185.78.112.18/1hd/index.m3u8
+#EXTINF:-1,Телеканал 360 HD
+http://185.78.112.18/360tv_hd/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://185.78.112.18/amedia_premium_hd/index.m3u8
+#EXTINF:-1,Amedia HIT HD
+http://185.78.112.18/amedia_hit_hd/index.m3u8
+#EXTINF:-1,BRiDGE HD
+http://185.78.112.18/bridge_hd/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.78.112.18/tnt_hd/index.m3u8
+#EXTINF:-1,DocuBoxHD
+http://185.78.112.18/DocuBoxHD/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://185.78.112.18/AnimalPlanetRussiaHD/index.m3u8
+#EXTINF:-1,Discovery HD
+http://185.78.112.18/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1,History HD
+http://185.78.112.18/History-HD/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://185.78.112.18/TravelChannelHD/index.m3u8
+#EXTINF:-1,Кино тв HD
+http://185.78.112.18/kino_tv_hd/index.m3u8
+#EXTINF:-1,Русский роман HD
+http://185.78.112.18/russki_roman_hd/index.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://185.78.112.18/VIPComedyHD/index.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://185.78.112.18/VIPPremiereHD/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://185.78.112.18/VIPMegahitHD/index.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://185.78.112.18/DeluxeMusicHD/index.m3u8
+#EXTINF:-1,NRJ HD 
+http://185.78.112.18/NRJTV/index.m3u8
+#EXTINF:-1,ТЛУМ HD
+http://185.78.112.18/thlum_hd/index.m3u8
+#EXTINF:-1,Makkah HD
+http://185.78.112.18/MakkahLiveHD/index.m3u8
+#EXTINF:-1,НТВ право
+http://185.78.112.18/NTV_Pravo/index.m3u8
+#EXTINF:-1,НТВ стиль
+http://185.78.112.18/NTV_Style/index.m3u8
+#EXTINF:-1,НТВ сериал
+http://185.78.112.18/NTV_Serial/index.m3u8
+#EXTINF:-1,НТВ ХИТ
+http://185.78.112.18/NTV_Hit/index.m3u8
+#EXTINF:-1,Detektiv.tv
+http://185.78.112.18/Detektiv_tv/index.m3u8
+#EXTINF:-1,SPIKE
+http://185.78.112.18/SPIKE/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://185.78.112.18/ParamountChannelRussia/index.m3u8
+#EXTINF:-1,ДоРаМа
+http://185.78.112.18/Dorama/index.m3u8
+#EXTINF:-1,Дикий
+http://185.78.112.18/Dikiy/index.m3u8
+#EXTINF:-1,Jukebox
+http://185.78.112.18/Jukebox/index.m3u8
+#EXTINF:-1,КВН
+http://185.78.112.18/kvn_tv/index.m3u8

@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="112 Україна",112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 tvg-name="24 канал",24 канал
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1 tvg-name="5 канал (Ukraine)",5 канал (Ukraine)
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1 tvg-name="A HBO",A HBO
+http://188.35.9.11:21131/udp/164g
+#EXTINF:-1 tvg-name="ATR",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 tvg-name="CINEMAX",CINEMAX
+http://212.112.101.69:8081/stream42/output.m3u8
+#EXTINF:-1 tvg-name="DTV",DTV
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1 tvg-name="KRATU",KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 tvg-name="KRT",KRT
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 tvg-name="LALE",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-name="Maxxi TV",Maxxi TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 tvg-name="Most-video Sport",Most-video Sport
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-name="NTK UA",NTK UA
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-name="O-TV",O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 tvg-name="Ocean TV",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 tvg-name="RAI",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 tvg-name="SANAT",SANAT
+http://212.112.101.69:8081/stream19/output.m3u8
+#EXTINF:-1 tvg-name="Setanta sports",Setanta sports
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+#EXTINF:-1 tvg-name="STV",STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-name="TGTV",TGTV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 tvg-name="TV1000",TV1000
+http://212.112.101.69:8081/stream56/output.m3u8
+#EXTINF:-1 tvg-name="TV1000 Action",TV1000 Action
+http://212.112.101.69:8081/stream58/output.m3u8
+#EXTINF:-1 tvg-name="TV1000 Русское кино",TV1000 Русское кино
+http://212.112.101.69:8081/stream57/output.m3u8
+#EXTINF:-1 tvg-name="Малятко ТВ",Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 tvg-name="Перший",Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 tvg-name="Перший західний",Перший західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8

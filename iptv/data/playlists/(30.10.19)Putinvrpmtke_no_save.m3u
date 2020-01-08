@@ -1,0 +1,1113 @@
+﻿#EXTM3U
+#EXTINF:-1,D-TV6 HD
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6_HD
+#EXTINF:-1,Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TV_HD
+#EXTINF:-1,Первый канал HD
+http://dmitry-tv.ru/his/CH_1TVHD.m3u8
+#EXTINF:-1,Первый канал (+1)
+http://178.163.18.154:4022/udp/234.0.0.200:2000
+#EXTINF:-1,Первый канал (+6)
+http://dmitry-tv.ru/his/CH_1TV_6.m3u8
+#EXTINF:-1,Первый канал (Евразия)
+http://dmitry-tv.ru/his/CH_1TV_EVRAZIYA_KZ.m3u8
+#EXTINF:-1,Россия 1
+http://dmitry-tv.ru/his/CH_RUSSIA1.m3u8
+#EXTINF:-1,Россия 1 HD (720p)
+http://dmitry-tv.ru/his/CH_RUSSIA1HD_720.m3u8
+#EXTINF:-1,Россия 1 (+2)
+http://dmitry-tv.ru/his/CH_RUSSIA1_2.m3u8
+#EXTINF:-1,Россия 1 (+4)
+http://dmitry-tv.ru/his/CH_RUSSIA1_4.m3u8
+#EXTINF:-1,Россия 1 (+6)
+http://dmitry-tv.ru/his/CH_RUSSIA1_6.m3u8
+#EXTINF:-1,Россия 1 (+8)
+http://dmitry-tv.ru/his/CH_RUSSIA1_8.m3u8
+#EXTINF:-1,Россия 1 (Вайнах)
+http://dmitry-tv.ru/his/CH_RUSSIA1_VAINAH.m3u8
+#EXTINF:-1,Россия К
+http://dmitry-tv.ru/his/CH_RUSSIAK.m3u8
+#EXTINF:-1,Россия К (+7)
+http://dmitry-tv.ru/his/CH_RUSSIAK_7.m3u8
+#EXTINF:-1,Россия 24
+http://dmitry-tv.ru/his/CH_RUSSIA24.m3u8
+#EXTINF:-1,Россия 24 (Нижний Новгород)
+http://dmitry-tv.ru/his/CH_RUSSIA24_NN.m3u8
+#EXTINF:-1,Россия РТР
+http://dmitry-tv.ru/his/CH_RUSSIARTR.m3u8
+#EXTINF:-1,Россия РТР (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_RUSSIARTR_BLRUS.m3u8
+#EXTINF:-1,Россия РТР HD (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_RUSSIARTRHD_BLRUS.m3u8
+#EXTINF:-1,Волгоград 1 (Волгоград)
+http://dmitry-tv.ru/his/yatv/CH_VOLGOGRAD1.m3u8
+#EXTINF:-1,Волгоград 1 HD (Волгоград)
+http://dmitry-tv.ru/his/yatv/CH_VOLGOGRAD1HD.m3u8
+#EXTINF:-1,Волгоград 24 (Волгоград)
+http://dmitry-tv.ru/his/CH_VOLGOGRAD24.m3u8
+#EXTINF:-1,Волгоград 24 HD (720p) (Волгоград)
+http://dmitry-tv.ru/his/yatv/CH_VOLGOGRAD24HD_720.m3u8
+#EXTINF:-1,НТВ (+7)
+http://dmitry-tv.ru/his/CH_NTV_7.m3u8
+#EXTINF:-1,НТВ (Молдова)
+http://dmitry-tv.ru/his/CH_NTV_MLD.m3u8
+#EXTINF:-1,НТВ МИР
+http://dmitry-tv.ru/his/CH_NTVMIR.m3u8
+#EXTINF:-1,НТВ СЕРИАЛ
+http://dmitry-tv.ddns.net:2/his/CH_NTVSERIAL
+#EXTINF:-1,НТВ СТИЛЬ
+http://dmitry-tv.ddns.net:3/his/CH_NTVSTYLE
+#EXTINF:-1,НТВ ПРАВО
+http://dmitry-tv.ddns.net:4/his/CH_NTVPRAVO
+#EXTINF:-1,НТВ Беларусь
+http://dmitry-tv.ru/his/itv_blrus/CH_NTV_BELARUS.m3u8
+#EXTINF:-1,НТВ Беларусь HD
+http://dmitry-tv.ru/his/itv_blrus/CH_NTV_BELARUSHD.m3u8
+#EXTINF:-1,Пятый канал (+7)
+http://dmitry-tv.ru/his/CH_5TV_7.m3u8
+#EXTINF:-1,Говорит Москва HD (720p) (студия)
+http://dmitry-tv.ru/his/CH_GOVORITMOSKVAHD_720.m3u8
+#EXTINF:-1,Матч!
+http://dmitry-tv.ru/his/CH_MATCHTV.m3u8
+#EXTINF:-1,Матч! HD (auto)
+https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1,Матч! ПЛАНЕТА
+http://dmitry-tv.ru/his/itv_blrus/CH_MATCHPLANETA.m3u8
+#EXTINF:-1,Матч! ПРЕМЬЕР
+http://dmitry-tv.ru/his/itv_blrus/CH_NASHFOOTBALL.m3u8
+#EXTINF:-1,SETANTA SPORTS
+http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTS.m3u8
+#EXTINF:-1,SETANTA SPORTS HD
+http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTSHD.m3u8
+#EXTINF:-1,SETANTA SPORTS+
+http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTS_PLYUS.m3u8
+#EXTINF:-1,SETANTA SPORTS+ HD
+http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTS_PLYUSHD.m3u8
+#EXTINF:-1,Старт
+http://dmitry-tv.ru/his/yatv/CH_START.m3u8
+#EXTINF:-1,Старт HD
+http://dmitry-tv.ru/his/yatv/CH_STARTHD.m3u8
+#EXTINF:-1,СИЛА
+http://dmitry-tv.ru/his/CH_SILA.m3u8
+#EXTINF:-1,СИЛА HD (720p)
+http://dmitry-tv.ru/his/CH_SILAHD_720.m3u8
+#EXTINF:-1,СИЛА HD
+http://dmitry-tv.ru/his/CH_SILAHD.m3u8
+#EXTINF:-1,Бокс ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_BOKSTVHD_720.m3u8
+#EXTINF:-1,ALL SPORTS HD (720p)
+http://dmitry-tv.ru/his/CH_ALLSPORTSHD_720.m3u8
+#EXTINF:-1,AD SPORT 1 HD (720p)
+http://dmitry-tv.ru/his/CH_ADSPORT1HD_720.m3u8
+#EXTINF:-1,AD SPORT 2 HD (720p)
+http://dmitry-tv.ru/his/CH_ADSPORT2HD_720.m3u8
+#EXTINF:-1,Карусель
+http://178.163.18.154:4022/udp/234.0.0.203:2000
+#EXTINF:-1,Мультимания LV
+http://dmitry-tv.ru/his/CH_MULTIMANIYA_LV.m3u8
+#EXTINF:-1,Gulli GIRL
+http://dmitry-tv.ru/his/itv_blrus/CH_GULLI.m3u8
+#EXTINF:-1,СМАЙЛИК ТВ
+http://dmitry-tv.ru/his/yatv/CH_SMAYLIK.m3u8
+#EXTINF:-1,СМАЙЛИК ТВ HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_SMAYLIKHD_720.m3u8
+#EXTINF:-1,Детский Мир
+http://dmitry-tv.ru/his/itv_blrus/CH_DETMIR.m3u8
+#EXTINF:-1,JimJam
+http://178.163.18.154:4022/udp/234.0.0.152:2000
+#EXTINF:-1,ШАЯН (Казань)
+http://dmitry-tv.ru/his/CH_SHAYAN_KZN.m3u8
+#EXTINF:-1,ШАЯН HD (Казань)
+http://dmitry-tv.ru/his/CH_SHAYANHD_KZN.m3u8
+#EXTINF:-1,2x2
+http://dmitry-tv.ru/his/CH_2X2.m3u8
+#EXTINF:-1,2x2 HD (auto)
+https://bl.zxz.su/live/317805/HLS/4614144_3,2883584_1,1153024_2/1565199976/1e35f601a1ecd232861199731ef58c2d/playlist.m3u8
+#EXTINF:-1,Сказки Зайки
+http://dmitry-tv.ru/his/yatv/CH_SKAZKIZAYKI.m3u8
+#EXTINF:-1,Сказки Зайки HD (720p)
+http://dmitry-tv.ru/his/CH_SZHD_720.m3u8
+#EXTINF:-1,Москва 24
+http://dmitry-tv.ru/his/CH_MOSKVA24.m3u8
+#EXTINF:-1,Неизвестная планета
+http://dmitry-tv.ru/his/yatv/CH_UNKNOWN_PLANET.m3u8
+#EXTINF:-1,Неизвестная планета HD (720p)
+http://dmitry-tv.ru/his/CH_UNKNOWN_PLANETHD_720.m3u8
+#EXTINF:-1,Моя планета
+http://dmitry-tv.ru/his/CH_MOYAPLANETA.m3u8
+#EXTINF:-1,Красная линия
+http://dmitry-tv.ru/his/CH_REDLINE.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://dmitry-tv.ru/his/CH_SPB.m3u8
+#EXTINF:-1,СТС (+7)
+http://dmitry-tv.ru/his/CH_STS_7.m3u8
+#EXTINF:-1,ВТВ (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_BTB_BLRUS.m3u8
+#EXTINF:-1,СТС INTERNATIONAL
+http://dmitry-tv.ru/his/CH_STS_INT.m3u8
+#EXTINF:-1,Супер HD (auto)
+https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8
+#EXTINF:-1,ИТВ [A]
+http://dmitry-tv.ru/his/CH_ITV.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://dmitry-tv.ru/his/yatv/CH_ANEKDOT.m3u8
+#EXTINF:-1,Кубань 24 ОРБИТА (Краснодар)
+http://dmitry-tv.ru/his/CH_KUBAN24_ORBITA.m3u8
+#EXTINF:-1,ТНТ HD (auto)
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:-1,ТНТ (+4)
+http://178.163.18.154:4022/udp/234.0.0.9:2000
+#EXTINF:-1,ТНТ (+7)
+http://dmitry-tv.ru/his/CH_TNT_7.m3u8
+#EXTINF:-1,ТНТ4 HD (auto)
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
+#EXTINF:-1,ТВ-6/ТНТ (Курск)
+http://dmitry-tv.ru/his/CH_TV-6_KURSK.m3u8
+#EXTINF:-1,ТНТ INTERNATIONAL
+http://dmitry-tv.ru/his/CH_TNT_INT.m3u8
+#EXTINF:-1,ТНТ MUSIC
+http://dmitry-tv.ru/his/yatv/CH_TNTMUSIC.m3u8
+#EXTINF:-1,ТНТ MUSIC HD
+http://dmitry-tv.ru/his/CH_TNTMUSICHD.m3u8
+#EXTINF:-1,РЕН ТВ
+http://dmitry-tv.ru/his/CH_RENTV.m3u8
+#EXTINF:-1,РЕН ТВ (+7)
+http://dmitry-tv.ru/his/CH_RENTV_7.m3u8
+#EXTINF:-1,СТВ (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_STB_BELARUS.m3u8
+#EXTINF:-1,СТВ HD (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_STB_BELARUSHD.m3u8
+#EXTINF:-1,ТВ3 HD (auto)
+https://bl.zxz.su/live/317846/HLS/4614144_3,2883584_1,1153024_2/1565200378/098f64b7f98da574dcfa0aea5663f3e0/playlist.m3u8
+#EXTINF:-1,ТВ3 (+7)
+http://dmitry-tv.ru/his/CH_TV3_7.m3u8
+#EXTINF:-1,ТВ3 (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_TV3_BLRUS.m3u8
+#EXTINF:-1,Че!
+http://dmitry-tv.ru/his/CH_CHE.m3u8
+#EXTINF:-1,Перец INTERNATIONAL
+http://109.248.236.41:4433/udp/238.1.1.118:1234
+#EXTINF:-1,Киноменю HD
+http://dmitry-tv.ru/his/CH_KINOMENUHD.m3u8
+#EXTINF:-1,АИСТ (+5) (Иркутск)
+http://dmitry-tv.ru/his/CH_AIST_IRK.m3u8
+#EXTINF:-1,XXI (VRT.TV)
+http://dmitry-tv.ru/his/CH_VRT_TV.m3u8
+#EXTINF:-1,Кинопремьера
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOPREMERA.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://dmitry-tv.ru/his/itv_blrus/CH_KINOPREMERAHD.m3u8
+#EXTINF:-1,Мир Сериала
+http://dmitry-tv.ru/his/yatv/CH_MIRSERIALA.m3u8
+#EXTINF:-1,Любимое кино
+http://dmitry-tv.ru/his/itv_blrus/CH_LUBIMOEKINO.m3u8
+#EXTINF:-1,Любимое ТВ
+http://dmitry-tv.ru/his/yatv/CH_LOVETV.m3u8
+#EXTINF:-1,Любимое ТВ HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_LOVETVHD_720.m3u8
+#EXTINF:-1,О!Кино
+http://dmitry-tv.ru/his/yatv/CH_OKINO.m3u8
+#EXTINF:-1,Amedia II
+http://dmitry-tv.ru/his/CH_AMEDIAII.m3u8
+#EXTINF:-1,Amedia Premium
+http://dmitry-tv.ru/his/itv_blrus/CH_AMEDIAPREMIUM.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://dmitry-tv.ru/his/itv_blrus/CH_AMEDIAPREMIUMHD.m3u8
+#EXTINF:-1,TV1000 ТРК ЭРОС КТВ-Волгоград
+rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:-1,Советское кино
+http://dmitry-tv.ru/his/yatv/CH_SOVETSKOEKINO.m3u8
+#EXTINF:-1,Советские мультфильмы
+http://dmitry-tv.ru/his/yatv/CH_SOVMULT.m3u8
+#EXTINF:-1,Классика кино
+http://dmitry-tv.ru/his/yatv/CH_MOVIECLASSIC.m3u8
+#EXTINF:-1,Классика кино HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_MOVIECLASSICHD_720.m3u8
+#EXTINF:-1,360°
+http://dmitry-tv.ru/his/CH_360TV.m3u8
+#EXTINF:-1,360° HD
+http://dmitry-tv.ru/his/CH_360TVHD.m3u8
+#EXTINF:-1,360° НОВОСТИ
+http://dmitry-tv.ru/his/CH_360TV_NEWS.m3u8
+#EXTINF:-1,360° НОВОСТИ HD
+http://dmitry-tv.ru/his/CH_360TV_NEWSHD.m3u8
+#EXTINF:-1,Viasat Nature
+http://dmitry-tv.ru/his/itv_blrus/CH_VIASATNATURE.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,Ocean TV HD
+http://dmitry-tv.ru/his/CH_OCEANTVHD.m3u8
+#EXTINF:-1,Zoo TV
+http://62.76.22.207:81/udp/239.195.4.85:1234
+#EXTINF:-1,DW (English)
+http://dmitry-tv.ru/his/CH_DW_ENGLISH.m3u8
+#EXTINF:-1,DW (Deutsch)
+http://dmitry-tv.ru/his/CH_DW_DEUTSCH.m3u8
+#EXTINF:-1,DW (Deutsch+)
+http://dmitry-tv.ru/his/CH_DW_DEUTSCH_PLUS.m3u8
+#EXTINF:-1,DW (Espanol)
+http://dmitry-tv.ru/his/CH_DW_ESPANOL.m3u8
+#EXTINF:-1,DW
+http://dmitry-tv.ru/his/CH_DW.m3u8
+#EXTINF:-1,RTG SD
+http://dmitry-tv.ru/his/yatv/CH_RTGSD.m3u8
+#EXTINF:-1,Galaxy TV
+http://178.163.18.154:4022/udp/234.0.0.111:2000
+#EXTINF:-1,RUTV
+http://dmitry-tv.ru/his/CH_RUTV.m3u8
+#EXTINF:-1,RUTV HD (720p)
+http://dmitry-tv.ru/his/CH_RUTVHD_720.m3u8
+#EXTINF:-1,RUTV HD
+http://dmitry-tv.ru/his/CH_RUTVHD.m3u8
+#EXTINF:-1,RUTV (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_RUTV_BLRUS.m3u8
+#EXTINF:-1,MTV Rocks
+http://178.163.18.154:4022/udp/234.0.0.193:2000
+#EXTINF:-1,MTV Dance
+http://178.163.18.154:4022/udp/234.0.0.233:2000
+#EXTINF:-1,MTV Norway
+http://dmitry-tv.ru/his/CH_MTVNO.m3u8
+#EXTINF:-1,MTV Norway HD (720p)
+http://dmitry-tv.ru/his/CH_MTVNOHD_720.m3u8
+#EXTINF:-1,0!2
+http://dmitry-tv.ru/his/yatv/CH_02.m3u8
+#EXTINF:-1,0!2 HD
+http://dmitry-tv.ru/his/yatv/CH_02HD.m3u8
+#EXTINF:-1,Шансон ТВ
+http://dmitry-tv.ru/his/CH_SHANSONTV.m3u8
+#EXTINF:-1,BRIDGE TV
+http://dmitry-tv.ru/his/CH_BRIDGETV.m3u8
+#EXTINF:-1,BRIDGE TV DELUXE HD (720p)
+http://dmitry-tv.ru/his/CH_BRIDGEHD_720.m3u8
+#EXTINF:-1,BRIDGE TV HITS
+http://dmitry-tv.ru/his/CH_BRIDGETV_HITS.m3u8
+#EXTINF:-1,BRIDGE TV CLASSIC
+http://dmitry-tv.ru/his/CH_BRIDGETV_CLASSIC.m3u8
+#EXTINF:-1,BRIDGE TV РУССКИЙ ХИТ
+http://dmitry-tv.ru/his/CH_BRIDGETV_RUSHIT.m3u8
+#EXTINF:-1,RUSSIAN MUSIC BOX
+http://dmitry-tv.ru/his/CH_MUSICBOXRU.m3u8
+#EXTINF:-1,RUSSIAN MUSIC BOX HD
+http://dmitry-tv.ru/his/yatv/CH_MUSICBOXRUHD.m3u8
+#EXTINF:-1,MUSIC BOX [UA]
+http://dmitry-tv.ru/his/ua/CH_MUSICBOXUA.m3u8
+#EXTINF:-1,1 MUSIC CHANNEL
+http://dmitry-tv.ru/his/CH_1MUSIC_CHANNEL_HU.m3u8
+#EXTINF:-1,H!T MUSIC CHANNEL
+http://dmitry-tv.ru/his/CH_HITMUSIC_CHANNEL.m3u8
+#EXTINF:-1,OneBY
+http://rtmp.one.by:1200
+#EXTINF:-1,OneBY HD
+http://rtmp.one.by:1300
+#EXTINF:-1,OneBY RUS
+http://rtmp.one.by:2200
+#EXTINF:-1,OneBY RUS HD
+http://rtmp.one.by:2300
+#EXTINF:-1,1 БАЛТИЙСКИЙ МУЗ
+http://dmitry-tv.ru/his/CH_1BAL_MUZ.m3u8
+#EXTINF:-1,UTV MUSIC
+http://dmitry-tv.ru/his/CH_UTVMUSIC.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+http://dmitry-tv.ru/his/CH_RETROMUSICTV.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://dmitry-tv.ru/his/CH_RADIOMONTECARLOTV.m3u8
+#EXTINF:-1,РORTAL FOXMIX TV
+http://dmitry-tv.ru/his/CH_PORTALFOXMIXTV.m3u8
+#EXTINF:-1,Ibiza Global TV
+http://dmitry-tv.ru/his/CH_IBIZAGLOBALTV.m3u8
+#EXTINF:-1,COUNTRY NETWORK
+http://dmitry-tv.ru/his/CH_COUNTRYNETWORK.m3u8
+#EXTINF:-1,Радио Страна FM HD (720p)
+http://dmitry-tv.ru/his/CH_STRANAFMHD_720.m3u8
+#EXTINF:-1,Новое Радио HD
+http://dmitry-tv.ru/his/CH_NOVOERADIOHD.m3u8
+#EXTINF:-1,Радио Хит ТВ
+http://dmitry-tv.ru/his/CH_RADIOHIT.m3u8
+#EXTINF:-1,Радио Хит ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_RADIOHITHD_720.m3u8
+#EXTINF:-1,FreshTV
+http://dmitry-tv.ru/his/yatv/CH_FRESHTV.m3u8
+#EXTINF:-1,FreshTV HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_FRESHTVHD_720.m3u8
+#EXTINF:-1,HiTV
+http://dmitry-tv.ru/his/yatv/CH_HITV.m3u8
+#EXTINF:-1,HiTV HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_HITVHD_720.m3u8
+#EXTINF:-1,RTL 102.5 HD (720p)
+http://dmitry-tv.ru/his/CH_RTL102_5HD_720.m3u8
+#EXTINF:-1,VIVA Russia HD (720p)
+http://dmitry-tv.ru/his/CH_VIVAHD_720.m3u8
+#EXTINF:-1,Glas Drine Music Tv HD (720p)
+rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+#EXTINF:-1,TRACE AFRICA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_AFRICAHD_720.m3u8
+#EXTINF:-1,TRACE KITOKO HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_KITOKOHD_720.m3u8
+#EXTINF:-1,TRACE TROPICAL HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_TROPICALHD_720.m3u8
+#EXTINF:-1,TRACE TOCA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_TOCAHD_720.m3u8
+#EXTINF:-1,TRACE NAIJA HD (720p)
+http://dmitry-tv.ru/his/CH_TRACE_NAIJAHD_720.m3u8
+#EXTINF:-1,TRT 1
+http://dmitry-tv.ru/his/CH_TRT1.m3u8
+#EXTINF:-1,TRT 1 HD (720p)
+http://dmitry-tv.ru/his/CH_TRT1HD_720.m3u8
+#EXTINF:-1,TRT AVAZ
+http://dmitry-tv.ru/his/CH_TRTAVAZ.m3u8
+#EXTINF:-1,TRT AVAZ HD (720p)
+http://dmitry-tv.ru/his/CH_TRTAVAZHD_720.m3u8
+#EXTINF:-1,TRT COCUK
+http://dmitry-tv.ru/his/CH_TRTCOCUK.m3u8
+#EXTINF:-1,TRT COCUK HD (720p)
+http://dmitry-tv.ru/his/CH_TRTCOCUKHD_720.m3u8
+#EXTINF:-1,TRT HABER
+http://dmitry-tv.ru/his/CH_TRTHABER.m3u8
+#EXTINF:-1,TRT HABER HD (720p)
+http://dmitry-tv.ru/his/CH_TRTHABERHD_720.m3u8
+#EXTINF:-1,TRT KURDI
+http://dmitry-tv.ru/his/CH_TRTKURDI.m3u8
+#EXTINF:-1,TRT KURDI HD (720p)
+http://dmitry-tv.ru/his/CH_TRTKURDIHD_720.m3u8
+#EXTINF:-1,TRT MUZIK
+http://dmitry-tv.ru/his/CH_TRTMUZIK.m3u8
+#EXTINF:-1,TRT MUZIK HD (720p)
+http://dmitry-tv.ru/his/CH_TRTMUZIKHD_720.m3u8
+#EXTINF:-1,TRT WORLD
+http://dmitry-tv.ru/his/CH_TRTWORLD.m3u8
+#EXTINF:-1,TRT WORLD HD (720p)
+http://dmitry-tv.ru/his/CH_TRTWORLDHD_720.m3u8
+#EXTINF:-1,TRT WORLD HD
+http://dmitry-tv.ru/his/CH_TRTWORLDHD.m3u8
+#EXTINF:-1,KRAL HD (720p)
+http://dmitry-tv.ru/his/CH_KRALHD_720.m3u8
+#EXTINF:-1,KRAL POP HD (720p)
+http://dmitry-tv.ru/his/CH_KRALPOPHD_720.m3u8
+#EXTINF:-1,KRAL WORLD
+http://dmitry-tv.ru/his/CH_KRALWORLD.m3u8
+#EXTINF:-1,KRAL WORLD HD (720p)
+http://dmitry-tv.ru/his/CH_KRALWORLDHD_720.m3u8
+#EXTINF:-1,BEBLACK AFRICA
+http://dmitry-tv.ru/his/CH_BEBLACK_AFRICA.m3u8
+#EXTINF:-1,BEBLACK CARIBBEAN
+http://dmitry-tv.ru/his/CH_BEBLACK_CARIBBEAN.m3u8
+#EXTINF:-1,BEBLACK CLASSIK
+http://dmitry-tv.ru/his/CH_BEBLACK_CLASSIK.m3u8
+#EXTINF:-1,VIBEE TV HD (720p)
+http://dmitry-tv.ru/his/CH_VIBEETVHD_720.m3u8
+#EXTINF:-1,M2O TV
+http://dmitry-tv.ru/his/CH_M2OTV.m3u8
+#EXTINF:-1,МУЗ ТВ (+7)
+http://dmitry-tv.ru/his/CH_MUZTV_7.m3u8
+#EXTINF:-1,Наше ТВ
+http://dmitry-tv.ru/his/CH_NASHETV.m3u8
+#EXTINF:-1,Наше ТВ (Витебск)
+http://95.46.208.8:26259/nashe
+#EXTINF:-1,МИГ ТВ HD (720p) (Новосибирск)
+http://dmitry-tv.ru/his/CH_MIG_TVHD_YNF_720.m3u8
+#EXTINF:-1,С1 (Сургут)
+http://dmitry-tv.ru/his/yatv/CH_C1SD.m3u8
+#EXTINF:-1,С1 HD (720p) (Сургут)
+http://dmitry-tv.ru/his/yatv/CH_C1HD_720.m3u8
+#EXTINF:-1,AIVA
+http://dmitry-tv.ru/his/yatv/CH_AIVA.m3u8
+#EXTINF:-1,AIVA HD
+http://dmitry-tv.ru/his/yatv/CH_AIVAHD.m3u8
+#EXTINF:-1,Домашний (+7)
+http://dmitry-tv.ru/his/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1,Звезда
+http://dmitry-tv.ru/his/CH_ZVEZDA.m3u8
+#EXTINF:-1,Звезда HD
+http://dmitry-tv.ru/his/CH_ZVEZDAHD.m3u8
+#EXTINF:-1,Звезда (+7)
+http://dmitry-tv.ru/his/CH_ZVEZDA_7.m3u8
+#EXTINF:-1,ТВЦ
+http://dmitry-tv.ru/his/CH_TVC.m3u8
+#EXTINF:-1,ТВЦ (+7)
+http://dmitry-tv.ru/his/CH_TVC_7.m3u8
+#EXTINF:-1,Надежда
+http://dmitry-tv.ru/his/yatv/CH_NADEZHDA.m3u8
+#EXTINF:-1,Надежда HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_NADEZHDAHD_720.m3u8
+#EXTINF:-1,Телеканал 86
+http://dmitry-tv.ru/his/CH_TV86.m3u8
+#EXTINF:-1,UTV HD (720p) (Пермь)
+http://dmitry-tv.ru/his/CH_UTVHD_720_PERM.m3u8
+#EXTINF:-1,МИР HD
+http://dmitry-tv.ru/his/CH_MIRHD.m3u8
+#EXTINF:-1,МИР (+2)
+http://dmitry-tv.ru/his/CH_MIR_2.m3u8
+#EXTINF:-1,МИР (+4)
+http://dmitry-tv.ru/his/CH_MIR_4.m3u8
+#EXTINF:-1,МИР (+7)
+http://dmitry-tv.ru/his/CH_MIR_7.m3u8
+#EXTINF:-1,МИР INTERNATIONAL
+http://dmitry-tv.ru/his/CH_MIR_INT.m3u8
+#EXTINF:-1,МИР PREMIUM
+http://dmitry-tv.ru/his/yatv/CH_MIRPREMIUM.m3u8
+#EXTINF:-1,МИР PREMIUM HD
+http://dmitry-tv.ru/his/CH_MIR_PREMIUMHD.m3u8
+#EXTINF:-1,МИР 24 HD
+http://dmitry-tv.ru/his/CH_MIR24HD.m3u8
+#EXTINF:-1,ТНВ ПЛАНЕТА (Казань)
+http://dmitry-tv.ru/his/CH_TNVPLANETA_KZN.m3u8
+#EXTINF:-1,RTVi
+http://dmitry-tv.ru/his/itv_blrus/CH_RTVi.m3u8
+#EXTINF:-1,РБК
+http://dmitry-tv.ru/his/CH_RBK.m3u8
+#EXTINF:-1,РБК-УФА
+http://dmitry-tv.ru/his/CH_RBK_UFA.m3u8
+#EXTINF:-1,ББК (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_BBK_BLRUS.m3u8
+#EXTINF:-1,БелРос
+http://dmitry-tv.ru/his/CH_BELROS.m3u8
+#EXTINF:-1,Дождь
+http://dmitry-tv.ru/his/yatv/CH_DOZHD.m3u8
+#EXTINF:-1,ТАМЫР
+http://dmitry-tv.ru/his/CH_TAMYR.m3u8
+#EXTINF:-1,КУРАЙ
+http://dmitry-tv.ru/his/CH_KURAY.m3u8
+#EXTINF:-1,Ямал-Регион
+http://dmitry-tv.ru/his/CH_YAMREG.m3u8
+#EXTINF:-1,Эфир
+http://dmitry-tv.ru/his/yatv/CH_EFIR.m3u8
+#EXTINF:-1,ОТС (Новосибирск)
+http://dmitry-tv.ru/his/yatv/CH_OTS.m3u8
+#EXTINF:-1,ОТС HD (Новосибирск)
+http://dmitry-tv.ru/his/yatv/CH_OTSHD.m3u8
+#EXTINF:-1,Губерния (Самара)
+http://dmitry-tv.ru/his/CH_GUBERNIA_SAMARA.m3u8
+#EXTINF:-1,TV Губерния (Воронеж)
+http://dmitry-tv.ru/his/CH_TVGUBERNIA_VRZH.m3u8
+#EXTINF:-1,Дагестан
+http://dmitry-tv.ru/his/CH_DAGESTAN.m3u8
+#EXTINF:-1,Дагестан HD
+http://dmitry-tv.ru/his/CH_DAGESTANHD.m3u8
+#EXTINF:-1,Экспресс HD (Пенза)
+http://dmitry-tv.ru/his/CH_EXPRES_PENZAHD.m3u8
+#EXTINF:-1,Загородный int
+http://dmitry-tv.ru/his/yatv/CH_ZAGORODNY_INT.m3u8
+#EXTINF:-1,Загородный int HD
+http://dmitry-tv.ru/his/yatv/CH_ZAGORODNY_INTHD.m3u8
+#EXTINF:-1,Общественное Независимое Телевидение
+http://dmitry-tv.ru/his/CH_ONTV.m3u8
+#EXTINF:-1,World Fashion Channel
+http://dmitry-tv.ru/his/yatv/CH_WFCTV.m3u8
+#EXTINF:-1,World Fashion Channel HD
+http://dmitry-tv.ru/his/yatv/CH_WFCTVHD.m3u8
+#EXTINF:-1,Fashion One HD
+http://178.163.18.154:4022/udp/234.0.0.212:2000
+#EXTINF:-1,Беларусь 1
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS1SD.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1,Беларусь 2
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS2SD.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1,Беларусь 3
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS3SD.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1,Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,Беларусь 5
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS5SD.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1,ОНТ (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_ONT.m3u8
+#EXTINF:-1,ОНТ HD (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_ONTHD.m3u8
+#EXTINF:-1,8 канал (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_8CHANNELSD_BLRUS.m3u8
+#EXTINF:-1,8 канал HD (Беларусь)
+http://dmitry-tv.ru/his/itv_blrus/CH_8CHANNELHD_BLRUS.m3u8
+#EXTINF:-1,Top Shop TV
+http://dmitry-tv.ru/his/CH_TOPSHOP.m3u8
+#EXTINF:-1,Shopping Live
+http://dmitry-tv.ru/his/CH_SHOPPINGLIVE.m3u8
+#EXTINF:-1,Витрина ТВ
+http://dmitry-tv.ru/his/CH_VITRINATV.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://dmitry-tv.ru/his/CH_KALEYDOSKOPTV.m3u8
+#EXTINF:-1,ЛДПР ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_LDPRTVHD_720.m3u8
+#EXTINF:-1,Еда Премиум
+http://dmitry-tv.ru/his/itv_blrus/CH_EDAPREMIUM.m3u8
+#EXTINF:-1,Еда Премиум HD
+http://dmitry-tv.ru/his/itv_blrus/CH_EDAPREMIUMHD.m3u8
+#EXTINF:-1,Вкусное TV
+http://dmitry-tv.ru/his/yatv/CH_VKUSNOETV.m3u8
+#EXTINF:-1,Вкусное TV HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_VKUSNOETVHD_720.m3u8
+#EXTINF:-1,Кухня ТВ
+http://dmitry-tv.ru/his/itv_blrus/CH_KUHNYATV.m3u8
+#EXTINF:-1,Крик ТВ HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_KRIKTVHD_720.m3u8
+#EXTINF:-1,Столичный магазин
+http://dmitry-tv.ru/his/CH_LUXURY.m3u8
+#EXTINF:-1,Столичный магазин HD
+http://dmitry-tv.ru/his/CH_LUXURYHD.m3u8
+#EXTINF:-1,Телемагазин
+http://dmitry-tv.ru/his/itv_blrus/CH_TELEMAGAZIN.m3u8
+#EXTINF:-1,Три Ангела HD
+http://dmitry-tv.ru/his/yatv/CH_3ANGELAHD.m3u8
+#EXTINF:-1,Joy Cook
+http://dmitry-tv.ru/his/yatv/CH_JOYCOOK.m3u8
+#EXTINF:-1,Joy Cook HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_JOYCOOKHD_720.m3u8
+#EXTINF:-1,Бьюти TV
+http://dmitry-tv.ru/his/yatv/CH_BYUTITV.m3u8
+#EXTINF:-1,Бьюти TV HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_BYUTITVHD_720.m3u8
+#EXTINF:-1,Пёс и Ко
+http://dmitry-tv.ru/his/yatv/CH_PESIKO.m3u8
+#EXTINF:-1,Тномер
+http://dmitry-tv.ru/his/yatv/CH_TNOMER.m3u8
+#EXTINF:-1,Вся Уфа
+http://dmitry-tv.ru/his/CH_VSA_UFA.m3u8
+#EXTINF:-1,Большая Азия HD
+http://dmitry-tv.ru/his/yatv/CH_B_AZIAHD.m3u8
+#EXTINF:-1,Центральное телевидение
+http://dmitry-tv.ru/his/yatv/CH_CTV.m3u8
+#EXTINF:-1,Дайвинг TV
+http://dmitry-tv.ru/his/yatv/CH_DAYVINGTV.m3u8
+#EXTINF:-1,Дайвинг TV HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_DAYVINGTVHD_720.m3u8
+#EXTINF:-1,Ратник
+http://dmitry-tv.ru/his/yatv/CH_RATNIK.m3u8
+#EXTINF:-1,Ратник HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_RATNIKHD_720.m3u8
+#EXTINF:-1,EURONEWS
+http://dmitry-tv.ru/his/itv_blrus/CH_EURONEWS.m3u8
+#EXTINF:-1,Евроновости
+http://dmitry-tv.ru/his/CH_EURONOVOSTI.m3u8
+#EXTINF:-1,Точка ТВ
+http://dmitry-tv.ru/his/CH_TOCHKATV.m3u8
+#EXTINF:-1,8 канал
+http://dmitry-tv.ru/his/CH_8CHANNEL.m3u8
+#EXTINF:-1,8 канал (Красноярск)
+http://dmitry-tv.ru/his/yatv/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:-1,Ю
+http://dmitry-tv.ru/his/CH_U.m3u8
+#EXTINF:-1,ЮТВ (Чебоксары)
+http://dmitry-tv.ru/his/CH_UTV_CHR.m3u8
+#EXTINF:-1,CGTN-Русский
+http://dmitry-tv.ru/his/CH_CGTN_RU.m3u8
+#EXTINF:-1,Пятница! HD (auto)
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,ОТР
+http://dmitry-tv.ru/his/CH_OTR.m3u8
+#EXTINF:-1,СПАС (+2)
+http://dmitry-tv.ru/his/CH_SPAS_2.m3u8
+#EXTINF:-1,Терра Инкогнита
+http://dmitry-tv.ru/his/yatv/CH_TERRAINCOGNITA.m3u8
+#EXTINF:-1,Терра Инкогнита HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_TERRAINCOGNITAHD_720.m3u8
+#EXTINF:-1,ПРОДВИЖЕНИЕ
+http://dmitry-tv.ru/his/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1,Продвижение HD
+http://dmitry-tv.ru/his/yatv/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:-1,ОТВ 24
+http://dmitry-tv.ru/his/yatv/CH_OTV24.m3u8
+#EXTINF:-1,ОТВ 24 HD
+http://dmitry-tv.ru/his/yatv/CH_OTV24HD.m3u8
+#EXTINF:-1,ОТВ (+7) (Владивосток)
+http://dmitry-tv.ru/his/CH_OTV_PRIMORE.m3u8
+#EXTINF:-1,Синергия HD (720p)
+http://dmitry-tv.ru/his/CH_SINERGIYAHD_720.m3u8
+#EXTINF:-1,Первый крымский
+http://dmitry-tv.ru/his/CH_1KRYM.m3u8
+#EXTINF:-1,Крым 24
+http://dmitry-tv.ru/his/CH_24KRYM.m3u8
+#EXTINF:-1,Крым 24 HD
+http://dmitry-tv.ru/his/CH_24KRYMHD.m3u8
+#EXTINF:-1,НВК САХА HD (Якутск)
+http://dmitry-tv.ru/his/CH_NVC_SAHAHD_YKT.m3u8
+#EXTINF:-1,Якутия 24 HD (Якутск)
+http://dmitry-tv.ru/his/CH_YKT24HD_YKT.m3u8
+#EXTINF:-1,Союз
+http://dmitry-tv.ru/his/CH_SOYUZ.m3u8
+#EXTINF:-1,Муз Союз
+http://dmitry-tv.ru/his/CH_MUZSOYUZ.m3u8
+#EXTINF:-1,France 24
+http://dmitry-tv.ru/his/yatv/CH_FRANCE24.m3u8
+#EXTINF:-1,France 24 HD
+http://dmitry-tv.ru/his/yatv/CH_FRANCE24HD.m3u8
+#EXTINF:-1,ТИ-ВИ-СИ HD (720p)
+http://dmitry-tv.ru/his/CH_TIVISIHD_720.m3u8
+#EXTINF:-1,7 Канал [KZ]
+http://dmitry-tv.ru/his/CH_7CHANNEL_KZ.m3u8
+#EXTINF:-1,IZ.RU
+http://dmitry-tv.ru/his/CH_IZRU.m3u8
+#EXTINF:-1,IZ.RU HD (720p)
+http://dmitry-tv.ru/his/CH_IZRUHD_720.m3u8
+#EXTINF:-1,IZ.RU HD
+http://dmitry-tv.ru/his/CH_IZRUHD.m3u8
+#EXTINF:-1,Грозный
+http://dmitry-tv.ru/his/CH_GROZNY.m3u8
+#EXTINF:-1,БСТ
+http://dmitry-tv.ru/his/CH_BST.m3u8
+#EXTINF:-1,Наша Сибирь
+http://dmitry-tv.ru/his/yatv/CH_NASHASIBIR.m3u8
+#EXTINF:-1,Наша Сибирь HD
+http://dmitry-tv.ru/his/yatv/CH_NASHASIBIRHD.m3u8
+#EXTINF:-1,Охотник и Рыболов Int
+http://dmitry-tv.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INT.m3u8
+#EXTINF:-1,Охотник и Рыболов Int HD
+http://dmitry-tv.ru/his/yatv/CH_OHOTNIKIRYBOLOV_INTHD.m3u8
+#EXTINF:-1,Охотник и Рыболов SD
+http://dmitry-tv.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVSD.m3u8
+#EXTINF:-1,Охотник и Рыболов HD
+http://dmitry-tv.ru/his/itv_blrus/CH_OHOTNIKIRYBOLOVHD.m3u8
+#EXTINF:-1,RT
+http://dmitry-tv.ru/his/yatv/CH_RT.m3u8
+#EXTINF:-1,RT HD
+http://dmitry-tv.ru/his/yatv/CH_RTHD.m3u8
+#EXTINF:-1,RTД [RU]
+http://dmitry-tv.ru/his/yatv/CH_RTD.m3u8
+#EXTINF:-1,RTД HD (720p) [RU]
+http://dmitry-tv.ru/his/CH_RTDHD_720.m3u8
+#EXTINF:-1,RMTV SD
+http://dmitry-tv.ru/his/CH_RMTVSD.m3u8
+#EXTINF:-1,RMTV 24 SD
+http://dmitry-tv.ru/his/CH_RMTV24SD.m3u8
+#EXTINF:-1,КТК
+http://dmitry-tv.ru/his/CH_KTK.m3u8
+#EXTINF:-1,UNIVER (Казань)
+http://dmitry-tv.ru/his/CH_UNIVER_KZN.m3u8
+#EXTINF:-1,UNIVER HD (Казань)
+http://dmitry-tv.ru/his/CH_UNIVERHD_KZN.m3u8
+#EXTINF:-1,РЖД ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_RZHDTVHD_720.m3u8
+#EXTINF:-1,Первый Тульский
+http://dmitry-tv.ru/his/yatv/CH_1TULSKIY.m3u8
+#EXTINF:-1,Первый Тульский HD
+http://dmitry-tv.ru/his/yatv/CH_1TULSKIYHD.m3u8
+#EXTINF:-1,Моя Удмуртия
+http://dmitry-tv.ru/his/CH_MYUDM.m3u8
+#EXTINF:-1,Астрахань LIVE HD
+http://dmitry-tv.ru/his/CH_ASTRAKHANRULIVEHD_ASTRH.m3u8
+#EXTINF:-1,Астрахань 24 (Астрахань)
+http://dmitry-tv.ru/his/CH_ASTRAKHAN24_ASTRH.m3u8
+#EXTINF:-1,Астрахань 24 HD (720p) (Астрахань)
+http://dmitry-tv.ru/his/CH_ASTRAKHAN24HD_720_ASTRH.m3u8
+#EXTINF:-1,Астрахань 24 HD (Астрахань)
+http://dmitry-tv.ru/his/CH_ASTRAKHAN24HD_ASTRH.m3u8
+#EXTINF:-1,Русский Север (Вологда)
+http://dmitry-tv.ru/his/CH_RUS_SEVER.m3u8
+#EXTINF:-1,Север
+http://dmitry-tv.ru/his/CH_SEVER.m3u8
+#EXTINF:-1,Новый мир
+http://dmitry-tv.ru/his/CH_NEWMIR.m3u8
+#EXTINF:-1,Туган Тел
+http://dmitry-tv.ru/his/CH_TUGANTEL.m3u8
+#EXTINF:-1,Эхо ТВ
+http://dmitry-tv.ru/his/CH_ECHOTV.m3u8
+#EXTINF:-1,Эхо ТВ 24 (Екатеринбург)
+http://dmitry-tv.ru/his/CH_ECHOTV24_EKT.m3u8
+#EXTINF:-1,Совершенно секретно
+http://178.163.18.154:4022/udp/234.0.0.185:2000
+#EXTINF:-1,Министерство идей HD (720p)
+http://dmitry-tv.ru/his/CH_M_IDEY_HD_720.m3u8
+#EXTINF:-1,НТС HD (Севастополь)
+http://dmitry-tv.ru/his/CH_NTSHD_SEVASTOPL.m3u8
+#EXTINF:-1,Белгород 24 (Белгород)
+http://dmitry-tv.ru/his/CH_BELGOROD24_BELG.m3u8
+#EXTINF:-1,Саратов 24 (Саратов)
+http://dmitry-tv.ru/his/CH_SARATOV24_SARATOV.m3u8
+#EXTINF:-1,ТВТУР
+http://dmitry-tv.ru/his/yatv/CH_TVTUR.m3u8
+#EXTINF:-1,ТВТУР HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_TVTURHD_720.m3u8
+#EXTINF:-1,НТМ SD
+http://dmitry-tv.ru/his/CH_NTMSD.m3u8
+#EXTINF:-1,НТМ HD (720p)
+http://dmitry-tv.ru/his/CH_NTMHD_720.m3u8
+#EXTINF:-1,ПРО БИЗНЕС
+http://dmitry-tv.ru/his/yatv/CH_PROBIZNES.m3u8
+#EXTINF:-1,Настоящее время
+http://dmitry-tv.ru/his/CH_NVREMYA.m3u8
+#EXTINF:-1,Настоящее время HD
+http://dmitry-tv.ru/his/CH_NVREMYAHD.m3u8
+#EXTINF:-1,Тюменское время (Тюмень)
+http://dmitry-tv.ru/his/CH_TVREMYA.m3u8
+#EXTINF:-1,Томское время (Томск)
+http://dmitry-tv.ru/his/yatv/CH_TOMSKVREMYA_TOMSK.m3u8
+#EXTINF:-1,Липецкое время (Липецк)
+http://dmitry-tv.ru/his/CH_LVREMYA_LIPETSK.m3u8
+#EXTINF:-1,Ника ТВ (Калуга)
+http://dmitry-tv.ru/his/CH_NIKATV.m3u8
+#EXTINF:-1,Севастопольское ТВ HD
+http://dmitry-tv.ru/his/CH_IKSTVHD.m3u8
+#EXTINF:-1,Миллет ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_MILLETHD_720.m3u8
+#EXTINF:-1,Барс (Иваново)
+http://dmitry-tv.ru/his/CH_BARSTV.m3u8
+#EXTINF:-1,Илли ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_ILLITVHD_720.m3u8
+#EXTINF:-1,Осетия-Ирыстон
+http://dmitry-tv.ru/his/yatv/CH_OSETIYA_IRYSTON.m3u8
+#EXTINF:-1,Осетия-Ирыстон HD
+http://dmitry-tv.ru/his/yatv/CH_OSETIYA_IRYSTONHD.m3u8
+#EXTINF:-1,Архыз 24 (Черкесия)
+http://dmitry-tv.ru/his/yatv/CH_ARKHIZ24.m3u8
+#EXTINF:-1,Архыз 24 HD (720p) (Черкесия)
+http://dmitry-tv.ru/his/CH_ARKHIZ24HD_720_CHERKS.m3u8
+#EXTINF:-1,Ветта 24 (Пермь)
+http://dmitry-tv.ru/his/CH_VETTA24.m3u8
+#EXTINF:-1,Ел Арна
+http://dmitry-tv.ru/his/CH_ELARNA.m3u8
+#EXTINF:-1,Ингушетия
+http://dmitry-tv.ru/his/CH_INGUSHETIYA.m3u8
+#EXTINF:-1,Башкортостан 24 SD
+http://dmitry-tv.ru/his/yatv/CH_BASHKORTOSTAN24SD.m3u8
+#EXTINF:-1,Башкортостан 24 HD
+http://dmitry-tv.ru/his/yatv/CH_BASHKORTOSTAN24HD.m3u8
+#EXTINF:-1,Июнь HD (720p)
+http://dmitry-tv.ru/his/CH_IYUNHD_720.m3u8
+#EXTINF:-1,Кварц ТВ
+http://dmitry-tv.ru/his/CH_KVARTZTV.m3u8
+#EXTINF:-1,Магия Кухни ТВ
+http://dmitry-tv.ru/his/CH_MAGIYAKUHNI.m3u8
+#EXTINF:-1,Матур ТВ
+http://dmitry-tv.ru/his/yatv/CH_MATURTV.m3u8
+#EXTINF:-1,Матур ТВ HD
+http://dmitry-tv.ru/his/yatv/CH_MATURTVHD.m3u8
+#EXTINF:-1,Мир Белогорья (Белгород)
+http://dmitry-tv.ru/his/yatv/CH_MIRBELOGORYA.m3u8
+#EXTINF:-1,Мир Белогорья HD (720p) (Белгород)
+http://dmitry-tv.ru/his/CH_MIR_BELOGORIAHD_720.m3u8
+#EXTINF:-1,Мир Увлечений
+http://dmitry-tv.ru/his/yatv/CH_MIRUVLECHENIY.m3u8
+#EXTINF:-1,ОРТ-Планета (Оренбург)
+http://dmitry-tv.ru/his/CH_ORT_OREN.m3u8
+#EXTINF:-1,Мособр ТВ
+http://dmitry-tv.ru/his/CH_MOSOBRTV.m3u8
+#EXTINF:-1,Мособр ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_MOSOBRTVHD_720.m3u8
+#EXTINF:-1,Катунь 24
+http://dmitry-tv.ru/his/yatv/CH_KATUN24.m3u8
+#EXTINF:-1,Нижний Новгород 24 HD (720p)
+http://dmitry-tv.ru/his/CH_NN24HD_720_NN.m3u8
+#EXTINF:-1,ННТВ HD (720p) (Нижний Новгород)
+http://dmitry-tv.ru/his/CH_NNTVHD_720_NN.m3u8
+#EXTINF:-1,О-Т-В
+http://dmitry-tv.ru/his/CH_O_T_V.m3u8
+#EXTINF:-1,OHT [BY]
+http://dmitry-tv.ru/his/CH_OHT_BY.m3u8
+#EXTINF:-1,ДОН 24 (Ростов-на-Дону)
+http://dmitry-tv.ru/his/CH_DON24.m3u8
+#EXTINF:-1,ДОН 24 HD (Ростов-на-Дону)
+http://dmitry-tv.ru/his/CH_DON24HD.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Проза HD (720p)
+http://dmitry-tv.ru/his/CH_LITCLUBTV_PROZAHD_720.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Слово HD (720p)
+http://dmitry-tv.ru/his/CH_LITCLUBTV_SLOVOHD_720.m3u8
+#EXTINF:-1,ЛитКлуб ТВ - Стихи HD (720p)
+http://dmitry-tv.ru/his/CH_LITCLUBTV_STIKHIHD_720.m3u8
+#EXTINF:-1,SGDF 24 HD (720p)
+http://dmitry-tv.ru/his/CH_SGDF24HD_720.m3u8
+#EXTINF:-1,Татарстан 24 (Казань)
+http://dmitry-tv.ru/his/CH_TATARSTAN24.m3u8
+#EXTINF:-1,Импульс
+http://dmitry-tv.ru/his/CH_IMPULSE.m3u8
+#EXTINF:-1,ТВ7
+http://dmitry-tv.ru/his/CH_TV7.m3u8
+#EXTINF:-1,ТВ7 HD (720p)
+http://dmitry-tv.ru/his/CH_TV7HD_720.m3u8
+#EXTINF:-1,СВОЁ ТВ (Ставрополь)
+http://dmitry-tv.ru/his/CH_SVOETV_STAVR.m3u8
+#EXTINF:-1,СВОЁ ТВ HD (Ставрополь)
+http://dmitry-tv.ru/his/yatv/CH_SVOETVHD_STAVR.m3u8
+#EXTINF:-1,ТВОЁ ТВ
+http://dmitry-tv.ru/his/CH_TVOETV.m3u8
+#EXTINF:-1,ТВР 24 (С.Посад)
+http://dmitry-tv.ru/his/CH_TVR24.m3u8
+#EXTINF:-1,Тивиком HD (Улан-Удэ)
+http://dmitry-tv.ru/his/CH_TIVICOM_UUDEHD.m3u8
+#EXTINF:-1,ЦЕНТР Красноярск ПРЕМИУМ HD (720p)
+http://dmitry-tv.ru/his/CH_CENTRKRSN_HD_720_KRSK.m3u8
+#EXTINF:-1,ТКР (Рязань)
+http://dmitry-tv.ru/his/CH_TKR_RYAZ.m3u8
+#EXTINF:-1,УрФО 24/6 HD
+http://dmitry-tv.ru/his/CH_URFO24HD.m3u8
+#EXTINF:-1,Афонтово
+http://dmitry-tv.ru/his/yatv/CH_AFONTOVO.m3u8
+#EXTINF:-1,Хабар 24
+http://dmitry-tv.ru/his/yatv/CH_KHABAR24.m3u8
+#EXTINF:-1,ХАБАР 24 HD
+http://dmitry-tv.ru/his/CH_KHABAR24HD.m3u8
+#EXTINF:-1,Халык Арна
+http://dmitry-tv.ru/his/CH_HALYKARNA.m3u8
+#EXTINF:-1,Инфо 24 SD
+http://dmitry-tv.ru/his/yatv/CH_INFO24SD.m3u8
+#EXTINF:-1,Хузур ТВ HD (720p)
+http://dmitry-tv.ru/his/CH_HUZURTVHD_720.m3u8
+#EXTINF:-1,Югра (Тюмень)
+http://dmitry-tv.ru/his/CH_UGRA.m3u8
+#EXTINF:-1,31 Канал
+http://dmitry-tv.ru/his/CH_31CHANNEL.m3u8
+#EXTINF:-1,ALJAZEERA ENGLISH
+http://dmitry-tv.ru/his/CH_ALJAZEERAENGLISH.m3u8
+#EXTINF:-1,ALJAZEERA ENGLISH HD
+http://dmitry-tv.ru/his/CH_ALJAZEERAENGLISHHD.m3u8
+#EXTINF:-1,Almaty TV HD (720p)
+http://dmitry-tv.ru/his/CH_ALMATYTVHD_720.m3u8
+#EXTINF:-1,Atameken HD (720p) (Казахстан)
+http://dmitry-tv.ru/his/CH_ATAMEKENHD_720.m3u8
+#EXTINF:-1,AKAMAI
+http://dmitry-tv.ru/his/CH_AKAMAI.m3u8
+#EXTINF:-1,AKAMAI HD (720p)
+http://dmitry-tv.ru/his/CH_AKAMAIHD_720.m3u8
+#EXTINF:-1,Brodilo TV HD (720p)
+http://brodilo.tv/channel.php
+#EXTINF:-1,JOJ HD (720p)
+http://dmitry-tv.ru/his/CH_JOJHD_720.m3u8
+#EXTINF:-1,CBSN
+http://dmitry-tv.ru/his/CH_CBSN.m3u8
+#EXTINF:-1,CBSN HD (720p)
+http://dmitry-tv.ru/his/CH_CBSNHD_720.m3u8
+#EXTINF:-1,Djing
+http://dmitry-tv.ru/his/CH_DJING.m3u8
+#EXTINF:-1,Djing Ibiza
+http://dmitry-tv.ru/his/CH_DJING_IBIZA.m3u8
+#EXTINF:-1,Djing Classics
+http://dmitry-tv.ru/his/CH_DJING_CLASSICS.m3u8
+#EXTINF:-1,Djing Animation
+http://dmitry-tv.ru/his/CH_DJING_ANIMATION.m3u8
+#EXTINF:-1,Djing Underground
+http://dmitry-tv.ru/his/CH_DJING_UNDERGROUND.m3u8
+#EXTINF:-1,Djing Summer Vibes
+http://dmitry-tv.ru/his/CH_DJING_SUMMERVIBES.m3u8
+#EXTINF:-1,Djing Summer Vibes HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_SUMMERVIBESHD_720.m3u8
+#EXTINF:-1,Djing Electro Rock
+http://dmitry-tv.ru/his/CH_DJING_ELECTROROCK.m3u8
+#EXTINF:-1,Djing Electro Rock HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_ELECTROROCKHD_720.m3u8
+#EXTINF:-1,Djing French touch
+http://dmitry-tv.ru/his/CH_DJING_FRENCHTOUCH.m3u8
+#EXTINF:-1,Djing French touch HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_FRENCHTOUCHHD_720.m3u8
+#EXTINF:-1,Djing Karaoke
+http://dmitry-tv.ru/his/CH_DJING_KARAOKE.m3u8
+#EXTINF:-1,Djing Karaoke HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_KARAOKEHD_720.m3u8
+#EXTINF:-1,Djing Hedonist
+http://dmitry-tv.ru/his/CH_DJING_HEDONIST.m3u8
+#EXTINF:-1,Djing Hedonist HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_HEDONISTHD_720.m3u8
+#EXTINF:-1,Djing Avicii
+http://dmitry-tv.ru/his/CH_DJING_AVICII.m3u8
+#EXTINF:-1,Djing Avicii HD (720p)
+http://dmitry-tv.ru/his/CH_DJING_AVICIIHD_720.m3u8
+#EXTINF:-1,HD Media
+http://dmitry-tv.ru/his/yatv/CH_HDMEDIA.m3u8
+#EXTINF:-1,HD Media HD (720p)
+http://dmitry-tv.ru/his/yatv/CH_HDMEDIAHD_720.m3u8
+#EXTINF:-1,HD Media 3D HD (720p)
+http://dmitry-tv.ru/his/CH_HDMEDIA3DHD_720.m3u8
+#EXTINF:-1,KAZAKH TV [RU] HD
+http://dmitry-tv.ru/his/CH_KAZAKHTVRUHD.m3u8
+#EXTINF:-1,KAZAKH TV [KZ] HD
+http://dmitry-tv.ru/his/CH_KAZAKHTVKZHD.m3u8
+#EXTINF:-1,KAZAKH TV [EN] HD
+http://dmitry-tv.ru/his/CH_KAZAKHTVENHD.m3u8
+#EXTINF:-1,KAZAKH TV [KG] HD
+http://dmitry-tv.ru/his/CH_KAZAKHTVKGHD.m3u8
+#EXTINF:-1,KAZAKH TV [UZ] HD
+http://dmitry-tv.ru/his/CH_KAZAKHTVUZHD.m3u8
+#EXTINF:-1,KRATU (Херсон)
+http://dmitry-tv.ru/his/CH_KRATU.m3u8
+#EXTINF:-1,Kurdistan TV HD (720p)
+http://dmitry-tv.ru/his/CH_KURDISTANTVHD_720.m3u8
+#EXTINF:-1,OCKO HITY
+http://dmitry-tv.ru/his/CH_OCKOHITY.m3u8
+#EXTINF:-1,OCKO EXPRES
+http://dmitry-tv.ru/his/CH_OCKOEXPRES_PM.m3u8
+#EXTINF:-1,OCKO STAR
+http://dmitry-tv.ru/his/CH_OCKOSTAR.m3u8
+#EXTINF:-1,Red Bull TV HD
+http://dmitry-tv.ru/his/CH_REDBULLTVHD.m3u8
+#EXTINF:-1,Silence TV HD (720p)
+http://dmitry-tv.ru/his/CH_SILENCETVHD_720.m3u8
+#EXTINF:-1,Сочи 24 SD
+http://dmitry-tv.ru/his/yatv/CH_SOCHI24SD.m3u8
+#EXTINF:-1,Сочи 24 HD (720p)
+http://dmitry-tv.ru/his/CH_SOCHI24HD_720.m3u8
+#EXTINF:-1,Сочи 24 HD
+http://dmitry-tv.ru/his/yatv/CH_SOCHI24HD.m3u8
+#EXTINF:-1,Sochi live SD
+http://dmitry-tv.ru/his/yatv/CH_SOCHILIVESD.m3u8
+#EXTINF:-1,Ростов-папа
+http://dmitry-tv.ru/his/yatv/CH_ROSTOVPAPA.m3u8
+#EXTINF:-1,Ростов-папа HD
+http://dmitry-tv.ru/his/yatv/CH_ROSTOVPAPAHD.m3u8
+#EXTINF:-1,Splaxxx HD (720p)
+http://dmitry-tv.ru/his/CH_HISKIDSHD_720.m3u8
+#EXTINF:-1,Star HD (720p)
+http://dmitry-tv.ru/his/CH_STARTVHD_720.m3u8
+#EXTINF:-1,The Weather Channel (USA)
+http://dmitry-tv.ru/his/CH_WEATHER.m3u8
+#EXTINF:-1,The Weather Channel HD (720p) (USA)
+http://dmitry-tv.ru/his/CH_WEATHERHD_720.m3u8
+#EXTINF:-1,This IS Bulgaria HD (720p)
+http://dmitry-tv.ru/his/CH_THISISBULGARIAHD_720.m3u8
+#EXTINF:-1,TV5MONDE INFO HD
+http://dmitry-tv.ru/his/CH_TV5MONDEINFOHD.m3u8
+#EXTINF:-1,WDR HD (720p)
+http://dmitry-tv.ru/his/CH_WDRHD_720.m3u8
+#EXTINF:-1,Жар Птица
+http://dmitry-tv.ru/his/yatv/CH_ZHARPTITCA.m3u8
+#EXTINF:-1,Жар Птица HD
+http://dmitry-tv.ru/his/yatv/CH_ZHARPTITCAHD.m3u8
+#EXTINF:-1,112 Украина [UA]
+http://dmitry-tv.ru/his/ua/CH_112UKRAINA.m3u8
+#EXTINF:-1,112 Украина HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_112UKRAINAHD_720.m3u8
+#EXTINF:-1,112 Украина HD [UA]
+http://dmitry-tv.ru/his/ua/CH_112UKRAINAHD.m3u8
+#EXTINF:-1,СПОРТ HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_SPORTHD_720.m3u8
+#EXTINF:-1,ATR [UA]
+http://dmitry-tv.ru/his/ua/CH_ATR.m3u8
+#EXTINF:-1,UA TV HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_UATVHD_720.m3u8
+#EXTINF:-1,Надiя HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_NADIAHD_720.m3u8
+#EXTINF:-1,Третий Цифровой [UA]
+http://dmitry-tv.ru/his/ua/CH_3CIFROVOY.m3u8
+#EXTINF:-1,MUSIC BOX [UA] (4x3)
+http://dmitry-tv.ru/his/ua/CH_MUSICBOXUA_43.m3u8
+#EXTINF:-1,ОTV HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_OTVHD_720.m3u8
+#EXTINF:-1,M2 HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_M2HD_720.m3u8
+#EXTINF:-1,Первый Городской (Кривой Рог) HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_1TVKRHD_720.m3u8
+#EXTINF:-1,Первый Городской (Одесса) HD [UA]
+http://dmitry-tv.ru/his/ua/CH_1TVODESSAHD.m3u8
+#EXTINF:-1,Первый Деловой HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_1TVDELOVOYHD_720.m3u8
+#EXTINF:-1,НТК [UA]
+http://dmitry-tv.ru/his/ua/CH_NTK.m3u8
+#EXTINF:-1,Интер [UA]
+http://dmitry-tv.ru/his/ua/CH_INTER.m3u8
+#EXTINF:-1,К1 [UA]
+http://dmitry-tv.ru/his/ua/CH_K1.m3u8
+#EXTINF:-1,4 канал [UA]
+http://dmitry-tv.ru/his/ua/CH_4CHANNEL.m3u8
+#EXTINF:-1,4 канал HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_4CHANNELHD_720.m3u8
+#EXTINF:-1,4 канал HD [UA]
+http://dmitry-tv.ru/his/ua/CH_4CHANNELHD.m3u8
+#EXTINF:-1,А1 (Одесса) [UA]
+http://dmitry-tv.ru/his/ua/CH_A1_ODESSA.m3u8
+#EXTINF:-1,А1 (Одесса) HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_A1_ODESSAHD_720.m3u8
+#EXTINF:-1,VOTV возрождение HD [UA]
+http://dmitry-tv.ru/his/ua/CH_VOTV_VOZROZHDENIEHD.m3u8
+#EXTINF:-1,Думская TV [UA]
+http://dmitry-tv.ru/his/ua/CH_DUMSKAYATV.m3u8
+#EXTINF:-1,Думская TV HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_DUMSKAYATVHD_720.m3u8
+#EXTINF:-1,Здоровье [UA]
+http://dmitry-tv.ru/his/ua/CH_ZDOROVE.m3u8
+#EXTINF:-1,Репортер [UA]
+http://dmitry-tv.ru/his/ua/CH_REPORTER.m3u8
+#EXTINF:-1,Сварожичи ТВ HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_SVAROZHICHITVHD_720.m3u8
+#EXTINF:-1,ТРК Круг [UA]
+http://dmitry-tv.ru/his/ua/CH_KRUG.m3u8
+#EXTINF:-1,7 Канал HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_7CHANNELHD_720.m3u8
+#EXTINF:-1,G TV (Одесса) [UA]
+http://dmitry-tv.ru/his/ua/CH_GTV.m3u8
+#EXTINF:-1,G TV (Одесса) HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_GTVHD_720.m3u8
+#EXTINF:-1,TV5 (Запорожье) [UA]
+http://dmitry-tv.ru/his/ua/CH_TV5.m3u8
+#EXTINF:-1,Южная волна HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_U_VOLNAHD_720.m3u8
+#EXTINF:-1,ID Fashion [UA]
+http://dmitry-tv.ru/his/ua/CH_IDFASHION.m3u8
+#EXTINF:-1,ID Fashion HD (720p) [UA]
+http://dmitry-tv.ru/his/ua/CH_IDFASHIONHD_720.m3u8
+#EXTINF:-1,ID Fashion HD [UA]
+http://dmitry-tv.ru/his/ua/CH_IDFASHIONHD.m3u8
+#EXTINF:-1,CCTV-1 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-1HD.m3u8
+#EXTINF:-1,CCTV-2 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-2.m3u8
+#EXTINF:-1,CCTV-2 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-2HD.m3u8
+#EXTINF:-1,CCTV-3 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-3HD.m3u8
+#EXTINF:-1,CCTV-4 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-4.m3u8
+#EXTINF:-1,CCTV-5 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-5HD.m3u8
+#EXTINF:-1,CCTV-5+ HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-5_PLYUSHD.m3u8
+#EXTINF:-1,CCTV-6 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-6HD.m3u8
+#EXTINF:-1,CCTV-7 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-7.m3u8
+#EXTINF:-1,CCTV-7 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-7HD.m3u8
+#EXTINF:-1,CCTV-8 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-8HD.m3u8
+#EXTINF:-1,CCTV-9 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-9HD.m3u8
+#EXTINF:-1,CCTV-10 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-10.m3u8
+#EXTINF:-1,CCTV-10 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-10HD.m3u8
+#EXTINF:-1,CCTV-11 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-11.m3u8
+#EXTINF:-1,CCTV-12 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-12.m3u8
+#EXTINF:-1,CCTV-12 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-12HD.m3u8
+#EXTINF:-1,CCTV-13 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-13.m3u8
+#EXTINF:-1,CCTV-14 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-14.m3u8
+#EXTINF:-1,CCTV-14 HD (720p) [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-14HD_720.m3u8
+#EXTINF:-1,CCTV-14 HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-14HD.m3u8
+#EXTINF:-1,CCTV-15 [CN]
+http://dmitry-tv.ru/his/cn/CH_CCTV-15.m3u8
+#EXTINF:-1,NNTV [CN]
+http://dmitry-tv.ru/his/cn/CH_NNTV.m3u8
+#EXTINF:-1,CETV-1 [CN]
+http://dmitry-tv.ru/his/cn/CH_CETV-1.m3u8
+#EXTINF:-1,CGTN [CN]
+http://dmitry-tv.ru/his/cn/CH_CGTN.m3u8
+#EXTINF:-1,CGTN Documentary [CN]
+http://dmitry-tv.ru/his/cn/CH_CGTN_DOCUMENTARY.m3u8
+#EXTINF:-1,NEWTV Super variety [cctv.com] HD [CN]
+http://dmitry-tv.ru/his/cn/CH_NEWTV_SUPERVARIETYHD.m3u8
+#EXTINF:-1,NEWTV Super sports [cctv.com] HD [CN]
+http://dmitry-tv.ru/his/cn/CH_NEWTV_SUPERSPORTSHD.m3u8
+#EXTINF:-1,NEWTV Super drama HD [CN]
+http://dmitry-tv.ru/his/cn/CH_NEWTV_SUPERDRAMAHD.m3u8
+#EXTINF:-1,NEWTV Super movie HD [CN]
+http://dmitry-tv.ru/his/cn/CH_NEWTV_SUPERMOVIEHD.m3u8
+#EXTINF:-1,X HD [CN]
+http://dmitry-tv.ru/his/cn/CH_XHD.m3u8
+#EXTINF:-1,NEWTV HD [CN]
+http://dmitry-tv.ru/his/cn/CH_NEWTVHD.m3u8
+#EXTINF:-1,Blackberry HD [CN]
+http://dmitry-tv.ru/his/cn/CH_BLACKBERRYHD.m3u8
+#EXTINF:-1,BTV HD [CN]
+http://dmitry-tv.ru/his/cn/CH_BTVHD.m3u8
+#EXTINF:-1,HRB [CN]
+http://dmitry-tv.ru/his/cn/CH_HRB.m3u8
+#EXTINF:-1,HRB HD [CN]
+http://dmitry-tv.ru/his/cn/CH_HRBHD.m3u8
+#EXTINF:-1,CNR HD [CN]
+http://dmitry-tv.ru/his/cn/CH_CNRHD.m3u8

@@ -1,0 +1,139 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="balt-tv"  group-title="Lietuviski",Balticum TV
+http://88.216.48.147/flussonic/Balticum/video.m3u8
+#EXTINF:0 tvg-id="balt-auks" group-title="Lietuviski",Balticum Auksinis
+http://88.216.48.147/flussonic/Balticum_auks/video.m3u8
+#EXTINF:0 tvg-id="balt-plat-lt" group-title="Lietuviski",Balticum Platinum HD
+http://88.216.48.147/flussonic/Balticum_Plat/video.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-lt" group-title="Lietuviski",TV1000 Premium 
+http://88.216.48.147/flussonic/TV1000Premium/index.m3u8
+#EXTINF:0 tvg-id="tv1000-premium-lt" group-title="Lietuviski",TV1000 Premium HD
+http://88.216.48.147/flussonic/TV1000Pre_HD/video.m3u8
+#EXTINF:0 tvg-id="Filmzone.lt"group-title="Lietuviski",Filmzone
+http://88.216.48.147/flussonic/Filmzone/video.m3u8
+#EXTINF:0 tvg-id="FilmzonePlus.lt"group-title="Lietuviski",Filmzone+ HD
+http://88.216.48.147/flussonic/Filmzone+/video.m3u8
+#EXTINF:0 tvg-id="init-lt" group-title="Lietuviski",Init TV HD
+http://88.216.48.147/flussonic/Init_HD/video.m3u8
+#EXTINF:0 tvg-id="lrt" group-title="Lietuviski",LRT HD
+http://88.216.48.147/flussonic/LRT_Televizija_HD/video.m3u8
+#EXTINF:0 tvg-id="lrtkult" group-title="Lietuviski",LRT Plius HD
+http://88.216.48.147/flussonic/LRT_Plius_HD/video.m3u8
+#EXTINF:0 tvg-id="tv3-lt" group-title="Lietuviski",TV3 HD
+http://88.216.48.147/flussonic/TV3_HD/index.m3u8
+#EXTINF:0 tvg-id="tv3-lt" group-title="Lietuviski",TV3
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:0 tvg-id="tv6-lt" group-title="Lietuviski",TV6 HD
+http://88.216.48.147/flussonic/TV6_HD/index.m3u8
+#EXTINF:0 tvg-id="tv6-lt" group-title="Lietuviski",TV6
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Lietuviski",BTV HD
+http://88.216.48.147/flussonic/BTV_HD/index.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Lietuviski",BTV
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:0 tvg-id="lnk-lt" group-title="Lietuviski",LNK HD
+http://88.216.48.147/flussonic/LNK_HD/index.m3u8
+#EXTINF:0 tvg-id="lnk-lt" group-title="Lietuviski",LNK
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:0 tvg-id="tv1-lt" group-title="Lietuviski",TV1 HD
+http://88.216.48.147/flussonic/TV1_HD/index.m3u8
+#EXTINF:0 tvg-id="tv1-lt" group-title="Lietuviski",TV1
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:0 tvg-id="tv8-lt" group-title="Lietuviski",TV8 HD
+http://88.216.48.147/flussonic/TV8_HD/index.m3u8
+#EXTINF:0 tvg-id="tv8-lt" group-title="Lietuviski",TV8
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:0 tvg-id="info-tv" group-title="Lietuviski",Info TV HD
+http://88.216.48.147/flussonic/InfoTV_HD/index.m3u8
+#EXTINF:0 tvg-id="rytas_lt" group-title="Lietuviski",Lrytas TV HD
+http://88.216.48.147/flussonic/Lietuvos_rytas_HD/index.m3u8
+#EXTINF:0 "group-title="Lietuviski",Seuliu TV
+http://88.216.48.147/flussonic/Siauliu_TV/index.m3u8
+#EXTINF:0 "group-title="Lietuviski",Marijampoles TV HD
+http://88.216.48.147/flussonic/MarijampolesTV_HD/index.m3u8
+#EXTINF:0 tvg-id="GNTV.lt" group-title="Lietuviski",GNTV
+http://88.216.48.147/flussonic/GNTV/index.m3u8
+#EXTINF:0 tvg-id="liuks" group-title="Lietuviski",LIUKS!
+http://88.216.8.122:8080/liuks/index.m3u8
+#EXTINF:0 group-title="Lietuviski",Sport1 HD
+http://88.216.48.147/flussonic/Sport1HD/index.m3u8
+#EXTINF:0 tvg-id="TVPlaySports.lt" group-title="Lietuviski",TVPlay Sport
+http://88.216.48.147/flussonic/TVPlaySport/video.m3u8
+#EXTINF:0 group-title="Vaikam" tvg-id="Kidzone.blt",Kidzone
+http://88.216.48.147/flussonic/Kidzone/index.m3u8
+#EXTINF:0 group-title="Vaikam" tvg-id="KidzonePlus.lt",Kidzone+
+http://185.78.112.18/KIDZONE_PLUS_HD/tracks-v1a3/mono.m3u8
+#EXTINF:0 group-title="Vaikam" tvg-id="LoloTV.lt",Pingviniukas
+http://88.216.48.147/flussonic/Pingvinukas/video.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.blt" group-title="Vaikam",Nickelodeon
+http://88.216.48.147/flussonic/Nickelodeon/video.m3u8
+#EXTINF:0 tvg-id="nickelod-hd" group-title="Vaikam",Nickelodeon
+http://88.216.8.122:8080/nickelodeon/index.m3u8
+#EXTINF:0 tvg-id="boomerang" group-title="Vaikam",Boomerang
+http://88.216.48.147/flussonic/Boomerang/video.m3u8
+#EXTINF:-1 group-title="Vaikam",Cartoon Network 
+http://88.216.48.147/flussonic/Cartoon_Network/video.m3u8
+#EXTINF:0 tvg-id="hollywood-hd" group-title="Filmu" ,Hollywood HD
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/209/index.m3u8
+#EXTINF:0 group-title="Filmu" ,Amedia Premium HD
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/229/index.m3u8
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="Filmu" ,ViP Megahit HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:0 tvg-id="TV1000East.lt" group-title="Filmu",TV1000
+http://88.216.48.147/flussonic/TV1000/index.m3u8
+#EXTINF:0 tvg-id="TV1000Action.lt" group-title="Filmu",TV1000 Action
+http://88.216.48.147/flussonic/TV1000Action/index.m3u8
+#EXTINF:0 tvg-id="film-box" group-title="Filmu" ,Filmbox
+http://88.216.48.147/flussonic/FilmBox/video.m3u8
+#EXTINF:0 tvg-id="kino-miks" group-title="Filmu",КиноМикс
+http://88.216.48.147/flussonic/Kinomiks_HD/index.m3u8
+#EXTINF:0 tvg-id="mtv-hits" group-title="Muzika",MTV Hits
+http://88.216.48.147/flussonic/MTVHits/index.m3u8
+#EXTINF:0 tvg-id="mtv-eu" group-title="Muzika",MTV European
+http://88.216.48.147/flussonic/MTVEurope/index.m3u8
+#EXTINF:0 tvg-id="bridge" group-title="Muzika",BRIDGE
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:0 tvg-id="mb-russia" group-title="Muzika",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:0 tvg-id="Viva.uk" group-title="Muzika",VIVA
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:0 group-title="Muzika",one.by
+http://rtmp.one.by:1200
+#EXTINF:0 group-title="Muzika",OneRUS HD
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="Muzika",one.by HD
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-id="fast-n-funbox-hd" group-title="Pazintinei",Fast&Funbox HD
+http://88.216.48.147/flussonic/Fast_Fun_Box_HD/video.m3u8
+#EXTINF:0 tvg-id="docubox-hd" group-title="Pazintinei",DocuBox HD
+http://88.216.48.147/flussonic/DocuBoxHD/video.m3u8
+#EXTINF:0 tvg-id="FineLiving.ru" group-title="Pazintinei",Fine Living
+http://88.216.48.147/flussonic/Fine_Living/index.m3u8
+#EXTINF:0 tvg-id="Discovery.ee" group-title="Pazintinei",Discovery Channel
+http://88.216.48.147/flussonic/Discovery/video.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.blt" group-title="Pazintinei",Discovery Science
+http://88.216.48.147/flussonic/Discovery_Science/video.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="Pazintinei",Animal Planet
+http://88.216.48.147/flussonic/Animal_Planet/video.m3u8
+#EXTINF:0 tvg-id="NatGeo" group-title="Pazintinei",National Geographic HD
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/ndex.m3u8
+#EXTINF:0 tvg-id="FoodNetworkHD.us" group-title="Pazintinei",Food Network HD
+http://88.216.48.147/flussonic/Food_Network_HD/video.m3u8
+#EXTINF:0 tvg-id="teletravel_hd" group-title="Pazintinei",Travel Channel HD
+http://88.216.48.147/flussonic/Travel_Channel_HD/video.m3u8
+#EXTINF:0 tvg-id="ViasatHistory.lt" group-title="Pazintinei",Viasat History HD
+http://88.216.48.147/flussonic/Viasat_History_HD/video.m3u8
+#EXTINF:0 tvg-id="ViasatExplorer.lt" group-title="Pazintinei",Viasat Explorer HD
+http://88.216.48.147/flussonic/Viasat_Explore_HD/video.m3u8
+#EXTINF:0 tvg-id="ViasatNature.lt" group-title="Pazintinei",Viasat Nature
+http://88.216.48.147/flussonic/Viasat_Nature/video.m3u8
+#EXTINF:0 tvg-id="moya-planeta" group-title="Pazintinei",Моя планета
+http://88.216.48.147/flussonic/Moja_Planeta/index.m3u8
+#EXTINF:0 tvg-id="drive" group-title="Pazintinei",Драйв
+http://88.216.48.147/flussonic/Drive/index.m3u8
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="Pazintinei",Охотник и рыболов HD
+http://ott-cdn.ucom.am/s62/04.m3u8
+#EXTINF:0 tvg-id="kuhnya"  group-title="Pazintinei",Кухня ТВ HD
+http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8
+#EXTINF:0 tvg-id="Fashion"  group-title="Pazintinei",Fashion TV 4K UHD
+http://88.216.48.147/flussonic/FashionTV4K/video.m3u8

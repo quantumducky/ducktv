@@ -1,0 +1,3783 @@
+﻿#EXTM3U
+#EXTINF:-1,NAT GEO WILD (ASIA)
+http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
+#EXTINF:-1,B4U MUSIC
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:-1,B4U MUSIC
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1,DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1,DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1,ДИАЛОГИ О РЫБАЛКЕ
+http://109.248.236.41:4433/udp/238.1.1.106:1234
+#EXTINF:-1,КИНОКОМЕДИЯ [SD]
+http://109.248.236.41:4433/udp/238.1.1.107:1234
+#EXTINF:-1,АВТО 24
+http://109.248.236.41:4433/udp/238.1.1.110:1234
+#EXTINF:-1,EUROSPORT 1
+http://109.248.236.41:4433/udp/238.1.1.114:1234
+#EXTINF:-1,ТНТ4
+http://109.248.236.41:4433/udp/238.1.1.12:1234
+#EXTINF:-1,БОКС ТВ
+http://109.248.236.41:4433/udp/238.1.1.13:1234
+#EXTINF:-1,SONY CHANNEL
+http://109.248.236.41:4433/udp/238.1.1.141:1234
+#EXTINF:-1,TRAVEL +
+http://109.248.236.41:4433/udp/238.1.1.142:1234
+#EXTINF:-1,VIASAT EXPLORE
+http://109.248.236.41:4433/udp/238.1.1.18:1234
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://109.248.236.41:4433/udp/238.1.1.22:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://109.248.236.41:4433/udp/238.1.1.25:1234
+#EXTINF:-1,ЕВРОКИНО [SD]
+http://109.248.236.41:4433/udp/238.1.1.49:1234
+#EXTINF:-1,SETANTA SPORTS+
+http://109.248.236.41:4433/udp/238.1.1.61:1234
+#EXTINF:-1,FASHION TV
+http://109.248.236.41:4433/udp/238.1.1.69:1234
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://109.248.236.41:4433/udp/238.1.1.71:1234?em9uYS1pcHR2LnJ1
+#EXTINF:-1,МУЖСКОЕ КИНО [SD]
+http://109.248.236.41:4433/udp/238.1.1.74:1234
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР
+http://109.248.236.41:4433/udp/238.1.1.76:1234
+#EXTINF:-1,TV1000 ACTION [SD]
+http://109.248.236.41:4433/udp/238.1.1.8:1234
+#EXTINF:-1,НАУКА
+http://109.248.236.41:4433/udp/238.1.1.89:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://109.248.236.41:4433/udp/238.1.1.93:1234
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,К1
+http://109.68.40.67/life/k1_3/index.m3u8?version=2
+#EXTINF:-1,К1
+http://109.68.40.67:80/life/k1_1/index.m3u8
+#EXTINF:-1,K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1,К1
+http://109.68.40.72/life/k1_2/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://109.68.41.148:1935/live/inter_1/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:-1,ИНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1,IНТЕР
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,К1
+http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_2/playlist.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://112hd-hls1.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+#EXTINF:-1,112 УКРАЇНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1,TVPLUS
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1,FOX COMEDY
+http://157.100.52.90:9981/stream/channelid/1751579182
+#EXTINF:-1,HBO
+http://157.100.52.90:9981/stream/channelid/203936517
+#EXTINF:-1,VIASAT HISTORY
+http://158.46.111.177:81/udp/239.255.42.40:1234
+#EXTINF:-1,SONY TURBO
+http://158.46.111.177:81/udp/239.255.42.93:1234
+#EXTINF:-1,SONY TURBO
+http://158.46.115.68:81/udp/239.255.42.93:1234
+#EXTINF:-1,PARAMOUNT COMEDY
+http://158.46.88.95:4022/udp/239.255.42.16:1234
+#EXTINF:-1,НАШ СПОРТ
+http://158.46.88.95:4022/udp/239.255.42.27:1234
+#EXTINF:-1,2X2 (+4)
+http://158.46.88.95:4022/udp/239.255.42.29:1234
+#EXTINF:-1,VIASAT HISTORY
+http://158.46.88.95:4022/udp/239.255.42.40:1234
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://158.46.88.95:4022/udp/239.255.42.43:1234
+#EXTINF:-1,TV1000
+http://158.46.88.95:4022/udp/239.255.42.49:1234
+#EXTINF:-1,FASHION
+http://158.46.88.95:4022/udp/239.255.42.51:1234
+#EXTINF:-1,VIASAT SPORT
+http://158.46.88.95:4022/udp/239.255.42.57:1234
+#EXTINF:-1,ЧЕ
+http://158.46.88.95:4022/udp/239.255.42.64:1234
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.38/PLTV/88888888/224/3221226332/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,B4U MUSIC
+http://161.0.157.5/PLTV/88888888/224/3221226332/03.m3u8
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,NBS SPORTS HD
+http://161.0.157.5/PLTV/88888888/224/3221226881/01.m3u8
+#EXTINF:-1,NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/03.m3u8
+#EXTINF:-1,NBS SPORTS
+http://161.0.157.5/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,FLOW SPORTS 1
+http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/3.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO2
+http://161.0.157.51/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1,FOX SPORTS RACING HD
+http://161.0.157.8/PLTV/88888888/224/3221226181/01.m3u8
+#EXTINF:-1,FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/02.m3u8
+#EXTINF:-1,FOX SPORTS RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1,SPORT MAX HD
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8
+#EXTINF:-1,SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1,SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/03.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1,SPORT MAX
+http://161.0.157.8/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SPORT
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1,SPORT HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/04.m3u8
+#EXTINF:-1,SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+#EXTINF:-1,SPORTS MAX HD
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,CARTOON NETWORK (ENGLAND)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,CARTOON NETWORK (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
+#EXTINF:-1,FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1,FLOW SPORTS 1
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-1,FLOW SPORTS 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1,FLOW SPORTS 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ZIK
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1933697883.m3u8
+#EXTINF:-1,ALL SPORTS HD
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,ALL SPORTS HD
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,TV1000
+http://178.124.183.12/hls/6WMZMUEWGN/bw2000000/playlist.m3u8
+#EXTINF:-1,BLUE HUSTLER (18+)
+http://178.124.183.12/hls/CH_BLUEHUSTLER/bw2000000/playlist.m3u8?version=2
+#EXTINF:-1,FOX
+http://178.124.183.12/hls/CH_FOX/bw2000000/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://178.124.183.12/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://178.124.183.12/hls/EDVYQYGHF8/bw2000000/playlist.m3u8
+#EXTINF:-1,SETANTA SPORTS EURASIA HD
+http://178.124.183.12/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://178.124.183.12/hls/W7LNWHFGTB/bw2000000/playlist.m3u8
+#EXTINF:-1,SETANTA SPORTS + HD
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1,SETANTA SPORTS+ [FHD]
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1,SETANTA SPORTS + HD
+http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
+#EXTINF:-1,TV1000
+http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
+#EXTINF:-1,FOX
+http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
+#EXTINF:-1,HISTORY
+http://178.124.183.13/hls/CH_HISTORY/bw1200000/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1,SONY SCIFI
+http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://178.124.183.13/hls/EWEXU8FWAZ/bw1200000/playlist.m3u8
+#EXTINF:-1,SETANTA SPORTS HD (РЕЗЕРВ)
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2
+#EXTINF:-1,SETANTA SPORTS HD
+http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2?seg-user-zona-iptv.ru-v1-a1
+#EXTINF:-1,НАШ ФУТБОЛ
+http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://178.124.183.13/hls/JEDUS3FS7V/bw1200000/playlist.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://178.124.183.13/hls/LWWBCKZAPZ/bw1200000/playlist.m3u8
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://178.124.183.13/hls/VF5ELDF8AL/bw1200000/playlist.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000
+http://178.124.183.14/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://178.124.183.14/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://178.124.183.14/hls/CH_NATGEO/bw1200000/playlist.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://178.124.183.14/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://178.124.183.14/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1,NATGEO WILD
+http://178.124.183.14/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://178.124.183.14/hls/EWEXU8FWAZ/bw1200000/playlist.m3u8
+#EXTINF:-1,VIASAT_EXPLORER
+http://178.124.183.14/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1,SETANTA SPORTS HD
+http://178.124.183.14:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8
+#EXTINF:-1,АМЕДИА 1
+http://178.163.102.33:4022/udp/234.0.0.155:2000
+#EXTINF:-1,ТНТ 4
+http://178.163.102.33:4022/udp/234.0.0.181:2000
+#EXTINF:-1,НАУКА 2.0
+http://178.163.102.33:4022/udp/234.0.0.226:2000
+#EXTINF:-1,A-MEDIA HIT
+http://178.163.109.216:34040/udp/234.0.0.169:2000
+#EXTINF:-1,BOLLYWOOD
+http://178.163.109.216:34040/udp/234.0.0.195:2000
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://178.163.109.216:34040/udp/234.0.0.230:2000
+#EXTINF:-1,FOX
+http://178.163.12.60:4022/udp/234.0.0.184:2000
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://178.163.12.60:4022/udp/234.0.0.230:2000
+#EXTINF:-1,ЮМОР
+http://178.163.127.23:4022/udp/234.0.0.101:2000
+#EXTINF:-1,NICKELODEON
+http://178.163.127.23:4022/udp/234.0.0.153:2000
+#EXTINF:-1,AMEDIA HIT
+http://178.163.127.23:4022/udp/234.0.0.169:2000
+#EXTINF:-1,RUSSIAN EXTREME
+http://178.163.127.23:4022/udp/234.0.0.173:2000
+#EXTINF:-1,ЕВРОКИНО
+http://178.163.127.23:4022/udp/234.0.0.176:2000
+#EXTINF:-1,FOX
+http://178.163.127.23:4022/udp/234.0.0.184:2000
+#EXTINF:-1,BOLLYWOOD
+http://178.163.127.23:4022/udp/234.0.0.195:2000
+#EXTINF:-1,КАНАЛ DISNEY
+http://178.163.127.23:4022/udp/234.0.0.198:2000
+#EXTINF:-1,МАТЧ!
+http://178.163.127.23:4022/udp/234.0.0.204:2000
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://178.163.127.23:4022/udp/234.0.0.213:2000
+#EXTINF:-1,ЧЕ
+http://178.163.127.23:4022/udp/234.0.0.218:2000
+#EXTINF:-1,АВТО 24
+http://178.163.127.23:4022/udp/234.0.0.227:2000
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://178.163.127.23:4022/udp/234.0.0.230:2000
+#EXTINF:-1,СТС
+http://178.163.127.23:4022/udp/234.0.0.239:2000
+#EXTINF:-1,2X2
+http://178.163.127.23:4022/udp/234.0.0.244:2000
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://178.163.127.23:4022/udp/234.0.0.6:2000
+#EXTINF:-1,МАТЧ ИГРА
+http://178.163.15.103:4022/udp/234.0.0.211:2000
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://178.163.16.87:4022/udp/234.0.0.118:2000
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://178.163.16.87:4022/udp/234.0.0.6:2000
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://178.163.18.154:4022/udp/234.0.0.118:2000
+#EXTINF:-1,NICKELODION
+http://178.163.18.154:4022/udp/234.0.0.153:2000
+#EXTINF:-1,AMEDIA HIT
+http://178.163.18.154:4022/udp/234.0.0.169:2000
+#EXTINF:-1,ENGLISH CLUB TV
+http://178.163.18.154:4022/udp/234.0.0.174:2000
+#EXTINF:-1,ТНТ4
+http://178.163.18.154:4022/udp/234.0.0.181:2000
+#EXTINF:-1,MTV ROCKS [SD]
+http://178.163.18.154:4022/udp/234.0.0.193:2000
+#EXTINF:-1,MTV HITS [SD]
+http://178.163.18.154:4022/udp/234.0.0.194:2000
+#EXTINF:-1,DISNEY CHANNEL
+http://178.163.18.154:4022/udp/234.0.0.198:2000
+#EXTINF:-1,МАТЧ!
+http://178.163.18.154:4022/udp/234.0.0.204:2000
+#EXTINF:-1,БОКС
+http://178.163.18.154:4022/udp/234.0.0.211:2000
+#EXTINF:-1,ЧЕ
+http://178.163.18.154:4022/udp/234.0.0.218:2000
+#EXTINF:-1,НАУКА 2.0
+http://178.163.18.154:4022/udp/234.0.0.226:2000
+#EXTINF:-1,MTV DANCE
+http://178.163.18.154:4022/udp/234.0.0.233:2000
+#EXTINF:-1,СТС
+http://178.163.18.154:4022/udp/234.0.0.239:2000
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://178.163.18.154:4022/udp/234.0.0.6:2000
+#EXTINF:-1,ТНТ +4
+http://178.163.18.154:4022/udp/234.0.0.9:2000
+#EXTINF:-1,ОРУЖИЕ
+http://178.163.18.154:4022/udp/234.0.0.97:2000
+#EXTINF:-1,МАТЧ ТВ
+http://178.163.24.150:4022/udp/234.0.0.204:2000
+#EXTINF:-1,МАТЧ! ИГРА
+http://178.163.34.131:81/udp/234.0.0.211:2000
+#EXTINF:-1,НАУКА 2.0
+http://178.163.45.64:4022/udp/234.0.0.226:2000
+#EXTINF:-1,МАТЧ ТВ
+http://178.163.47.26:4022/udp/234.0.0.204:2000
+#EXTINF:-1,NICKELODION
+http://178.163.50.209:4022/udp/234.0.0.153:2000
+#EXTINF:-1,МАТЧ ТВ
+http://178.163.50.209:4022/udp/234.0.0.204:2000
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://178.163.58.72:4022/udp/234.0.0.118:2000
+#EXTINF:-1,АМЕДИА 1
+http://178.163.58.72:4022/udp/234.0.0.155:2000
+#EXTINF:-1,RUSSIAN EXTREME
+http://178.163.58.72:4022/udp/234.0.0.173:2000
+#EXTINF:-1,ЕВРОКИНО
+http://178.163.58.72:4022/udp/234.0.0.176:2000
+#EXTINF:-1,FOX
+http://178.163.58.72:4022/udp/234.0.0.184:2000
+#EXTINF:-1,MTV ROCKS
+http://178.163.58.72:4022/udp/234.0.0.193:2000
+#EXTINF:-1,BOLLYWOOD HD
+http://178.163.58.72:4022/udp/234.0.0.195:2000
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://178.163.58.72:4022/udp/234.0.0.199:2000
+#EXTINF:-1,AMEDIA PREMIUM
+http://178.163.58.72:4022/udp/234.0.0.209:2000
+#EXTINF:-1,MTV DANCE
+http://178.163.58.72:4022/udp/234.0.0.233:2000
+#EXTINF:-1,2X2
+http://178.163.58.72:4022/udp/234.0.0.244:2000
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://178.163.58.72:4022/udp/234.0.0.6:2000
+#EXTINF:-1,ANIMAL PLANET
+http://178.163.58.72:4022/udp/234.0.0.97:2000
+#EXTINF:-1,БОЕЦ
+http://178.163.59.56:4022/udp/234.0.0.6:2000
+#EXTINF:-1,MTV ROCKS
+http://178.163.72.111:4022/udp/234.0.0.193:2000
+#EXTINF:-1,AMEDIA HBO
+http://178.163.89.138:4022/udp/234.0.0.169:2000
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://178.163.89.138:4022/udp/234.0.0.213:2000
+#EXTINF:-1,ENGLISH CLUB TV
+http://178.163.99.66:81/udp/234.0.0.174:2000
+#EXTINF:-1,SKY SPORT NEWS HD
+http://178.196.237.240:3000/play/ccSkyNEwscc
+#EXTINF:-1,SKY SPORT NEWS
+http://178.196.237.240:7777/play/a01u
+#EXTINF:-1,TV 100
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1,AMEDIA 2
+http://185.118.50.219/RU-amedia2/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://185.118.50.219/RU-amediahit/video.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://185.118.50.219/RU-avtoplyus/index.m3u8
+#EXTINF:-1,БОБЁР
+http://185.118.50.219/RU-bober/index.m3u8
+#EXTINF:-1,ЧЕ
+http://185.118.50.219/RU-che/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://185.118.50.219/RU-foodnetwork/video.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://185.118.50.219/RU-nauka20/index.m3u8
+#EXTINF:-1,DISNEY HD
+http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,DISNEY XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1,MTV HITS
+http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,NICK JR
+http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,NICKELODEON
+http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,SPORT 1 LT
+http://185.176.117.243/live/eds/Sport1/HLS_encr/index.m3u8
+#EXTINF:-1,SPORT1
+http://185.176.117.243/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000
+http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,VIASAT EXPLORER HD
+http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,VIASAT HISTORY HD
+http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://185.184.233.174:5000/udp/225.1.2.156:1234
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
+http://185.184.233.174:5000/udp/225.1.2.67:1234
+#EXTINF:-1,EUROKINO
+http://185.35.5.209:63080/tXOTRkENh6dQf045/evrokino/playlist.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
+http://185.35.5.209:63080/tXOTRkENh6dQf045/oirhd/playlist.m3u8
+#EXTINF:-1,MATCHTV
+http://185.35.5.209:63080/tXOTRkENh6dQf045/rossia2/playlist.m3u8
+#EXTINF:-1,MATCHARENA
+http://185.35.5.209:63080/tXOTRkENh6dQf045/sport1/playlist.m3u8
+#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://185.78.112.18/1-obrazovat/mono.m3u8
+#EXTINF:-1,AMEDIA HIT HD
+http://185.78.112.18/amedia_hit_hd/mono.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://185.78.112.18/amedia_premium_hd/mono.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://185.78.112.18/AmediaHit/mono.m3u8
+#EXTINF:-1,AMEDIA PREMIUM
+http://185.78.112.18/AmediaPremium/mono.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://185.78.112.18/AnimalPlanetRussia/mono.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://185.78.112.18/AnimalPlanetRussiaHD/mono.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА (СПОРТ 1)
+http://185.78.112.18/arena/mono.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://185.78.112.18/arena_hd/mono.m3u8
+#EXTINF:-1,АВТО24 HD
+http://185.78.112.18/auto24/mono.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://185.78.112.18/avto_plus/mono.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://185.78.112.18/belarus_24/mono.m3u8
+#EXTINF:-1,БОБЁР
+http://185.78.112.18/bober/mono.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://185.78.112.18/boez/mono.m3u8
+#EXTINF:-1,BOLLYWOOD
+http://185.78.112.18/Bollywood/mono.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+http://185.78.112.18/BollywoodHD/mono.m3u8
+#EXTINF:-1,BOOMERANG
+http://185.78.112.18/Boomerang/mono.m3u8
+#EXTINF:-1,БОКС ТВ
+http://185.78.112.18/BoxTV/mono.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://185.78.112.18/cartoon-net/mono.m3u8
+#EXTINF:-1,ЧЕ
+http://185.78.112.18/che/mono.m3u8
+#EXTINF:-1,BRIDGE TV DANCE
+http://185.78.112.18/dange/mono.m3u8
+#EXTINF:-1,TRAVEL XP 4K
+http://185.78.112.18/DE_TRAVELXP_4K/mono.m3u8
+#EXTINF:-1,DELUXE MUSIC HD
+http://185.78.112.18/DeluxeMusicHD/mono.m3u8
+#EXTINF:-1,ДИАЛОГИ О РЫБАЛКЕ
+http://185.78.112.18/DIALOGI_O_RYBALKE/mono.m3u8
+#EXTINF:-1,ДИКИЙ
+http://185.78.112.18/Dikiy/mono.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://185.78.112.18/DiscoveryChannel/mono.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://185.78.112.18/DiscoveryChannelHD/mono.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://185.78.112.18/DiscoveryScience/mono.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://185.78.112.18/disney/mono.m3u8
+#EXTINF:-1,ENGLISH CLUB
+http://185.78.112.18/english_club_tv/mono.m3u8
+#EXTINF:-1,ЕВРОКИНО
+http://185.78.112.18/Eurokino/mono.m3u8
+#EXTINF:-1,EURONEWS
+http://185.78.112.18/euronews/mono.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.78.112.18/Eurosport1HD/mono.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://185.78.112.18/Eurosport2HD/mono.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://185.78.112.18/EurosportHD/mono.m3u8
+#EXTINF:-1,FASHION ONE HD
+http://185.78.112.18/fashion_one_hd/mono.m3u8
+#EXTINF:-1,FASHION TV
+http://185.78.112.18/fashion_tv/mono.m3u8
+#EXTINF:-1,FOOD NETWORK (РОССИЯ)
+http://185.78.112.18/FoodNetworkRussia/mono.m3u8
+#EXTINF:-1,FOOD NETWORK (РОССИЯ) HD
+http://185.78.112.18/FoodNetworkRussiaHD/mono.m3u8
+#EXTINF:-1,ФУТБОЛ
+http://185.78.112.18/football/mono.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://185.78.112.18/football1_hd/mono.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://185.78.112.18/football2_hd/mono.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://185.78.112.18/football3_hd/mono.m3u8
+#EXTINF:-1,FOX
+http://185.78.112.18/fox/mono.m3u8
+#EXTINF:-1,FOX HD
+http://185.78.112.18/fox_hd/mono.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://185.78.112.18/futball-1/mono.m3u8
+#EXTINF:-1,HISTORY
+http://185.78.112.18/History/mono.m3u8
+#EXTINF:-1,HISTORY HD
+http://185.78.112.18/History-HD/mono.m3u8
+#EXTINF:-1,МАТЧ ТВ
+http://185.78.112.18/match/mono.m3u8
+#EXTINF:-1,МАТЧ ТВ HD
+http://185.78.112.18/match_hd/mono.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://185.78.112.18/match-igra/mono.m3u8
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://185.78.112.18/match-igra_hd/mono.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://185.78.112.18/mtvlivehd/video.m3u8
+#EXTINF:-1,MTV ROCKS
+http://185.78.112.18/MTVRocks/mono.m3u8
+#EXTINF:-1,MUSICBOX
+http://185.78.112.18/music-box-tv/mono.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://185.78.112.18/muzhskoe-kino/mono.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://185.78.112.18/muzhskoe-kino_hd/mono.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://185.78.112.18/natgeo/mono.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://185.78.112.18/natgeo_hd/mono.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://185.78.112.18/natgeo_wild/mono.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://185.78.112.18/natgeo_wild_hd/mono.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://185.78.112.18/nauka_2/mono.m3u8
+#EXTINF:-1,NICKELODEON
+http://185.78.112.18/nickelodeon/mono.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://185.78.112.18/NickelodeonHD/mono.m3u8
+#EXTINF:-1,NICK JR
+http://185.78.112.18/NickJr/mono.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
+http://185.78.112.18/ohot_i_rybolov_hd/mono.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
+http://185.78.112.18/ohotnik/mono.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://185.78.112.18/oruzhie/mono.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://185.78.112.18/ParamountChannelRussia/mono.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://185.78.112.18/paramount-comedy/mono.m3u8
+#EXTINF:-1,ПЛАНЕТА HD
+http://185.78.112.18/planeta_hd/mono.m3u8
+#EXTINF:-1,ПОЕХАЛИ!
+http://185.78.112.18/Poehali/mono.m3u8
+#EXTINF:-1,ПЯТНИЦА
+http://185.78.112.18/Pyatnica/mono.m3u8
+#EXTINF:-1,SET (SONY CHANNEL)
+http://185.78.112.18/SonyChannelRussia/mono.m3u8
+#EXTINF:-1,SONY SCI-FI RUSSIA
+http://185.78.112.18/SonySci-FiRussia/mono.m3u8
+#EXTINF:-1,SPIKE
+http://185.78.112.18/SPIKE/mono.m3u8
+#EXTINF:-1,СТС
+http://185.78.112.18/sts_fed/mono.m3u8
+#EXTINF:-1,ТНТ
+http://185.78.112.18/tnt/mono.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.78.112.18/tnt_hd/mono.m3u8
+#EXTINF:-1,ТНТ4
+http://185.78.112.18/tnt-4/mono.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://185.78.112.18/TravelChannelHD/mono.m3u8
+#EXTINF:-1,TV1000
+http://185.78.112.18/TV1000/mono.m3u8
+#EXTINF:-1,TV1000ACTION
+http://185.78.112.18/TV1000Action/mono.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://185.78.112.18/ViasatExplore/mono.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://185.78.112.18/ViasatHistory/mono.m3u8
+#EXTINF:-1,VIASAT HISTORY HD
+http://185.78.112.18/ViasatHistoryHD/mono.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://185.78.112.18/ViasatNature/mono.m3u8
+#EXTINF:-1,VIASAT SPORT HD
+http://185.78.112.18/ViasatSportHD/mono.m3u8
+#EXTINF:-1,ФУТБОЛ 1 УКРАИНА HD (РЕЗЕРВ2)
+http://185.93.3.83:5010/play/a009
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD (РЕЗЕРВ1)
+http://185.93.3.83:5010/play/a00d
+#EXTINF:-1,МАТЧ! ИГРА HD
+http://185.93.3.83:5010/play/a00f
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.93.3.83:5010/play/a00g
+#EXTINF:-1,ANIMAL PLANET HD
+http://185.93.3.83:5010/play/a00h
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
+http://185.93.3.83:5010/play/a00l
+#EXTINF:-1,OХОТНИК И РЫБОЛОВ HD
+http://185.93.3.83:5010/play/a00m
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD (РЕЗЕРВ1)
+http://185.93.3.83:5010/play/a00o
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://185.93.3.83:5010/play/a00p
+#EXTINF:-1,NAT GEO WILD HD
+http://185.93.3.83:5010/play/a00u
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://185.93.3.83:5010/play/a00w
+#EXTINF:-1,EUROSPORT 2 HD
+http://185.93.3.83:5010/play/a00y
+#EXTINF:-1,ФУТБОЛ 2 УКРАИНА HD (РЕЗЕРВ3)
+http://185.93.3.83:5010/play/a00z
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD (РЕЗЕРВ)
+http://185.93.3.83:5010/play/a010
+#EXTINF:-1,FOX HD
+http://185.93.3.83:5010/play/a018
+#EXTINF:-1,HOLLYWOOD HD
+http://185.93.3.83:5010/play/a01b
+#EXTINF:-1,VIASAT SPORT HD (РЕЗЕРВ)
+http://185.93.3.83:5010/play/a01m
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://185.93.3.83:5010/play/a01p
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://185.93.3.83:5010/play/a01v
+#EXTINF:-1,ПЛАНЕТА HD
+http://185.93.3.83:5010/play/a01z
+#EXTINF:-1,НЮ АРТ ТВ HD 18+
+http://185.93.3.83:5010/play/a027
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР
+http://188.113.190.12/103/video.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://188.113.190.12/104/video.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://188.113.190.12/126/video.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://188.113.190.12/129/video.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://188.113.190.12/142/video.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://188.113.190.12/155/video.m3u8
+#EXTINF:-1,FOX HD
+http://188.113.190.12/156/video.m3u8
+#EXTINF:-1,ЮМОР ТВ
+http://188.113.190.12/166/video.m3u8
+#EXTINF:-1,МАТЧ HD
+http://188.113.190.12/167/video.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 1
+http://188.113.190.12/175/video.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 2
+http://188.113.190.12/176/video.m3u8
+#EXTINF:-1,МАТЧ ФУТБОЛ 3
+http://188.113.190.12/177/video.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://188.113.190.12/178/video.m3u8
+#EXTINF:-1,SONY TURBO
+http://188.113.190.12/186/video.m3u8
+#EXTINF:-1,HISTORY
+http://188.113.190.12/189/video.m3u8
+#EXTINF:-1,SONY SCI FI
+http://188.113.190.12/23/video.m3u8
+#EXTINF:-1,VIASAT SPORT
+http://188.113.190.12/34/video.m3u8
+#EXTINF:-1,24 ТЕХНО
+http://188.113.190.12/40/video.m3u8
+#EXTINF:-1,NICK
+http://188.113.190.12/43/index.m3u8
+#EXTINF:-1,МАТЧ ТВ
+http://188.113.190.12/6/index.m3u8
+#EXTINF:-1,МАТЧ! ТВ
+http://188.113.190.12/6/video.m3u8
+#EXTINF:-1,МУЖСКОЙ
+http://188.113.190.12/64/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://188.113.190.12/82/video.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://188.113.190.12/83/video.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://188.113.190.12/95/video.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://188.113.190.12/97/video.m3u8
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР [SD]
+http://188.191.36.106:8080/hls/nashfutbol.m3u8
+#EXTINF:-1,ТНТ
+http://188.35.9.10:2005
+#EXTINF:-1,ФУТБОЛ 1 HD (УКРАИНА)
+http://188.35.9.10:2007
+#EXTINF:-1,ФУТБОЛ 2 HD (УКРАИНА)
+http://188.35.9.10:2008
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.10:2010
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://188.35.9.10:2011
+#EXTINF:-1,VIP PREMIERE
+http://188.35.9.10:2013
+#EXTINF:-1,VIP MEGAHIT
+http://188.35.9.10:2016
+#EXTINF:-1,ТНТ HD
+http://188.35.9.10:2018
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://188.35.9.10:2022
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://188.35.9.10:2025
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://188.35.9.10:2026
+#EXTINF:-1,SETANTA SPORTS
+http://188.35.9.10:2028
+#EXTINF:-1,FOX HD
+http://188.35.9.10:21131/udp/147l
+#EXTINF:-1,СТБ
+http://188.35.9.11:11021/j
+#EXTINF:-1,IНТЕР
+http://188.35.9.11:11031/z
+#EXTINF:-1,K1
+http://188.35.9.11:11032/j
+#EXTINF:-1,ICTV
+http://188.35.9.11:11051/j
+#EXTINF:-1,ENTER ФІЛЬМ
+http://188.35.9.11:11052/g
+#EXTINF:-1,ТНТ 0
+http://188.35.9.11:11061/z
+#EXTINF:-1,K2
+http://188.35.9.11:11072/d
+#EXTINF:-1,МЕГА
+http://188.35.9.11:11082/s
+#EXTINF:-1,EUROSPORT 2 HD
+http://188.35.9.11:11089/e
+#EXTINF:-1,TET
+http://188.35.9.11:11151/f
+#EXTINF:-1,НАУКА 2.0
+http://188.35.9.11:11152/q
+#EXTINF:-1,ЕСПРЕСО ТВ
+http://188.35.9.11:11154/s
+#EXTINF:-1,1+1
+http://188.35.9.11:2001
+#EXTINF:-1,СТБ
+http://188.35.9.11:2002
+#EXTINF:-1,ТНТ
+http://188.35.9.11:2005
+#EXTINF:-1,ФУТБОЛ 1
+http://188.35.9.11:2007
+#EXTINF:-1,ФУТБОЛ 2
+http://188.35.9.11:2008
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 [FHD]
+http://188.35.9.11:2010
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 [FHD]
+http://188.35.9.11:2011
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 [FHD]
+http://188.35.9.11:2012
+#EXTINF:-1,VIP PREMIERE HD
+http://188.35.9.11:2013
+#EXTINF:-1,VIP MEGAHIT HD
+http://188.35.9.11:2016
+#EXTINF:-1,ТНТ HD
+http://188.35.9.11:2018
+#EXTINF:-1,INTER
+http://188.35.9.11:2020
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://188.35.9.11:2022
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 [SD]
+http://188.35.9.11:2025
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 [SD]
+http://188.35.9.11:2027
+#EXTINF:-1,SATANTA SPORT
+http://188.35.9.11:2028
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (RU)
+http://188.35.9.11:21031/udp/034x
+#EXTINF:-1,AMEDIA PREMIUM HD
+http://188.35.9.11:21031/udp/035c
+#EXTINF:-1,HISTORY HD (RU)
+http://188.35.9.11:21031/udp/036b
+#EXTINF:-1,TRAVEL CHANNEL
+http://188.35.9.11:21031/udp/038m
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.11:21031/udp/053c
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.11:21031/udp/054b
+#EXTINF:-1,FASHION ONE
+http://188.35.9.11:21031/udp/058v
+#EXTINF:-1,DELUXE MUSIC
+http://188.35.9.11:21031/udp/082r
+#EXTINF:-1,NICKELODEON HD
+http://188.35.9.11:21031/udp/109b
+#EXTINF:-1,VIASAT NATURE HD
+http://188.35.9.11:21071/udp/078s
+#EXTINF:-1,EUROSPORT 1 HD
+http://188.35.9.11:21081/udp/098t
+#EXTINF:-1,ДИАЛОГИ О РЫБАЛКЕ
+http://188.35.9.11:21081/udp/118i
+#EXTINF:-1,СТС
+http://188.35.9.11:21101/udp/131p
+#EXTINF:-1,EURONEWS
+http://188.35.9.11:21111/udp/166l
+#EXTINF:-1,ДИКАЯ ОХОТА HD
+http://188.35.9.11:21111/udp/180l
+#EXTINF:-1,NAT GEO WILD
+http://188.35.9.11:21121/udp/126z
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://188.35.9.11:21121/udp/127x
+#EXTINF:-1,HISTORY HD
+http://188.35.9.11:21121/udp/128c
+#EXTINF:-1,VIASAT HISTORY HD
+http://188.35.9.11:21121/udp/137s
+#EXTINF:-1,FOX HD
+http://188.35.9.11:21131/udp/147l
+#EXTINF:-1,A HBO
+http://188.35.9.11:21131/udp/164g
+#EXTINF:-1,MUSIC VOX TV
+http://188.35.9.11:21141/udp/154i
+#EXTINF:-1,PLAYBOY TV
+http://188.35.9.11:21141/udp/184h
+#EXTINF:-1,DORCEL
+http://188.35.9.11:21141/udp/214h
+#EXTINF:-1,HBO 3 HD
+http://188.35.9.11:21151/udp/154k
+#EXTINF:-1,HBO 2 HD
+http://188.35.9.11:21151/udp/157a
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.11:21151/udp/167u
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://188.35.9.11:21151/udp/168o
+#EXTINF:-1,TNT HD
+http://188.35.9.11:21151/udp/184g
+#EXTINF:-1,CARTOON NETWORK HD
+http://188.35.9.11:21151/udp/185f
+#EXTINF:-1,DISCOVERY SCIENCE
+http://188.35.9.11:21151/udp/188k
+#EXTINF:-1,HBO
+http://188.35.9.11:21151/udp/190z
+#EXTINF:-1,EUROSPORT 2 HD POLAND
+http://188.35.9.11:21151/udp/192c
+#EXTINF:-1,NICKELODEON HD
+http://188.35.9.11:21151/udp/210d
+#EXTINF:-1,TVP SPORT HD
+http://188.35.9.11:21161/udp/169v
+#EXTINF:-1,SPORTKLUB HD
+http://188.35.9.11:21161/udp/170z
+#EXTINF:-1,FOX COMEDY HD
+http://188.35.9.11:21161/udp/173c
+#EXTINF:-1,NEW CHANNEL
+http://188.35.9.12:2008
+#EXTINF:-1,EUROSPORT 1 HD (RU)
+http://188.35.9.12:21031/udp/033z
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (RU)
+http://188.35.9.12:21031/udp/034x
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://188.35.9.12:21031/udp/038m
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ HD
+http://188.35.9.12:21031/udp/054b
+#EXTINF:-1,COMEDY CENTRAL AUSTRIA
+http://188.35.9.12:21031/udp/080w
+#EXTINF:-1,DELUXE MUSIC
+http://188.35.9.12:21031/udp/082r
+#EXTINF:-1,NICKELODEON HD
+http://188.35.9.12:21031/udp/109b
+#EXTINF:-1,XXX PLAYBOY
+http://188.35.9.12:21101/udp/127h
+#EXTINF:-1,NAT GEO WILD
+http://188.35.9.12:21121/udp/126z
+#EXTINF:-1,HISTORY
+http://188.35.9.12:21121/udp/128c
+#EXTINF:-1,VIASAT HISTORY HD POLSAT
+http://188.35.9.12:21121/udp/137s
+#EXTINF:-1,24 KANAL UA
+http://188.35.9.12:21121/udp/152p
+#EXTINF:-1,FOX HD
+http://188.35.9.12:21131/udp/147l
+#EXTINF:-1,HBO 2 HD
+http://188.35.9.12:21151/udp/157a
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.12:21151/udp/167u
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://188.35.9.12:21151/udp/168o
+#EXTINF:-1,CARTOON NETWORK HD
+http://188.35.9.12:21151/udp/185f
+#EXTINF:-1,DISCOVERY SCIENCE
+http://188.35.9.12:21151/udp/188k
+#EXTINF:-1,HBO HD
+http://188.35.9.12:21151/udp/190z
+#EXTINF:-1,EUROSPORT 2 HD POLAND
+http://188.35.9.12:21151/udp/192c
+#EXTINF:-1,BTV COMEDY
+http://188.35.9.12:21151/udp/260f
+#EXTINF:-1,FOX COMEDY HD
+http://188.35.9.12:21161/udp/173c
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://188.35.9.14:2022
+#EXTINF:-1,HBO2 HD
+http://188.35.9.14:21151/udp/157a
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://188.35.9.15:2010
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://188.35.9.15:2011
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 [FHD]
+http://188.35.9.15:2012
+#EXTINF:-1,VIP PREMIERE HD
+http://188.35.9.15:2013
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://188.35.9.15:2025
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://188.35.9.15:2026
+#EXTINF:-1,STAR CINEMA
+http://188.35.9.15:21091/udp/116h
+#EXTINF:-1,FILM 1 ACTION
+http://188.35.9.5:10005/stolen/142w/imposter.rar
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
+http://188.35.9.5:10005/stolen/149u/imposter.rar
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://188.35.9.5:10005/stolen/151i/imposter.rar
+#EXTINF:-1,HISTORY HD
+http://188.35.9.5:10005/stolen/152p/imposter.rar
+#EXTINF:-1,МАТЧ! СТРАНА
+http://188.35.9.5:10007/stolen/124n/parasite.install
+#EXTINF:-1,ENTER-ФИЛЬМ
+http://188.35.9.5:10007/stolen/138w/parasite.install
+#EXTINF:-1,ПИКСЕЛЬ
+http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1,МЕГА
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1,МАТЧ! HD
+http://188.35.9.5:10007/stolen/196k/parasite.install
+#EXTINF:-1,DISNEY CHANNEL
+http://188.35.9.5:10007/stolen/199w/parasite.install
+#EXTINF:-1,DELUXE MUSIC HD
+http://188.35.9.5:10007/stolen/200b/parasite.install
+#EXTINF:-1,АВТО 24
+http://188.35.9.5:10016/stolen/304n/onehalf.cab
+#EXTINF:-1,МАТЧ! ИГРА
+http://188.35.9.5:10016/stolen/307k/onehalf.cab
+#EXTINF:-1,TV 1000 ACTION
+http://188.35.9.5:10016/stolen/374i/onehalf.cab
+#EXTINF:-1,VIP MEGAHIT HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1,ТНТ4
+http://188.35.9.5:10020/stolen/422r/hot.dll
+#EXTINF:-1,2X2
+http://188.35.9.5:10020/stolen/427r/hot.dll
+#EXTINF:-1,ТНТ
+http://188.35.9.5:10020/stolen/441t/hot.dll
+#EXTINF:-1,TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1,VIASAT EXPLORE
+http://188.35.9.5:10020/stolen/485v/hot.dll
+#EXTINF:-1,VIASAT HISTORY
+http://188.35.9.5:10020/stolen/486b/hot.dll
+#EXTINF:-1,NAT GEO WILD
+http://188.35.9.5:10020/stolen/487n/hot.dll
+#EXTINF:-1,EURONEWS (FR)
+http://188.35.9.5:10020/stolen/510i/hot.dll
+#EXTINF:-1,EURONEWS (DE)
+http://188.35.9.5:10020/stolen/511h/hot.dll
+#EXTINF:-1,NAT GEO WILD HD
+http://188.35.9.8:21121/udp/126z
+#EXTINF:-1,EUROSPORT 1 HD
+http://188.35.9.9:21081/udp/098t
+#EXTINF:-1,SETANTA SPORTS HD
+http://188.35.9.9:21081/udp/157s
+#EXTINF:-1,HISTORY
+http://188.35.9.9:21121/udp/128c
+#EXTINF:-1,FOX HD
+http://188.35.9.9:21131/udp/147l
+#EXTINF:-1,HBO HD
+http://188.35.9.9:21151/udp/190z
+#EXTINF:-1,ДИАЛОГИ О РЫБАЛКЕ
+http://188.43.116.250:8080/dialogi_o_ribalke/index.m3u8
+#EXTINF:-1,ПОЕХАЛИ!
+http://188.43.116.250:8080/poehali/index.m3u8
+#EXTINF:-1,HISTORY
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1,ДАЧА
+http://193.33.39.107:8088/dacha/index.m3u8
+#EXTINF:-1,ФАУНА
+http://193.33.39.107:8088/fauna/index.m3u8
+#EXTINF:-1,М1
+http://193.33.39.107:8088/m1ua/index.m3u8
+#EXTINF:-1,MALYATKO
+http://193.33.39.107:8088/malyatko/index.m3u8
+#EXTINF:-1,НАУКА
+http://193.33.39.107:8088/nauka/index.m3u8
+#EXTINF:-1,NTN
+http://193.33.39.107:8088/ntn/index.m3u8
+#EXTINF:-1,PARAMOUNT
+http://193.33.39.107:8088/paramount/index.m3u8
+#EXTINF:-1,TRAVEL TV
+http://194.179.53.124:1935/live/traveltv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,SETANTA SPORT ПЛЮС
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
+#EXTINF:-1,ТНТ4 HD 720
+http://195.191.208.2:8086/udp/229.54.13.244:1234
+#EXTINF:-1,ПЯТНИЦА! HD
+http://195.191.208.2:8086/udp/233.170.170.112:58631
+#EXTINF:-1,ТНТ 4 HD
+http://195.191.208.2:8086/udp/233.170.170.130:58631
+#EXTINF:-1,ТНТ HD
+http://195.191.208.2:8086/udp/233.170.170.78:58631
+#EXTINF:-1,ТНТ 4
+http://195.191.208.2:8086/udp/238.2.13.244:1234
+#EXTINF:-1,МАТЧ!
+http://195.191.208.2:8086/udp/238.2.47.108:1234
+#EXTINF:-1,ТНТ HD
+http://195.191.208.2:8086/udp/238.2.50.6:1234
+#EXTINF:-1,ПЯТНИЦА! HD
+http://195.191.208.2:8086/udp/238.2.62.80:1234
+#EXTINF:-1,MNC SPORTS
+http://202.80.222.182/000001/2/ch00000090990000001753/1024.m3u8?m3u8_level=2&zte_bandwidth=1003&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,DUCK TV
+http://212.12.194.10/duck/live.m3u8
+#EXTINF:-1,BLUE HUSTLER (2)
+http://212.12.194.10/hustler/live.m3u8
+#EXTINF:-1,СПОРТ 1
+http://212.12.194.10/sport1/live.m3u8
+#EXTINF:-1,SPORT1HD
+http://212.12.194.10/sport1hd/live.m3u8
+#EXTINF:-1,TV1000 PREMIUM EAST
+http://212.12.194.10/tv1000prem/live.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://212.121.249.34:8080/amc/index.m3u8
+#EXTINF:-1,MUSIC BOX TV
+http://212.26.132.86/hls/mb_ua.m3u8
+#EXTINF:-1,MUSIC BOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1,MUSIC BOX AU
+http://212.26.132.86/hls/mb_ua_2500.m3u8?
+#EXTINF:-1,MUSIC BOX
+http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
+#EXTINF:-1,MUSICBOX UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,MUSICBOX UA [SD]
+http://212.26.132.86/hls/mb_ua_2500.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1,VIP MEGAHIT
+http://212.29.231.242:8080/btv_201/index.m3u8
+#EXTINF:-1,SPORT
+http://212.29.231.242:8080/btv_333/tracks-v1a1/index.m3u8
+#EXTINF:-1,WINE CHANNEL
+http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
+#EXTINF:-1,ПЕРШИЙ ЗАХIДНИЙ (ЛЬВОВ)
+http://213.133.166.227/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,TV1000 ACTION [SD]
+http://213.174.8.7:22222/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://213.174.8.7:8000/play/15/index.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV1000 ACTION [SD]
+http://213.174.8.7:8000/play/22/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://213.174.8.7:8000/play/24/index.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 PREMIUM EAST HD
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,VIASAT EXPLORE HD (РЕЗЕРВ)
+http://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/index.m3u8
+#EXTINF:-1,VIASAT HISTORY HD (РЕЗЕРВ)
+http://213.252.252.17/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://217.12.74.23:81/udp/235.10.10.150:1234
+#EXTINF:-1,СТС
+http://217.25.216.4:8085/udp/238.2.14.249:1234
+#EXTINF:-1,EUROSPORT 2
+http://217.25.216.4:8085/udp/238.2.15.168:1234
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://217.25.216.4:8085/udp/238.2.16.147:1234
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://217.25.216.4:8085/udp/238.2.16.148:1234
+#EXTINF:-1,ANIMAL PLANET HD
+http://217.25.216.4:8085/udp/238.2.16.175:1234
+#EXTINF:-1,TRAVEL CHANNEL HD (РЕЗЕРВ)
+http://217.25.216.4:8085/udp/238.2.16.190:1234
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://217.25.216.4:8085/udp/238.2.16.250:1234
+#EXTINF:-1,МАТЧ HD
+http://217.25.216.4:8085/udp/238.2.17.141:1234
+#EXTINF:-1,AMEDIA HIT
+http://217.25.216.4:8085/udp/238.2.18.120:1234
+#EXTINF:-1,HUSTLER HD
+http://217.25.216.4:8085/udp/238.2.18.80:1234
+#EXTINF:-1,ULTRAHD CINEMA
+http://217.25.216.4:8085/udp/238.2.19.31:1234
+#EXTINF:-1,RUSSIAN EXTREME UHD
+http://217.25.216.4:8085/udp/238.2.19.32:1234
+#EXTINF:-1,TRAVEL CHANNEL HD [HD]
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:-1,TRAVEL CHANNEL
+http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8
+#EXTINF:-1,TRAVEL TV
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8
+#EXTINF:-1,TRAVEL HD BG
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-1,TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:-1,EUROSPORT
+http://31.133.47.1:8800/eurosport
+#EXTINF:-1,EUROSPORT 2
+http://31.133.47.1:8800/eurosport_2
+#EXTINF:-1,МАТЧ!
+http://31.40.128.20/hls/003_match_tv.m3u8
+#EXTINF:-1,СТС
+http://31.40.128.20/hls/013_sts.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://31.40.128.20/hls/016_pyatnica.m3u8
+#EXTINF:-1,ТНТ
+http://31.40.128.20/hls/019_tnt.m3u8
+#EXTINF:-1,VIP COMEDY [FHD]
+http://31.41.96.176:81/udp/225.0.56.14:1234
+#EXTINF:-1,PARAMOUNT COMEDY [FHD]
+http://31.41.96.176:81/udp/225.0.56.15:1234
+#EXTINF:-1,MTV LIVE
+http://31.41.96.176:81/udp/225.0.56.43:1234
+#EXTINF:-1,TV1000 ACTION [FHD]
+http://31.41.96.176:81/udp/225.0.56.76:1234
+#EXTINF:-1,DISCOVERY CHANNEL [SD]
+http://37.192.100.141:81/udp/239.1.5.1:1234
+#EXTINF:-1,СТС
+http://37.192.131.195:81/udp/239.1.15.6:1234
+#EXTINF:-1,ТНТ4
+http://37.192.131.195:81/udp/239.1.2.16:1234
+#EXTINF:-1,ТНТ
+http://37.193.197.73:81/udp/239.1.15.7:1234
+#EXTINF:-1,МАТЧ ТВ
+http://37.195.247.86:81/udp/239.1.15.23:1234
+#EXTINF:-1,HOLLYWOOD
+http://37.235.139.11:81/udp/225.50.69.5:1234
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
+http://37.235.139.11:81/udp/225.50.71.3:1234
+#EXTINF:-1,НАШ ФУТБОЛ HD
+http://37.235.254.189:81/udp/225.50.67.2:1234
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://37.235.254.189:81/udp/225.50.71.26:1234
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://37.49.213.49:81/udp/239.54.5.117:1234
+#EXTINF:-1,UNICANAL
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:-1,FOX SPORTS
+http://45.58.62.92:8080
+#EXTINF:-1,MOTORSPORT TV
+http://45.58.62.92:8084
+#EXTINF:-1,SPERFUTBOL TV HD
+http://46.105.233.106:8005/hls/ntvspor/playlist.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.165.2.202:8080/matchtv/index.m3u8
+#EXTINF:-1,СТС
+http://46.165.2.202:8080/sts/index.m3u8
+#EXTINF:-1,СТС +2
+http://46.165.2.202:8080/sts/mpegts
+#EXTINF:-1,ТНТ
+http://46.165.2.202:8080/tnt/index.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://46.181.116.168:81/udp/239.255.42.46:1234
+#EXTINF:-1,SONY SCI-FI
+http://46.181.116.168:81/udp/239.255.42.48:1234
+#EXTINF:-1,TV1000
+http://46.181.116.168:81/udp/239.255.42.49:1234
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.19.43.248:9981/stream/channelid/1313029335
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.19.43.248:9981/stream/channelid/1405443465
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.19.43.248:9981/stream/channelid/1585100965
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 [SD]
+http://46.19.43.248:9981/stream/channelid/1669396465
+#EXTINF:-1,НАШ ФУТБОЛ
+http://46.19.43.248:9981/stream/channelid/1732834568
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.19.43.248:9981/stream/channelid/1951989673
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 [SD]
+http://46.19.43.248:9981/stream/channelid/354688218
+#EXTINF:-1,BRAZZERS TV
+http://46.29.165.95:8081/stream/Brazzers/chunks.m3u8
+#EXTINF:-1,HUSTLER TV
+http://46.29.165.95:8081/stream/Hustler-HD/chunks.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/13/86.169.51.136/0/0.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/13/86.169.51.136/2/0.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/13/86.169.51.136/8/0.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/13/92.159.135.243/1548783634259/0.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/13/ontv.ml/0/0.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://46.32.68.167/s/live/14/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://46.32.68.167/s/live/16/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://46.32.68.167/s/live/16/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://46.32.68.167/s/live/16/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ПЯТНИЦА!
+http://46.32.68.167/s/live/16/ontv.ml/0/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/100.0.0.5/1/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/51.51.51.51/0/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/51.51.51.51/1/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/86.169.51.136/8/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/92.159.135.243/1548783634259/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/19/ontv.ml/0/0.m3u8
+#EXTINF:-1,AMEDIA 1
+http://46.32.68.167/s/live/208/100.0.0.5/1/0.m3u8
+#EXTINF:-1,A-MEDIA 1
+http://46.32.68.167/s/live/208/51.51.51.51/1/0.m3u8
+#EXTINF:-1,AMEDIA 1
+http://46.32.68.167/s/live/208/86.169.51.136/0/0.m3u8
+#EXTINF:-1,AMEDIA 1
+http://46.32.68.167/s/live/208/86.169.51.136/2/0.m3u8
+#EXTINF:-1,A-MEDIA HIT
+http://46.32.68.167/s/live/210/51.51.51.51/1/0.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://46.32.68.167/s/live/210/86.169.51.136/0/0.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8
+#EXTINF:-1,A-MEDIA HIT
+http://46.32.68.167/s/live/210/86.169.51.136/2/0.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://46.32.68.167/s/live/210/86.169.51.136/8/0.m3u8
+#EXTINF:-1,A-MEDIA PREMIUM
+http://46.32.68.167/s/live/211/51.51.51.51/1/0.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HBO [SD]
+http://46.32.68.167/s/live/211/816951136/819088191919/0.m3u8
+#EXTINF:-1,AMEDIA PREMIUM
+http://46.32.68.167/s/live/211/86.169.51.136/0/0.m3u8
+#EXTINF:-1,AMEDIA PREMIUM
+http://46.32.68.167/s/live/211/86.169.51.136/1/0.m3u8
+#EXTINF:-1,A-MEDIA PREMIUM
+http://46.32.68.167/s/live/211/86.169.51.136/2/0.m3u8
+#EXTINF:-1,AMEDIA PREMIUM
+http://46.32.68.167/s/live/211/86.169.51.136/8/0.m3u8
+#EXTINF:-1,СТС
+http://46.32.68.167/s/live/22/86.169.51.136/0/0.m3u8
+#EXTINF:-1,FOX
+http://46.32.68.167/s/live/249/51.51.51.51/1/0.m3u8
+#EXTINF:-1,FOX
+http://46.32.68.167/s/live/249/86.169.51.136/0/0.m3u8
+#EXTINF:-1,FOX
+http://46.32.68.167/s/live/249/86.169.51.136/1/0.m3u8
+#EXTINF:-1,FOX
+http://46.32.68.167/s/live/249/86.169.51.136/2/0.m3u8
+#EXTINF:-1,FOX
+http://46.32.68.167/s/live/249/86.169.51.136/8/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.32.68.167/s/live/250/51.51.51.51/1/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY [SD]
+http://46.32.68.167/s/live/250/816951136/819088191919/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.32.68.167/s/live/250/86.169.51.136/2/0.m3u8
+#EXTINF:-1,PARAMOUNT COMEDY
+http://46.32.68.167/s/live/250/86.169.51.136/8/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/51.51.51.51/1/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/816951136/819088191919/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/86.169.51.136/0/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/86.169.51.136/1/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/86.169.51.136/2/0.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://46.32.68.167/s/live/254/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО [SD]
+http://46.32.68.167/s/live/255/816951136/819088191919/0.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://46.32.68.167/s/live/255/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://46.32.68.167/s/live/255/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://46.32.68.167/s/live/255/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://46.32.68.167/s/live/255/86.169.51.136/8/0.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://46.32.68.167/s/live/256/51.51.51.51/1/0.m3u8
+#EXTINF:-1,HOLLYWOOD [SD]
+http://46.32.68.167/s/live/256/816951136/819088191919/0.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://46.32.68.167/s/live/256/86.169.51.136/1/0.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://46.32.68.167/s/live/256/86.169.51.136/2/0.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://46.32.68.167/s/live/256/86.169.51.136/8/0.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://46.32.68.167/s/live/258/51.51.51.51/1/0.m3u8
+#EXTINF:-1,SONY SCI-FI [SD]
+http://46.32.68.167/s/live/258/816951136/819088191919/0.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://46.32.68.167/s/live/258/86.169.51.136/0/0.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://46.32.68.167/s/live/258/86.169.51.136/1/0.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://46.32.68.167/s/live/258/86.169.51.136/2/0.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://46.32.68.167/s/live/258/86.169.51.136/8/0.m3u8
+#EXTINF:-1,SONY TURBO
+http://46.32.68.167/s/live/260/51.51.51.51/1/0.m3u8
+#EXTINF:-1,SONY TURBO [SD]
+http://46.32.68.167/s/live/260/816951136/819088191919/0.m3u8
+#EXTINF:-1,SONY TURBO
+http://46.32.68.167/s/live/260/86.169.51.136/0/0.m3u8
+#EXTINF:-1,SONY TURBO
+http://46.32.68.167/s/live/260/86.169.51.136/1/0.m3u8
+#EXTINF:-1,SONY TURBO
+http://46.32.68.167/s/live/260/86.169.51.136/2/0.m3u8
+#EXTINF:-1,SONY TURBO
+http://46.32.68.167/s/live/260/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/44.33.11.22/0/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/51.51.51.51/0/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ!
+http://46.32.68.167/s/live/3/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ
+http://46.32.68.167/s/live/3/92.159.135.243/1548783634259/0.m3u8
+#EXTINF:-1,МАТЧ! ТВ
+http://46.32.68.167/s/live/3/ontv.ml/0/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/100.0.0.5/1/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/51.51.51.51/1/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/86.169.51.136/0/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/86.169.51.136/1/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://46.32.68.167/s/live/407/86.169.51.136/8/0.m3u8
+#EXTINF:-1,НАУКА
+http://46.32.68.167/s/live/414/100.0.0.5/1/0.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://46.32.68.167/s/live/414/51.51.51.51/1/0.m3u8
+#EXTINF:-1,НАУКА 2_0
+http://46.32.68.167/s/live/414/816951136/819088191919/0.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://46.32.68.167/s/live/414/86.169.51.136/0/0.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://46.32.68.167/s/live/414/86.169.51.136/1/0.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://46.32.68.167/s/live/414/86.169.51.136/2/0.m3u8
+#EXTINF:-1,НАУКА 2_0
+http://46.32.68.167/s/live/414/86.169.51.136/8/0.m3u8
+#EXTINF:-1,БОБЁР
+http://46.32.68.167/s/live/418/51.51.51.51/1/0.m3u8
+#EXTINF:-1,БОБЁР
+http://46.32.68.167/s/live/418/86.169.51.136/0/0.m3u8
+#EXTINF:-1,БОБЁР
+http://46.32.68.167/s/live/418/86.169.51.136/1/0.m3u8
+#EXTINF:-1,БОБЁР
+http://46.32.68.167/s/live/418/86.169.51.136/2/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/420/100.0.0.5/1/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/420/51.51.51.51/1/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/420/86.169.51.136/1/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/420/86.169.51.136/2/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/420/86.169.51.136/8/0.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.32.68.167/s/live/423/100.0.0.5/1/0.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.32.68.167/s/live/423/51.51.51.51/1/0.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.32.68.167/s/live/423/86.169.51.136/0/0.m3u8
+#EXTINF:-1,DISCOVERY
+http://46.32.68.167/s/live/423/86.169.51.136/1/0.m3u8
+#EXTINF:-1,DISCOVERY
+http://46.32.68.167/s/live/423/86.169.51.136/2/0.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://46.32.68.167/s/live/423/86.169.51.136/8/0.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/51.51.51.51/1/0.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8?version=2
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/86.169.51.136/2/0.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://46.32.68.167/s/live/501/86.169.51.136/8/0.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/51.51.51.51/1/0.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8?version=2
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/86.169.51.136/1/0.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/86.169.51.136/2/0.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://46.32.68.167/s/live/502/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.32.68.167/s/live/506/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.32.68.167/s/live/506/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МАТЧ!АРЕНА
+http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8?version=2
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.32.68.167/s/live/506/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА
+http://46.32.68.167/s/live/506/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.32.68.167/s/live/507/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.32.68.167/s/live/507/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.32.68.167/s/live/507/86.169.51.136/0/0.m3u8?version=2
+#EXTINF:-1,МАТЧ!ИГРА
+http://46.32.68.167/s/live/507/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.32.68.167/s/live/507/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ! ИГРА
+http://46.32.68.167/s/live/507/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/86.169.51.136/1/0.m3u8?version=2
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://46.32.68.167/s/live/509/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/100.0.0.5/1/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://46.32.68.167/s/live/510/86.169.51.136/8/0.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://46.32.68.167/s/live/601/51.51.51.51/1/0.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://46.32.68.167/s/live/601/86.169.51.136/0/0.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://46.32.68.167/s/live/601/86.169.51.136/1/0.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://46.32.68.167/s/live/601/86.169.51.136/2/0.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://46.32.68.167/s/live/601/86.169.51.136/8/0.m3u8
+#EXTINF:-1,NICKELODEON
+http://46.32.68.167/s/live/602/51.51.51.51/1/0.m3u8
+#EXTINF:-1,NICKELODEON
+http://46.32.68.167/s/live/602/86.169.51.136/0/0.m3u8
+#EXTINF:-1,NICKELODEON
+http://46.32.68.167/s/live/602/86.169.51.136/1/0.m3u8
+#EXTINF:-1,NICKELODEON
+http://46.32.68.167/s/live/602/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NICKELODEON
+http://46.32.68.167/s/live/602/86.169.51.136/8/0.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://46.32.68.167/s/live/603/51.51.51.51/1/0.m3u8
+#EXTINF:-1,DISNEY
+http://46.32.68.167/s/live/603/86.169.51.136/1/0.m3u8
+#EXTINF:-1,DISNEY
+http://46.32.68.167/s/live/603/86.169.51.136/2/0.m3u8
+#EXTINF:-1,КАНАЛ DISNEY
+http://46.32.68.167/s/live/603/86.169.51.136/8/0.m3u8
+#EXTINF:-1,NICKJR.
+http://46.32.68.167/s/live/615/51.51.51.51/1/0.m3u8
+#EXTINF:-1,NICK JR.
+http://46.32.68.167/s/live/615/86.169.51.136/0/0.m3u8
+#EXTINF:-1,NICK JR.
+http://46.32.68.167/s/live/615/86.169.51.136/1/0.m3u8
+#EXTINF:-1,NICK JR.
+http://46.32.68.167/s/live/615/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NICK JR
+http://46.32.68.167/s/live/615/86.169.51.136/8/0.m3u8
+#EXTINF:-1,ТНТ
+http://46.32.68.167/s/live/7/86.169.51.136/2/0.m3u8
+#EXTINF:-1,HUSTLER HD
+http://46.32.68.167/s/live/705/100.0.0.5/1/0.m3u8
+#EXTINF:-1,HUSTLER HD (18+)
+http://46.32.68.167/s/live/705/86.169.51.136/8/0.m3u8
+#EXTINF:-1,PLAYBOY TV (18+)
+http://46.32.68.167/s/live/707/86.169.51.136/8/0.m3u8
+#EXTINF:-1,NUART TV
+http://46.32.68.167/s/live/711/100.0.0.5/1/0.m3u8
+#EXTINF:-1,NUART
+http://46.32.68.167/s/live/711/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ЧЕ!
+http://46.32.68.167/s/live/802/51.51.51.51/1/0.m3u8
+#EXTINF:-1,ЧЕ
+http://46.32.68.167/s/live/802/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ЧЕ
+http://46.32.68.167/s/live/802/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ЧЕ!
+http://46.32.68.167/s/live/802/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ЧЕ
+http://46.32.68.167/s/live/802/86.169.51.136/8/0.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://46.32.68.167/s/live/804/51.51.51.51/1/0.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://46.32.68.167/s/live/804/816951136/819088191919/0.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://46.32.68.167/s/live/804/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://46.32.68.167/s/live/804/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ОРУЖИЕ
+http://46.32.68.167/s/live/804/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ОРУЖИЕ [SD]
+http://46.32.68.167/s/live/804/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МУЖСКОЙ
+http://46.32.68.167/s/live/805/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МУЖСКОЙ
+http://46.32.68.167/s/live/805/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МУЖСКОЙ
+http://46.32.68.167/s/live/805/86.169.51.136/1/0.m3u8
+#EXTINF:-1,МУЖСКОЙ
+http://46.32.68.167/s/live/805/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МУЖСКОЙ [SD]
+http://46.32.68.167/s/live/805/86.169.51.136/8/0.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://46.32.68.167/s/live/815/51.51.51.51/1/0.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://46.32.68.167/s/live/815/86.169.51.136/1/0.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://46.32.68.167/s/live/815/86.169.51.136/8/0.m3u8
+#EXTINF:-1,ТНТ4
+http://46.32.68.167/s/live/816/51.51.51.51/1/0.m3u8
+#EXTINF:-1,ТНТ4
+http://46.32.68.167/s/live/816/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ТНТ4
+http://46.32.68.167/s/live/816/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ТНТ4
+http://46.32.68.167/s/live/816/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ТНТ4
+http://46.32.68.167/s/live/816/86.169.51.136/8/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://46.32.68.167/s/live/817/51.51.51.51/1/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://46.32.68.167/s/live/817/816951136/819088191919/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://46.32.68.167/s/live/817/86.169.51.136/0/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://46.32.68.167/s/live/817/86.169.51.136/1/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://46.32.68.167/s/live/817/86.169.51.136/2/0.m3u8
+#EXTINF:-1,АВТО ПЛЮС [SD]
+http://46.32.68.167/s/live/817/86.169.51.136/8/0.m3u8
+#EXTINF:-1,2X2
+http://46.32.68.167/s/live/823/86.169.51.136/0/0.m3u8
+#EXTINF:-1,2X2
+http://46.32.68.167/s/live/823/86.169.51.136/1/0.m3u8
+#EXTINF:-1,2X2
+http://46.32.68.167/s/live/823/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://46.32.68.167/s/live/915/51.51.51.51/1/0.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://46.32.68.167/s/live/915/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://46.32.68.167/s/live/915/86.169.51.136/8/0.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://46.32.68.167/s/live/918/51.51.51.51/1/0.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://46.32.68.167/s/live/918/86.169.51.136/2/0.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://46.32.68.167/s/live/918/86.169.51.136/8/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://46.32.68.167/s/live/922/51.51.51.51/1/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://46.32.68.167/s/live/922/86.169.51.136/1/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://46.32.68.167/s/live/922/86.169.51.136/2/0.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://46.32.68.167/s/live/922/86.169.51.136/8/0.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://46.32.68.167/s/live/925/51.51.51.51/1/0.m3u8
+#EXTINF:-1,TRAVEL
+http://46.32.68.167/s/live/925/816951136/819088191919/0.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://46.32.68.167/s/live/925/86.169.51.136/0/0.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://46.32.68.167/s/live/925/86.169.51.136/1/0.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://46.32.68.167/s/live/925/86.169.51.136/2/0.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://46.32.68.167/s/live/925/86.169.51.136/8/0.m3u8
+#EXTINF:-1,HISTORY HD
+http://46.32.68.167/s/live/926/51.51.51.51/1/0.m3u8
+#EXTINF:-1,HISTORY HD
+http://46.32.68.167/s/live/926/86.169.51.136/0/0.m3u8
+#EXTINF:-1,HISTORY HD
+http://46.32.68.167/s/live/926/86.169.51.136/2/0.m3u8
+#EXTINF:-1,HISTORY
+http://46.32.68.167/s/live/926/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://46.32.68.167/s/live/939/51.51.51.51/1/0.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://46.32.68.167/s/live/939/86.169.51.136/0/0.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://46.32.68.167/s/live/939/86.169.51.136/2/0.m3u8
+#EXTINF:-1,МАТЧ! HD
+http://46.32.68.167/s/live/939/86.169.51.136/8/0.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://5.128.100.70:81/udp/239.1.23.3:1234
+#EXTINF:-1,BOLLYWOOD HD
+http://5.59.200.247:81/udp/239.72.6.170:1234
+#EXTINF:-1,EUROSPORT 1
+http://50.7.244.58:8080/eurosport_1/mono.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://50.7.244.58:8080/eurosport_1/video.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://50.7.244.58:8080/eurosport_2/mono.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://50.7.244.58:8080/eurosport_2/video.m3u8
+#EXTINF:-1,FOX
+http://50.7.244.58:8080/fox/mono.m3u8
+#EXTINF:-1,FOX
+http://50.7.244.58:8080/fox/video.m3u8
+#EXTINF:-1,FOX HD
+http://50.7.244.58:8080/fox_hd/mpegts
+#EXTINF:-1,ФУТБОЛ 1 (УКРАИНА)
+http://50.7.244.58:8080/futbol_1/mono.m3u8
+#EXTINF:-1,ФУТБОЛ+
+http://50.7.244.58:8080/futbol_2/mono.m3u8
+#EXTINF:-1,К2
+http://50.7.244.58:8080/k2/mono.m3u8
+#EXTINF:-1,СТБ
+http://50.7.244.58:8080/stb/mono.m3u8
+#EXTINF:-1,VIP COMEDY HD
+http://50.7.244.58:8080/vip_comedy_hd/mono.m3u8
+#EXTINF:-1,VIP COMEDY
+http://50.7.244.58:8080/vip_comedy_hd/mpegts
+#EXTINF:-1,VIP MEGAHIT ( )
+http://50.7.244.58:8080/vip_megahit_hd/mono.m3u8
+#EXTINF:-1,VIP MEGAHIT
+http://50.7.244.58:8080/vip_megahit_hd/mpegts
+#EXTINF:-1,VIP PREMIERE
+http://50.7.244.58:8080/vip_premiere_hd/mono.m3u8
+#EXTINF:-1,VIP PREMIERE
+http://50.7.244.58:8080/vip_premiere_hd/mpegts
+#EXTINF:-1,НОВИЙ КАНАЛ
+http://51.15.176.84/hls/novy-ua/index.m3u8
+#EXTINF:-1,DUCK TV HD
+http://51.15.190.120:38099/duckhd/live.m3u8
+#EXTINF:-1,CNN
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD (720)
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/index.m3u8
+#EXTINF:-1,ALL SPORTS TV
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://77.109.171.191:8000/play/a04q
+#EXTINF:-1,COMEDY CENTRAL / VIVA AT
+http://77.109.171.191:8000/play/a050
+#EXTINF:-1,NICKELODEON AT
+http://77.109.171.191:8000/play/a051
+#EXTINF:-1,COMEDY CENTRAL/VIVA
+http://77.109.171.191:8000/play/a05a
+#EXTINF:-1,BLOOMBERG EUROPE TV
+http://77.109.171.191:8000/play/a06s
+#EXTINF:-1,FASHION ONE
+http://77.109.171.191:8000/play/a07o
+#EXTINF:-1,AD SPORT1 HD
+http://77.109.171.191:8000/play/a08p
+#EXTINF:-1,SPORT1
+http://77.109.171.191:8000/play/xxSport1xx
+#EXTINF:-1,DELUXE MUSIC
+http://77.109.171.191:8000/play/xxxDeluxeMusicxxx
+#EXTINF:-1,ТРК УКРАЇНА
+http://78.26.128.52:6666
+#EXTINF:-1,ATR
+http://78.26.147.80:9981/stream/channelid/1192482018?ticket=CED0C4DABF37F9491A4AF15D2C41A8A6EF0CEB52&profile=pass
+#EXTINF:-1,ТК ПЛАНЕТА
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,FASHION TV (SK)
+http://80.94.54.42/fashiontv/stream/chunklist_w1498188138.m3u8
+#EXTINF:-1,FASHION TV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,U TV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?
+#EXTINF:-1,DISCOVERY
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/229.54.15.108:1234
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.105:58631
+#EXTINF:-1,ПЯТНИЦА! HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.78:58631
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/233.170.170.93:58631
+#EXTINF:-1,ПЯТНИЦА HD
+http://85.112.114.11:8086/udp/238.2.13.242:1234
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.0
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.1
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.2
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.47.108:1234.1.3
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.0
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.1
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.2
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.47.90:1234.1.3
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.0
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.1
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.2
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/238.2.50.6:1234.1.3
+#EXTINF:-1,МАТЧ HD
+http://85.112.114.11:8086/udp/238.2.50.8:1234
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.61.243:1234
+#EXTINF:-1,ПЯТНИЦА HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.0
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.1
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.2
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8086/udp/238.2.62.80:1234.1.3
+#EXTINF:-1,БЕЛАРУСЬ 5
+http://86.57.225.245:7002/play/a00k
+#EXTINF:-1,ТНТ
+http://86.57.225.245:7012/play/a005
+#EXTINF:-1,НАУКА 2.0
+http://86.57.225.245:7013/play/a003
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://86.57.225.245:7015/play/a00r
+#EXTINF:-1,DISNEY CHANNEL
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:-1,DISNEY
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2
+#EXTINF:-1,MTV HITS
+http://88.119.220.2/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,NICK JR
+http://88.119.220.2/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,NICKELODEON
+http://88.119.220.2/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,TV 1000 ACTION
+http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/index.m3u8
+#EXTINF:-1,TV1000
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 EAST
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8?version=2
+#EXTINF:-1,TV1000 PREMIUM
+http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://88.119.220.2/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8
+#EXTINF:-1,FASHION TV 4K UHD
+http://88.216.48.147/flussonic/FashionTV4K/video.m3u8
+#EXTINF:-1,BBC WORLD
+http://88.216.8.122:8080/bbc/index.m3u8
+#EXTINF:-1,CNN
+http://88.216.8.122:8080/cnn/index.m3u8
+#EXTINF:-1,ДАЧА ТВ
+http://88.216.8.122:8080/dacha/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://88.216.8.122:8080/discovery_channel/index.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://88.216.8.122:8080/discovery_science/index.m3u8
+#EXTINF:-1,EPOQUE
+http://88.216.8.122:8080/epoque/index.m3u8
+#EXTINF:-1,EURONEWS
+http://88.216.8.122:8080/euronews/index.m3u8
+#EXTINF:-1,EUROSPORT
+http://88.216.8.122:8080/eurosport/index.m3u8
+#EXTINF:-1,EUROSPORT_2
+http://88.216.8.122:8080/eurosport_2/index.m3u8
+#EXTINF:-1,FASHION TV
+http://88.216.8.122:8080/fashion_tv/index.m3u8
+#EXTINF:-1,FAUNA
+http://88.216.8.122:8080/fauna/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://88.216.8.122:8080/national_geographic/index.m3u8
+#EXTINF:-1,NAUKA
+http://88.216.8.122:8080/nauka/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://88.216.8.122:8080/nickelodeon/index.m3u8
+#EXTINF:-1,SETANTA SPORT HD
+http://88.216.8.122:8080/setanta_hd/index.m3u8
+#EXTINF:-1,SONY CHANNEL
+http://88.216.8.122:8080/sony_channel/index.m3u8
+#EXTINF:-1,SONY TURBO
+http://88.216.8.122:8080/sony_turbo/index.m3u8
+#EXTINF:-1,SPORT 1
+http://88.216.8.122:8080/sport_1/index.m3u8
+#EXTINF:-1,TERRA
+http://88.216.8.122:8080/terra/index.m3u8
+#EXTINF:-1,TNT INTERNATIONAL
+http://88.216.8.122:8080/tnt_international/index.m3u8
+#EXTINF:-1,TNT4
+http://88.216.8.122:8080/tnt4/index.m3u8
+#EXTINF:-1,TRAVEL
+http://88.216.8.122:8080/travel/index.m3u8
+#EXTINF:-1,ТРОФЕЙ
+http://88.216.8.122:8080/trofey/index.m3u8
+#EXTINF:-1,TV1000
+http://88.216.8.122:8080/tv1000/index.m3u8
+#EXTINF:-1,TVPLAY SPORTS
+http://88.216.8.122:8080/tvplay_sports/index.m3u8
+#EXTINF:-1,VIASAT EXPLORE HD
+http://88.216.8.122:8080/viasat_explore/index.m3u8
+#EXTINF:-1,VIASAT HISTORY HD
+http://88.216.8.122:8080/viasat_history/index.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://88.216.8.122:8080/viasat_nature/index.m3u8
+#EXTINF:-1,VIP COMEDY HD
+http://88.216.8.122:8080/vip_comedy/index.m3u8
+#EXTINF:-1,AMEDIA 2
+http://89.106.234.3/A2_36_37.m3u8
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ
+http://91.192.168.242:9091
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
+http://91.204.138.87:8888/udp/224.200.202.120:1234
+#EXTINF:-1,МАТЧ!
+http://91.204.138.87:8888/udp/224.200.202.152:1234
+#EXTINF:-1,2X2
+http://91.204.138.87:8888/udp/224.200.202.171:1234
+#EXTINF:-1,2X2
+http://91.204.138.87:8888/udp/224.200.202.172:1234
+#EXTINF:-1,ЧЕ
+http://91.204.138.87:8888/udp/224.200.202.208:1234
+#EXTINF:-1,NICKELODEON HD
+http://91.204.138.87:8888/udp/224.200.202.211:1234
+#EXTINF:-1,МАТЧ!
+http://91.204.138.87:8888/udp/224.200.202.31:1234
+#EXTINF:-1,МАТЧ! HD
+http://91.204.138.87:8888/udp/224.200.202.32:1234
+#EXTINF:-1,NICKELODEON
+http://91.204.138.87:8888/udp/224.200.202.40:1234
+#EXTINF:-1,AMEDIA 1
+http://91.204.138.87:8888/udp/224.200.202.41:1234
+#EXTINF:-1,MTV DANCE
+http://91.204.138.87:8888/udp/224.200.202.47:1234
+#EXTINF:-1,СТС
+http://91.204.138.87:8888/udp/224.200.202.6:1234
+#EXTINF:-1,MTV ROCKS
+http://91.204.138.87:8888/udp/224.200.202.98:1234
+#EXTINF:-1,FASHION TV
+http://91.204.138.87:8888/udp/224.200.224.10:1234
+#EXTINF:-1,МАТЧ ТВ
+http://91.204.138.87:8888/udp/224.200.224.31:1234
+#EXTINF:-1,NAT GEO WILD
+http://91.204.138.87:8888/udp/224.200.232.1:1234
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://91.204.138.87:8888/udp/224.200.232.2:1234
+#EXTINF:-1,FOX
+http://91.204.138.87:8888/udp/224.200.232.3:1234
+#EXTINF:-1,NAT GEO WILD HD
+http://91.204.138.87:8888/udp/224.200.232.5:1234
+#EXTINF:-1,TV1000
+http://91.204.138.87:8888/udp/224.200.234.1:1234
+#EXTINF:-1,VIASAT SPORT
+http://91.204.138.87:8888/udp/224.200.234.12:1234
+#EXTINF:-1,VIASAT EXPLORE
+http://91.204.138.87:8888/udp/224.200.234.2:1234
+#EXTINF:-1,VIASAT HISTORY
+http://91.204.138.87:8888/udp/224.200.234.3:1234
+#EXTINF:-1,VIP!PREMIERE HD
+http://91.204.138.87:8888/udp/224.200.234.4:1234
+#EXTINF:-1,VIP!COMEDY HD
+http://91.204.138.87:8888/udp/224.200.234.5:1234
+#EXTINF:-1,VIP!MEGAHIT HD
+http://91.204.138.87:8888/udp/224.200.234.6:1234
+#EXTINF:-1,VIASAT NATURE/HISTORY HD
+http://91.204.138.87:8888/udp/224.200.234.7:1234
+#EXTINF:-1,PLAYBOY TV
+http://91.204.138.87:8888/udp/224.200.237.134:1234
+#EXTINF:-1,PLAYBOY TV
+http://91.204.138.87:8888/udp/224.200.237.134:1234
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://91.204.138.87:8888/udp/224.200.238.130:1234
+#EXTINF:-1,НАУКА2.0
+http://91.204.138.87:8888/udp/224.200.240.2:1234
+#EXTINF:-1,МАТЧ!ИГРА
+http://91.204.138.87:8888/udp/224.200.240.3:1234
+#EXTINF:-1,МАТЧ!АРЕНА
+http://91.204.138.87:8888/udp/224.200.240.4:1234
+#EXTINF:-1,MTV ROCKS
+http://91.204.138.87:8888/udp/224.200.241.10:1234
+#EXTINF:-1,ENGLISH CLUB
+http://91.204.138.87:8888/udp/224.200.241.12:1234
+#EXTINF:-1,MTV DANCE [SD]
+http://91.204.138.87:8888/udp/224.200.241.15:1234
+#EXTINF:-1,NAT GEO WILD
+http://91.204.138.87:8888/udp/224.200.241.18:1234
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
+http://91.204.138.87:8888/udp/224.200.241.21:1234
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ
+http://91.204.138.87:8888/udp/224.200.241.21:1234
+#EXTINF:-1,MUSIC BOX
+http://91.204.138.87:8888/udp/224.200.241.24:1234
+#EXTINF:-1,MUSIC BOX RUSSIA
+http://91.204.138.87:8888/udp/224.200.241.25:1234
+#EXTINF:-1,SPIKE
+http://91.204.138.87:8888/udp/224.200.241.26:1234
+#EXTINF:-1,ФУТБОЛ
+http://91.204.138.87:8888/udp/224.200.241.27:1234
+#EXTINF:-1,MTV HITS
+http://91.204.138.87:8888/udp/224.200.241.40:1234
+#EXTINF:-1,МАТЧ! ИГРА
+http://91.204.138.87:8888/udp/224.200.241.41:1234
+#EXTINF:-1,SONY SCI-FI
+http://91.204.138.87:8888/udp/224.200.241.43:1234
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://91.204.138.87:8888/udp/224.200.241.52:1234
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://91.204.138.87:8888/udp/224.200.241.52:1234
+#EXTINF:-1,PLAYBOY
+http://91.204.138.87:8888/udp/224.200.241.53:1234
+#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://91.204.138.87:8888/udp/224.200.241.58:1234
+#EXTINF:-1,24 ТЕХНО
+http://91.204.138.87:8888/udp/224.200.241.65:1234
+#EXTINF:-1,МАТЧ! АРЕНА
+http://91.204.138.87:8888/udp/224.200.241.8:1234
+#EXTINF:-1,FOOD NETWORK HD
+http://91.204.138.87:8888/udp/224.200.241.85:1234
+#EXTINF:-1,FOOD NETWORK HD
+http://91.204.138.87:8888/udp/224.200.241.85:1234
+#EXTINF:-1,SONY TURBO
+http://91.204.138.87:8888/udp/224.200.241.87:1234
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://91.204.138.87:8888/udp/224.200.241.89:1234
+#EXTINF:-1,PARAMOUNT COMEDY HD
+http://91.204.138.87:8888/udp/224.200.241.89:1234
+#EXTINF:-1,EUROSPORT 2 HD
+http://91.204.138.87:8888/udp/224.200.241.94:1234
+#EXTINF:-1,PARAMOUNT COMEDY W. EPG HD
+http://91.204.138.87:8888/udp/224.200.249.10:1234
+#EXTINF:-1,МАТЧ! ИГРА
+http://91.204.138.87:8888/udp/239.1.1.181:1234
+#EXTINF:-1,TV1000 ACTION
+http://91.204.138.87:8888/udp/239.1.23.142:1234
+#EXTINF:-1,VIASAT SPORT
+http://91.204.138.87:8888/udp/239.1.23.147:1234
+#EXTINF:-1,EUROSPORT 2 HD
+http://91.204.138.87:8888/udp/239.1.23.156:1234
+#EXTINF:-1,ОРУЖИЕ
+http://91.204.138.87:8888/udp/239.1.3.131:1234
+#EXTINF:-1,KANAL DISNEY
+http://91.204.138.87:8888/udp/239.1.3.144:1234
+#EXTINF:-1,FOX HD
+http://91.204.138.87:8888/udp/239.1.34.170:1234
+#EXTINF:-1,SPORT FM
+http://91.204.138.87:8888/udp/239.1.34.191:1234
+#EXTINF:-1,SPIKE
+http://91.204.138.87:8888/udp/239.1.35.143:1234
+#EXTINF:-1,МАТЧ! HD
+http://91.204.138.87:8888/udp/239.1.35.4:1234
+#EXTINF:-1,АВТО ПЛЮС
+http://91.204.138.87:8888/udp/239.1.41.158:1234
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://91.204.138.87:8888/udp/239.1.41.162:1234
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://91.204.138.87:8888/udp/239.1.41.162:1234
+#EXTINF:-1,АВТО24
+http://91.204.138.87:8888/udp/239.1.6.136:1234
+#EXTINF:-1,НАУКА
+http://91.204.138.87:8888/udp/239.1.6.161:1234
+#EXTINF:-1,МАТЧ ТВ
+http://91.207.76.11:8000/tv_ch1-03
+#EXTINF:-1,СТС
+http://91.207.76.11:8000/tv_ch2-03
+#EXTINF:-1,ТНТ
+http://91.207.76.11:8000/tv_ch2-09
+#EXTINF:-1,SETANTA SPORT HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,SETANTA SPORTS HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SETANTA SPORT PLUS HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,SETANTA SPORTS+ [FHD]
+http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8
+#EXTINF:-1,03 МАТЧ ТВ
+http://93.100.35.151:4042/udp/239.239.1.66:5239
+#EXTINF:-1,КАНАЛ DISNEY
+http://93.100.35.151:4042/udp/239.239.3.10:5239
+#EXTINF:-1,2X2
+http://93.100.35.151:4042/udp/239.239.3.3:5239
+#EXTINF:-1,ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ
+http://93.100.35.151:4042/udp/239.239.3.31:5239
+#EXTINF:-1,МАТЧ! HD
+http://93.100.35.151:4042/udp/239.239.3.34:5239
+#EXTINF:-1,ТНТ 4
+http://93.100.35.151:4042/udp/239.239.3.36:5239
+#EXTINF:-1,ЧЕ
+http://93.100.35.151:4042/udp/239.239.3.64:5239
+#EXTINF:-1,SILENCE TV HD
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1,КАНАЛ DISNEY
+http://94.19.141.226:81/udp/239.239.3.10:5239
+#EXTINF:-1,ГРОМАДСЬКЕ ТЕЛЕБАЧЕННЯ (HROMADSKE.TV)
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1,МАТЧ
+http://95.138.241.16:8000/play/MatchTV
+#EXTINF:-1,ПЯТНИЦА
+http://95.138.241.16:8000/play/pyatnica
+#EXTINF:-1,СТС
+http://95.138.241.16:8000/play/sts
+#EXTINF:-1,ТНТ
+http://95.138.241.16:8000/play/tnt
+#EXTINF:-1,CARTOON NETWORK
+http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
+#EXTINF:-1,CT SPORT HD
+http://95.170.215.118/hls/m3u8/CT-Sport.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
+#EXTINF:-1,SKY SPORTS 1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1,CARTOON_NETWORK
+http://95.47.243.141/cartoonnetwork/index.m3u8
+#EXTINF:-1,16 ПЯТНИЦА
+http://95.47.243.141/pyatnica/index.m3u8
+#EXTINF:-1,НТА / NTA UKRAINE
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://95.67.12.67/hls/112hd_mid/index.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,ПРАВДА ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ПРЯМЫЙ
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,ПРЯМИЙ (UA)
+http://95.67.21.100/hls/prm_ua_low/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://95.67.21.132/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://95.86.32.7:999/food
+#EXTINF:-1,МАТЧ! ИГРА [FHD]
+http://9cc8074b.melpakomn.ru/iptv/64M42VMW5MMUVN/225/index.m3u8
+#EXTINF:-1,AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORTS 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ADSPORT1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?VIPIPTV
+#EXTINF:-1,AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD SPORTS 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1,AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ADSPORT2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?VIPIPTV
+#EXTINF:-1,AD SPORTS 3
+http://adtv.ercdn.net/adsport3/adsport3_480p.m3u8
+#EXTINF:-1,AD SPORTS 3 HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,AD SPORTS 4
+http://adtv.ercdn.net/adsport4/adsport4_480p.m3u8
+#EXTINF:-1,AD SPORTS 4 HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,112 УКРАЇНА HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,112 УКРАЇНА
+http://app.live.112.events/hls/112hd_low/index.m3u8
+#EXTINF:-1,112 УКРАЇНА
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,112 УКРАИНА
+http://app.live.112.events/hls-ua/112hd_low/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,112 УКРАИНА HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,SKY SPORTS F1
+http://app.powerfhd.me/live/sup.php?z=111&u=264154122221619&s=644912299797172&id=11968&t=live&f=ts
+#EXTINF:-1,НАШ ФУТБОЛ
+http://b80e31b0.kazmazpaz.org/iptv/3XZ376R3C9MC6X/531/index.m3u8
+#EXTINF:-1,BOK TV
+http://boktv.interworks.in:1935/live/boktv/playlist.m3u8
+#EXTINF:-1,ДИКАЯ ОХОТА HD
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,TRAVEL GUID TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,ПРЯМИЙ TIM
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1,ПРИКЛЮЧЕНИЯ HD
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/chunklist_b1600000.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/1180
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://cms.accesss.me:25461/026232135326933/659032010656363/11962
+#EXTINF:-1,SKY SPORTS NEWS
+http://cms.accesss.me:25461/026232135326933/659032010656363/11963
+#EXTINF:-1,SKY SPORTS MIX
+http://cms.accesss.me:25461/026232135326933/659032010656363/11964
+#EXTINF:-1,NICKELODEON
+http://cms.accesss.me:25461/026232135326933/659032010656363/11999
+#EXTINF:-1,NAT GEO WILD
+http://cms.accesss.me:25461/026232135326933/659032010656363/12001
+#EXTINF:-1,NAT GEO
+http://cms.accesss.me:25461/026232135326933/659032010656363/12002
+#EXTINF:-1,FOX
+http://cms.accesss.me:25461/026232135326933/659032010656363/12017
+#EXTINF:-1,FOOD NETWORK
+http://cms.accesss.me:25461/026232135326933/659032010656363/12018
+#EXTINF:-1,DISNEY XD
+http://cms.accesss.me:25461/026232135326933/659032010656363/12030
+#EXTINF:-1,DISNEY CHANNEL
+http://cms.accesss.me:25461/026232135326933/659032010656363/12032
+#EXTINF:-1,DISCOVERY TURBO
+http://cms.accesss.me:25461/026232135326933/659032010656363/12033
+#EXTINF:-1,DISCOVERY SHED
+http://cms.accesss.me:25461/026232135326933/659032010656363/12034
+#EXTINF:-1,DISCOVERY SCIENCE
+http://cms.accesss.me:25461/026232135326933/659032010656363/12035
+#EXTINF:-1,CARTOON NETWORK
+http://cms.accesss.me:25461/026232135326933/659032010656363/12050
+#EXTINF:-1,ANIMAL PLANET
+http://cms.accesss.me:25461/026232135326933/659032010656363/12064
+#EXTINF:-1,5 SPIKE UK
+http://cms.accesss.me:25461/026232135326933/659032010656363/12069
+#EXTINF:-1,DISCOVERY CHANNEL FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/13757
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/13760
+#EXTINF:-1,EURONEWS
+http://cms.accesss.me:25461/026232135326933/659032010656363/187
+#EXTINF:-1,BOOMERANG
+http://cms.accesss.me:25461/026232135326933/659032010656363/195
+#EXTINF:-1,NICKELODEON 4TEEN
+http://cms.accesss.me:25461/026232135326933/659032010656363/201
+#EXTINF:-1,NICKELODEON JR
+http://cms.accesss.me:25461/026232135326933/659032010656363/202
+#EXTINF:-1,NICKELODEON 1
+http://cms.accesss.me:25461/026232135326933/659032010656363/203
+#EXTINF:-1,DISNEY CHANNEL 1
+http://cms.accesss.me:25461/026232135326933/659032010656363/205
+#EXTINF:-1,DISNEY XD
+http://cms.accesss.me:25461/026232135326933/659032010656363/207
+#EXTINF:-1,DISNEY CHANNEL
+http://cms.accesss.me:25461/026232135326933/659032010656363/209
+#EXTINF:-1,MTV HITS
+http://cms.accesss.me:25461/026232135326933/659032010656363/220
+#EXTINF:-1,HISTOIRE
+http://cms.accesss.me:25461/026232135326933/659032010656363/224
+#EXTINF:-1,PLANETE+
+http://cms.accesss.me:25461/026232135326933/659032010656363/234
+#EXTINF:-1,DISCOVERY CHANNEL
+http://cms.accesss.me:25461/026232135326933/659032010656363/237
+#EXTINF:-1,DISCOVERY SCIENCE
+http://cms.accesss.me:25461/026232135326933/659032010656363/238
+#EXTINF:-1,NAT GEO WILD
+http://cms.accesss.me:25461/026232135326933/659032010656363/239
+#EXTINF:-1,NATIONAL GEO
+http://cms.accesss.me:25461/026232135326933/659032010656363/240
+#EXTINF:-1,EUROSPORT 2
+http://cms.accesss.me:25461/026232135326933/659032010656363/250
+#EXTINF:-1,EUROSPORT 1
+http://cms.accesss.me:25461/026232135326933/659032010656363/251
+#EXTINF:-1,INFOSPORT
+http://cms.accesss.me:25461/026232135326933/659032010656363/253
+#EXTINF:-1,TV2000
+http://cms.accesss.me:25461/026232135326933/659032010656363/26212
+#EXTINF:-1,SPIKE
+http://cms.accesss.me:25461/026232135326933/659032010656363/26220
+#EXTINF:-1,FOX +1
+http://cms.accesss.me:25461/026232135326933/659032010656363/26252
+#EXTINF:-1,NATGEO WILD UHD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26384
+#EXTINF:-1,NATIONAL GEO HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26387
+#EXTINF:-1,INTER CHANNEL
+http://cms.accesss.me:25461/026232135326933/659032010656363/26408
+#EXTINF:-1,SKYSPORT +24 UHD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26417
+#EXTINF:-1,SKYSPORT  UNO UHD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26419
+#EXTINF:-1,SKYSPORT UNO HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26420
+#EXTINF:-1,SKYSPORT NBA UHD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26423
+#EXTINF:-1,HISTORIO HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/26638
+#EXTINF:-1,CARTOON NETWORK
+http://cms.accesss.me:25461/026232135326933/659032010656363/26934
+#EXTINF:-1,TNT
+http://cms.accesss.me:25461/026232135326933/659032010656363/28396
+#EXTINF:-1,COMEDY CENTRAL
+http://cms.accesss.me:25461/026232135326933/659032010656363/28425
+#EXTINF:-1,EUROSPORT1 FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/28480
+#EXTINF:-1,MEGA
+http://cms.accesss.me:25461/026232135326933/659032010656363/28507
+#EXTINF:-1,NG WILD
+http://cms.accesss.me:25461/026232135326933/659032010656363/28516
+#EXTINF:-1,DISNEY CHANNEL
+http://cms.accesss.me:25461/026232135326933/659032010656363/28526
+#EXTINF:-1,NICKELODEON FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/28529
+#EXTINF:-1,DISNEY JR
+http://cms.accesss.me:25461/026232135326933/659032010656363/28534
+#EXTINF:-1,NICK JR
+http://cms.accesss.me:25461/026232135326933/659032010656363/28536
+#EXTINF:-1,ZEE BOLLYWOOD
+http://cms.accesss.me:25461/026232135326933/659032010656363/28915
+#EXTINF:-1,PARAMOUNT CHANNEL ʜᴅ
+http://cms.accesss.me:25461/026232135326933/659032010656363/302
+#EXTINF:-1,MBC BOLLYWOOD HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/39423
+#EXTINF:-1,OSN ART CINEMA
+http://cms.accesss.me:25461/026232135326933/659032010656363/39484
+#EXTINF:-1,OSN MTV LIVE HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/39507
+#EXTINF:-1,MY DUCK TV HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/39521
+#EXTINF:-1,MY ENGLISH CLUB TV
+http://cms.accesss.me:25461/026232135326933/659032010656363/39522
+#EXTINF:-1,AD SPORT 2
+http://cms.accesss.me:25461/026232135326933/659032010656363/39821
+#EXTINF:-1,NICK JR.
+http://cms.accesss.me:25461/026232135326933/659032010656363/40169
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40171
+#EXTINF:-1,FOX SPORTS 5 HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40182
+#EXTINF:-1,FOX SPORTS 4 HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40183
+#EXTINF:-1,FOX SPORTS 2 HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40185
+#EXTINF:-1,FOX HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40187
+#EXTINF:-1,EUROSPORT 2 HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/40194
+#EXTINF:-1,NICKELODEON 1 FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/6905
+#EXTINF:-1,NICKELODEON FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/6906
+#EXTINF:-1,DISNEY CHANNEL 1 FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/6907
+#EXTINF:-1,EUROSPORT 1 FULL HD
+http://cms.accesss.me:25461/026232135326933/659032010656363/6937
+#EXTINF:-1,PLAY TV
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+#EXTINF:-1,SPORTVL
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662153/index_150_av-p.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekino/chunklist.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/muzhskoekinohd/chunklist.m3u8
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/nashfutbolhd/chunklist.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD
+http://demo1.cdn.micro.im:63080/tXOTRkENh6dQf045/oirhd/chunklist.m3u8
+#EXTINF:-1,К1
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1,TV100
+http://edge-ind.inapcdn.in:1935/edge1/shagun.stream_aac/chunklist.m3u8
+#EXTINF:-1,EURONEWS
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1,EURONEWS
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
+#EXTINF:-1,FASHION TV [SD]
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1,FASHION TV (HD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FASHION TV 1
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg16_d9y_27042_ftv_pg16_194_hls.smil/playlist.m3u8
+#EXTINF:-1,FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FASHION TV PARIS
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:-1,FASHION TV PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1,FASHION TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1,FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1,FASHION TV PG13
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FASHION TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FASHION TV VOD
+http://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://flussonic.azfiber.net:80/EN/RU-animalplanet/video.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://flussonic.azfiber.net:80/EN/RU-cartoonnetwork/video.m3u8
+#EXTINF:-1,CNN INTERNATIONAL
+http://flussonic.azfiber.net:80/EN/RU-cnninternational/index.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://flussonic.azfiber.net:80/EN/RU-discoverychannel/video.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://flussonic.azfiber.net:80/EN/RU-discoveryscience/video.m3u8
+#EXTINF:-1,EURONEWS
+http://flussonic.azfiber.net:80/EN/RU-euronews/video.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://flussonic.azfiber.net:80/EN/RU-natgeowild/video.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://flussonic.azfiber.net:80/EN/RU-nationalgeographic/video.m3u8
+#EXTINF:-1,NICKELODEON
+http://flussonic.azfiber.net:80/EN/RU-nickelodeon/video.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR
+http://flussonic.azfiber.net:80/EN/RU-nickelodeonjunior/video.m3u8
+#EXTINF:-1,SONY TURBO
+http://flussonic.azfiber.net:80/EN/RU-sonyturbo/video.m3u8
+#EXTINF:-1,VIASAT EXPLORE
+http://flussonic.azfiber.net:80/EN/RU-viasatexplore/video.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://flussonic.azfiber.net:80/EN/RU-viasathistory/video.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://flussonic.azfiber.net:80/EN/RU-viasatnature/video.m3u8
+#EXTINF:-1,24 TEXNO
+http://flussonic.azfiber.net:80/RU-24texno/index.m3u8
+#EXTINF:-1,2X2
+http://flussonic.azfiber.net:80/RU-2x2/index.m3u8
+#EXTINF:-1,AMEDIA 1
+http://flussonic.azfiber.net:80/RU-amedia1/index.m3u8
+#EXTINF:-1,AMEDIA 2
+http://flussonic.azfiber.net:80/RU-amedia2/index.m3u8
+#EXTINF:-1,AVTO 24
+http://flussonic.azfiber.net:80/RU-avto24/index.m3u8
+#EXTINF:-1,AVTO PLYUS
+http://flussonic.azfiber.net:80/RU-avtoplyus/index.m3u8
+#EXTINF:-1,BOBER
+http://flussonic.azfiber.net:80/RU-bober/index.m3u8
+#EXTINF:-1,BOKS TV
+http://flussonic.azfiber.net:80/RU-bokstv/index.m3u8
+#EXTINF:-1,BOLLYWOOD HD
+http://flussonic.azfiber.net:80/RU-bollywoodtvhd/video.m3u8
+#EXTINF:-1,ЧЕ
+http://flussonic.azfiber.net:80/RU-che/index.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://flussonic.azfiber.net:80/RU-disneychannel/index.m3u8
+#EXTINF:-1,EVROKINO
+http://flussonic.azfiber.net:80/RU-evrokino/index.m3u8
+#EXTINF:-1,ISTORIYA
+http://flussonic.azfiber.net:80/RU-istoriya/index.m3u8
+#EXTINF:-1,KINOKOEDIYA
+http://flussonic.azfiber.net:80/RU-kinokomediya/index.m3u8
+#EXTINF:-1,MATCH ARENA
+http://flussonic.azfiber.net:80/RU-matcharena/index.m3u8
+#EXTINF:-1,MATCH FUTBOL 1
+http://flussonic.azfiber.net:80/RU-matchfutbol1/index.m3u8
+#EXTINF:-1,MATCH FUTBOL  2
+http://flussonic.azfiber.net:80/RU-matchfutbol2/index.m3u8
+#EXTINF:-1,MATCH FUTBOL 3
+http://flussonic.azfiber.net:80/RU-matchfutbol3/index.m3u8
+#EXTINF:-1,MATCH IQRA
+http://flussonic.azfiber.net:80/RU-matchiqra/index.m3u8
+#EXTINF:-1,MATCH! BOECH
+http://flussonic.azfiber.net:80/RU-matchoech/index.m3u8
+#EXTINF:-1,MUJSKOE KINO
+http://flussonic.azfiber.net:80/RU-mujskoekino/index.m3u8
+#EXTINF:-1,NAUKA 2.0
+http://flussonic.azfiber.net:80/RU-nauka20/index.m3u8
+#EXTINF:-1,OXOTA I RIBALKA
+http://flussonic.azfiber.net:80/RU-oxotairibalka/index.m3u8
+#EXTINF:-1,SONY SCI-FI
+http://flussonic.azfiber.net:80/RU-sonyscifi/index.m3u8
+#EXTINF:-1,СТС
+http://flussonic.azfiber.net:80/RU-sts/index.m3u8
+#EXTINF:-1,ТНТ
+http://flussonic.azfiber.net:80/RU-tnt/index.m3u8
+#EXTINF:-1,TNT 4
+http://flussonic.azfiber.net:80/RU-tnt4/index.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://flussonic.azfiber.net:80/RU-travelchannel/index.m3u8
+#EXTINF:-1,TV1000
+http://flussonic.azfiber.net:80/RU-tv1000/index.m3u8
+#EXTINF:-1,TV1000 ACTION
+http://flussonic.azfiber.net:80/RU-tv1000action/index.m3u8
+#EXTINF:-1,СТС
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8
+#EXTINF:-1,СТС
+http://gorod.tv/s/live/13/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1,ПЯТНИЦА! [SD]
+http://gorod.tv/s/live/16/ssiptv/0/0.m3u8
+#EXTINF:-1,ПЯТНИЦА
+http://gorod.tv/s/live/16/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1,ТНТ
+http://gorod.tv/s/live/19/ssiptv/0/0.m3u8
+#EXTINF:-1,ТНТ
+http://gorod.tv/s/live/19/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1,МАТЧ!
+http://gorod.tv/s/live/3/ssiptv/0/0.m3u8
+#EXTINF:-1,МАТЧ! ТВ
+http://gorod.tv/s/live/3/ssiptv/0/0.m3u8?iptv.glav-noe.ru/
+#EXTINF:-1,ПЕРШИЙ ЗАХIДНИЙ
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,BOOMERANG
+http://hls.goodgame.ru/hls/147367.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:-1,VIASAT HISTORY (РЕЗЕРВ3)
+http://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&amp;e=1541934953&amp;hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,VIASAT HISTORY
+http://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,SPORT TV1
+http://iptv4.premium-stv.com:8000/live/PORPROUN04/nQ1cZ5btrC/215.ts
+#EXTINF:-1,TVM1
+http://iptv6.premium-stv.com:25461/afriquepro1gsqeg532/4685466531422/884
+#EXTINF:-1,DISCOVERY HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2677
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2679
+#EXTINF:-1,DISNEY XD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2682
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2686
+#EXTINF:-1,HISTORY HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2701
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2720
+#EXTINF:-1,NICKELODEON
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2722
+#EXTINF:-1,SKY SPORT 2
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2773
+#EXTINF:-1,SKY SPORT 4HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2781
+#EXTINF:-1,SKY SPORT NEWS HD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2782
+#EXTINF:-1,SKY SPORT 1 FHD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2823
+#EXTINF:-1,SKY SPORT 2 FHD
+http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2824
+#EXTINF:-1,MBC BOLLYWOOD HD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1637
+#EXTINF:-1,NAT GEO WILD
+http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1666
+#EXTINF:-1,EUROSPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1002
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1018
+#EXTINF:-1,FOX SPORT 6 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/989
+#EXTINF:-1,FOX SPORT 5 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/990
+#EXTINF:-1,FOX SPORT 4 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/991
+#EXTINF:-1,FOX SPORT 2 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/993
+#EXTINF:-1,FOX SPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/994
+#EXTINF:-1,EUROSPORT 1 HD
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1343
+#EXTINF:-1,S-SPORT HD
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1460
+#EXTINF:-1,D SPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
+#EXTINF:-1,DSPORT
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
+#EXTINF:-1,DSPORTS
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1,FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1,FASHION TV (SK)
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,FASHION TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,ИНТЕР
+http://lb1.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,НТН
+http://lb1.macc.com.ua/img/ntn_2/index.m3u8
+#EXTINF:-1,НТН
+http://lb1.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,К1
+http://lb1.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1,ТРК РУДАНА
+http://live.rudana.com.ua/hls/stream_HD.m3u8
+#EXTINF:-1,FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:-1,HISTORY 2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8
+#EXTINF:-1,ENGLISH CLUB TV
+http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
+#EXTINF:-1,ENGLISH CLUB TV
+http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8
+#EXTINF:-1,BOOMERANG
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:-1,DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+#EXTINF:-1,DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1,TIERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1,BLOOMBERG TV HD
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1,EURONEWS DE
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:-1,СЕТАНТА СПОРТ
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8
+#EXTINF:-1,CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/150/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 [HD]
+http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/206/index.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/228/index.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО [SD]
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/164/index.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/557/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8
+#EXTINF:-1,SPORT (ES)
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:-1,SPORT KG
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
+#EXTINF:-1,THE OLYMPIC CHANNEL HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://ott-stream.sevstar.net/1836/video.m3u8?token=8330162968
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD (720)
+http://ott-stream.sevstar.net/1930/video.m3u8?token=8330162968
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ (РЕЗЕРВ)
+http://ott-stream.sevstar.net/2054/video.m3u8?token=8330162968
+#EXTINF:-1,МАТЧ! ТВ
+http://ott-stream.sevstar.net/2095/video.m3u8?token=8330162968
+#EXTINF:-1,МОТОРСПОРТ HD
+http://ott-stream.sevstar.net/2160/video.m3u8?token=8330162968
+#EXTINF:-1,4K FASHION
+http://ott-stream.sevstar.net/2201/video.m3u8?token=8330162968
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+http://ott-stream.sevstar.net/2202/video.m3u8?token=8330162968
+#EXTINF:-1,4K TRAVEL XP
+http://ott-stream.sevstar.net/2239/video.m3u8?token=8330162968
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ [HD]
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,ПЕРВЫЙ ДЕЛОВОЙ
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1,OUTDOOR СHANNEL
+http://persik.by/stream/1017/402000/10246.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 5 HD
+http://persik.by/stream/1017/402000/10408.m3u8
+#EXTINF:-1,ТЕХНО HD
+http://persik.by/stream/1017/402000/10697.m3u8
+#EXTINF:-1,TRAVEL BLOG HD
+http://persik.by/stream/1017/402000/10706.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24 HD
+http://persik.by/stream/1017/402000/10712.m3u8
+#EXTINF:-1,ОХОТА И РЫБАЛКА
+http://persik.by/stream/1017/402000/243.m3u8
+#EXTINF:-1,АВТО ПЛЮС
+http://persik.by/stream/1017/402000/311.m3u8
+#EXTINF:-1,EURONEWS
+http://persik.by/stream/1017/402000/37.m3u8
+#EXTINF:-1,HISTORY
+http://persik.by/stream/1017/402000/902.m3u8
+#EXTINF:-1,АВТО 24
+http://persik.by/stream/1017/402000/924.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 5
+http://persik.by/stream/1017/402000/932.m3u8
+#EXTINF:-1,CTN INTERNACIONAL
+http://ph1.ministeriotv.com:1936/48/smil:48.smil/chunklist_w250775975_b1564000_sleng.m3u8
+#EXTINF:-1,ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls1.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ПРАВДА ТУТ КИЕВ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ПРАВДА ТУТ HD (КИЕВ)
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ПРАВДА ТУТ SD
+http://pravdatytkievshina-hls3.cosmonova.net.ua/hls/pravdatytkievshina_ua_mid/index.m3u8
+#EXTINF:-1,ПРЯМОЙ HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,ПРЯМИЙ SD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_low/index.m3u8
+#EXTINF:-1,ПРЯМИЙ (UA)
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0288_av-p.m3u8
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0540_av-p.m3u8
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ HD
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_1_av-b.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net:80/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
+#EXTINF:-1,REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,REAL MADRID HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&amp;rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=ole=%22Sport%22,Al%20Kass%20Five
+#EXTINF:-1,REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on
+#EXTINF:-1,ПЕРШИЙ ЗАХІДНИЙ
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,SILENCE TV
+http://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/chunklist_w131157424.m3u8
+#EXTINF:-1,AMEDIA 2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,AMEDIA 2
+http://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,СТС+
+http://sc.id-tv.kz/STS.m3u8
+#EXTINF:-1,СТС
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1,СТС
+http://sc.id-tv.kz/STS_36_37.m3u8?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1,СТС
+http://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,K16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
+#EXTINF:-1,K16
+http://serv25.vintera.tv:8081/test/k16/playlist.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1,NICK JR. PLUTO TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=c834f953-0811-479f-94d7-0ef34aeef06a&deviceId=358fb262-122e-446f-922a-3f7a266db3aa&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,DISNEY (+7)
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,SCIENCE TV
+http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,FOX SPORTS
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,FAMILY
+http://stitcher.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,НОВЫЙ КАНАЛ
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:-1,MEGA
+http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1,ТЕТ
+http://stream2g01-g50.1plus1.ua/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:-1,1+1
+http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1,SPORT [HD]
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
+#EXTINF:-1,SPORT
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,24 КАНАЛ
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
+#EXTINF:-1,24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8
+#EXTINF:-1,24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1,24 КАНАЛ SD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b386000.m3u8
+#EXTINF:-1,24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b900000.m3u8
+#EXTINF:-1,24 КАНАЛ HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1,24 УКРАИНА
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,DORCEL
+http://tv.fast-iptv.info:12974/live/l0Jvklidcd/PZCpLDhfyF/340.ts
+#EXTINF:-1,SKY SPORT NEWS HD
+http://tv.fast-iptv.info:12974/live/NybudGmygN/QKXO7gjdc9/529.ts
+#EXTINF:-1,HBO
+http://tv.fast-iptv.info:12974/live/NybudGmygN/QKXO7gjdc9/86.ts
+#EXTINF:-1,SKY SPORT NEWS HD
+http://tv.fast-iptv.info:12974/live/Y1DPT1hAN9/W9fsyYiPRC/529.ts
+#EXTINF:-1,VIP MEGAHIT HD
+http://tv545.com/stream/3znj4KV/channel/210.m3u8
+#EXTINF:-1,ЧЕ
+http://tvsever.ru:8080/hls/ach2.m3u8
+#EXTINF:-1,PLAY TV
+http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1,HISTORY LAB
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30947.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30948.ts
+#EXTINF:-1,NAT GEO WILD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30949.ts
+#EXTINF:-1,HOLLYWOOD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30953.ts
+#EXTINF:-1,HISTORIA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30954.ts
+#EXTINF:-1,FOX HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30956.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30959.ts
+#EXTINF:-1,TNT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30978.ts
+#EXTINF:-1,NICKELODEON HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30982.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31004.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31005.ts
+#EXTINF:-1,PARAMOUNT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31013.ts
+#EXTINF:-1,REAL MADRID CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31020.ts
+#EXTINF:-1,EURONEWS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31029.ts
+#EXTINF:-1,FOX SPORTS 4
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31214.ts
+#EXTINF:-1,FOX SPORTS 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31215.ts
+#EXTINF:-1,FOX SPORTS 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31216.ts
+#EXTINF:-1,FOX SPORTS 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31217.ts
+#EXTINF:-1,EUROSPORT 1 FHD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31218.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31219.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31222.ts
+#EXTINF:-1,NAT GEO WILD FHD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31223.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31224.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31248.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31249.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31250.ts
+#EXTINF:-1,HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31254.ts
+#EXTINF:-1,HBO
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31257.ts
+#EXTINF:-1,FILM1 ACTION
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31263.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31264.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31265.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31268.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31275.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31277.ts
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31279.ts
+#EXTINF:-1,SPIKE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31296.ts
+#EXTINF:-1,SKY SPORT1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31385.ts
+#EXTINF:-1,SKY SPORT 24 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31387.ts
+#EXTINF:-1,SPORT TV 2 HD(1)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31904.ts
+#EXTINF:-1,SPORT TV 5HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31925.ts
+#EXTINF:-1,SPORT TV 5
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31926.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31929.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31931.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31945.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31946.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31947.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31966.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31968.ts
+#EXTINF:-1,CARTOON  NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31972.ts
+#EXTINF:-1,HISTORIA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31986.ts
+#EXTINF:-1,EUROSPORT 1 HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31994.ts
+#EXTINF:-1,SPORT TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32003.ts
+#EXTINF:-1,SPORT TV 3HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32016.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32018.ts
+#EXTINF:-1,HOLLYWOOD HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32023.ts
+#EXTINF:-1,NAT GEO WILD HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32025.ts
+#EXTINF:-1,SPORT TV  HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32028.ts
+#EXTINF:-1,TRAVEL CHANNEL HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32030.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32484.ts
+#EXTINF:-1,PLANETA HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32492.ts
+#EXTINF:-1,PLANETA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32501.ts
+#EXTINF:-1,TV1000
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32599.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32609.ts
+#EXTINF:-1,MATCH FUTBOL 3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32614.ts
+#EXTINF:-1,MATCH FUTBOL 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32615.ts
+#EXTINF:-1,MATCH FUTBOL 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32616.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32620.ts
+#EXTINF:-1,AMEDIA 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32623.ts
+#EXTINF:-1,VIASAT NATURE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32771.ts
+#EXTINF:-1,TV 1000
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32778.ts
+#EXTINF:-1,PRIMA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32791.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32795.ts
+#EXTINF:-1,MEGAMAX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32801.ts
+#EXTINF:-1,HBO 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32809.ts
+#EXTINF:-1,HBO 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32810.ts
+#EXTINF:-1,NOLLYWOOD TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32890.ts
+#EXTINF:-1,AL K SPORT1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33108.ts
+#EXTINF:-1,TURBO CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33208.ts
+#EXTINF:-1,SPORT 5
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33236.ts
+#EXTINF:-1,SPORT 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33237.ts
+#EXTINF:-1,SPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33238.ts
+#EXTINF:-1,NAT GEO HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33248.ts
+#EXTINF:-1,JOJ FAMILY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33255.ts
+#EXTINF:-1,HBO3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33257.ts
+#EXTINF:-1,HBO2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33258.ts
+#EXTINF:-1,DUCK TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33269.ts
+#EXTINF:-1,DISNEY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33270.ts
+#EXTINF:-1,DISCOVERY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33271.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33274.ts
+#EXTINF:-1,DISNEY JR.
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33296.ts
+#EXTINF:-1,TVM 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33314.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33323.ts
+#EXTINF:-1,NAT GEO
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33326.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33328.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33330.ts
+#EXTINF:-1,TV 2 SPORT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33357.ts
+#EXTINF:-1,VIASAT EXPLORE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33362.ts
+#EXTINF:-1,VIASAT FOTBOLL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33368.ts
+#EXTINF:-1,VIASAT GOLF
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33369.ts
+#EXTINF:-1,VIASAT HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33370.ts
+#EXTINF:-1,HBO 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33394.ts
+#EXTINF:-1,HBO 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33401.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33412.ts
+#EXTINF:-1,FOX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33413.ts
+#EXTINF:-1,SPORTSKA TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33447.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33448.ts
+#EXTINF:-1,PINK COMEDY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33459.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33505.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33522.ts
+#EXTINF:-1,COMEDY CENTERAL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33530.ts
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33531.ts
+#EXTINF:-1,EUROSPORT 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts
+#EXTINF:-1,FOX COMEDY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33541.ts
+#EXTINF:-1,HBO HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33542.ts
+#EXTINF:-1,HBO 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33543.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33544.ts
+#EXTINF:-1,PLAY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33545.ts
+#EXTINF:-1,TVP SPORT HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33556.ts
+#EXTINF:-1,DISCOVERY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33565.ts
+#EXTINF:-1,HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33570.ts
+#EXTINF:-1,ANIMAL PLANET HD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33579.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33582.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33591.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33592.ts
+#EXTINF:-1,EUROSPORT 1HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33593.ts
+#EXTINF:-1,HISTORY HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33599.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33623.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33662.ts
+#EXTINF:-1,DISNEY XD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33665.ts
+#EXTINF:-1,FOX HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33674.ts
+#EXTINF:-1,MTV DANCE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33684.ts
+#EXTINF:-1,PLANETE  HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33689.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33713.ts
+#EXTINF:-1,SPORT TV 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33725.ts
+#EXTINF:-1,ZEE BOLLYWOOD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34030.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34091.ts
+#EXTINF:-1,ZEE BOLLYWOOD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34096.ts
+#EXTINF:-1,TEN SPORTS HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34107.ts
+#EXTINF:-1,SUN MUSIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34119.ts
+#EXTINF:-1,TRAVEL XP HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34200.ts
+#EXTINF:-1,GEM BOLLYWOOD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34346.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34412.ts
+#EXTINF:-1,HBO 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34464.ts
+#EXTINF:-1,WIN SPORT HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34512.ts
+#EXTINF:-1,OMEGA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34543.ts
+#EXTINF:-1,EXTRA CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34564.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34566.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34567.ts
+#EXTINF:-1,ASTRA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34582.ts
+#EXTINF:-1,M4 SPORT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34633.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34647.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34667.ts
+#EXTINF:-1,HBO 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34676.ts
+#EXTINF:-1,MEGAMAX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34688.ts
+#EXTINF:-1,MEGA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35205.ts
+#EXTINF:-1,VIASAT HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35264.ts
+#EXTINF:-1,NASH FUTBOL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35343.ts
+#EXTINF:-1,SONY SCI-FI
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35350.ts
+#EXTINF:-1,HBO 3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35453.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35478.ts
+#EXTINF:-1,ACTION PLUS HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35481.ts
+#EXTINF:-1,BTV COMEDY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35489.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35500.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55671.ts
+#EXTINF:-1,FOX SPORTS 506 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55688.ts
+#EXTINF:-1,CNN HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55691.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55696.ts
+#EXTINF:-1,BLOOMBERG EUROPE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55699.ts
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55710.ts
+#EXTINF:-1,BLOOMBERG TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55714.ts
+#EXTINF:-1,HISTORY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55748.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55752.ts
+#EXTINF:-1,STARZ CINEMA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55761.ts
+#EXTINF:-1,SHOWTIME HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55763.ts
+#EXTINF:-1,SHOWTIME 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55764.ts
+#EXTINF:-1,HBO COMEDY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55770.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55777.ts
+#EXTINF:-1,DISNEY XD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55788.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55803.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts
+#EXTINF:-1,DISNEY JR HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55832.ts
+#EXTINF:-1,STAR CINEMA 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55860.ts
+#EXTINF:-1,STAR CINEMA 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55861.ts
+#EXTINF:-1,AD SPORTS 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55868.ts
+#EXTINF:-1,ART CINEMA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56007.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56021.ts
+#EXTINF:-1,DMC SPORTS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56030.ts
+#EXTINF:-1,MBC BOLLYWOOD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56126.ts
+#EXTINF:-1,SONY CHNL   1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56358.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56361.ts
+#EXTINF:-1,SKY SPORTS GOLF
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56362.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56376.ts
+#EXTINF:-1,NICK JR  1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56377.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56379.ts
+#EXTINF:-1,FOOD NETWORK  1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56391.ts
+#EXTINF:-1,FOOD NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56392.ts
+#EXTINF:-1,DISCOVERY SCIENCE  1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56401.ts
+#EXTINF:-1,COMEDY CENTRAL EXTRA   1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56405.ts
+#EXTINF:-1,CHELSEA FC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56406.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56408.ts
+#EXTINF:-1,SKY SPORTS MIX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56428.ts
+#EXTINF:-1,VIP CARTOON NETWORK HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56431.ts
+#EXTINF:-1,HBO HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56455.ts
+#EXTINF:-1,MTV LIVE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56456.ts
+#EXTINF:-1,SKY SPORTS F1 HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56463.ts
+#EXTINF:-1,HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56481.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56485.ts
+#EXTINF:-1,NATGEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56487.ts
+#EXTINF:-1,SKY SPORT F1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56490.ts
+#EXTINF:-1,SKY SPORT 1 SD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56491.ts
+#EXTINF:-1,FOX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56502.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56505.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56508.ts
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56514.ts
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56515.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56528.ts
+#EXTINF:-1,DISNEY XD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56540.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56543.ts
+#EXTINF:-1,DISCOVERY SHED
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56544.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56545.ts
+#EXTINF:-1,DISCOVERY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56547.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56556.ts
+#EXTINF:-1,MTV ROCKS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56562.ts
+#EXTINF:-1,MTV HITS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56564.ts
+#EXTINF:-1,MTV DANCE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56565.ts
+#EXTINF:-1,CHELSEA TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56568.ts
+#EXTINF:-1,EUROSPORT 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts
+#EXTINF:-1,EURONEWS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56593.ts
+#EXTINF:-1,SKY SPORT ARENA HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56605.ts
+#EXTINF:-1,5 SPIKE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56620.ts
+#EXTINF:-1,SKY SPORT 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56647.ts
+#EXTINF:-1,SKY SPORT 1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56650.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56686.ts
+#EXTINF:-1,CARTOON NETWORK GERMANY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56700.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56702.ts
+#EXTINF:-1,SKY SPORT 2 HD (1080P)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56721.ts
+#EXTINF:-1,SKY SPORT 5 HD (1080P)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56724.ts
+#EXTINF:-1,SKY SPORT 7 HD (1080P)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56726.ts
+#EXTINF:-1,SPORT 1 US
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56733.ts
+#EXTINF:-1,TNT COMEDY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56763.ts
+#EXTINF:-1,NAT GEO WILD HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56797.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC FHD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56798.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56799.ts
+#EXTINF:-1,SKY SPORT 2 HD 1080P
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56816.ts
+#EXTINF:-1,SKY SPORT 2 FHD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56838.ts
+#EXTINF:-1,NICK JR HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56848.ts
+#EXTINF:-1,EURONEWS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56872.ts
+#EXTINF:-1,EUROSPORT2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56942.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56944.ts
+#EXTINF:-1,DISNEY XD HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56946.ts
+#EXTINF:-1,NICKELODEON JUNIOR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56958.ts
+#EXTINF:-1,PLANETE A&E HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56971.ts
+#EXTINF:-1,SPORT 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56987.ts
+#EXTINF:-1,NICKELODEON HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57003.ts
+#EXTINF:-1,EUROSPORT 2 FHD 1080
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57010.ts
+#EXTINF:-1,BFM SPORT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57018.ts
+#EXTINF:-1,SPORT TV 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57080.ts
+#EXTINF:-1,FOX SPORTS 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57083.ts
+#EXTINF:-1,FOX SPORTS 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57084.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57089.ts
+#EXTINF:-1,DISCOVERY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57095.ts
+#EXTINF:-1,FOX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57096.ts
+#EXTINF:-1,HBO
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57097.ts
+#EXTINF:-1,HBO 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57098.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57103.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57109.ts
+#EXTINF:-1,HBO FAMILY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57120.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57128.ts
+#EXTINF:-1,NICK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57129.ts
+#EXTINF:-1,SPORT TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57139.ts
+#EXTINF:-1,SPORT TV2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57140.ts
+#EXTINF:-1,SPORT TV3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57141.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57164.ts
+#EXTINF:-1,MEGAPIX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57168.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57170.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57189.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57200.ts
+#EXTINF:-1,DISNEY XD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57204.ts
+#EXTINF:-1,HBO 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57220.ts
+#EXTINF:-1,MEGAPIX HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57230.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57231.ts
+#EXTINF:-1,SPORT TV 2 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57252.ts
+#EXTINF:-1,SPORT TV HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57254.ts
+#EXTINF:-1,NICKELODEON JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57306.ts
+#EXTINF:-1,HISTORY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57338.ts
+#EXTINF:-1,FOX TV HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57342.ts
+#EXTINF:-1,EUROSPORT HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57349.ts
+#EXTINF:-1,BLOOMBERG SD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57362.ts
+#EXTINF:-1,BLOOMBERG HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57363.ts
+#EXTINF:-1,SPORTS TV HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57408.ts
+#EXTINF:-1,CNN
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57418.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts
+#EXTINF:-1,VIASAT GOLF HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57463.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57493.ts
+#EXTINF:-1,FOX
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57494.ts
+#EXTINF:-1,VIASAT GOLF
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57516.ts
+#EXTINF:-1,VIASAT HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57517.ts
+#EXTINF:-1,VIASAT SPORT PREMIUM
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57522.ts
+#EXTINF:-1,DISNEY XD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57532.ts
+#EXTINF:-1,NAT GEO WILD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57538.ts
+#EXTINF:-1,CARTOON NETWORK
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57542.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57545.ts
+#EXTINF:-1,TNT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57550.ts
+#EXTINF:-1,VIASAT SPORT PREMIUM HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57556.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57559.ts
+#EXTINF:-1,BOOMERANG
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57562.ts
+#EXTINF:-1,EUROSPORT 2 FHD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57569.ts
+#EXTINF:-1,VIASAT FOTBOLL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57571.ts
+#EXTINF:-1,VIASAT FOTBOLL HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57572.ts
+#EXTINF:-1,VIASAT HOCKEY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57574.ts
+#EXTINF:-1,SPORT TV 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57575.ts
+#EXTINF:-1,VIVA
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57617.ts
+#EXTINF:-1,NAT GEO WILD  HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57633.ts
+#EXTINF:-1,SCIENCES & VIE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57648.ts
+#EXTINF:-1,C MORE SPORT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57854.ts
+#EXTINF:-1,TNT HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57875.ts
+#EXTINF:-1,INTER CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57928.ts
+#EXTINF:-1,SKY SPORT3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57936.ts
+#EXTINF:-1,NATIONALGEO AD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58020.ts
+#EXTINF:-1,DELUXE MUSIC HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58056.ts
+#EXTINF:-1,SPORT 1  HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58062.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58086.ts
+#EXTINF:-1,NICK JR
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58095.ts
+#EXTINF:-1,OMEGA TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58123.ts
+#EXTINF:-1,EURONEWS
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58131.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58152.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58155.ts
+#EXTINF:-1,VIASAT SPORT HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts
+#EXTINF:-1,EUROSPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58172.ts
+#EXTINF:-1,S SPORT HD(1)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58189.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58226.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58234.ts
+#EXTINF:-1,PARAMOUNT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58371.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58381.ts
+#EXTINF:-1,FOX HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58387.ts
+#EXTINF:-1,TV3 SPORT 2
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58422.ts
+#EXTINF:-1,VIASAT HOCKEY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58428.ts
+#EXTINF:-1,DISNEY XD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58430.ts
+#EXTINF:-1,VIASAT NATURE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58432.ts
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58541.ts
+#EXTINF:-1,SONY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58544.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD GERMANY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58602.ts
+#EXTINF:-1,HISTORY HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58701.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts
+#EXTINF:-1,SPORT TV 3 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58720.ts
+#EXTINF:-1,AL K SPORT4
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58738.ts
+#EXTINF:-1,FOX SPORT 3
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58746.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58774.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC(1)
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58785.ts
+#EXTINF:-1,TRAVEL TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58798.ts
+#EXTINF:-1,DISCOVERY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58825.ts
+#EXTINF:-1,NICKELODEON
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58828.ts
+#EXTINF:-1,TV1000 PREMIUM HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58964.ts
+#EXTINF:-1,ANIMAL PLANET
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58974.ts
+#EXTINF:-1,SETANTA SPORTS 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59015.ts
+#EXTINF:-1,EUROSPORT 1
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59016.ts
+#EXTINF:-1,HBO HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59020.ts
+#EXTINF:-1,MTV LIVE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59034.ts
+#EXTINF:-1,DISCOVERY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59121.ts
+#EXTINF:-1,M1 HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59128.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59156.ts
+#EXTINF:-1,PRIMA TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59183.ts
+#EXTINF:-1,VIASAT HISTORY
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59196.ts
+#EXTINF:-1,VIASAT NATURE
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59208.ts
+#EXTINF:-1,TV4 SPORT
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59335.ts
+#EXTINF:-1,DUCK TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59429.ts
+#EXTINF:-1,EVROKOM
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59430.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59431.ts
+#EXTINF:-1,FOX HD
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59432.ts
+#EXTINF:-1,PLANETA FOLK TV
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59440.ts
+#EXTINF:-1,TV1000
+http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59444.ts
+#EXTINF:-1,CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&amp;live=true&amp;app=com.cnnturk
+#EXTINF:-1,CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
+#EXTINF:-1,EUROSPORT 1
+https://46-166-139-148.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,СЕТАНТА СПОРТ
+https://46-166-139-148.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1,СЕТАНТА СПОРТ УКРАИНА
+https://46-166-139-148.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1,28 KANALA
+https://5940924978228.streamlock.net/8157/8157/.m3u8?fluxustv.m3u8
+#EXTINF:-1,PAT PLUS
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist.m3u8
+#EXTINF:-1,CDM INTERNATIONAL
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w815796812.m3u8
+#EXTINF:-1,LA TR3
+https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,ALL SPORTS TV
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w809987188.m3u8
+#EXTINF:-1,ALL SPORTS
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
+#EXTINF:-1,EUROSPORT 1
+https://95-213-224-184.livesports24.online/eurosport1ru.m3u8
+#EXTINF:-1,МАТЧ! БОЕЦ
+https://95-213-224-184.livesports24.online/matchboetsru.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+https://95-213-224-184.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+https://95-213-224-184.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1,SPORTSKOOL
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1,AD SPORTS 1
+https://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,СПОРТ
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8
+#EXTINF:-1,NICK JR
+https://cdn2.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1,NICKELODEON
+https://cdn2.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
+#EXTINF:-1,ATR
+https://cdnua01.hls.tv/hls/f656cabfabc76f85eb594e6bf6094df0/3936/stream.m3u8
+#EXTINF:-1,FASHION TV PG16
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist_b4700000.m3u8
+#EXTINF:-1,TRAVEL 4U
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1,ИНТЕР
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,ИНТЕР
+https://edge2.iptv.macc.com.ua/img/inter.m3u8
+#EXTINF:-1,ИНТЕР
+https://edge2.iptv.macc.com.ua/img/inter_2/index.m3u8
+#EXTINF:-1,К1
+https://edge2.iptv.macc.com.ua/life/k1_2/index.m3u8
+#EXTINF:-1,K1
+https://edge2.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1,ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,ИНТЕР
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?version=2
+#EXTINF:-1,НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,SEVER TV KINO HD
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:-1,AD SPORTS 2 HD
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,VIASAT HISTORY
+https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095
+#EXTINF:-1,IBC COMEDY
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+#EXTINF:-1,CNN
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,ТРК РУДАНА HD
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,TET
+https://live-k2301-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,ТЕТ
+https://live-k2301-kbp.1plus1.video/233342/smil:233342/chunklist_b2928000.m3u8
+#EXTINF:-1,ПЛЮСПЛЮС
+https://live-k2301-kbp.1plus1.video/487229/smil:487229.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1PLUS1 INTERNATIONAL
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/playlist.m3u8
+#EXTINF:-1,2+2
+https://live-k2302-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,1+1 INTERNATIONAL
+https://live-k2304-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,УНІАН ТВ
+https://live-k2306-kbp.1plus1.video/288721/smil:288721.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,ТЕТ
+https://live-k2309-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,2+2
+https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8
+#EXTINF:-1,2+2
+https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b700000.m3u8
+#EXTINF:-1,BLOOMBERG TV EUROPE
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1,BLOOMBERG (EN)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
+#EXTINF:-1,BLOOMBERG TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24
+https://nimble01edge01.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24
+https://nimble01edge02.hoster.by/belarus24hd/livehd/chunks.m3u8
+#EXTINF:-1,SKRYPIN UA
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1,SKRYPIN UA
+https://open-cdn.lanet.tv/live/1008.m3u8?key=d69eadf593a8396f8f01905b00ae3cf3
+#EXTINF:-1,НАСТОЯЩЕЕ ВРЕМЯ [FHD]
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8
+#EXTINF:-1,ПЯТНИЦА! [HD]
+https://rtmp.radiogroup.com.ua:8080/live/pt/index.m3u8
+#EXTINF:-1,AMEDIA 2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1,INTERNATIONAL
+https://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1,INTERNATIONAL
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1,SPORTS
+https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
+#EXTINF:-1,SPIKE
+https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830
+#EXTINF:-1,TRAVEL
+https://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4
+#EXTINF:-1,HISTORY
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6
+#EXTINF:-1,COMEDY
+https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
+#EXTINF:-1,COMEDY CENTRAL
+https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
+#EXTINF:-1,NICK
+https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
+#EXTINF:-1,NICK JR.
+https://stitcher.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ccuqage0urlhccbp8kbecjc830
+#EXTINF:-1,COMEDY CENTRAL STAND UP
+https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=kcuqage0urlhccbp8kbecjc830
+#EXTINF:-1,PARAMOUNT MOVIE CHANNEL
+https://stitcher.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pcuqage0urlhccbp8kbecjc830
+#EXTINF:-1,CBS SPORT HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+https://tsargrad-livehls.cdnvideo.ru/tsargrad-publish/streamtr_720p/chunklist.m3u8
+#EXTINF:-1,AD SPORTS 3
+https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ТНТ COMEDY
+https://v3.catcast.me/contentv2/35525/index.m3u8

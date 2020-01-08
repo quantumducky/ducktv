@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1,EUROSPORT 1 HD
+http://151.80.59.206/TV/FLASH-TV/n/mac/479.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://151.80.59.206/TV/FLASH-TV/n/mac/480.m3u8
+#EXTINF:-1,Idman  /Az
+http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
+#EXTINF:-1,NBA TV
+http://185.246.209.109:8080/NBA_TV/tracks-v1a1/index.m3u8
+#EXTINF:-1,OLYMPIC Channel HD
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,SETANTA SPORTS HD /SetSp1
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1,SETANTA SPORTS+ HD /SetSp2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1,SETANTA Sports HD UA
+http://b66dc3b9.kartoshkaka.ru/iptv/SXSTT8UD3QSBQH/272/index.m3u8
+#EXTINF:-1,SETANTA Sports HD ua
+http://6dfbb588.melpakomn.ru/iptv/FW9M3AZBKKLBU6/272/index.m3u
+#EXTINF:-1,Setanta Sports /am
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Setanta Sports+ /am
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1,Setanta Казахстан
+http://109.248.236.41:4433/udp/238.1.1.140
+#EXTINF:-1,Super TENNIS HD
+http://tvport.it-tele.net:8000/04c30af38965b1131a36ad5ceedbd15a
+#EXTINF:-1,UFC  /HD ( тест для Smart Fork Player)
+http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2189.m3u8
+#EXTINF:-1,АСТРАХАНЬ.RU SPORT HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 5 HD
+http://persik.by/stream//7989/414652/10408.m3u8
+#EXTINF:-1,КХЛ
+http://ygk.info/stream/NHZMNCY8QGX5VG/519/index.m3u8
+#EXTINF:-1,КХЛ HD
+http://ygk.info/stream/NHZMNCY8QGX5VG/215/index.m3u8
+#EXTINF:-1,МАТЧ!  HD
+https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1,МАТЧ! HD
+https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8
+#EXTINF:-1,МАТЧ! АРЕНА HD
+http://ygk.info/stream/22E8AWHQEC4LCA/207/index.m3u8
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР  HD  
+http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/220/index.m3u8
+#EXTINF:-1,МАТЧ! ПРЕМЬЕР HD
+http://2ecba0eb.iptvzone.net/iptv/2ZLDABX44EUZ6Z/220/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1 HD
+http://ygk.info/stream/22E8AWHQEC4LCA/222/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2 HD
+http://ygk.info/stream/22E8AWHQEC4LCA/211/index.m3u8
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3 HD
+http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://ygk.info/stream/22E8AWHQEC4LCA/150/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://ygk.info/stream/22E8AWHQEC4LCA/225/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://109.248.236.41:4433/udp/238.1.1.39:1234?codec=mpeg4
+#EXTINF:-1,Матч! Страна
+http://46.19.43.248:9981/stream/channelid/1951989673

@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1,0!2TV
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/o2/o20_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,0!2TV HD
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,1HD
+#EXTGRP:Музыка
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1,AIVA
+#EXTGRP:Музыка
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыка
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,Djing Animation
+#EXTGRP:Музыка
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1,Djing Classic
+#EXTGRP:Музыка
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,Djing DJS HD
+#EXTGRP:Музыка
+https://www.djing.com/tv/k-27838-05.m3u8
+#EXTINF:-1,Djing Electro Rock HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,Djing French touch HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,DJing Hedonist HD
+#EXTGRP:Музыка
+https://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1,Djing Ibiza
+#EXTGRP:Музыка
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Djing Karaoke HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing Summer Vibes HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,Djing TV
+#EXTGRP:Музыка
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1,Djing Underground
+#EXTGRP:Музыка
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1,DJing Wild EDM HD
+#EXTGRP:Музыка
+http://www.djing.com/tv/session_wild-edm.m3u8
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Музыка
+http://live.planeta-online.tv:1935/public/channel_4/playlist.m3u8
+#EXTINF:-1,HiTV
+#EXTGRP:Музыка
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MCM Top
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1,Musicbox
+#EXTGRP:Музыка
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1,MV TV
+#EXTGRP:Музыка
+http://www.evoiptv.com/hlsmvtv/hlsmvtv.m3u8
+#EXTINF:-1,NRJ Hits TV HD
+#EXTGRP:Музыка
+http://rtmp.one.by:1200
+#EXTINF:-1,OneBY HD
+#EXTGRP:Музыка
+http://rtmp.one.by:1300
+#EXTINF:-1,OneBY RUS
+#EXTGRP:Музыка
+http://rtmp.one.by:2200
+#EXTINF:-1,OneBY RUS HD
+#EXTGRP:Музыка
+http://rtmp.one.by:2300
+#EXTINF:-1,Portal Foxmix TV
+#EXTGRP:Музыка
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,Retro Music TV
+#EXTGRP:Музыка
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,RU.TV
+#EXTGRP:Музыка
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1,Russian MusicBox HD
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1,Song TV Russia
+#EXTGRP:Музыка
+http://songtvru.ru:8060/med/playlist.m3u8
+#EXTINF:-1,TRACE Africa
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africafr/6/prog_index.m3u8
+#EXTINF:-1,TRACE Ayiti
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_ayiti/6/prog_index.m3u8
+#EXTINF:-1,TRACE Kitoko
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1,TRACE Latina
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_latina/6/prog_index.m3u8
+#EXTINF:-1,TRACE Mziki
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1,TRACE Naija
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1,TRACE Toca
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1,TRACE Tropical
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1,TRACE Urban
+#EXTGRP:Музыка
+http://d2ktlibtvvj8vp.cloudfront.net/trace_urbaninter/6/prog_index.m3u8
+#EXTINF:-1,VH1 Classic
+#EXTGRP:Музыка
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+#EXTINF:-1,VIVA Russia
+#EXTGRP:Музыка
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1,ЖАРА
+#EXTGRP:Музыка
+http://dmitry-tv.ru/his/itv_zabava/CH_MUZTV.m3u8
+#EXTINF: -1,Музыка Первого
+#EXTGRP:Музыка
+http://212.112.101.69:8081/stream65/output.m3u8
+#EXTINF:-1,Наше TV
+#EXTGRP:Музыка
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1,Новое Радио HD
+#EXTGRP:Музыка
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1,Страна FM
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,ТНТ Music HD
+#EXTGRP:Музыка
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
