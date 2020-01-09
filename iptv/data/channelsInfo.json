@@ -2,16 +2,16 @@
   "TV3": {
     "name": "TV3",
     "category": "LT",
-    "terms": ["TV3", "TV3 HD"]
+    "terms": ["TV3", "tv3"]
   },
   "LNK": {
     "name": "LNK",
     "category": "LT",
-    "terms": ["LNK", "LNK HD"]
+    "terms": ["LNK"]
   },
   "LRT": {
     "name": "LRT",
     "category": "LT",
-    "terms": ["LRT", "LRT HD"]
+    "terms": ["LRT"]
   }
 }

@@ -7,6 +7,7 @@ const parser = new xml2js.Parser();
 const PLAYLISTS_FOLDER_PATH = './data/playlists/';
 const LOG_FILE_PATH = './data/log.json';
 const CHANNELS_INFO_FILE_PATH = './data/channelsInfo.json';
+const M3U8_PLAYLIST_FILE_PATH = './playlist.m3u8';
 const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
 
@@ -22,6 +23,8 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
+
+  let foundChannels = {}
   for (let channel in channelsToSearch) {
     let foundUrls = [];
     for (let term of channelsToSearch[channel].terms) {
@@ -33,16 +36,11 @@ async function findChannels(allChannels, channelsToSearch) {
     }
 
     const workingUrls = await findWorkingChannels(foundUrls);
-
+    foundChannels[channel] = workingUrls;
     console.log(`Found ${workingUrls.length}/${foundUrls.length} working urls for channel '${channel}'`);
-
-  
-    // let results = '#EXTM3U\n';
-    // workingChannels.forEach(result => {
-    //   results += '#EXTINF:0, ' + result.title.split(',').slice(-1) + '\n';
-    //   results += result.url + '\n';
-    // });
   }
+
+  await generateM3U8Playlist(foundChannels, M3U8_PLAYLIST_FILE_PATH, 3);
 }
 
 async function findWorkingChannels(urls) {
@@ -58,8 +56,17 @@ async function findWorkingChannels(urls) {
   return workingUrls;
 }
 
-async function generateM3U8Playlist(channels) {
+async function generateM3U8Playlist(channels, filePath, limit) {
+  let results = '#EXTM3U\n';
+  for (let channel in channels) {
+    const channelUrls = channels[channel].slice(0, limit);
+    channelUrls.forEach(url => {
+      results += `#EXTINF:0, ${channel}\n${url}\n`;
+    });
+  }
 
+  await writeToFile(results, filePath);
+  console.log('M3U8 playlist was generated.')
 }
 
 async function readLogData(filePath) {
@@ -70,13 +77,15 @@ async function readLogData(filePath) {
 
 async function writeLogData(log, filePath) {
   let json = JSON.stringify(log, null, 2);
-  let fileHandle;
+  await writeToFile(json, filePath);
+}
 
+async function writeToFile(data, filePath) {
+  let fileHandle;
   try {
-    fileHandle = await fs.writeFile(filePath, json);
-    console.log(`Changes were written to the log.`);
+    fileHandle = await fs.writeFile(filePath, data);
   } catch (err) {
-    console.log(`Error updating log file.`);
+    console.log(`Error writing to file.`);
   } finally {
     if (fileHandle !== undefined) {
       fileHandle.close();
