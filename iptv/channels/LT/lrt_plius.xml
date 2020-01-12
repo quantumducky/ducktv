@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
           <channel>
-            <title><![CDATA[LRT Plius]]></title>
+            <title><![CDATA[LRT Plius (1)]]></title>
             <stream_url><![CDATA[http://212.12.194.10/kultura/live.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[LRT Plius]]></title>
+            <title><![CDATA[LRT Plius (2)]]></title>
             <stream_url><![CDATA[http://78.31.227.252:8080/LRTKultura/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[LRT Plius]]></title>
+            <title><![CDATA[LRT Plius (3)]]></title>
             <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[LRT Plius]]></title>
+            <title><![CDATA[LRT Plius (4)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/107/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

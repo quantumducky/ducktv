@@ -1,36 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lrt.png]]></logo_30x30>
           <title><![CDATA[LRT]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lrt.png]]></logo_30x30>
           <title><![CDATA[LRT HD]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_hd.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lrt_plius.png]]></logo_30x30>
           <title><![CDATA[LRT Plius]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_plius.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lrt_plius.png]]></logo_30x30>
           <title><![CDATA[LRT Plius HD]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_plius_hd.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lrt_lituanica.png]]></logo_30x30>
           <title><![CDATA[LRT Lituanica]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_lituanica.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv3.png]]></logo_30x30>
           <title><![CDATA[TV3]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/tv3.xml]]></playlist_url>
         </channel>
       
         <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/lnk.png]]></logo_30x30>
           <title><![CDATA[LNK]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lnk.xml]]></playlist_url>
         </channel>

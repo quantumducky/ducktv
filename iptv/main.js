@@ -17,15 +17,15 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   // await fetchPlaylists();
 
-  // const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
-  // const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
-  // const foundChannels = await findChannels(channels, channelsToSearch);
+  const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
+  const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
+  const foundChannels = await findChannels(channels, channelsToSearch);
 
-  const foundChannel = await readLogData('./foundChannels.json');
+  // const foundChannels = await readLogData('./foundChannels.json');
 
-  // writeLogData(foundChannels, './foundChannels.json');
+  writeLogData(foundChannels, './foundChannels.json');
 
-  await generateXMLPlaylist(foundChannel);
+  await generateXMLPlaylist(foundChannels);
 
   
 })();
@@ -47,10 +47,11 @@ async function generateXMLPlaylist(channels) {
     let categoryXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
     for (let channel of channels[category]) {
       let channelXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+      let index = 1;
       for (let url of channel.urls) {
         channelXml += `
           <channel>
-            <title><![CDATA[${channel.name}]]></title>
+            <title><![CDATA[${channel.name} (${index++})]]></title>
             <stream_url><![CDATA[${url}]]></stream_url>
           </channel>
         `;
@@ -60,6 +61,7 @@ async function generateXMLPlaylist(channels) {
 
       categoryXml += `
         <channel>
+          <logo_30x30><![CDATA[${GITHUB_BASE_URL}/iptv/data/logos/${channel.logo}]]></logo_30x30>
           <title><![CDATA[${channel.name}]]></title>
           <playlist_url><![CDATA[${GITHUB_BASE_URL}/iptv/channels/${category}/${channel.id}.xml]]></playlist_url>
         </channel>

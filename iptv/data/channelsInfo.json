@@ -3,39 +3,46 @@
     {
       "id": "lrt",
       "name": "LRT",
+      "logo": "lrt.png",
       "terms": ["LRT", "LRT televizija", "LRT Televizija (LT)"]
     },
     {
       "id": "lrt_hd",
       "name": "LRT HD",
+      "logo": "lrt.png",
       "terms": ["LRT HD", "LRT TELEVIZIJA HD"]
     },
 
     {
       "id": "lrt_plius",
       "name": "LRT Plius",
+      "logo": "lrt_plius.png",
       "terms": ["LRT Plius", "LRT PLIUS", "LRT KULTŪRA"]
     },
     {
       "id": "lrt_plius_hd",
       "name": "LRT Plius HD",
+      "logo": "lrt_plius.png",
       "terms": ["LRT Plius HD"]
     },
 
     {
       "id": "lrt_lituanica",
       "name": "LRT Lituanica",
+      "logo": "lrt_lituanica.png",
       "terms": ["LRT Lithuania", "LRT_Lithuania", "LRT Lithuanica", "LRT Lituanica"]
     },
 
     {
       "id": "tv3",
       "name": "TV3",
+      "logo": "tv3.png",
       "terms": ["TV3", "tv3", "TV3 LT SD", "TV3 Lietuva", "TV3 LT"]
     },
     {
       "id": "lnk",
       "name": "LNK",
+      "logo": "lnk.png",
       "terms": ["LNK", "lnk", "LNK LT"]
     }
   ],
