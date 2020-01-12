@@ -22,12 +22,12 @@
         
           <channel>
             <title><![CDATA[LNK (5)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[LNK (6)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>

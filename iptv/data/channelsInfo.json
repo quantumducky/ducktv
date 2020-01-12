@@ -155,22 +155,33 @@
     {
       "id": "3_film",
       "name": "3 Film",
-      "terms": ["TV1000 Premium"]
+      "logo": "3_film.png",
+      "terms": ["TV1000 Premium", "TV3 Film (TV1000 Premium)", "TV 3 Film"]
     },
     {
       "id": "3_film_hd",
       "name": "3 Film HD",
-      "terms": ["TV1000 Premium HD"]
+      "logo": "3_film.png",
+      "terms": ["TV1000 Premium HD", "TV1000 Premium HD (720)", "TV3 Film HD (TV1000 Premium HD)", "TV 3 Film HD"]
     },
+
     {
       "id": "balticum",
       "name": "Balticum TV",
+      "logo": "balticum.png",
       "terms": ["Balticum TV"]
     },
     {
       "id": "balticum_auksinis",
       "name": "Balticum Auksinis",
-      "terms": ["Balticum Auksinis"]
+      "logo": "balticum_auksinis.png",
+      "terms": ["Balticum Auksinis", "Auksinis Balticum", "balticum_auksinis"]
+    },
+    {
+      "id": "balticum_platinum_hd",
+      "name": "Balticum Platinum HD",
+      "logo": "balticum_platinum.png",
+      "terms": ["Balticum Platinum HD", "balticumplatinumhd HD", "Balticum Platinum"]
     }
   ]
 }

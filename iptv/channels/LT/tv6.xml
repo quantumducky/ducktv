@@ -7,27 +7,27 @@
         
           <channel>
             <title><![CDATA[TV6 (2)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV6 (3)]]></title>
             <stream_url><![CDATA[http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV6 (4)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
+            <title><![CDATA[TV6 (3)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV6 (5)]]></title>
+            <title><![CDATA[TV6 (4)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV6 (6)]]></title>
+            <title><![CDATA[TV6 (5)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 (6)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -37,12 +37,12 @@
         
           <channel>
             <title><![CDATA[TV6 (8)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0416/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0421/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV6 (9)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0421/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0416/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
           </channel>
         
           <channel>

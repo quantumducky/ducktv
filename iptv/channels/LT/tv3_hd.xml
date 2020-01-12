@@ -27,7 +27,7 @@
         
           <channel>
             <title><![CDATA[TV3 HD (6)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -37,7 +37,7 @@
         
           <channel>
             <title><![CDATA[TV3 HD (8)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>

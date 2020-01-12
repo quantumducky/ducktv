@@ -35,4 +35,9 @@
             <stream_url><![CDATA[http://78.31.227.252:8080/tv1000premium/mono.m3u8]]></stream_url>
           </channel>
         
+          <channel>
+            <title><![CDATA[3 Film (8)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/103/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
 </items>

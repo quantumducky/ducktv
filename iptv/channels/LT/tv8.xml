@@ -17,12 +17,12 @@
         
           <channel>
             <title><![CDATA[TV8 (4)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/TV8/mono.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV8 (5)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,7 +32,7 @@
         
           <channel>
             <title><![CDATA[TV8 (7)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.31.227.252:8080/TV8/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>

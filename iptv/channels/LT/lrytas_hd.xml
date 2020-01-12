@@ -7,12 +7,12 @@
         
           <channel>
             <title><![CDATA[LRytas TV HD (2)]]></title>
-            <stream_url><![CDATA[http://88.216.48.147/flussonic/Lietuvos_rytas_HD/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/Lietuvos_rytas_HD/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[LRytas TV HD (3)]]></title>
-            <stream_url><![CDATA[http://88.216.48.147/flussonic/Lietuvos_rytas_HD/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/Lietuvos_rytas_HD/video.m3u8]]></stream_url>
           </channel>
         
           <channel>

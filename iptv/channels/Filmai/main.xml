@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/undefined]]></logo_30x30>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/3_film.png]]></logo_30x30>
           <title><![CDATA[3 Film]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film.xml]]></playlist_url>
         </channel>
       
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/undefined]]></logo_30x30>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/3_film.png]]></logo_30x30>
           <title><![CDATA[3 Film HD]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film_hd.xml]]></playlist_url>
         </channel>
       
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/undefined]]></logo_30x30>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/balticum.png]]></logo_30x30>
           <title><![CDATA[Balticum TV]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum.xml]]></playlist_url>
         </channel>
       
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/undefined]]></logo_30x30>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/balticum_auksinis.png]]></logo_30x30>
           <title><![CDATA[Balticum Auksinis]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum_auksinis.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/balticum_platinum.png]]></logo_30x30>
+          <title><![CDATA[Balticum Platinum HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum_platinum_hd.xml]]></playlist_url>
         </channel>
       
 </items>
