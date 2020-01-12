@@ -45,3 +45,11 @@ http://nl3.cdnlast.com/s/f14c1777db7987f86be2d359bce65ff8/hd_30/Joker.2019.D.LIN
 http://am1.cdnlast.com/s/8a922923d0e7b87c17b94cbd53370384/uhd/El.Camino.A.Breaking.Bad.Movie.2019.WEB-DL.2160p.x264.8bit.SDR_480.mp4
 
 sanity.io
+
+,
+    {
+      "id": "",
+      "name": "",
+      "logo": ".png",
+      "terms": [""]
+    }

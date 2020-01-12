@@ -25,7 +25,7 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   writeLogData(foundChannels, './foundChannels.json');
 
-  await generateXMLPlaylist(foundChannels);
+  // await generateXMLPlaylist(foundChannels);
 
   
 })();
@@ -101,10 +101,14 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  // const ignoreCategories = ["LT"];
+  const ignoreCategories = ["LT", "Filmai"];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {
+    if (ignoreCategories.includes(category)) {
+      console.log(`Skipping category '${category}'`);
+      continue;
+    }
     foundChannels[category] = [];
     for (let channel of channelsToSearch[category]) {
       let foundUrls = [];
@@ -118,6 +122,7 @@ async function findChannels(allChannels, channelsToSearch) {
         }
       }
   
+      console.log(`Checking for working urls of '${channel.name}' (${foundUrls.length} to check)`);
       const workingUrls = await findWorkingChannels(foundUrls);
       let foundChannel = {...channel};
       foundChannel.urls = workingUrls;
@@ -132,10 +137,13 @@ async function findChannels(allChannels, channelsToSearch) {
 
 async function findWorkingChannels(urls) {
   let workingUrls = [];
-
-  await Promise.all(urls.map(async url => {
+  let index = 1;
+  await Promise.all(urls.slice(0,20).map(async url => {
     try {
+      //https://davidwalsh.name/fetch-timeout
+      // console.log(index++ + ': ' + url);
       let res = await fetch(url);
+      // console.log('res -> ' + res);
       if (res.ok) workingUrls.push(url);
     } catch (err) {}
   }));

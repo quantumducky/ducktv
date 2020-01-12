@@ -153,15 +153,15 @@
   ],
   "Filmai": [
     {
-      "id": "3_film",
-      "name": "3 Film",
-      "logo": "3_film.png",
+      "id": "tv3_film",
+      "name": "TV3 Film",
+      "logo": "tv3_film.png",
       "terms": ["TV1000 Premium", "TV3 Film (TV1000 Premium)", "TV 3 Film"]
     },
     {
-      "id": "3_film_hd",
-      "name": "3 Film HD",
-      "logo": "3_film.png",
+      "id": "tv3_film_hd",
+      "name": "TV3 Film HD",
+      "logo": "tv3_film.png",
       "terms": ["TV1000 Premium HD", "TV1000 Premium HD (720)", "TV3 Film HD (TV1000 Premium HD)", "TV 3 Film HD"]
     },
 
@@ -182,6 +182,149 @@
       "name": "Balticum Platinum HD",
       "logo": "balticum_platinum.png",
       "terms": ["Balticum Platinum HD", "balticumplatinumhd HD", "Balticum Platinum"]
+    },
+
+    {
+      "id": "tv1000",
+      "name": "TV1000",
+      "logo": "tv1000.png",
+      "terms": ["TV1000", "tv1000"]
+    },
+    {
+      "id": "tv1000_hd",
+      "name": "TV1000 HD",
+      "logo": "tv1000.png",
+      "terms": ["TV1000 HD", "TV1000 HD (720)"]
+    },
+
+    {
+      "id": "tv1000_action",
+      "name": "TV1000 Action",
+      "logo": "tv1000_action.png",
+      "terms": ["TV1000 Action", "a_TV1000 Action", "TV1000 ACTION", "tv1000action"]
+    },
+    {
+      "id": "tv1000_action_hd",
+      "name": "TV1000 Action HD",
+      "logo": "tv1000_action.png",
+      "terms": ["TV1000 Action HD", "TV1000 ACTION [FHD]", "TV1000 ACTION HD"]
+    },
+
+    {
+      "id": "vip_comedy",
+      "name": "VIP Comedy",
+      "logo": "vip_comedy.png",
+      "terms": ["VIP COMEDY", "ViP Comedy", "Vip Comedy"]
+    },
+    {
+      "id": "vip_comedy_hd",
+      "name": "VIP Comedy HD",
+      "logo": "vip_comedy.png",
+      "terms": ["VIP Comedy HD", "ViP Comedy HD", "VIP COMEDY [FHD]", "ViP Comedy HD PREMIUM+", "ViP COMEDY HD"]
+    },
+
+    {
+      "id": "vip_megahit",
+      "name": "VIP Megahit",
+      "logo": "vip_megahit.png",
+      "terms": ["ViP Megahit", "VIP Megahit", "VIP MEGAHIT"]
+    },
+    {
+      "id": "vip_megahit_hd",
+      "name": "VIP Megahit HD",
+      "logo": "vip_megahit.png",
+      "terms": ["VIP Megahit HD", "ViP Megahit HD", "ViP Megahit HD PREMIUM+", "ViP MEGAHIT HD"]
+    },
+
+    {
+      "id": "vip_premiere",
+      "name": "VIP Premiere",
+      "logo": "vip_premiere.png",
+      "terms": ["ViP Premiere", "VIP Premiere", "VIP PREMIERE", "Vip Premiere"]
+    },
+    {
+      "id": "vip_premiere_hd",
+      "name": "VIP Premiere HD",
+      "logo": "vip_premiere.png",
+      "terms": ["ViP Premiere HD", "VIP Premiere HD", "ViP Premiere HD PREMIUM+", "ViP PREMIERE HD"]
+    }
+  ],
+  "Sportas": [
+    {
+      "id": "tv3_sport",
+      "name": "TV3 Sport",
+      "logo": "tv3_sport.png",
+      "terms": ["TVPlay Sport", "TVPlay Sports", "TV3 Sport (TVPlay Sports)", "TV3 SPORT 1", "TV 3 SPORT 1"]
+    },
+    {
+      "id": "tv3_sport_hd",
+      "name": "TV3 Sport HD",
+      "logo": "tv3_sport.png",
+      "terms": ["TVPlay Sports HD", "TV3 Sport HD (TVPlay Sports HD)"]
+    },
+    {
+      "id": "tv3_sport_2",
+      "name": "TV3 Sport 2 HD",
+      "logo": "tv3_sport_2.png",
+      "terms": ["TV3 SPORT 2", "TV 3 SPORT 2", "TVPlay Sports+ HD", "TVPlay Sports + HD", "TVPlay Sports Plus HD", "TV3 Sport 2 HD (TVPlay Sports +)"]
+    },
+
+    {
+      "id": "viasat_sport",
+      "name": "Viasat Sport",
+      "logo": "viasat_sport.png",
+      "terms": ["Viasat Sport", "VIASAT SPORT"]
+    },
+    {
+      "id": "viasat_sport_hd",
+      "name": "Viasat Sport HD",
+      "logo": "viasat_sport.png",
+      "terms": ["Viasat Sport HD", "Viasat Sport HD Premium", "VIASAT SPORT HD"]
+    },
+
+    {
+      "id": "eurosport_1",
+      "name": "Eurosport 1",
+      "logo": "eurosport_1.png",
+      "terms": ["Eurosport 1", "EUROSPORT 1"]
+    },
+    {
+      "id": "eurosport_1_hd",
+      "name": "Eurosport 1 HD",
+      "logo": "eurosport_1.png",
+      "terms": ["EUROSPORT 1 HD", "Eurosport 1 HD", "EUROSPORT 1 FULL HD", "EUROSPORT 1 FHD 1080"]
+    },
+
+    {
+      "id": "eurosport_2",
+      "name": "Eurosport 2",
+      "logo": "eurosport_2.png",
+      "terms": ["Eurosport 2", "EUROSPORT 2"]
+    },
+    {
+      "id": "eurosport_2_hd",
+      "name": "Eurosport 2 HD",
+      "logo": "eurosport_2.png",
+      "terms": ["Eurosport 2 HD", "EUROSPORT 2 HD", "Eurosport 2 HD (720)", "Eurosport 2 [HD]"]
+    },
+
+    {
+      "id": "match_arena",
+      "name": "Матч! Арена",
+      "logo": "match_arena.png",
+      "terms": ["Матч! Арена"]
+    },
+    {
+      "id": "match_igra",
+      "name": "Матч! Игра",
+      "logo": "match_igra.png",
+      "terms": ["Матч! Игра"]
+    },
+    {
+      "id": "match",
+      "name": "Матч!",
+      "logo": "match.png",
+      "terms": ["Матч ТВ", "Матч!"]
     }
   ]
 }
