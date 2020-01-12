@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[BTV HD (1)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/btvhd/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[BTV HD (2)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/256/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

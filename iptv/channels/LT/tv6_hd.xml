@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[TV6 HD (1)]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/TV6_HD/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 HD (2)]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/TV6_HD/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 HD (3)]]></title>
+            <stream_url><![CDATA[http://84.32.72.60:8080/tv6hd/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 HD (4)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/tv6hd/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 HD (5)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/179/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

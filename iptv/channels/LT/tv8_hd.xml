@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[TV8 HD (1)]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/TV8_HD/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV8 HD (2)]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/TV8_HD/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV8 HD (3)]]></title>
+            <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV8 HD (4)]]></title>
+            <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1]]></stream_url>
+          </channel>
+        
+</items>

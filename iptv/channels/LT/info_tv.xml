@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Info TV (1)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/InfoTV/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Info TV (2)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/InfoTV/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Info TV (3)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/79/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

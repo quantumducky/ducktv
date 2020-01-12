@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[LNK HD (1)]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/LNK_HD/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LNK HD (2)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/lnkhd/mono.m3u8]]></stream_url>
+          </channel>
+        
+</items>

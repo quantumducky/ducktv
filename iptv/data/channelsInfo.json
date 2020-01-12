@@ -37,13 +37,118 @@
       "id": "tv3",
       "name": "TV3",
       "logo": "tv3.png",
-      "terms": ["TV3", "tv3", "TV3 LT SD", "TV3 Lietuva", "TV3 LT"]
+      "terms": ["TV3", "TV3 LT HD", "TV3_LT_HD"]
     },
+    {
+      "id": "tv3_hd",
+      "name": "TV3 HD",
+      "logo": "tv3.png",
+      "terms": ["TV3 HD", "tv3", "TV3 LT SD", "TV3 Lietuva", "TV3 LT"]
+    },
+
     {
       "id": "lnk",
       "name": "LNK",
       "logo": "lnk.png",
       "terms": ["LNK", "lnk", "LNK LT"]
+    },
+    {
+      "id": "lnk_hd",
+      "name": "LNK HD",
+      "logo": "lnk.png",
+      "terms": ["LNK HD"]
+    },
+
+    {
+      "id": "btv",
+      "name": "BTV",
+      "logo": "btv.png",
+      "terms": ["BTV"]
+    },
+    {
+      "id": "btv_hd",
+      "name": "BTV HD",
+      "logo": "btv.png",
+      "terms": ["BTV HD"]
+    },
+
+    {
+      "id": "tv6",
+      "name": "TV6",
+      "logo": "tv6.png",
+      "terms": ["TV6 Lietuva", "TV6", "TV6 LT", "tv6", "TV6 (LT)"]
+    },
+    {
+      "id": "tv6_hd",
+      "name": "TV6 HD",
+      "logo": "tv6.png",
+      "terms": ["TV6 HD", "tv6hd HD"]
+    },
+
+    {
+      "id": "lrytas",
+      "name": "LRytas TV",
+      "logo": "lrytas.png",
+      "terms": ["lietuvos_ryto_tv", "Lietuvos rytas TV"]
+    },
+    {
+      "id": "lrytas_hd",
+      "name": "LRytas TV HD",
+      "logo": "lrytas.png",
+      "terms": ["Lietuvos_rytas HD", "Lrytas TV HD", "LRytas HD"]
+    },
+
+    {
+      "id": "tv1",
+      "name": "TV1",
+      "logo": "tv1.png",
+      "terms": ["TV1", "tv1", "TV1 (LT)"]
+    },
+    {
+      "id": "tv1_hd",
+      "name": "TV1 HD",
+      "logo": "tv1.png",
+      "terms": ["TV1 HD"]
+    },
+
+    {
+      "id": "tv8",
+      "name": "TV8",
+      "logo": "tv8.png",
+      "terms": ["TV8 Lietuva", "TV8", "tv8", "TV8 LT"]
+    },
+    {
+      "id": "tv8_hd",
+      "name": "TV8 HD",
+      "logo": "tv8.png",
+      "terms": ["TV8 HD"]
+    },
+
+    {
+      "id": "info_tv",
+      "name": "Info TV",
+      "logo": "info_tv.png",
+      "terms": ["Info TV", "INFO TV", "InfoTV"]
+    },
+    {
+      "id": "info_tv_hd",
+      "name": "Info TV HD",
+      "logo": "info_tv.png",
+      "terms": ["Info TV HD", "InfoTV HD"]
+    },
+
+    {
+      "id": "tavo_tv",
+      "name": "Tavo TV HD",
+      "logo": "tavo_tv.png",
+      "terms": ["TavoTV HD", "TAVOTV HD"]
+    },
+
+    {
+      "id": "init_tv",
+      "name": "Init TV",
+      "logo": "init_tv.png",
+      "terms": ["Init TV HD", "Init", "Init TV", "INIT TV HD"]
     }
   ],
   "Filmai": [

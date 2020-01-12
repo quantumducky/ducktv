@@ -10,4 +10,14 @@
             <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
+          <channel>
+            <title><![CDATA[3 Film HD (3)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0503/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[3 Film HD (4)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0367/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
 </items>

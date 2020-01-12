@@ -11,12 +11,12 @@
       ],
       "urls": [
         "http://212.12.194.10/lrt/live.m3u8",
-        "http://213.252.252.17/live/eds/LRT/HLS_encr/LRT.m3u8",
         "http://213.252.252.17/live/eds/LRT/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8",
-        "http://88.119.220.3/live/eds/LRT/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8",
+        "http://213.252.252.17/live/eds/LRT/HLS_encr/LRT.m3u8",
         "http://78.31.227.252:8080/LRT/mono.m3u8",
+        "http://88.119.220.3/live/eds/LRT/HLS_encr/index.m3u8",
+        "http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8",
         "http://iptvnelt.com/kanalas/106/hls/4WT1bzMG/?type=m3u8"
       ]
     },
@@ -32,7 +32,8 @@
         "http://212.12.194.10/lrthd/live.m3u8",
         "http://88.216.48.147/flussonic/LRT_Televizija_HD/video.m3u8",
         "http://78.31.227.252:8080/lrthd/mono.m3u8",
-        "http://iptvnelt.com/kanalas/110/hls/4WT1bzMG/?type=m3u8"
+        "http://iptvnelt.com/kanalas/110/hls/4WT1bzMG/?type=m3u8",
+        "http://server1.life-tv.eu/ch0379/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
       ]
     },
     {
@@ -74,11 +75,11 @@
         "LRT Lituanica"
       ],
       "urls": [
-        "http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8",
         "http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
+        "http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8",
         "http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
         "http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
         "http://iptvnelt.com/kanalas/159/hls/4WT1bzMG/?type=m3u8"
       ]
     },
@@ -88,20 +89,43 @@
       "logo": "tv3.png",
       "terms": [
         "TV3",
+        "TV3 LT HD",
+        "TV3_LT_HD"
+      ],
+      "urls": [
+        "http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8",
+        "http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
+        "http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8",
+        "http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
+        "http://78.31.227.252:8080/TV3/mono.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
+        "http://server1.life-tv.eu/ch0415/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://iptvnelt.com/kanalas/82/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv3_hd",
+      "name": "TV3 HD",
+      "logo": "tv3.png",
+      "terms": [
+        "TV3 HD",
         "tv3",
         "TV3 LT SD",
         "TV3 Lietuva",
         "TV3 LT"
       ],
       "urls": [
+        "http://88.216.48.147/flussonic/TV3_HD/index.m3u8",
+        "http://88.216.48.147/flussonic/TV3_HD/video.m3u8",
         "http://84.32.72.60:8080/tv3/index.m3u8",
         "http://213.252.252.17/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8",
         "http://213.252.252.17/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
-        "http://78.31.227.252:8080/TV3/mono.m3u8",
         "http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8",
         "http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
         "http://cdn1.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/82/hls/4WT1bzMG/?type=m3u8"
+        "http://78.31.227.252:8080/tv3hd/mono.m3u8",
+        "http://server1.life-tv.eu/ch0418/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://iptvnelt.com/kanalas/132/hls/4WT1bzMG/?type=m3u8"
       ]
     },
     {
@@ -114,14 +138,248 @@
         "LNK LT"
       ],
       "urls": [
-        "http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8",
         "http://84.32.72.60:8080/lnk/index.m3u8",
+        "http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8",
         "http://213.252.252.17/live/eds/LNK/HLS_encr/index.m3u8",
         "http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8",
-        "http://78.31.227.252:8080/lnk/mono.m3u8",
         "http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8",
         "http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8",
+        "http://78.31.227.252:8080/lnk/mono.m3u8",
+        "http://server1.life-tv.eu/ch0378/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
         "http://iptvnelt.com/kanalas/77/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "lnk_hd",
+      "name": "LNK HD",
+      "logo": "lnk.png",
+      "terms": [
+        "LNK HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/LNK_HD/index.m3u8",
+        "http://78.31.227.252:8080/lnkhd/mono.m3u8"
+      ]
+    },
+    {
+      "id": "btv",
+      "name": "BTV",
+      "logo": "btv.png",
+      "terms": [
+        "BTV"
+      ],
+      "urls": [
+        "http://78.31.227.252:8080/BTV/mono.m3u8",
+        "http://77.89.199.174:8000/play/1024/index.m3u8",
+        "http://server1.life-tv.eu/ch0377/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://iptvnelt.com/kanalas/81/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "btv_hd",
+      "name": "BTV HD",
+      "logo": "btv.png",
+      "terms": [
+        "BTV HD"
+      ],
+      "urls": [
+        "http://78.31.227.252:8080/btvhd/mono.m3u8",
+        "http://iptvnelt.com/kanalas/256/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv6",
+      "name": "TV6",
+      "logo": "tv6.png",
+      "terms": [
+        "TV6 Lietuva",
+        "TV6",
+        "TV6 LT",
+        "tv6",
+        "TV6 (LT)"
+      ],
+      "urls": [
+        "http://84.32.72.60:8080/tv6/index.m3u8",
+        "http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8",
+        "http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
+        "http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8",
+        "http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
+        "http://78.31.227.252:8080/TV6/mono.m3u8",
+        "http://server1.life-tv.eu/ch0416/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://server1.life-tv.eu/ch0421/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://iptvnelt.com/kanalas/83/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv6_hd",
+      "name": "TV6 HD",
+      "logo": "tv6.png",
+      "terms": [
+        "TV6 HD",
+        "tv6hd HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/TV6_HD/index.m3u8",
+        "http://88.216.48.147/flussonic/TV6_HD/video.m3u8",
+        "http://84.32.72.60:8080/tv6hd/index.m3u8",
+        "http://78.31.227.252:8080/tv6hd/mono.m3u8",
+        "http://iptvnelt.com/kanalas/179/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "lrytas",
+      "name": "LRytas TV",
+      "logo": "lrytas.png",
+      "terms": [
+        "lietuvos_ryto_tv",
+        "Lietuvos rytas TV"
+      ],
+      "urls": [
+        "http://84.32.72.60:8080/lietuvos_ryto_tv/index.m3u8"
+      ]
+    },
+    {
+      "id": "lrytas_hd",
+      "name": "LRytas TV HD",
+      "logo": "lrytas.png",
+      "terms": [
+        "Lietuvos_rytas HD",
+        "Lrytas TV HD",
+        "LRytas HD"
+      ],
+      "urls": [
+        "http://212.12.194.10/lrytashd/live.m3u8",
+        "http://88.216.48.147/flussonic/Lietuvos_rytas_HD/video.m3u8",
+        "http://88.216.48.147/flussonic/Lietuvos_rytas_HD/index.m3u8",
+        "http://78.31.227.252:8080/lrytashd/mono.m3u8"
+      ]
+    },
+    {
+      "id": "tv1",
+      "name": "TV1",
+      "logo": "tv1.png",
+      "terms": [
+        "TV1",
+        "tv1",
+        "TV1 (LT)"
+      ],
+      "urls": [
+        "http://84.32.72.60:8080/tv1/index.m3u8",
+        "http://212.52.59.86:8776/play/a02d/index.m3u8",
+        "http://78.31.227.252:8080/TV1/mono.m3u8",
+        "http://iptvnelt.com/kanalas/78/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv1_hd",
+      "name": "TV1 HD",
+      "logo": "tv1.png",
+      "terms": [
+        "TV1 HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/TV1_HD/index.m3u8",
+        "http://88.216.48.147/flussonic/TV1_HD/video.m3u8",
+        "http://iptvnelt.com/kanalas/257/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv8",
+      "name": "TV8",
+      "logo": "tv8.png",
+      "terms": [
+        "TV8 Lietuva",
+        "TV8",
+        "tv8",
+        "TV8 LT"
+      ],
+      "urls": [
+        "http://84.32.72.60:8080/tv8/index.m3u8",
+        "http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8",
+        "http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
+        "http://78.31.227.252:8080/TV8/mono.m3u8",
+        "http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8",
+        "http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
+        "http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=1",
+        "http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8",
+        "http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8",
+        "http://server1.life-tv.eu/ch0410/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://server1.life-tv.eu/ch0422/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://iptvnelt.com/kanalas/101/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tv8_hd",
+      "name": "TV8 HD",
+      "logo": "tv8.png",
+      "terms": [
+        "TV8 HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/TV8_HD/index.m3u8",
+        "http://88.216.48.147/flussonic/TV8_HD/video.m3u8",
+        "http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8",
+        "http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1"
+      ]
+    },
+    {
+      "id": "info_tv",
+      "name": "Info TV",
+      "logo": "info_tv.png",
+      "terms": [
+        "Info TV",
+        "INFO TV",
+        "InfoTV"
+      ],
+      "urls": [
+        "http://78.31.227.252:8080/InfoTV/mono.m3u8",
+        "http://cdn1.tvplayhome.lt/live/eds/InfoTV/HLS_encr/index.m3u8",
+        "http://iptvnelt.com/kanalas/79/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "info_tv_hd",
+      "name": "Info TV HD",
+      "logo": "info_tv.png",
+      "terms": [
+        "Info TV HD",
+        "InfoTV HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/InfoTV_HD/index.m3u8",
+        "http://88.216.48.147/flussonic/InfoTV_HD/video.m3u8",
+        "http://iptvnelt.com/kanalas/258/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "tavo_tv",
+      "name": "Tavo TV HD",
+      "logo": "tavo_tv.png",
+      "terms": [
+        "TavoTV HD",
+        "TAVOTV HD"
+      ],
+      "urls": [
+        "http://78.31.227.252:8080/tavotv/mono.m3u8",
+        "http://iptvnelt.com/kanalas/293/hls/4WT1bzMG/?type=m3u8"
+      ]
+    },
+    {
+      "id": "init_tv",
+      "name": "Init TV",
+      "logo": "init_tv.png",
+      "terms": [
+        "Init TV HD",
+        "Init",
+        "Init TV",
+        "INIT TV HD"
+      ],
+      "urls": [
+        "http://88.216.48.147/flussonic/Init_HD/video.m3u8",
+        "http://iptvnelt.com/kanalas/13/hls/4WT1bzMG/?type=m3u8",
+        "http://iptvnelt.com/kanalas/155/hls/4WT1bzMG/?type=m3u8"
       ]
     }
   ],
@@ -138,8 +396,8 @@
         "http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
         "http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8",
         "http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8",
-        "http://78.31.227.252:8080/tv1000premium/mono.m3u8",
-        "http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8"
+        "http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
+        "http://78.31.227.252:8080/tv1000premium/mono.m3u8"
       ]
     },
     {
@@ -150,7 +408,9 @@
       ],
       "urls": [
         "http://88.216.48.147/flussonic/TV1000Pre_HD/video.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8"
+        "http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
+        "http://server1.life-tv.eu/ch0503/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+        "http://server1.life-tv.eu/ch0367/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
       ]
     },
     {
