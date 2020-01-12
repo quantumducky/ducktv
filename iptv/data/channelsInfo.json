@@ -1,17 +1,64 @@
 {
-  "TV3": {
-    "name": "TV3",
-    "category": "LT",
-    "terms": ["TV3", "tv3"]
-  },
-  "LNK": {
-    "name": "LNK",
-    "category": "LT",
-    "terms": ["LNK"]
-  },
-  "LRT": {
-    "name": "LRT",
-    "category": "LT",
-    "terms": ["LRT"]
-  }
+  "LT": [
+    {
+      "id": "lrt",
+      "name": "LRT",
+      "terms": ["LRT", "LRT televizija", "LRT Televizija (LT)"]
+    },
+    {
+      "id": "lrt_hd",
+      "name": "LRT HD",
+      "terms": ["LRT HD", "LRT TELEVIZIJA HD"]
+    },
+
+    {
+      "id": "lrt_plius",
+      "name": "LRT Plius",
+      "terms": ["LRT Plius", "LRT PLIUS", "LRT KULTŪRA"]
+    },
+    {
+      "id": "lrt_plius_hd",
+      "name": "LRT Plius HD",
+      "terms": ["LRT Plius HD"]
+    },
+
+    {
+      "id": "lrt_lituanica",
+      "name": "LRT Lituanica",
+      "terms": ["LRT Lithuania", "LRT_Lithuania", "LRT Lithuanica", "LRT Lituanica"]
+    },
+
+    {
+      "id": "tv3",
+      "name": "TV3",
+      "terms": ["TV3", "tv3", "TV3 LT SD", "TV3 Lietuva", "TV3 LT"]
+    },
+    {
+      "id": "lnk",
+      "name": "LNK",
+      "terms": ["LNK", "lnk", "LNK LT"]
+    }
+  ],
+  "Filmai": [
+    {
+      "id": "3_film",
+      "name": "3 Film",
+      "terms": ["TV1000 Premium"]
+    },
+    {
+      "id": "3_film_hd",
+      "name": "3 Film HD",
+      "terms": ["TV1000 Premium HD"]
+    },
+    {
+      "id": "balticum",
+      "name": "Balticum TV",
+      "terms": ["Balticum TV"]
+    },
+    {
+      "id": "balticum_auksinis",
+      "name": "Balticum Auksinis",
+      "terms": ["Balticum Auksinis"]
+    }
+  ]
 }

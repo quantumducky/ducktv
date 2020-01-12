@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+        <channel>
+          <title><![CDATA[LRT]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[LRT HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[LRT Plius]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_plius.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[LRT Plius HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_plius_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[LRT Lituanica]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lrt_lituanica.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[TV3]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/tv3.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[LNK]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/lnk.xml]]></playlist_url>
+        </channel>
+      
+</items>

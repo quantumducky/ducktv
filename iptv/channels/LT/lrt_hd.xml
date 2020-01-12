@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[LRT HD]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/LRT_Televizija_HD/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT HD]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/lrthd/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT HD]]></title>
+            <stream_url><![CDATA[http://212.12.194.10/lrthd/live.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT HD]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/110/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

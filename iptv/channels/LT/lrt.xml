@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://212.12.194.10/lrt/live.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/LRT/HLS_encr/LRT.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/LRT/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/LRT/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/LRT/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/106/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

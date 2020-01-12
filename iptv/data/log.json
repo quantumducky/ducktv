@@ -191,7 +191,13 @@
     "(30.12.19)Playlist123n_no_save.m3u",
     "(30.12.19)Playlistbjap_no_save.m3u",
     "(29.12.19)AZwqgncrxbyi_no_save.m3u",
-    "(29.12.19)AZuiyawyzbxo_no_save.m3u"
+    "(29.12.19)AZuiyawyzbxo_no_save.m3u",
+    "(11.01.20)Compilationp_no_save.m3u",
+    "(11.01.20)iptvfreefull_no_save.m3u",
+    "(11.01.20)iptvchannels_no_save.m3u",
+    "(11.01.20)MAX-475Play_no_save.m3u",
+    "(10.01.20)MAX-PLAYLIST_no_save.m3u",
+    "(10.01.20)MAX-XXX18ltx_no_save.m3u"
   ],
   "channels": {
     "53": [
@@ -404,7 +410,10 @@
       "http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57418.ts",
       "https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&amp;live=true&amp;app=com.cnnturk",
-      "https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk"
+      "https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56506.ts",
+      "http://df7lqp0btxdx2.cloudfront.net/11227_500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8",
+      "http://cn04.iptv.monster/play/104/2D6E866C992891C/video.m3u8"
     ],
     "Speranta Tv": [
       "http://89.45.201.132:2222/udp/224.0.0.3:133"
@@ -1067,7 +1076,8 @@
       "http://109.248.236.41:4433/udp/238.1.1.41:1234",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/132/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/132/index.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32778.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32778.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/132/index.m3u8"
     ],
     "AXN": [
       "http://89.45.201.132:2222/udp/224.0.0.3:517",
@@ -1090,7 +1100,9 @@
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=71",
       "http://cms.accesss.me:25461/026232135326933/659032010656363/28396",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30978.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57550.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57550.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34444.ts",
+      "http://217.21.34.158:30000/tnt/index.m3u8"
     ],
     "PRO 2": [
       "http://89.45.201.132:2222/udp/224.0.0.3:1111"
@@ -1111,7 +1123,10 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56556.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56702.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57103.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57562.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57562.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55810.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31267.ts",
+      "http://cn04.iptv.monster/play/286/2D6E866C992891C/video.m3u8"
     ],
     "PRO7": [
       "http://89.45.201.132:2222/udp/224.0.0.3:357"
@@ -1128,7 +1143,8 @@
       "http://cms.accesss.me:25461/026232135326933/659032010656363/28425",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56505.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58152.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58381.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58381.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35427.ts"
     ],
     "VH1": [
       "http://89.45.201.132:2222/udp/224.0.0.3:604",
@@ -2198,12 +2214,14 @@
       "http://vp.gcdn.co/streams/95.m3u8",
       "http://rutv.gcdn.co/streams/1410_1272/playlist.m3u8",
       "http://server1.life-tv.eu/ch0091/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8"
+      "http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8",
+      "https://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8"
     ],
     "SUPERTENNIS HD": [
       "http://185.254.189.134:8000/play/a053/index.m3u8?auth=test1457:test1457",
       "http://cooltv.dyndns.tv:8200/udp/239.255.3.150:1234",
-      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsupertennishd&login=taras777&key=uVGrxhs"
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsupertennishd&login=taras777&key=uVGrxhs",
+      "http://178.22.109.14:7000/play/SUPERTENNISIT"
     ],
     "Setanta Sports 1 HD": [
       "http://185.254.189.134:8000/play/a04l/index.m3u8?auth=test1457:test1457"
@@ -2309,7 +2327,10 @@
       "http://flussonic.azfiber.net:80/RU-tv1000/index.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32599.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59444.ts",
-      "http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32776.ts",
+      "http://54.38.180.196/play/82/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/tv1000/mpegts"
     ],
     "TV1000 Action": [
       "http://185.254.189.134:8000/play/a02q/index.m3u8?auth=test1457:test1457",
@@ -3076,7 +3097,8 @@
       "http://109.68.40.67:80/life/k1_1/index.m3u8",
       "http://109.68.41.148:1935/live/k1_3/playlist.m3u8",
       "http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8",
-      "http://lb1.macc.com.ua/life/k1_3/index.m3u8"
+      "http://lb1.macc.com.ua/life/k1_3/index.m3u8",
+      "http://54.38.180.196/play/645/2D6E866C992891C/video.m3u8"
     ],
     "КРТ": [
       "http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4",
@@ -3422,7 +3444,8 @@
       "http://185.93.3.83:5001/play/a039/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya24&login=voryag&key=FRedfr66",
       "https://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8",
-      "http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd",
+      "http://46.32.68.167/s/live/7/51.51.51.51/0/0.m3u8"
     ],
     "Россия К": [
       "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8",
@@ -3457,7 +3480,8 @@
       "http://185.93.3.83:5001/play/a03a/index.m3u8",
       "http://46.32.68.167/s/live/6/92.159.135.243/1548783634259/0.m3u8",
       "http://178.124.183.150/hls/9XJGVFFAWZ_HLS/bw1200000/playlist.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiyaK&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiyaK&login=voryag&key=FRedfr66",
+      "http://46.32.68.167/s/live/16/51.51.51.51/0/0.m3u8"
     ],
     "Россия РТР": [
       "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8",
@@ -3963,7 +3987,8 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2",
       "http://iptvnelt.com/kanalas/189/hls/4WT1bzMG/?type=m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTVC&login=voryag&key=FRedfr66",
-      "http://mfe.cliptv.az/dash/TV_Center_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/TV_Center_SD.ism/playlist.mpd",
+      "http://46.32.68.167/s/live/11/51.51.51.51/0/0.m3u8"
     ],
     "ТВ Центр +2": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8",
@@ -4094,7 +4119,10 @@
       "http://flussonic.azfiber.net:80/RU-sts/index.m3u8",
       "http://sc.id-tv.kz/STS_36_37.m3u8?seg-user-4pda-denms-ru-v1-a1",
       "https://sc.id-tv.kz/STS_34_35.m3u8",
-      "http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd",
+      "http://54.38.180.196/play/8/2D6E866C992891C/video.m3u8",
+      "http://37.235.254.189:81/udp/225.50.66.53:1234",
+      "http://185.46.48.18:8080/sts/mpegts"
     ],
     "СТС +2": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8",
@@ -4672,7 +4700,10 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/936/index.m3u8",
       "http://server1.life-tv.eu/ch0392/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTN&login=voryag&key=FRedfr66",
-      "http://lb1.macc.com.ua/img/ntn_3/index.m3u8"
+      "http://lb1.macc.com.ua/img/ntn_3/index.m3u8",
+      "https://edge2.iptv.macc.com.ua/img/ntn.m3u8",
+      "http://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8",
+      "http://54.38.180.196/play/402/2D6E866C992891C/video.m3u8"
     ],
     "Україна": [
       "http://78.26.128.52:6666",
@@ -5436,7 +5467,8 @@
       "http://46.32.68.167/s/live/418/86.169.51.136/0/0.m3u8",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/725/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/725/index.m3u8",
-      "http://iptvnelt.com/kanalas/115/hls/4WT1bzMG/?type=m3u8"
+      "http://iptvnelt.com/kanalas/115/hls/4WT1bzMG/?type=m3u8",
+      "http://188.43.116.250:8080/bober/index.m3u8"
     ],
     "Совершено секретно": [
       "http://ygk.info/stream/5ZX39WWQSZ8E4A/121/index.m3u8"
@@ -6752,12 +6784,15 @@
       "http://ott-cdn.ucom.am/s97/01.m3u8",
       "http://ott-cdn.ucom.am/s97/04.m3u8",
       "http://ott-cdn.ucom.am/s97/03.m3u8",
-      "http://s03.iptvx.tv:8090/s/6b5228e0/tv1000-comedy-hd.m3u8"
+      "http://s03.iptvx.tv:8090/s/6b5228e0/tv1000-comedy-hd.m3u8",
+      "http://54.38.180.196/play/194/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/203/index.m3u8"
     ],
     "А HBO": [
       "http://ott-cdn.ucom.am/s64/01.m3u8",
       "http://ott-cdn.ucom.am/s64/04.m3u8",
-      "http://ott-cdn.ucom.am/s64/03.m3u8"
+      "http://ott-cdn.ucom.am/s64/03.m3u8",
+      "#EXTVLCOPT:http-user-agent=smartlabs"
     ],
     "А1 (Одесса)": [
       "http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8"
@@ -7076,7 +7111,9 @@
       "http://ott-cdn.ucom.am/s62/04.m3u8",
       "http://ott-cdn.ucom.am/s62/03.m3u8",
       "http://185.78.112.18/ohot_i_rybolov_hd/mono.m3u8",
-      "http://91.204.138.87:8888/udp/224.200.202.120:1234"
+      "http://91.204.138.87:8888/udp/224.200.202.120:1234",
+      "http://54.38.180.196/play/364/2D6E866C992891C/video.m3u8",
+      "http://178.163.58.72:4022/udp/234.0.0.98:2000"
     ],
     "Первый (Кривой Рог)": [
       "http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8"
@@ -7095,7 +7132,8 @@
       "http://ott-cdn.ucom.am/s99/04.m3u8",
       "http://ott-cdn.ucom.am/s99/03.m3u8",
       "http://ott-cdn.ucom.am/s99/01.m3u8",
-      "http://185.93.3.83:5010/play/a00l"
+      "http://185.93.3.83:5010/play/a00l",
+      "http://37.235.254.189:81/udp/225.50.71.3:1234"
     ],
     "Прямий": [
       "http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8",
@@ -7110,7 +7148,10 @@
       "http://109.248.236.41:4433/udp/238.1.1.84:1234",
       "http://46.32.68.167/s/live/16/92.159.135.243/1548783634259/0.m3u8",
       "http://185.78.112.18/Pyatnica/mono.m3u8",
-      "http://95.138.241.16:8000/play/pyatnica"
+      "http://95.138.241.16:8000/play/pyatnica",
+      "http://54.38.180.196/play/9/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/pyatnica/mpegts",
+      "http://178.163.58.72:4022/udp/234.0.0.235:2000"
     ],
     "Рада": [
       "http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=em9uYS1pcHR2LnJ1",
@@ -7242,7 +7283,9 @@
       "http://37.192.131.195:81/udp/239.1.2.16:1234",
       "http://46.32.68.167/s/live/816/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/816/86.169.51.136/2/0.m3u8",
-      "http://46.32.68.167/s/live/816/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/816/86.169.51.136/8/0.m3u8",
+      "http://188.113.190.12/184/index.m3u8",
+      "http://178.163.58.72:4022/udp/234.0.0.181:2000"
     ],
     "Українське радіо: Культура": [
       "http://api.tv.ipnet.ua/api/v1/manifest/2118742387.m3u8?codec=em9uYS1pcHR2LnJ1",
@@ -8474,7 +8517,8 @@
       "http://178.124.183.5/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2",
       "http://185.93.3.83:5001/play/a02a/index.m3u8",
       "http://178.124.183.150/hls/6UTCEG6ATO_HLS/bw1200000/playlist.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDrive75e&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDrive75e&login=voryag&key=FRedfr66",
+      "http://188.43.116.250:8080/drive/index.m3u8"
     ],
     "Кухня ТВ HD": [
       "http://88.216.48.147/flussonic/Kuchnia_TV_HD/index.m3u8",
@@ -8494,7 +8538,8 @@
       "http://188.35.9.10:2011",
       "http://188.35.9.11:21151/udp/168o",
       "http://188.35.9.12:21151/udp/168o",
-      "http://188.35.9.15:2011"
+      "http://188.35.9.15:2011",
+      "http://sn204.iptv.monster/play/271/2D6E866C992891C/video.m3u8"
     ],
     "24 Ала-Тоо": [
       "http://212.112.101.69:8081/stream04/output.m3u8"
@@ -8644,7 +8689,9 @@
       "http://server1.life-tv.eu/ch0389/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/934/index.m3u8",
       "http://cdn.ottg.tv/5886/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://54.36.109.228/10500/index.m3u8"
+      "http://54.36.109.228/10500/index.m3u8",
+      "http://54.38.180.196/play/647/2D6E866C992891C/video.m3u8",
+      "http://217.21.34.158:30000/ICTV/index.m3u8"
     ],
     "Imedi HD (Грузия)": [
       "https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8"
@@ -9008,7 +9055,8 @@
       "http://185.93.3.83:5001/play/a053/index.m3u8",
       "http://185.93.3.83:5001/play/a036/index.m3u8",
       "http://92.43.140.249:80/s92/04.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoo75e&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZoo75e&login=voryag&key=FRedfr66",
+      "http://188.43.116.250:8080/zoo_tv/index.m3u8"
     ],
     "ИКС ТВ (Севастополь)": [
       "https://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/chunklist.m3u8"
@@ -9024,7 +9072,8 @@
       "https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8",
       "https://edge2.iptv.macc.com.ua/img/inter.m3u8",
       "https://edge2.iptv.macc.com.ua/img/inter_2/index.m3u8",
-      "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?version=2"
+      "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?version=2",
+      "http://54.38.180.196/play/404/2D6E866C992891C/video.m3u8"
     ],
     "Интер": [
       "https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8",
@@ -9122,7 +9171,8 @@
     "М1": [
       "http://live.m2.tv/hls/stream.m3u8",
       "http://cdn.ottg.tv/7349/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://193.33.39.107:8088/m1ua/index.m3u8"
+      "http://193.33.39.107:8088/m1ua/index.m3u8",
+      "http://54.38.180.196/play/909/2D6E866C992891C/video.m3u8"
     ],
     "МИР": [
       "http://gorod.tv/s/live/18/178.141.19.226/1561206607632/0.m3u8",
@@ -9324,7 +9374,8 @@
       "http://185.93.3.83:5001/play/a038/index.m3u8",
       "http://46.32.68.167/s/live/4/92.159.135.243/1548783634259/0.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTV&login=voryag&key=FRedfr66",
-      "http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd",
+      "http://46.32.68.167/s/live/4/51.51.51.51/0/0.m3u8"
     ],
     "НТВ KG": [
       "http://212.112.101.69:8081/stream74/output.m3u8"
@@ -9372,7 +9423,8 @@
       "http://46.32.68.167/s/live/9/100.0.0.5/1/0.m3u8",
       "http://185.93.3.83:5001/play/a03z/index.m3u8",
       "http://46.32.68.167/s/live/9/92.159.135.243/1548783634259/0.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fotp&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fotp&login=voryag&key=FRedfr66",
+      "http://46.32.68.167/s/live/9/51.51.51.51/0/0.m3u8"
     ],
     "Остросюжетное HD": [
       "http://188.35.9.11:2015",
@@ -9392,7 +9444,8 @@
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/904/index.m3u8",
       "http://188.35.9.26:14050/udp/238.0.14.3:69000",
       "http://185.93.3.83:5001/play/a07g/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=voryag&key=FRedfr66",
+      "http://188.35.9.15:2015"
     ],
     "Охотник и Рыболов": [
       "http://ott-cdn.ucom.am/s55/index.m3u8",
@@ -9529,7 +9582,8 @@
       "http://server1.life-tv.eu/ch0222/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/112/index.m3u8",
-      "http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/"
+      "http://gorod.tv/s/live/5/ssiptv/0/0.m3u8?iptv.glav-noe.ru/",
+      "http://46.32.68.167/s/live/10/51.51.51.51/0/0.m3u8"
     ],
     "РЕН ТВ": [
       "http://176.114.16.54:80/ren/index.m3u8",
@@ -9605,7 +9659,10 @@
       "http://178.150.0.32:8081/udp/238.0.57.178:1234",
       "http://50.7.244.58:8080/stb/mono.m3u8",
       "http://188.35.9.11:11021/j",
-      "http://94.244.17.93:7201"
+      "http://94.244.17.93:7201",
+      "http://54.38.180.196/play/401/2D6E866C992891C/video.m3u8",
+      "http://51.15.176.84/hls/stb-ua/index.m3u8",
+      "http://109.95.47.229:809/102cas/index.m3u8"
     ],
     "СТС НБТ": [
       "http://212.112.101.69:8081/stream08/output.m3u8"
@@ -9757,7 +9814,11 @@
       "http://95.138.241.16:8000/play/tnt",
       "http://flussonic.azfiber.net:80/RU-tnt/index.m3u8",
       "http://gorod.tv/s/live/19/ssiptv/0/0.m3u8?iptv.glav-noe.ru/",
-      "http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd",
+      "http://185.46.48.18:8080/tnt/mpegts",
+      "http://178.163.58.72:4022/udp/234.0.0.9:2000",
+      "http://178.163.58.72:4022/udp/234.0.0.186:2000",
+      "http://178.163.127.23:4022/udp/234.0.0.186:2000"
     ],
     "ТНТ Кыргызстан": [
       "http://212.112.101.69:8081/stream28/output.m3u8"
@@ -9802,7 +9863,8 @@
       "http://46.32.68.167/s/live/802/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.202.208:1234",
       "http://93.100.35.151:4042/udp/239.239.3.64:5239",
-      "http://flussonic.azfiber.net:80/RU-che/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-che/index.m3u8",
+      "http://37.235.254.189:81/udp/225.50.64.33:1234"
     ],
     "Шокирующее HD": [
       "http://188.35.9.11:2021",
@@ -10003,7 +10065,10 @@
       "http://46.32.68.167/s/live/260/86.169.51.136/2/0.m3u8",
       "http://46.32.68.167/s/live/260/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.241.87:1234",
-      "http://flussonic.azfiber.net:80/EN/RU-sonyturbo/video.m3u8"
+      "http://flussonic.azfiber.net:80/EN/RU-sonyturbo/video.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/708/index.m3u8",
+      "http://54.38.180.196/play/235/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a030"
     ],
     "http://cooltv.dyndns.tv:8200/udp/239.255.4.115:1234": [
       "#EXTINF:1,http://cooltv.dyndns.tv:8200/udp/239.255.4.116:1234"
@@ -10672,7 +10737,13 @@
       "http://178.163.89.138:4022/udp/234.0.0.213:2000",
       "http://185.78.112.18/muzhskoe-kino/mono.m3u8",
       "http://188.35.9.10:2022",
-      "http://46.32.68.167/s/live/255/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/255/86.169.51.136/8/0.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/164/index.m3u8",
+      "http://54.38.180.196/play/209/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a015",
+      "http://188.113.190.12/316/index.m3u8",
+      "http://178.163.18.154:4022/udp/234.0.0.213:2000",
+      "http://178.163.12.60:4022/udp/234.0.0.213:2000"
     ],
     "КИНОСВИДАНИЕ": [
       "http://moscow-commpass.cdnvideo.ru:80/kinoklub/hls-00/index.m3u8",
@@ -11152,11 +11223,13 @@
       "http://85.112.114.11:8086/udp/238.2.50.6:1234.1.1",
       "http://85.112.114.11:8086/udp/238.2.50.6:1234.1.2",
       "http://85.112.114.11:8086/udp/238.2.50.6:1234.1.3",
-      "http://185.78.112.18/tnt_hd/index.m3u8"
+      "http://185.78.112.18/tnt_hd/index.m3u8",
+      "http://54.38.180.196/play/86/2D6E866C992891C/video.m3u8"
     ],
     "ТНТ +4": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/481",
-      "http://cdn.ottg.tv/8594/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/8594/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://178.163.127.23:4022/udp/234.0.0.9:2000"
     ],
     "ТНТ4 +4": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/482",
@@ -11169,7 +11242,8 @@
     "RT Doc": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/464",
       "https://rtmp.api.rt.com/hls/rtdru360.m3u8",
-      "http://185.93.3.83:5001/play/a04j/index.m3u8"
+      "http://185.93.3.83:5001/play/a04j/index.m3u8",
+      "http://178.22.109.14:7000/play/RTDocRU"
     ],
     "СТС LOVE": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/123",
@@ -11182,7 +11256,8 @@
     "СТС International": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/3039",
       "http://sc.id-tv.kz/STS_38_39.m3u8",
-      "http://185.93.3.83:5001/play/a04y/index.m3u8"
+      "http://185.93.3.83:5001/play/a04y/index.m3u8",
+      "http://178.22.109.14:7000/play/STSIntRU"
     ],
     "Пятница +4": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/478",
@@ -11273,7 +11348,8 @@
       "http://cdn.ottg.tv/9591/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://89.107.34.148:81/udp/239.195.4.54:1234",
       "http://185.93.3.83:5001/play/a00r/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokazSD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokazSD&login=voryag&key=FRedfr66",
+      "http://188.35.9.15:2021"
     ],
     "Ретро": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/100",
@@ -11588,7 +11664,12 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30956.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33674.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58387.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59432.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59432.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56775.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34398.ts",
+      "http://54.38.180.196/play/178/2D6E866C992891C/video.m3u8",
+      "http://37.195.247.86:81/udp/239.1.17.5:1234",
+      "http://188.113.190.12/156/index.m3u8"
     ],
     "FOX Life HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/175",
@@ -11628,7 +11709,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33413.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56502.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57096.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57494.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57494.ts",
+      "http://54.38.180.196/play/95/2D6E866C992891C/video.m3u8"
     ],
     "FOX Life": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/138",
@@ -11669,7 +11751,8 @@
     "TV1000 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1822",
       "http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=voryag&key=FRedfr66",
+      "http://54.38.180.196/play/488/2D6E866C992891C/video.m3u8"
     ],
     "TV1000 Action HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1821",
@@ -12004,7 +12087,9 @@
       "http://195.162.90.141:8080/58298b0671711c68e61fd7bb37bf12ab",
       "https://live-k2302-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8",
       "https://live-k2310-kbp.1plus1.video/361665/smil:361665.smil/chunklist_b2928000.m3u8",
-      "http://94.244.17.93:7111"
+      "http://94.244.17.93:7111",
+      "https://live-k2301-kbp.1plus1.video/361665/smil:361665.smil/playlist.m3u8",
+      "http://54.38.180.196/play/656/2D6E866C992891C/video.m3u8"
     ],
     "Тлум HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/122",
@@ -12057,7 +12142,8 @@
       "http://s1.only4.tv/0151/video.m3u8?token=tKxpeDcuOQ",
       "http://188.35.9.11:2001",
       "http://stream2g03-f23.ovva.tv/227022/smil:227022.smil/playlist.m3u8",
-      "http://94.244.17.93:7109"
+      "http://94.244.17.93:7109",
+      "http://54.38.180.196/play/400/2D6E866C992891C/video.m3u8"
     ],
     "1+1 international": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/901"
@@ -12096,7 +12182,9 @@
       "http://195.162.90.141:8080/9e8ffab169ea02e003e096a12b040ab8",
       "http://stream2g01-g50.1plus1.ua/233342/smil:233342.smil/playlist.m3u8",
       "https://live-k2301-kbp.1plus1.video/233342/smil:233342/chunklist_b2928000.m3u8",
-      "http://94.244.17.93:7110"
+      "http://94.244.17.93:7110",
+      "https://live-k2311-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8",
+      "http://54.38.180.196/play/405/2D6E866C992891C/video.m3u8"
     ],
     "BRIDGE TV Deluxe": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/145"
@@ -12287,7 +12375,9 @@
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/949/index.m3u",
       "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/949/index.m3u8",
       "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/949/index.m3u8",
-      "http://server1.life-tv.eu/ch0408/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0408/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://217.21.34.158:30000/M1/index.m3u8",
+      "http://185.46.48.18:8080/m1/mpegts"
     ],
     "M2": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1790",
@@ -14013,7 +14103,9 @@
       "http://157.100.52.90:9981/stream/channelid/203936517",
       "http://188.35.9.11:21151/udp/190z",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31257.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57097.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57097.ts",
+      "http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8",
+      "http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8"
     ],
     "HBO2 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1686",
@@ -17129,7 +17221,8 @@
     "RT Doc HD": [
       "http://moscow-commpass.cdnvideo.ru:80/rtd/hls-00/mono.m3u8",
       "http://188.128.15.118:8080/play/a197",
-      "http://109.248.236.41:4433/udp/238.1.1.68:1234"
+      "http://109.248.236.41:4433/udp/238.1.1.68:1234",
+      "http://178.22.109.14:7000/play/xxRTDOCHDxx"
     ],
     "Shant": [
       "http://92.223.103.30/Shant/video.m3u8?token=www.tv-ip.su",
@@ -17503,7 +17596,8 @@
     ],
     "EUROKINO": [
       "http://persik.by/stream/9189/416795/10222.m3u8",
-      "http://185.35.5.209:63080/tXOTRkENh6dQf045/evrokino/playlist.m3u8"
+      "http://185.35.5.209:63080/tXOTRkENh6dQf045/evrokino/playlist.m3u8",
+      "http://185.46.48.18:8080/eurokino/mpegts"
     ],
     "MTV": [
       "http://persik.by/stream/9189/416795/10226.m3u8",
@@ -17632,7 +17726,9 @@
     "MTV LIVE HD": [
       "http://persik.by/stream/9189/416795/10289.m3u8",
       "http://185.78.112.18/mtvlivehd/video.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56456.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56456.ts",
+      "http://54.38.180.196/play/144/2D6E866C992891C/video.m3u8",
+      "http://217.25.216.4:8085/udp/238.2.16.144:1234"
     ],
     "Home": [
       "http://persik.by/stream/9189/416795/10292.m3u8"
@@ -18709,7 +18805,8 @@
       "http://ott.shara.club/nonecsa/DGMkwp30d8/128",
       "http://ott.shara.club:80/ainar/UQNmliosG1/128",
       "http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952",
-      "http://server1.life-tv.eu/ch0496/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0496/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://188.35.9.15:2017"
     ],
     "Ultra HD Cinema": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1557.m3u8",
@@ -18943,7 +19040,9 @@
       "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/531/index.m3u",
       "http://109.70.184.19:8080/udp/239.185.1.58:1234",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/531/index.m3u8",
-      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/531/index.m3u8"
+      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/531/index.m3u8",
+      "http://54.38.180.196/play/37/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a022"
     ],
     "МАТЧ ПРЕМЬЕР HD": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/720.m3u8",
@@ -18954,7 +19053,8 @@
       "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/220/index.m3u",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/220/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/220/index.m3u8",
-      "http://217.25.216.4:8085/udp/238.2.16.250:1234"
+      "http://217.25.216.4:8085/udp/238.2.16.250:1234",
+      "http://54.38.180.196/play/250/2D6E866C992891C/video.m3u8"
     ],
     "UFC ТВ (TEST)": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2189.m3u8",
@@ -19009,7 +19109,12 @@
       "http://91.204.138.87:8888/udp/224.200.241.40:1234",
       "http://cms.accesss.me:25461/026232135326933/659032010656363/220",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56564.ts",
-      "http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/153/index.m3u8",
+      "http://54.38.180.196/play/238/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02f",
+      "http://188.113.190.12/137/index.m3u8",
+      "http://178.163.127.23:4022/udp/234.0.0.194:2000"
     ],
     "МУЗ": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1549.m3u8",
@@ -19081,7 +19186,14 @@
       "http://178.163.58.72:4022/udp/234.0.0.118:2000",
       "http://188.113.190.12/129/video.m3u8",
       "http://46.32.68.167/s/live/254/51.51.51.51/1/0.m3u8",
-      "http://46.32.68.167/s/live/254/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/254/86.169.51.136/8/0.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/145/index.m3u8",
+      "http://54.38.180.196/play/3738/2D6E866C992891C/video.m3u8",
+      "http://37.195.247.86:81/udp/239.1.4.3:1234",
+      "http://193.201.98.123:7000/play/a00z",
+      "http://188.113.190.12/129/index.m3u8",
+      "http://178.163.50.209:4022/udp/234.0.0.118:2000",
+      "http://178.163.127.23:4022/udp/234.0.0.118:2000"
     ],
     "КИНОПРЕМЬЕРА HD": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/129.m3u8",
@@ -19299,7 +19411,11 @@
       "http://178.163.18.154:4022/udp/234.0.0.169:2000",
       "http://185.118.50.219/RU-amediahit/video.m3u8",
       "http://185.78.112.18/AmediaHit/mono.m3u8",
-      "http://46.32.68.167/s/live/210/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/210/86.169.51.136/8/0.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/556/index.m3u8",
+      "http://54.38.180.196/play/632/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02r",
+      "http://178.163.58.72:4022/udp/234.0.0.169:2000"
     ],
     "2X2": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/702/index.m3u",
@@ -19314,7 +19430,12 @@
       "http://91.204.138.87:8888/udp/224.200.202.171:1234",
       "http://91.204.138.87:8888/udp/224.200.202.172:1234",
       "http://93.100.35.151:4042/udp/239.239.3.3:5239",
-      "http://flussonic.azfiber.net:80/RU-2x2/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-2x2/index.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/702/index.m3u8",
+      "http://54.38.180.196/play/100/2D6E866C992891C/video.m3u8",
+      "http://217.21.34.158:30000/2x2/index.m3u8",
+      "http://193.201.98.123:7000/play/a03f",
+      "http://188.242.199.174:81/udp/239.239.3.3:5239"
     ],
     "Русская Комедия": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/733/index.m3u",
@@ -19385,7 +19506,9 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/711/index.m3u8",
       "http://server1.life-tv.eu/ch0021/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/711/index.m3u8",
-      "http://185.78.112.18/dange/mono.m3u8"
+      "http://185.78.112.18/dange/mono.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/711/index.m3u8",
+      "http://188.113.190.12/122/video.m3u8"
     ],
     "MCM Top Russia": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/836/index.m3u",
@@ -19870,7 +19993,8 @@
       "http://188.113.190.12/95/video.m3u8",
       "http://46.32.68.167/s/live/510/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/510/86.169.51.136/2/0.m3u8",
-      "http://46.32.68.167/s/live/510/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/510/86.169.51.136/8/0.m3u8",
+      "http://193.201.98.123:7000/play/a01w"
     ],
     "Матч! Планета": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/123/index.m3u",
@@ -19932,7 +20056,8 @@
       "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/214/index.m3u",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/214/index.m3u8",
       "http://188.190.222.51/I_KONNIY_MIR/mpegts",
-      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/214/index.m3u8"
+      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/214/index.m3u8",
+      "http://mztwq5dzniztinjvgruxk.nfyhi5tcn52c4ytjpi.cmle.ru/iptv/67GP8CPGFYPHNC/214/index.m3u8"
     ],
     "Телеканал КХЛ HD": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/215/index.m3u",
@@ -20394,7 +20519,8 @@
       "http://178.150.0.32:8081/udp/238.0.0.23:1234",
       "http://188.35.9.26:2050/udp/238.0.2.3:69000",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FK2&login=voryag&key=FRedfr66",
-      "http://94.244.17.93:6806"
+      "http://94.244.17.93:6806",
+      "http://54.38.180.196/play/652/2D6E866C992891C/video.m3u8"
     ],
     "Enter-фільм": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/933/index.m3u",
@@ -20604,7 +20730,8 @@
     "XSPORT": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/997/index.m3u",
       "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fxsport&login=taras777&key=uVGrxhs",
-      "http://cdn.ottg.tv/1385/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/1385/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://54.38.180.196/play/480/2D6E866C992891C/video.m3u8"
     ],
     "Бiгудi": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/989/index.m3u",
@@ -20671,7 +20798,8 @@
       "https://hls.sweet.tv/stream/a63aq2w6wzyxe46xmsvn9azk2xv7xkrsa6n2qqqecce66ehvntbyh9yq6ej99dzasyvxkktbhg7jrb58d9hkrmugrfcfr97g6spp9xsk6v3bkutaacst4hfmscjw7iznhaq7vig2dhe7z5j9p68xhcn3.m3u8",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1007/index.m3u8",
       "http://178.150.0.32:8081/udp/238.0.1.140:1234",
-      "http://188.35.9.26:3030/udp/131e"
+      "http://188.35.9.26:3030/udp/131e",
+      "http://cn04.iptv.monster/play/2604/2D6E866C992891C/video.m3u8"
     ],
     "ZIK": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/1008/index.m3u",
@@ -21113,7 +21241,9 @@
     ],
     "SONY CHANNEL": [
       "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fsony&login=taras777&key=uVGrxhs",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58544.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58544.ts",
+      "http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/559/index.m3u8",
+      "http://158.46.111.177:81/udp/239.255.42.42:1234"
     ],
     "??????": [
       "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fzvezda&login=taras777&key=uVGrxhs",
@@ -21333,7 +21463,8 @@
     ],
     "ABTO24": [
       "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Favto24&login=taras777&key=uVGrxhs",
-      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAvto24&login=taras777&key=uVGrxhs"
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAvto24&login=taras777&key=uVGrxhs",
+      "http://193.201.98.123:7000/play/a02u"
     ],
     "Animal Planet Europe": [
       "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fanimalplanet&login=taras777&key=uVGrxhs",
@@ -21687,7 +21818,12 @@
       "http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1343",
       "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/228/index.m3u8",
       "http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56776.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56579.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31430.ts",
+      "http://109.171.6.220:81/udp/239.54.6.174:1224",
+      "http://109.171.45.81:81/udp/239.54.7.174:1224"
     ],
     "EUROSPORT 2 HD": [
       "http://151.80.59.206/TV/FLASH-TV/n/mac/480.m3u8",
@@ -21701,7 +21837,8 @@
       "http://iptv6.premium-stv.com:25461/sourcenederlandpro2/6544963080/1002",
       "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31219.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts",
+      "http://54.38.180.196/play/361/2D6E866C992891C/video.m3u8"
     ],
     "Idman  /Az": [
       "http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8"
@@ -21731,7 +21868,8 @@
       "http://185.184.233.174:5000/udp/225.1.2.156:1234",
       "http://185.78.112.18/arena_hd/mono.m3u8",
       "http://185.93.3.83:5010/play/a00p",
-      "http://37.235.254.189:81/udp/225.50.71.26:1234"
+      "http://37.235.254.189:81/udp/225.50.71.26:1234",
+      "http://54.38.180.196/play/146/2D6E866C992891C/video.m3u8"
     ],
     "МАТЧ! ПРЕМЬЕР  HD": [
       "http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/220/index.m3u8"
@@ -21746,12 +21884,14 @@
       "http://188.35.9.10:2010",
       "http://188.35.9.11:21151/udp/167u",
       "http://188.35.9.12:21151/udp/167u",
-      "http://188.35.9.15:2010"
+      "http://188.35.9.15:2010",
+      "http://sn204.iptv.monster/play/260/2D6E866C992891C/video.m3u8"
     ],
     "МАТЧ! ФУТБОЛ 3 HD": [
       "http://ygk.info/stream/22E8AWHQEC4LCA/206/index.m3u8",
       "http://185.78.112.18/football3_hd/mono.m3u8",
-      "http://5.128.100.70:81/udp/239.1.23.3:1234"
+      "http://5.128.100.70:81/udp/239.1.23.3:1234",
+      "http://sn204.iptv.monster/play/329/2D6E866C992891C/video.m3u8"
     ],
     "112 Ukraine (Opt-1)": [
       "http://app.live.112.events/hls/112hd_mid/index.m3u8"
@@ -22209,7 +22349,8 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_STARCINEMAHD/variant.m3u8",
       "http://178.124.183.5/hls/CH_STARCINEMA/variant.m3u8?version=2",
       "http://178.124.183.5/hls/CH_STARCINEMA_HLS/variant.m3u8?version=2",
-      "http://188.35.9.15:21091/udp/116h"
+      "http://188.35.9.15:21091/udp/116h",
+      "http://193.201.98.123:7000/play/a02o"
     ],
     "Первый канал (+5)": [
       "http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2",
@@ -22310,7 +22451,8 @@
     ],
     "SONY CHANNEL HD": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_C02_SETHD/variant.m3u8",
-      "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8"
+      "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C02_SETHD/variant.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2062/index.m3u8"
     ],
     "Nuart TV": [
       "http://pl.kineskop.club/site2/303_1003767_39b740019e04dab9_1564488720_172800.m3u8",
@@ -22372,7 +22514,9 @@
       "http://188.35.9.9:21151/udp/190z",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33542.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56455.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59020.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59020.ts",
+      "http://lista.digitalgroup.me:80/6490/1234/1209",
+      "http://canais.servidor.tv:8080/diana123/diana123/1463"
     ],
     "Советское Кино": [
       "http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8",
@@ -23028,7 +23172,8 @@
       "http://46.32.68.167/s/live/3/86.169.51.136/1/0.m3u8",
       "http://46.32.68.167/s/live/3/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.202.152:1234",
-      "http://91.204.138.87:8888/udp/224.200.202.31:1234"
+      "http://91.204.138.87:8888/udp/224.200.202.31:1234",
+      "http://193.201.98.123:7000/play/a03c"
     ],
     "МАТЧ! АРЕНА": [
       "http://46.19.43.248:9981/stream/channelid/1313029335",
@@ -23037,7 +23182,8 @@
       "http://46.32.68.167/s/live/506/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8?version=2",
       "http://46.32.68.167/s/live/506/86.169.51.136/8/0.m3u8",
-      "http://91.204.138.87:8888/udp/224.200.241.8:1234"
+      "http://91.204.138.87:8888/udp/224.200.241.8:1234",
+      "http://193.201.98.123:7000/play/a01t"
     ],
     "МАТЧ! БОЕЦ": [
       "http://46.19.43.248:9981/stream/channelid/1585100965",
@@ -23050,7 +23196,10 @@
       "http://46.32.68.167/s/live/509/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/509/86.169.51.136/1/0.m3u8?version=2",
       "http://46.32.68.167/s/live/509/86.169.51.136/8/0.m3u8",
-      "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/150/index.m3u8"
+      "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/150/index.m3u8",
+      "http://54.38.180.196/play/30/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a01u",
+      "http://188.113.190.12/126/index.m3u8"
     ],
     "МАТЧ! ИГРА": [
       "http://46.19.43.248:9981/stream/channelid/1405443465",
@@ -23063,27 +23212,38 @@
       "http://46.32.68.167/s/live/507/86.169.51.136/0/0.m3u8?version=2",
       "http://46.32.68.167/s/live/507/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.241.41:1234",
-      "http://91.204.138.87:8888/udp/239.1.1.181:1234"
+      "http://91.204.138.87:8888/udp/239.1.1.181:1234",
+      "http://54.38.180.196/play/153/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a01v",
+      "http://188.113.190.12/142/index.m3u8"
     ],
     "МАТЧ! ПРЕМЬЕР": [
       "http://176.101.224.21:8080/udp/233.166.172.140:1234",
       "http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8",
-      "http://188.113.190.12/103/video.m3u8"
+      "http://188.113.190.12/103/video.m3u8",
+      "http://37.235.155.216:81/udp/225.50.67.1:1234?denms.ru"
     ],
     "МАТЧ! ФУТБОЛ 1": [
       "http://46.19.43.248:9981/stream/channelid/354688218",
       "http://185.78.112.18/futball-1/mono.m3u8",
       "http://188.35.9.10:2025",
       "http://188.35.9.15:2025",
-      "https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8"
+      "https://46-166-139-148.livesports24.online/ntvmatchfoot1.m3u8",
+      "http://193.201.98.123:7000/play/a01x",
+      "http://188.113.190.12/175/index.m3u8",
+      "http://185.46.48.18:8080/futbol1/mpegts"
     ],
     "МАТЧ! ФУТБОЛ 2": [
       "http://46.19.43.248:9981/stream/channelid/1669396465",
       "http://188.35.9.10:2026",
-      "http://188.35.9.15:2026"
+      "http://188.35.9.15:2026",
+      "http://193.201.98.123:7000/play/a01y",
+      "http://188.113.190.12/176/index.m3u8"
     ],
     "МАТЧ! ФУТБОЛ 3": [
-      "http://46.19.43.248:9981/stream/channelid/2058911058"
+      "http://46.19.43.248:9981/stream/channelid/2058911058",
+      "http://193.201.98.123:7000/play/a01z",
+      "http://188.113.190.12/177/index.m3u8"
     ],
     "Наш Футбол": [
       "http://46.19.43.248:9981/stream/channelid/1732834568",
@@ -23325,7 +23485,8 @@
       "http://84.32.72.60:8080/trofey/index.m3u8"
     ],
     "tlc": [
-      "http://84.32.72.60:8080/tlc/index.m3u8"
+      "http://84.32.72.60:8080/tlc/index.m3u8",
+      "http://31.131.80.12:81/tlc/tracks-v2a1/mono.m3u8"
     ],
     "soyuz": [
       "http://84.32.72.60:8080/soyuz/index.m3u8"
@@ -25466,7 +25627,8 @@
       "http://dmitry-tv.ru/his/yatv/CH_ANEKDOT.m3u8",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_ANEKDOTTV/variant.m3u8",
       "http://server1.life-tv.eu/ch0129/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8",
+      "http://178.172.177.249:4141/udp/238.1.1.25:1234"
     ],
     "Точка Отрыва": [
       "http://ip.tvoetv.com.ru:8080/CH-23/video.m3u8?token=GqR-JwWHs3",
@@ -26786,7 +26948,8 @@
       "http://cdn.ottg.tv/7631/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
     ],
     "Babes TV HD 18+": [
-      "http://cdn.ottg.tv/4736/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/4736/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://zabava-htlive.cdn.ngenix.net/hls/CH_BABESTVHD/bw5000000/variant.m3u8?version=2"
     ],
     "Футбол 1 HD UA PREMIUM+": [
       "http://cdn.ottg.tv/2284/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
@@ -27206,7 +27369,8 @@
     "1+1 HD": [
       "http://cdn.ottg.tv/6801/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "https://dl.dropbox.com/s/1pq0dxy9qpe0v29/VLC_1plus1_HD_.m3u",
-      "http://server1.life-tv.eu/ch0508/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0508/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "https://live-k2302-kbp.1plus1.video/184723/smil:184723.smil/chunklist_b4628000.m3u8"
     ],
     "ТВ 3 HD": [
       "http://cdn.ottg.tv/1540/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
@@ -27326,7 +27490,10 @@
     ],
     "SETANTA SPORTS HD": [
       "http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTSHD.m3u8",
-      "http://178.124.183.14:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8"
+      "http://178.124.183.14:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8",
+      "http://cn04.iptv.monster/play/1434/2D6E866C992891C/video.m3u8",
+      "http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8",
+      "http://178.124.183.12:80/hls/FWHTTL8YXU/bw5000000/playlist.m3u8"
     ],
     "SETANTA SPORTS+": [
       "http://dmitry-tv.ru/his/itv_blrus/CH_SETANTA_SPORTS_PLYUS.m3u8"
@@ -27849,7 +28016,11 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31029.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56593.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56872.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58131.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58131.ts",
+      "http://54.38.180.196/play/17/2D6E866C992891C/video.m3u8",
+      "http://37.235.254.189:81/udp/225.50.64.68:1234",
+      "http://217.21.34.158:30000/Euronews/index.m3u8",
+      "http://188.113.190.12/124/index.m3u8"
     ],
     "8 канал (Красноярск)": [
       "http://dmitry-tv.ru/his/yatv/CH_8CHANNEL_KRSK.m3u8"
@@ -27916,7 +28087,8 @@
     "RT HD": [
       "http://dmitry-tv.ru/his/yatv/CH_RTHD.m3u8",
       "http://rt-news.secure.footprint.net/1103_2500Kb.m3u8",
-      "http://uiptv.do.am/1ufc/702424953/playlist.m3u8"
+      "http://uiptv.do.am/1ufc/702424953/playlist.m3u8",
+      "http://178.22.109.14:7000/play/xxRTHDxx"
     ],
     "RTД [RU]": [
       "http://dmitry-tv.ru/his/yatv/CH_RTD.m3u8"
@@ -28531,7 +28703,9 @@
     "TNT4": [
       "http://188.35.9.5:10020/stolen/422r/hot.dll",
       "http://88.216.8.122:8080/tnt4/index.m3u8",
-      "http://78.31.227.252:8080/tnt4/mono.m3u8"
+      "http://78.31.227.252:8080/tnt4/mono.m3u8",
+      "http://37.235.254.189:81/udp/225.50.66.7:1234",
+      "http://217.21.34.158:30000/tnt4/index.m3u8"
     ],
     "Ваш Успех": [
       "http://188.35.9.5:10005/stolen/106l/imposter.rar"
@@ -29628,7 +29802,8 @@
       "http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mdf1_high/playlist.m3u8"
     ],
     "MEGA TV": [
-      "http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8"
+      "http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31031.ts"
     ],
     "MESSINIA WEB TV": [
       "http://176.9.123.140:1935/messinia/messinia/playlist.m3u8"
@@ -31461,7 +31636,14 @@
       "http://109.248.236.41:4433/udp/238.1.1.49:1234",
       "http://178.163.127.23:4022/udp/234.0.0.176:2000",
       "http://178.163.58.72:4022/udp/234.0.0.176:2000",
-      "http://185.78.112.18/Eurokino/mono.m3u8"
+      "http://185.78.112.18/Eurokino/mono.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/549/index.m3u8",
+      "http://54.38.180.196/play/96/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a031",
+      "http://178.163.24.150:4022/udp/234.0.0.176:2000",
+      "http://178.163.16.87:4022/udp/234.0.0.176:2000",
+      "http://178.163.112.255:4022/udp/234.0.0.176:2000",
+      "http://178.163.109.216:34040/udp/234.0.0.176:2000"
     ],
     "Россия К (А) (+2)": [
       "http://109.248.236.41:4433/udp/238.1.1.55:1234"
@@ -32017,7 +32199,11 @@
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8",
       "http://178.163.58.72:4022/udp/234.0.0.209:2000",
       "http://185.78.112.18/AmediaPremium/mono.m3u8",
-      "http://46.32.68.167/s/live/211/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/211/86.169.51.136/8/0.m3u8",
+      "http://54.38.180.196/play/630/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02s",
+      "http://188.113.190.12/140/index.m3u8",
+      "http://178.163.127.23:4022/udp/234.0.0.209:2000"
     ],
     "АВТО24 HD": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_AVTO24HD/variant.m3u8",
@@ -32122,7 +32308,8 @@
     ],
     "CINEMA": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARKRAZVLECHENIJ/variant.m3u8",
-      "http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd",
+      "http://cn04.iptv.monster/play/223/2D6E866C992891C/video.m3u8"
     ],
     "Че (+7)": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ_7/variant.m3u8"
@@ -32136,7 +32323,9 @@
     "RUSSIAN EXTREME": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANEXTREAM/variant.m3u8",
       "http://178.163.127.23:4022/udp/234.0.0.173:2000",
-      "http://178.163.58.72:4022/udp/234.0.0.173:2000"
+      "http://178.163.58.72:4022/udp/234.0.0.173:2000",
+      "http://178.163.50.209:4022/udp/234.0.0.173:2000",
+      "http://178.163.18.154:4022/udp/234.0.0.173:2000"
     ],
     "RUTV FullHD": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUTVHD/variant.m3u8"
@@ -32156,7 +32345,10 @@
       "http://46.32.68.167/s/live/258/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.241.43:1234",
       "http://flussonic.azfiber.net:80/RU-sonyscifi/index.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35350.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35350.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/110/index.m3u8",
+      "http://54.38.180.196/play/102/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02z"
     ],
     "Мульт и музыка": [
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_STRANA/variant.m3u8",
@@ -33070,7 +33262,8 @@
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKids&login=voryag&key=FRedfr66"
     ],
     "NLO TV 1 HD": [
-      "http://54.36.109.228/17300/mono.m3u8"
+      "http://54.36.109.228/17300/mono.m3u8",
+      "http://server1.life-tv.eu/ch0708/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
     ],
     "NLO TV 2 HD": [
       "http://54.36.109.228/17400/mono.m3u8"
@@ -33103,7 +33296,10 @@
     "БЕЛАРУСЬ 24": [
       "http://193.9.60.131:8000/play/a011/index.m3u8",
       "http://178.163.58.72:4022/udp/234.0.0.199:2000",
-      "http://185.78.112.18/belarus_24/mono.m3u8"
+      "http://185.78.112.18/belarus_24/mono.m3u8",
+      "http://cn04.iptv.monster/play/341/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/213/index.m3u8",
+      "http://178.163.18.154:4022/udp/234.0.0.199:2000"
     ],
     "Балта ТВ": [
       "http://194.50.51.34/playlist.m3u8"
@@ -33172,7 +33368,9 @@
       "http://46.32.68.167/s/live/939/86.169.51.136/8/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.202.32:1234",
       "http://91.204.138.87:8888/udp/239.1.35.4:1234",
-      "http://93.100.35.151:4042/udp/239.239.3.34:5239"
+      "http://93.100.35.151:4042/udp/239.239.3.34:5239",
+      "http://sn204.iptv.monster/play/397/2D6E866C992891C/video.m3u8",
+      "http://217.21.34.158:30000/MatchHD/index.m3u8"
     ],
     "НАНО": [
       "http://178.57.121.38:8080/nano/index.m3u8"
@@ -35780,7 +35978,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32810.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33401.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34464.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57098.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57098.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34677.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33708.ts"
     ],
     "HBO FAMILY": [
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=124",
@@ -36172,7 +36372,8 @@
       "http://46.32.68.167/s/live/915/86.169.51.136/2/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.232.5:1234",
       "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30949.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30949.ts",
+      "http://54.38.180.196/play/162/2D6E866C992891C/video.m3u8"
     ],
     "RING HD": [
       "https://cdn1.mobiletv.bg/T14/ATV/ringhd/ringhd_ATV987654321.m3u8"
@@ -36317,7 +36518,8 @@
       "http://178.163.127.23:4022/udp/234.0.0.6:2000",
       "http://178.163.18.154:4022/udp/234.0.0.6:2000",
       "http://185.78.112.18/match-igra_hd/mono.m3u8",
-      "http://185.93.3.83:5010/play/a00f"
+      "http://185.93.3.83:5010/play/a00f",
+      "http://54.38.180.196/play/268/2D6E866C992891C/video.m3u8"
     ],
     "МАТЧ! ПЛАНЕТА": [
       "http://178.124.183.5/hls/CH_MATCHPLANETA/variant.m3u8",
@@ -36336,7 +36538,8 @@
       "https://tvae.ercdn.net/adsport3/adsport3_720p.m3u8"
     ],
     "AD SPORTS 4": [
-      "http://adtv.ercdn.net/adsport4/adsport4_480p.m3u8"
+      "http://adtv.ercdn.net/adsport4/adsport4_480p.m3u8",
+      "https://tvae.ercdn.net/adsport4/adsport4_720p.m3u8"
     ],
     "Action Sports 4U": [
       "https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8"
@@ -36528,7 +36731,8 @@
     "ТНТ 4": [
       "http://195.191.208.2:8086/udp/238.2.13.244:1234",
       "http://178.163.102.33:4022/udp/234.0.0.181:2000",
-      "http://93.100.35.151:4042/udp/239.239.3.36:5239"
+      "http://93.100.35.151:4042/udp/239.239.3.36:5239",
+      "http://178.163.127.23:4022/udp/234.0.0.181:2000"
     ],
     "ТНТ 4 HD": [
       "http://195.191.208.2:8086/udp/233.170.170.130:58631"
@@ -37043,7 +37247,8 @@
       "http://server1.life-tv.eu/ch0439/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
     ],
     "Сила ТВ": [
-      "http://server1.life-tv.eu/ch0319/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0319/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "https://video-4-105.rutube.ru/stream/10114442/688f74345bd8fd610e7a762db2416058/tracks-v1a1/mono.m3u8"
     ],
     "Мотоспорт тв HD": [
       "http://server1.life-tv.eu/ch0196/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
@@ -37318,7 +37523,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31254.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33570.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56481.ts",
-      "https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6"
+      "https://stitcher.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=s1i2kmn8epo99i02q1oji559k6",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31438.ts",
+      "http://188.113.190.12/189/index.m3u8"
     ],
     "Earth HD": [
       "http://server1.life-tv.eu/ch0004/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
@@ -37976,7 +38183,8 @@
     ],
     "ЧЕ!": [
       "http://178.163.102.33:4022/udp/234.0.0.218:2000",
-      "http://46.32.68.167/s/live/802/51.51.51.51/1/0.m3u8"
+      "http://46.32.68.167/s/live/802/51.51.51.51/1/0.m3u8",
+      "http://cn04.iptv.monster/play/109/2D6E866C992891C/video.m3u8"
     ],
     "Disney HD": [
       "http://iptv4.premium-stv.com:8000/live/sourceesppro2/B8YHWPh2j8/143.ts"
@@ -38274,7 +38482,9 @@
       "http://s03.iptvx.tv:8090/s/6b5228e0/tv1000-action.m3u8",
       "http://46.181.116.168:81/udp/239.255.42.46:1234",
       "http://91.204.138.87:8888/udp/239.1.23.142:1234",
-      "http://flussonic.azfiber.net:80/RU-tv1000action/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-tv1000action/index.m3u8",
+      "http://54.38.180.196/play/83/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/tv1000action/mpegts"
     ],
     "TV1000  Русское кино": [
       "http://178.124.183.14/hls/PWIKICZUYF/bw1200000/playlist.m3u8",
@@ -38297,7 +38507,13 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56021.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56408.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57164.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57542.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57542.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59447.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34648.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34450.ts",
+      "http://54.38.180.196/play/52/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a028",
+      "http://188.113.190.12/162/index.m3u8"
     ],
     "GULLI GIRL": [
       "http://178.124.183.14/hls/7FFGONY2N8/bw1200000/playlist.m3u8",
@@ -39077,13 +39293,20 @@
       "http://46.32.68.167/s/live/256/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/256/86.169.51.136/2/0.m3u8",
       "http://46.32.68.167/s/live/256/86.169.51.136/8/0.m3u8",
-      "http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/557/index.m3u8"
+      "http://mojtv.iptvbot.net/iptv/DHANZ6EGLUS94U/557/index.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31955.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/557/index.m3u8",
+      "http://193.201.98.123:7000/play/a02t"
     ],
     "DISNEY": [
       "http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/524/i.m3u8",
       "http://46.32.68.167/s/live/603/86.169.51.136/2/0.m3u8",
       "http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33270.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33270.ts",
+      "http://54.38.180.196/play/57/2D6E866C992891C/video.m3u8",
+      "http://217.21.34.158:30000/Disney/index.m3u8",
+      "http://178.163.81.6:4022/udp/234.0.0.198:2000",
+      "http://178.163.58.72:4022/udp/234.0.0.198:2000"
     ],
     "NICK": [
       "http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/223/i.m3u8",
@@ -39527,7 +39750,8 @@
       "https://flavors-proxy.m1.tv//flavors/2/1080/stream.m3u8"
     ],
     "M1 HIP-HOP": [
-      "https://flavors-proxy.m1.tv//flavors/3/1080/stream.m3u8"
+      "https://flavors-proxy.m1.tv//flavors/3/1080/stream.m3u8",
+      "https://flavors-proxy.m1.tv//flavors/3/1080/stream.m3u8 "
     ],
     "1+1 (UA)": [
       "http://185.93.3.83:5001/play/a083/index.m3u8"
@@ -39856,7 +40080,10 @@
     ],
     "BBC WORLD NEWS": [
       "http://s03.iptvx.tv:8090/s/6b5228e0/bbc-world-news.m3u8",
-      "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8"
+      "http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/545/index.m3u8",
+      "http://cn04.iptv.monster/play/105/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/143/index.m3u8"
     ],
     "RT Д": [
       "http://s03.iptvx.tv:8090/s/6b5228e0/rt-doc.m3u8"
@@ -39903,11 +40130,15 @@
     ],
     "VIP MEGAHIT": [
       "http://s03.iptvx.tv:8090/s/6b5228e0/tv1000-megahit-hd.m3u8",
-      "http://188.35.9.10:2016"
+      "http://188.35.9.10:2016",
+      "http://54.38.180.196/play/195/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/202/index.m3u8"
     ],
     "VIP PREMIERE": [
       "http://s03.iptvx.tv:8090/s/6b5228e0/tv1000-premium-hd.m3u8",
-      "http://188.35.9.10:2013"
+      "http://188.35.9.10:2013",
+      "http://54.38.180.196/play/196/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/201/index.m3u8"
     ],
     "VIP Serial": [
       "http://s03.iptvx.tv:8090/s/6b5228e0/vip-serial-hd.m3u8",
@@ -39926,7 +40157,11 @@
       "http://46.32.68.167/s/live/208/816951136/819088191919/0.m3u8",
       "http://46.32.68.167/s/live/208/86.169.51.136/2/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.202.41:1234",
-      "http://flussonic.azfiber.net:80/RU-amedia1/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-amedia1/index.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/554/index.m3u8",
+      "http://54.38.180.196/play/267/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/amedia1/mpegts",
+      "http://178.163.127.23:4022/udp/234.0.0.155:2000"
     ],
     "FOX  -8": [
       "http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2&offset=-28800"
@@ -39944,7 +40179,9 @@
     "NICK JR.": [
       "http://46.32.68.167/s/live/615/816951136/819088191919/0.m3u8",
       "http://46.32.68.167/s/live/615/86.169.51.136/2/0.m3u8",
-      "http://cms.accesss.me:25461/026232135326933/659032010656363/40169"
+      "http://cms.accesss.me:25461/026232135326933/659032010656363/40169",
+      "http://54.38.180.196/play/240/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02i"
     ],
     "JIMJAM": [
       "http://46.32.68.167/s/live/613/816951136/819088191919/0.m3u8"
@@ -39971,7 +40208,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34667.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58086.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58172.ts",
-      "http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32054.ts",
+      "http://54.38.180.196/play/43/2D6E866C992891C/video.m3u8"
     ],
     "НТВ (+3)": [
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/bw1500000/variant.m3u8?version=2&offset=-3600"
@@ -40606,7 +40845,10 @@
       "http://185.78.112.18/ViasatExplore/mono.m3u8",
       "http://91.204.138.87:8888/udp/224.200.234.2:1234",
       "http://flussonic.azfiber.net:80/EN/RU-viasatexplore/video.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33362.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33362.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59132.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33734.ts",
+      "http://54.38.180.196/play/79/2D6E866C992891C/video.m3u8"
     ],
     "FASHION TV": [
       "http://109.248.236.41:4433/udp/238.1.1.69:1234",
@@ -40615,12 +40857,15 @@
       "http://91.204.138.87:8888/udp/224.200.224.10:1234",
       "http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8",
       "http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?fluxustv.m3u8",
-      "http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32020.ts",
+      "http://188.113.190.12/194/index.m3u8"
     ],
     "AMEDIA PREMIUM HD": [
       "http://109.248.236.41:4433/udp/238.1.1.71:1234?em9uYS1pcHR2LnJ1",
       "http://185.78.112.18/amedia_premium_hd/mono.m3u8",
-      "http://188.35.9.11:21031/udp/035c"
+      "http://188.35.9.11:21031/udp/035c",
+      "http://54.38.180.196/play/187/2D6E866C992891C/video.m3u8"
     ],
     "НАУКА": [
       "http://109.248.236.41:4433/udp/238.1.1.89:1234",
@@ -40640,7 +40885,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33370.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35264.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57517.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59196.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59196.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/162/index.m3u8",
+      "http://54.38.180.196/play/78/2D6E866C992891C/video.m3u8"
     ],
     "PARAMOUNT COMEDY": [
       "http://158.46.88.95:4022/udp/239.255.42.16:1234",
@@ -40648,7 +40895,8 @@
       "http://46.32.68.167/s/live/250/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/250/86.169.51.136/2/0.m3u8",
       "http://46.32.68.167/s/live/250/86.169.51.136/8/0.m3u8",
-      "http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd",
+      "http://188.113.190.12/127/index.m3u8"
     ],
     "НАШ СПОРТ": [
       "http://158.46.88.95:4022/udp/239.255.42.27:1234"
@@ -40657,13 +40905,16 @@
       "http://158.46.88.95:4022/udp/239.255.42.29:1234"
     ],
     "FASHION": [
-      "http://158.46.88.95:4022/udp/239.255.42.51:1234"
+      "http://158.46.88.95:4022/udp/239.255.42.51:1234",
+      "http://178.163.127.23:4022/udp/234.0.0.214:2000"
     ],
     "VIASAT SPORT": [
       "http://158.46.88.95:4022/udp/239.255.42.57:1234",
       "http://188.113.190.12/34/video.m3u8",
       "http://91.204.138.87:8888/udp/224.200.234.12:1234",
-      "http://91.204.138.87:8888/udp/239.1.23.147:1234"
+      "http://91.204.138.87:8888/udp/239.1.23.147:1234",
+      "http://54.38.180.196/play/77/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/viasatsport/mpegts"
     ],
     "ANIMAL PLANET HD": [
       "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8",
@@ -40676,7 +40927,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33330.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33522.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55696.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57189.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57189.ts",
+      "http://54.38.180.196/play/175/2D6E866C992891C/video.m3u8"
     ],
     "ANIMAL PLANET": [
       "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8",
@@ -40689,7 +40941,12 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57089.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57559.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58234.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58974.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58974.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34641.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/137/index.m3u8",
+      "http://37.195.247.86:81/udp/239.1.5.3:1234",
+      "http://193.201.98.123:7000/play/a027",
+      "http://185.46.48.18:8080/animalplanet/mpegts"
     ],
     "SPORTSMAX": [
       "http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8",
@@ -40729,7 +40986,8 @@
     ],
     "SETANTA SPORTS+ [FHD]": [
       "http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1",
-      "http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8"
+      "http://92.46.127.146:8080/SetantaSportPlus/tracks-v1a1/index.m3u8",
+      "http://178.124.183.13/hls/5T3FNFICQ4/bw5000000/playlist.m3u8"
     ],
     "SETANTA SPORTS HD (РЕЗЕРВ)": [
       "http://178.124.183.13/hls/FWHTTL8YXU/bw5000000/playlist.m3u8?version=2"
@@ -40747,7 +41005,11 @@
       "http://188.35.9.11:11152/q",
       "http://46.32.68.167/s/live/414/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/414/86.169.51.136/2/0.m3u8",
-      "http://86.57.225.245:7013/play/a003"
+      "http://86.57.225.245:7013/play/a003",
+      "http://54.38.180.196/play/155/2D6E866C992891C/video.m3u8",
+      "http://37.235.254.189:81/udp/225.50.64.28:1234",
+      "http://193.201.98.123:7000/play/a035",
+      "http://178.163.127.23:4022/udp/234.0.0.226:2000"
     ],
     "A-MEDIA HIT": [
       "http://178.163.109.216:34040/udp/234.0.0.169:2000",
@@ -40757,16 +41019,19 @@
     "BOLLYWOOD": [
       "http://178.163.109.216:34040/udp/234.0.0.195:2000",
       "http://178.163.127.23:4022/udp/234.0.0.195:2000",
-      "http://185.78.112.18/Bollywood/mono.m3u8"
+      "http://185.78.112.18/Bollywood/mono.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/719/index.m3u8"
     ],
     "ОХОТА И РЫБАЛКА": [
       "http://178.163.109.216:34040/udp/234.0.0.230:2000",
       "http://178.163.12.60:4022/udp/234.0.0.230:2000",
       "http://178.163.127.23:4022/udp/234.0.0.230:2000",
-      "http://persik.by/stream/1017/402000/243.m3u8"
+      "http://persik.by/stream/1017/402000/243.m3u8",
+      "http://54.38.180.196/play/88/2D6E866C992891C/video.m3u8"
     ],
     "ЮМОР": [
-      "http://178.163.127.23:4022/udp/234.0.0.101:2000"
+      "http://178.163.127.23:4022/udp/234.0.0.101:2000",
+      "http://178.163.18.154:4022/udp/234.0.0.101:2000"
     ],
     "NICKELODEON": [
       "http://178.163.127.23:4022/udp/234.0.0.153:2000",
@@ -40784,22 +41049,36 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56376.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56686.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57231.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58828.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58828.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58166.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34694.ts",
+      "http://217.21.34.158:30000/Nickelodeon/index.m3u8",
+      "http://193.201.98.123:7000/play/a03d",
+      "http://185.46.48.18:8080/nickelodeon/mpegts",
+      "http://185.176.117.243/live/eds/Nickelodeon/HLS_encr/index.m3u8",
+      "http://178.163.58.72:4022/udp/234.0.0.153:2000"
     ],
     "КАНАЛ DISNEY": [
       "http://178.163.127.23:4022/udp/234.0.0.198:2000",
       "http://46.32.68.167/s/live/603/86.169.51.136/8/0.m3u8",
       "http://93.100.35.151:4042/udp/239.239.3.10:5239",
-      "http://94.19.141.226:81/udp/239.239.3.10:5239"
+      "http://94.19.141.226:81/udp/239.239.3.10:5239",
+      "http://193.201.98.123:7000/play/a020",
+      "http://188.243.212.85:4444/udp/239.239.3.10:5239"
     ],
     "АВТО 24": [
       "http://178.163.127.23:4022/udp/234.0.0.227:2000",
       "http://188.35.9.5:10016/stolen/304n/onehalf.cab",
       "http://persik.by/stream/1017/402000/924.m3u8",
-      "http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/538/index.m3u8",
+      "http://54.38.180.196/play/256/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/154/index.m3u8",
+      "http://178.163.58.72:4022/udp/234.0.0.227:2000"
     ],
     "МАТЧ ИГРА": [
-      "http://178.163.15.103:4022/udp/234.0.0.211:2000"
+      "http://178.163.15.103:4022/udp/234.0.0.211:2000",
+      "http://178.163.50.209:4022/udp/234.0.0.211:2000"
     ],
     "NICKELODION": [
       "http://178.163.18.154:4022/udp/234.0.0.153:2000",
@@ -40824,7 +41103,10 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33592.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35478.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57493.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59156.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59156.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58382.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57645.ts",
+      "http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/index.m3u8"
     ],
     "БОКС": [
       "http://178.163.18.154:4022/udp/234.0.0.211:2000"
@@ -40835,7 +41117,9 @@
       "http://188.113.190.12/155/video.m3u8",
       "http://46.32.68.167/s/live/804/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/804/816951136/819088191919/0.m3u8",
-      "http://91.204.138.87:8888/udp/239.1.3.131:1234"
+      "http://91.204.138.87:8888/udp/239.1.3.131:1234",
+      "http://cn04.iptv.monster/play/366/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/155/index.m3u8"
     ],
     "МАТЧ ТВ": [
       "http://178.163.24.150:4022/udp/234.0.0.204:2000",
@@ -40845,7 +41129,8 @@
       "http://188.113.190.12/6/index.m3u8",
       "http://37.195.247.86:81/udp/239.1.15.23:1234",
       "http://91.204.138.87:8888/udp/224.200.224.31:1234",
-      "http://91.207.76.11:8000/tv_ch1-03"
+      "http://91.207.76.11:8000/tv_ch1-03",
+      "http://sn202.iptv.monster/play/5/2D6E866C992891C/video.m3u8"
     ],
     "MTV ROCKS": [
       "http://178.163.58.72:4022/udp/234.0.0.193:2000",
@@ -40853,7 +41138,10 @@
       "http://185.78.112.18/MTVRocks/mono.m3u8",
       "http://91.204.138.87:8888/udp/224.200.202.98:1234",
       "http://91.204.138.87:8888/udp/224.200.241.10:1234",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56562.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56562.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55814.ts",
+      "http://54.38.180.196/play/239/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02g"
     ],
     "BOLLYWOOD HD": [
       "http://178.163.58.72:4022/udp/234.0.0.195:2000",
@@ -40865,7 +41153,11 @@
       "http://178.163.58.72:4022/udp/234.0.0.233:2000",
       "http://91.204.138.87:8888/udp/224.200.202.47:1234",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56565.ts",
-      "http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/558/index.m3u8",
+      "http://54.38.180.196/play/46/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02e",
+      "http://178.163.12.60:4022/udp/234.0.0.233:2000"
     ],
     "БОЕЦ": [
       "http://178.163.59.56:4022/udp/234.0.0.6:2000"
@@ -40873,7 +41165,10 @@
     "ENGLISH CLUB TV": [
       "http://178.163.99.66:81/udp/234.0.0.174:2000",
       "http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8",
-      "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8"
+      "http://livecdnh2.tvanywhere.ae/hls/english_club/index.m3u8",
+      "http://54.38.180.196/play/157/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/159/index.m3u8",
+      "http://185.46.48.18:8080/englishclub/mpegts"
     ],
     "TV 100": [
       "http://178.62.176.153/hls/tv100/index.m3u8"
@@ -40882,7 +41177,10 @@
       "http://185.118.50.219/RU-amedia2/index.m3u8",
       "http://89.106.234.3/A2_36_37.m3u8",
       "http://flussonic.azfiber.net:80/RU-amedia2/index.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32623.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32623.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/510/index.m3u8",
+      "http://54.38.180.196/play/261/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/amedia2/mpegts"
     ],
     "АВТО ПЛЮС": [
       "http://185.118.50.219/RU-avtoplyus/index.m3u8",
@@ -40890,7 +41188,10 @@
       "http://46.32.68.167/s/live/817/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/817/816951136/819088191919/0.m3u8",
       "http://46.32.68.167/s/live/817/86.169.51.136/2/0.m3u8",
-      "http://91.204.138.87:8888/udp/239.1.41.158:1234"
+      "http://91.204.138.87:8888/udp/239.1.41.158:1234",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/151/index.m3u8",
+      "http://54.38.180.196/play/29/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a00t"
     ],
     "FOOD NETWORK": [
       "http://185.118.50.219/RU-foodnetwork/video.m3u8",
@@ -40906,7 +41207,8 @@
     "ПЕРВЫЙ ОБРАЗОВАТЕЛЬНЫЙ": [
       "http://185.78.112.18/1-obrazovat/mono.m3u8",
       "http://91.204.138.87:8888/udp/224.200.241.58:1234",
-      "http://93.100.35.151:4042/udp/239.239.3.31:5239"
+      "http://93.100.35.151:4042/udp/239.239.3.31:5239",
+      "http://54.38.180.196/play/263/2D6E866C992891C/video.m3u8"
     ],
     "AMEDIA HIT HD": [
       "http://185.78.112.18/amedia_hit_hd/mono.m3u8"
@@ -40915,7 +41217,8 @@
       "http://185.78.112.18/arena/mono.m3u8"
     ],
     "БОКС ТВ": [
-      "http://185.78.112.18/BoxTV/mono.m3u8"
+      "http://185.78.112.18/BoxTV/mono.m3u8",
+      "http://54.38.180.196/play/482/2D6E866C992891C/video.m3u8"
     ],
     "TRAVEL XP 4K": [
       "http://185.78.112.18/DE_TRAVELXP_4K/mono.m3u8"
@@ -40925,7 +41228,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58056.ts"
     ],
     "ДИКИЙ": [
-      "http://185.78.112.18/Dikiy/mono.m3u8"
+      "http://185.78.112.18/Dikiy/mono.m3u8",
+      "http://54.38.180.196/play/600/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a03g"
     ],
     "DISCOVERY CHANNEL": [
       "http://185.78.112.18/DiscoveryChannel/mono.m3u8",
@@ -40941,12 +41246,19 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35500.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8",
+      "http://193.201.98.123:7000/play/a029",
+      "http://185.46.48.18:8080/discovery/mpegts"
     ],
     "DISCOVERY CHANNEL HD": [
       "http://185.78.112.18/DiscoveryChannelHD/mono.m3u8",
       "http://185.93.3.83:5010/play/a00w",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57356.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30961.ts",
+      "http://54.38.180.196/play/147/2D6E866C992891C/video.m3u8",
+      "http://109.171.6.220:81/udp/239.54.7.86:1224"
     ],
     "DISCOVERY SCIENCE": [
       "http://185.78.112.18/DiscoveryScience/mono.m3u8",
@@ -40957,7 +41269,12 @@
       "http://flussonic.azfiber.net:80/EN/RU-discoveryscience/video.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33591.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56545.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57544.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31285.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/136/index.m3u8",
+      "http://94.177.136.29:7478/play/a039",
+      "http://185.46.48.18:8080/science/mpegts"
     ],
     "ENGLISH CLUB": [
       "http://185.78.112.18/english_club_tv/mono.m3u8",
@@ -40965,7 +41282,8 @@
     ],
     "EUROSPORT HD": [
       "http://185.78.112.18/EurosportHD/mono.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57349.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57349.ts",
+      "http://54.38.180.196/play/145/2D6E866C992891C/video.m3u8"
     ],
     "FASHION ONE HD": [
       "http://185.78.112.18/fashion_one_hd/mono.m3u8"
@@ -40978,7 +41296,10 @@
     ],
     "ФУТБОЛ": [
       "http://185.78.112.18/football/mono.m3u8",
-      "http://91.204.138.87:8888/udp/224.200.241.27:1234"
+      "http://91.204.138.87:8888/udp/224.200.241.27:1234",
+      "http://54.38.180.196/play/171/2D6E866C992891C/video.m3u8",
+      "http://37.195.247.86:81/udp/239.1.12.5:1234",
+      "http://185.46.48.18:8080/futbol/mpegts"
     ],
     "HISTORY HD": [
       "http://185.78.112.18/History-HD/mono.m3u8",
@@ -40988,7 +41309,8 @@
       "http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2701",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55748.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57338.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58701.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58701.ts",
+      "http://54.38.180.196/play/188/2D6E866C992891C/video.m3u8"
     ],
     "МАТЧ ТВ HD": [
       "http://185.78.112.18/match_hd/mono.m3u8"
@@ -41015,7 +41337,10 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56485.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57128.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58155.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58774.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58774.ts",
+      "http://54.38.180.196/play/31/2D6E866C992891C/video.m3u8",
+      "http://193.201.98.123:7000/play/a02h",
+      "http://178.163.127.23:4022/udp/234.0.0.241:2000"
     ],
     "NATIONAL GEOGRAPHIC HD": [
       "http://185.78.112.18/natgeo_hd/mono.m3u8",
@@ -41025,7 +41350,10 @@
       "http://46.32.68.167/s/live/922/86.169.51.136/8/0.m3u8",
       "http://cms.accesss.me:25461/026232135326933/659032010656363/40171",
       "http://iptv6.premium-stv.com:25461/sourcegermanypro2/0626674936/2720",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30948.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30948.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57308.ts",
+      "http://54.38.180.196/play/143/2D6E866C992891C/video.m3u8",
+      "http://37.235.254.189:81/udp/225.50.71.16:1234"
     ],
     "NAT GEO WILD": [
       "http://185.78.112.18/natgeo_wild/mono.m3u8",
@@ -41048,7 +41376,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33505.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33544.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56379.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57538.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57538.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/133/index.m3u8"
     ],
     "NICKELODEON HD": [
       "http://185.78.112.18/NickelodeonHD/mono.m3u8",
@@ -41057,7 +41386,9 @@
       "http://188.35.9.12:21031/udp/109b",
       "http://91.204.138.87:8888/udp/224.200.202.211:1234",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30982.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57003.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57003.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56855.ts",
+      "http://54.38.180.196/play/174/2D6E866C992891C/video.m3u8"
     ],
     "NICK JR": [
       "http://185.78.112.18/NickJr/mono.m3u8",
@@ -41069,18 +41400,25 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34091.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56528.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57170.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58095.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58095.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58797.ts",
+      "http://158.46.111.177:81/udp/239.255.42.126:1234?denms.ru"
     ],
     "PARAMOUNT CHANNEL": [
       "http://185.78.112.18/ParamountChannelRussia/mono.m3u8",
-      "http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8"
+      "http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32792.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2055/index.m3u8"
     ],
     "ПЛАНЕТА HD": [
       "http://185.78.112.18/planeta_hd/mono.m3u8",
-      "http://185.93.3.83:5010/play/a01z"
+      "http://185.93.3.83:5010/play/a01z",
+      "http://cn04.iptv.monster/play/374/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/219/index.m3u8"
     ],
     "ПОЕХАЛИ!": [
-      "http://185.78.112.18/Poehali/mono.m3u8"
+      "http://185.78.112.18/Poehali/mono.m3u8",
+      "http://37.235.254.189:81/udp/225.50.64.5:1234"
     ],
     "SET (SONY CHANNEL)": [
       "http://185.78.112.18/SonyChannelRussia/mono.m3u8"
@@ -41094,7 +41432,11 @@
       "http://91.204.138.87:8888/udp/239.1.35.143:1234",
       "http://cms.accesss.me:25461/026232135326933/659032010656363/26220",
       "https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830",
-      "http://185.78.112.18/SPIKE/index.m3u8"
+      "http://185.78.112.18/SPIKE/index.m3u8",
+      "http://217.25.216.4:8085/udp/238.2.15.68:1234",
+      "http://193.201.98.123:7000/play/a02v",
+      "http://188.35.9.11:21111/udp/174r",
+      "http://188.113.190.12/132/index.m3u8"
     ],
     "TRAVEL CHANNEL HD": [
       "http://185.78.112.18/TravelChannelHD/mono.m3u8",
@@ -41102,14 +41444,16 @@
       "http://46.32.68.167/s/live/925/51.51.51.51/1/0.m3u8",
       "http://46.32.68.167/s/live/925/86.169.51.136/2/0.m3u8",
       "http://91.204.138.87:8888/udp/224.200.241.52:1234",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31279.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31279.ts",
+      "http://54.38.180.196/play/190/2D6E866C992891C/video.m3u8"
     ],
     "TV1000ACTION": [
       "http://185.78.112.18/TV1000Action/mono.m3u8"
     ],
     "VIASAT HISTORY HD": [
       "http://185.78.112.18/ViasatHistoryHD/mono.m3u8",
-      "http://188.35.9.11:21121/udp/137s"
+      "http://188.35.9.11:21121/udp/137s",
+      "http://54.38.180.196/play/491/2D6E866C992891C/video.m3u8"
     ],
     "VIASAT NATURE": [
       "http://185.78.112.18/ViasatNature/mono.m3u8",
@@ -41117,11 +41461,15 @@
       "http://flussonic.azfiber.net:80/EN/RU-viasatnature/video.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32771.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58432.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59208.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59208.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57846.ts",
+      "http://54.38.180.196/play/119/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/viasatnature/mpegts"
     ],
     "VIASAT SPORT HD": [
       "http://185.78.112.18/ViasatSportHD/mono.m3u8",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts",
+      "http://54.38.180.196/play/198/2D6E866C992891C/video.m3u8"
     ],
     "ФУТБОЛ 1 УКРАИНА HD (РЕЗЕРВ2)": [
       "http://185.93.3.83:5010/play/a009"
@@ -41143,14 +41491,16 @@
     ],
     "HOLLYWOOD HD": [
       "http://185.93.3.83:5010/play/a01b",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30953.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30953.ts",
+      "http://cn04.iptv.monster/play/176/2D6E866C992891C/video.m3u8"
     ],
     "VIASAT SPORT HD (РЕЗЕРВ)": [
       "http://185.93.3.83:5010/play/a01m"
     ],
     "DISCOVERY SHOWCASE HD": [
       "http://185.93.3.83:5010/play/a01v",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58541.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58541.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31286.ts"
     ],
     "НЮ АРТ ТВ HD 18+": [
       "http://185.93.3.83:5010/play/a027"
@@ -41163,10 +41513,12 @@
       "http://85.112.114.11:8086/udp/238.2.47.108:1234.1.1",
       "http://85.112.114.11:8086/udp/238.2.47.108:1234.1.2",
       "http://85.112.114.11:8086/udp/238.2.47.108:1234.1.3",
-      "http://85.112.114.11:8086/udp/238.2.50.8:1234"
+      "http://85.112.114.11:8086/udp/238.2.50.8:1234",
+      "http://188.113.190.12/167/index.m3u8"
     ],
     "МАТЧ ФУТБОЛ 1": [
-      "http://188.113.190.12/175/video.m3u8"
+      "http://188.113.190.12/175/video.m3u8",
+      "http://sn202.iptv.monster/play/54/2D6E866C992891C/video.m3u8"
     ],
     "МАТЧ ФУТБОЛ 2": [
       "http://188.113.190.12/176/video.m3u8"
@@ -41195,7 +41547,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59016.ts",
       "https://46-166-139-148.livesports24.online/eurosport1ru.m3u8",
       "https://95-213-224-184.livesports24.online/eurosport1ru.m3u8",
-      "http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33411.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32814.ts"
     ],
     "ФУТБОЛ 1 HD (УКРАИНА)": [
       "http://188.35.9.10:2007"
@@ -41210,14 +41564,16 @@
       "http://188.35.9.11:11061/z"
     ],
     "МЕГА": [
-      "http://188.35.9.11:11082/s"
+      "http://188.35.9.11:11082/s",
+      "http://54.38.180.196/play/654/2D6E866C992891C/video.m3u8"
     ],
     "TET": [
       "http://188.35.9.11:11151/f",
       "https://live-k2301-kbp.1plus1.video/233342/smil:233342.smil/chunklist_b2928000.m3u8"
     ],
     "INTER": [
-      "http://188.35.9.11:2020"
+      "http://188.35.9.11:2020",
+      "http://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8"
     ],
     "SATANTA SPORT": [
       "http://188.35.9.11:2028"
@@ -41233,7 +41589,9 @@
       "http://188.35.9.11:21031/udp/038m",
       "http://31.13.223.104:1935/travel/community.stream/chunklist_w1003989682.m3u8",
       "http://46.32.68.167/s/live/925/86.169.51.136/8/0.m3u8",
-      "http://flussonic.azfiber.net:80/RU-travelchannel/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-travelchannel/index.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57503.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33204.ts"
     ],
     "НАСТОЯЩЕЕ ВРЕМЯ HD": [
       "http://188.35.9.11:21031/udp/053c",
@@ -41271,7 +41629,8 @@
     "CARTOON NETWORK HD": [
       "http://188.35.9.11:21151/udp/185f",
       "http://188.35.9.12:21151/udp/185f",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58226.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58226.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33654.ts"
     ],
     "EUROSPORT 2 HD POLAND": [
       "http://188.35.9.11:21151/udp/192c",
@@ -41318,7 +41677,9 @@
     ],
     "TV 1000 ACTION": [
       "http://188.35.9.5:10016/stolen/374i/onehalf.cab",
-      "http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/index.m3u8"
+      "http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/index.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32600.ts",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/131/index.m3u8"
     ],
     "EURONEWS (FR)": [
       "http://188.35.9.5:10020/stolen/510i/hot.dll"
@@ -41350,7 +41711,9 @@
     ],
     "MUSIC BOX": [
       "http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8",
-      "http://91.204.138.87:8888/udp/224.200.241.24:1234"
+      "http://91.204.138.87:8888/udp/224.200.241.24:1234",
+      "http://54.38.180.196/play/230/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/158/index.m3u8"
     ],
     "MUSICBOX UA": [
       "http://212.26.132.86/hls/mb_ua_2500.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8"
@@ -41387,7 +41750,8 @@
       "http://37.235.254.189:81/udp/225.50.67.2:1234"
     ],
     "PARAMOUNT COMEDY HD": [
-      "http://37.49.213.49:81/udp/239.54.5.117:1234"
+      "http://37.49.213.49:81/udp/239.54.5.117:1234",
+      "http://cn04.iptv.monster/play/382/2D6E866C992891C/video.m3u8"
     ],
     "MOTORSPORT TV": [
       "http://45.58.62.92:8084"
@@ -41425,7 +41789,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56547.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57095.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58825.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59121.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59121.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57016.ts"
     ],
     "NICKJR.": [
       "http://46.32.68.167/s/live/615/51.51.51.51/1/0.m3u8"
@@ -41447,7 +41812,9 @@
     ],
     "OUTDOOR CHANNEL": [
       "http://46.32.68.167/s/live/815/51.51.51.51/1/0.m3u8",
-      "http://46.32.68.167/s/live/815/86.169.51.136/8/0.m3u8"
+      "http://46.32.68.167/s/live/815/86.169.51.136/8/0.m3u8",
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/119/index.m3u8",
+      "http://54.38.180.196/play/262/2D6E866C992891C/video.m3u8"
     ],
     "АВТО ПЛЮС [SD]": [
       "http://46.32.68.167/s/live/817/86.169.51.136/8/0.m3u8"
@@ -41457,7 +41824,8 @@
       "https://stitcher.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=aoelrk6ul5u6hqj57r05399uc4"
     ],
     "НОВИЙ КАНАЛ": [
-      "http://51.15.176.84/hls/novy-ua/index.m3u8"
+      "http://51.15.176.84/hls/novy-ua/index.m3u8",
+      "http://54.38.180.196/play/651/2D6E866C992891C/video.m3u8"
     ],
     "NATIONAL GEOGRAPHIC HD (720)": [
       "http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/index.m3u8"
@@ -41487,7 +41855,8 @@
       "http://85.112.114.11:8086/udp/238.2.13.242:1234"
     ],
     "БЕЛАРУСЬ 5": [
-      "http://86.57.225.245:7002/play/a00k"
+      "http://86.57.225.245:7002/play/a00k",
+      "https://mfe12.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/bw5000000/playlist.m3u8?version=2"
     ],
     "TV1000 EAST": [
       "http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8?version=2"
@@ -41524,13 +41893,15 @@
       "http://91.204.138.87:8888/udp/224.200.241.25:1234"
     ],
     "24 ТЕХНО": [
-      "http://91.204.138.87:8888/udp/224.200.241.65:1234"
+      "http://91.204.138.87:8888/udp/224.200.241.65:1234",
+      "http://178.163.127.23:4022/udp/234.0.0.247:2000"
     ],
     "PARAMOUNT COMEDY W. EPG HD": [
       "http://91.204.138.87:8888/udp/224.200.249.10:1234"
     ],
     "KANAL DISNEY": [
-      "http://91.204.138.87:8888/udp/239.1.3.144:1234"
+      "http://91.204.138.87:8888/udp/239.1.3.144:1234",
+      "http://185.46.48.18:8080/disney/mpegts"
     ],
     "SPORT FM": [
       "http://91.204.138.87:8888/udp/239.1.34.191:1234"
@@ -41557,7 +41928,8 @@
     "112 УКРАИНА": [
       "http://95.67.12.67/hls/112hd_mid/index.m3u8",
       "http://95.67.21.132/hls/112hd_ua_mid/index.m3u8",
-      "http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8"
+      "http://app.live.112.events/hls/112hd_hi/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8",
+      "http://54.38.180.196/play/407/2D6E866C992891C/video.m3u8"
     ],
     "ПЕРВЫЙ ДЕЛОВОЙ": [
       "http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8"
@@ -41614,7 +41986,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56540.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57204.ts",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57532.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58430.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58430.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30957.ts"
     ],
     "DISCOVERY TURBO": [
       "http://cms.accesss.me:25461/026232135326933/659032010656363/12033",
@@ -41733,7 +42106,8 @@
     ],
     "FOX SPORTS 2 HD": [
       "http://cms.accesss.me:25461/026232135326933/659032010656363/40185",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31222.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31222.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55739.ts"
     ],
     "NICKELODEON 1 FULL HD": [
       "http://cms.accesss.me:25461/026232135326933/659032010656363/6905"
@@ -41803,7 +42177,8 @@
       "http://flussonic.azfiber.net:80/RU-bokstv/index.m3u8"
     ],
     "EVROKINO": [
-      "http://flussonic.azfiber.net:80/RU-evrokino/index.m3u8"
+      "http://flussonic.azfiber.net:80/RU-evrokino/index.m3u8",
+      "http://217.21.34.158:30000/Evrokino/index.m3u8"
     ],
     "ISTORIYA": [
       "http://flussonic.azfiber.net:80/RU-istoriya/index.m3u8"
@@ -41894,19 +42269,22 @@
       "http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8"
     ],
     "FOX TV": [
-      "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8"
+      "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31958.ts"
     ],
     "DISCOVERY SCIENCE HD": [
       "http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8",
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55671.ts",
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts",
+      "http://54.38.180.196/play/391/2D6E866C992891C/video.m3u8"
     ],
     "TIERRAMIA TV": [
       "http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8"
     ],
     "СЕТАНТА СПОРТ": [
       "http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8",
-      "https://46-166-139-148.livesports24.online/rusetantaeurasia.m3u8"
+      "https://46-166-139-148.livesports24.online/rusetantaeurasia.m3u8",
+      "http://54.38.180.196/play/469/2D6E866C992891C/video.m3u8"
     ],
     "4K FASHION": [
       "http://ott-stream.sevstar.net/2201/video.m3u8?token=8330162968"
@@ -41941,7 +42319,9 @@
     "REAL MADRID TV": [
       "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=ole=%22Sport%22,Al%20Kass%20Five",
       "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?textatu?iptv.m3u8?sd=10&rebase=on",
-      "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on"
+      "https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on",
+      "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=ole=\"Sport\",Al Kass Five",
+      "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000.m3u8"
     ],
     "REAL MADRID": [
       "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on"
@@ -42011,7 +42391,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31263.ts"
     ],
     "SPIKE HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31296.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31296.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55661.ts",
+      "http://213.234.9.46:7088/udp/239.1.10.10:1234"
     ],
     "SKY SPORT1 HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31385.ts"
@@ -42100,10 +42482,12 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33237.ts"
     ],
     "SPORT 1": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33238.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33238.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58850.ts"
     ],
     "NAT GEO HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33248.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33248.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56882.ts"
     ],
     "JOJ FAMILY HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33255.ts"
@@ -42142,7 +42526,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33531.ts"
     ],
     "FOX COMEDY": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33541.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33541.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31962.ts"
     ],
     "PLAY HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33545.ts"
@@ -42160,7 +42545,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33684.ts"
     ],
     "PLANETE  HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33689.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33689.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56970.ts"
     ],
     "ZEE BOLLYWOOD HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34030.ts",
@@ -42215,7 +42601,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55714.ts"
     ],
     "COMEDY CENTRAL HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55752.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55752.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31009.ts"
     ],
     "STARZ CINEMA": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55761.ts"
@@ -42333,7 +42720,9 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56848.ts"
     ],
     "EUROSPORT2": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56942.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56942.ts",
+      "http://217.21.34.158:30000/Eurosport2/index.m3u8",
+      "http://185.46.48.18:8080/eurosport2/mpegts"
     ],
     "PLANETE A&E HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56971.ts"
@@ -42366,7 +42755,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57230.ts"
     ],
     "SPORT TV 2 HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57252.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57252.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33726.ts"
     ],
     "SPORT TV HD": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57254.ts"
@@ -42471,7 +42861,8 @@
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59430.ts"
     ],
     "FOOD NETWORK HD": [
-      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59431.ts"
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59431.ts",
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55669.ts"
     ],
     "PLANETA FOLK TV": [
       "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59440.ts"
@@ -42685,6 +43076,472 @@
     ],
     "Fashionbox": [
       "http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd"
+    ],
+    "ПЛЮСПЛЮС": [
+      "https://live-k2311-kbp.1plus1.video/487229/smil:487229.smil/playlist.m3u8"
+    ],
+    "УНІАН ТВ": [
+      "https://live-k2304-kbp.1plus1.video/288721/smil:288721.smil/playlist.m3u8"
+    ],
+    "СПОРТ": [
+      "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
+    ],
+    "RETRO.FM": [
+      "https://hls-01-retro.emgsound.ru/12/96/playlist.m3u8"
+    ],
+    "KSA SPORT 2": [
+      "https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8"
+    ],
+    "ФУТБОЛ 1": [
+      "https://95-213-224-184.livesports24.online/uafootballua1.m3u8",
+      "https://46-166-139-148.livesports24.online/uafootballua1.m3u8"
+    ],
+    "SETANTA SPORTS UA HD (РЕЗЕРВ)": [
+      "https://95-213-224-184.livesports24.online/setantaukraine.m3u8"
+    ],
+    "ФУТБОЛ 2": [
+      "https://46-166-139-148.livesports24.online/fooootball2.m3u8"
+    ],
+    "DISNEY CHANNEL   1": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59017.ts"
+    ],
+    "AL K SPORT3": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58737.ts"
+    ],
+    "PRO CINEMA": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58610.ts"
+    ],
+    "PLANET MUTFAK": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58543.ts"
+    ],
+    "TV3 SPORT 1": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58426.ts"
+    ],
+    "TV 3 SPORT 2": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58424.ts"
+    ],
+    "TV 3 SPORT 1": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58423.ts"
+    ],
+    "S SPORT HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58225.ts"
+    ],
+    "SKY SPORT 3 HD (1080P)": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58060.ts"
+    ],
+    "VIASAT NATURA & VIASAT HISTORY": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57446.ts"
+    ],
+    "A SPOR HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57369.ts"
+    ],
+    "SPORTS TV  HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57289.ts"
+    ],
+    "CARTOON NETWORK HD (1080P)": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57029.ts"
+    ],
+    "TCM CINEMA": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57012.ts"
+    ],
+    "DISNEY CHANNEL FHD 1080": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57009.ts"
+    ],
+    "SCIENCE ET VIE HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56978.ts"
+    ],
+    "SKY SPORT 1 HD 1080P": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56815.ts"
+    ],
+    "DISNEY CHANNEL HD 1080P": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56792.ts"
+    ],
+    "SKY SPORT 6 HD (1080P)": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56725.ts"
+    ],
+    "DISNEY CHANNEL HD GERMANY": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56696.ts"
+    ],
+    "DISNEY XD   1": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56399.ts"
+    ],
+    "CNN HD *": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55833.ts"
+    ],
+    "CNN US HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55723.ts"
+    ],
+    "NICKELODEN HD(1)": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55697.ts"
+    ],
+    "NICKELODEN HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55662.ts"
+    ],
+    "PLANETA TV": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35467.ts"
+    ],
+    "EUROSPORT": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34624.ts",
+      "http://54.38.180.196/play/15/2D6E866C992891C/video.m3u8",
+      "http://185.46.48.18:8080/eurosport1/mpegts"
+    ],
+    "CARTOON NETWORK HINDI": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34056.ts"
+    ],
+    "NSPORT": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33572.ts"
+    ],
+    "VFILM ACTION": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33371.ts"
+    ],
+    "TRING COMEDY": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33074.ts"
+    ],
+    "SPORT.RO": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32783.ts"
+    ],
+    "VIASAT EXPLORER": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32772.ts"
+    ],
+    "MATCH TV": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32612.ts"
+    ],
+    "TV1000 COMEDY HD": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32598.ts"
+    ],
+    "DISCOVERY HD 1080 SHOWCASE": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32019.ts"
+    ],
+    "DISCOVERY HD SHOWCASE": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31967.ts",
+      "http://54.38.180.196/play/272/2D6E866C992891C/video.m3u8"
+    ],
+    "SPORT TV 4": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31928.ts"
+    ],
+    "FOX SPORTS 6": [
+      "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31212.ts"
+    ],
+    "ФУТБОЛ-2": [
+      "http://sn204.iptv.monster/play/411/2D6E866C992891C/video.m3u8"
+    ],
+    "ФУТБОЛ-1": [
+      "http://sn204.iptv.monster/play/410/2D6E866C992891C/video.m3u8"
+    ],
+    "ФУТБОЛ 2 HD": [
+      "http://sn202.iptv.monster/play/957/2D6E866C992891C/video.m3u8"
+    ],
+    "ФУТБОЛ 1 HD": [
+      "http://sn202.iptv.monster/play/956/2D6E866C992891C/video.m3u8"
+    ],
+    "TEATIME.FM": [
+      "http://mp3.stream.tb-group.fm/tt.mp3"
+    ],
+    "TRANCEBASE.FM": [
+      "http://mp3.stream.tb-group.fm/trb.mp3"
+    ],
+    "TECHNOBASE.FM": [
+      "http://mp3.stream.tb-group.fm/tb.mp3"
+    ],
+    "HOUSETIME.FM": [
+      "http://mp3.stream.tb-group.fm/ht.mp3"
+    ],
+    "HARDBASE.FM": [
+      "http://mp3.stream.tb-group.fm/hb.mp3"
+    ],
+    "CORETIME.FM": [
+      "http://mp3.stream.tb-group.fm/ct.mp3"
+    ],
+    "CLUBTIME.FM": [
+      "http://mp3.stream.tb-group.fm/clt.mp3"
+    ],
+    "SPORT 2U": [
+      "http://live.sport2u.tv:1935/EvoLive/myStream/playlist.m3u8"
+    ],
+    "FOX SPORTS ARIZONA HD": [
+      "http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1773"
+    ],
+    "FOX SPORTS FLORIDA HD": [
+      "http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1770"
+    ],
+    "FOX SPORTS NORTH HD": [
+      "http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1769"
+    ],
+    "FOX SPORTS SUN HD": [
+      "http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1768"
+    ],
+    "FOX SPORTS RACING HD": [
+      "http://iptv6.premium-stv.com:25461/SOURCEUSASNOW/3246569824/1766"
+    ],
+    "FOX TV SD": [
+      "http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1423"
+    ],
+    "EURONEWS РОССИЯ": [
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/828/index.m3u8"
+    ],
+    "AMEDIA PREMIUM HD (SD)": [
+      "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/555/index.m3u8"
+    ],
+    "ПИКСЕЛЬ": [
+      "http://cn04.iptv.monster/play/409/2D6E866C992891C/video.m3u8"
+    ],
+    "БОБЕР": [
+      "http://cn04.iptv.monster/play/396/2D6E866C992891C/video.m3u8",
+      "http://188.113.190.12/131/index.m3u8"
+    ],
+    "EUROSPORT GOLD HD": [
+      "http://cn04.iptv.monster/play/3922/2D6E866C992891C/video.m3u8"
+    ],
+    "МОТОРСПОРТ ТВ": [
+      "http://cn04.iptv.monster/play/3918/2D6E866C992891C/video.m3u8"
+    ],
+    "PARAMOUNT CHANNEL HD": [
+      "http://cn04.iptv.monster/play/383/2D6E866C992891C/video.m3u8"
+    ],
+    "ПРЯМИЙ HD": [
+      "http://cn04.iptv.monster/play/2605/2D6E866C992891C/video.m3u8"
+    ],
+    "MY PLANET": [
+      "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8",
+      "http://178.159.52.230:34040/udp/239.255.11.24:1234"
+    ],
+    "SONY TURBO [HD]": [
+      "http://8bbf95d0.iptvzone.net/iptv/XCAVNP7ZUPPBXC/708/index.m3u8"
+    ],
+    "ENTER-ФІЛЬМ": [
+      "http://54.38.180.196/play/648/2D6E866C992891C/video.m3u8"
+    ],
+    "AMEDIA 1 HD": [
+      "http://54.38.180.196/play/629/2D6E866C992891C/video.m3u8"
+    ],
+    "TV1000 ACTION HD": [
+      "http://54.38.180.196/play/487/2D6E866C992891C/video.m3u8"
+    ],
+    "СПОРТ 1": [
+      "http://54.38.180.196/play/479/2D6E866C992891C/video.m3u8"
+    ],
+    "EСПРЕСО TV": [
+      "http://54.38.180.196/play/408/2D6E866C992891C/video.m3u8"
+    ],
+    "ФУТБОЛ HD": [
+      "http://54.38.180.196/play/3920/2D6E866C992891C/video.m3u8"
+    ],
+    "КВАРТАЛ ТВ": [
+      "http://54.38.180.196/play/2627/2D6E866C992891C/video.m3u8"
+    ],
+    "FASHION TV HD": [
+      "http://54.38.180.196/play/227/2D6E866C992891C/video.m3u8"
+    ],
+    "PARAMOUNT COMEDY RUSSIA": [
+      "http://54.38.180.196/play/181/2D6E866C992891C/video.m3u8"
+    ],
+    "БЕЛАРУСЬ 2 BY": [
+      "http://54.38.180.196/play/1465/2D6E866C992891C/video.m3u8"
+    ],
+    "ЕДА HD": [
+      "http://54.38.180.196/play/141/2D6E866C992891C/video.m3u8"
+    ],
+    "ПРИКЛЮЧЕНИЯ  HD": [
+      "http://54.38.180.196/play/140/2D6E866C992891C/video.m3u8"
+    ],
+    "МАТЧ АРЕНА": [
+      "http://54.38.180.196/play/136/2D6E866C992891C/video.m3u8"
+    ],
+    "КИНОКОМЕДИЯ [SD]": [
+      "http://37.235.150.138:81/udp/225.50.64.36:1234"
+    ],
+    "SONY CHANNEL FHD": [
+      "http://37.195.247.86:81/udp/239.1.17.18:1234"
+    ],
+    "STS": [
+      "http://217.21.34.158:30000/sts/index.m3u8"
+    ],
+    "STB": [
+      "http://217.21.34.158:30000/stb/index.m3u8"
+    ],
+    "SONYTURBO": [
+      "http://217.21.34.158:30000/SonyTurbo/index.m3u8"
+    ],
+    "PARAMOUNTCOMEDY": [
+      "http://217.21.34.158:30000/ParamountComedy/index.m3u8"
+    ],
+    "NOVYKANAL": [
+      "http://217.21.34.158:30000/NovyKanal/index.m3u8"
+    ],
+    "NICKJR": [
+      "http://217.21.34.158:30000/NickJr/index.m3u8"
+    ],
+    "NATIONALGEOGRAPHICHD": [
+      "http://217.21.34.158:30000/NationalGeographicHD/index.m3u8"
+    ],
+    "NATIONALGEOGRAPHIC": [
+      "http://217.21.34.158:30000/NationalGeographic/index.m3u8"
+    ],
+    "NATGEOWILDHD": [
+      "http://217.21.34.158:30000/NatGeoWildHD/index.m3u8"
+    ],
+    "MTV_ROCKS": [
+      "http://217.21.34.158:30000/MTV_Rocks/index.m3u8"
+    ],
+    "MTV_HITS": [
+      "http://217.21.34.158:30000/MTV_Hits/index.m3u8"
+    ],
+    "CARTOONNETWORK": [
+      "http://217.21.34.158:30000/CartoonNetwork/index.m3u8"
+    ],
+    "AVTO24": [
+      "http://217.21.34.158:30000/Avto24/index.m3u8",
+      "http://185.46.48.18:8080/avto24/mpegts"
+    ],
+    "ANIMALPLANETHD": [
+      "http://217.21.34.158:30000/AnimalPlanetHD/index.m3u8"
+    ],
+    "NAT GEO WILD HD (РЕЗЕРВ)": [
+      "http://213.234.9.46:7088/udp/239.1.12.6:1234"
+    ],
+    "NATIONAL GEOGRAPHIC HD EUROPA": [
+      "http://213.234.9.46:7088/udp/239.1.12.5:1234"
+    ],
+    "TV PLUS": [
+      "http://194.67.208.149/hls/104.m3u8"
+    ],
+    "ПOЕХАЛИ!!": [
+      "http://193.201.98.123:7000/play/a03h"
+    ],
+    "TNT 0": [
+      "http://188.35.9.12:2005"
+    ],
+    "BRAZZER TV EUROPE (18+)": [
+      "http://188.113.190.12/321/index.m3u8"
+    ],
+    "ПОЕХАЛИ !": [
+      "http://188.113.190.12/206/index.m3u8"
+    ],
+    "NATIONAL GEOGRAPHIC WILD HD": [
+      "http://188.113.190.12/178/index.m3u8"
+    ],
+    "AMEDIA-2": [
+      "http://188.113.190.12/134/index.m3u8"
+    ],
+    "NAYKA": [
+      "http://185.46.48.18:8080/nauka/mpegts"
+    ],
+    "AVTOPLUS": [
+      "http://185.46.48.18:8080/avtoplus/mpegts"
+    ],
+    "VIASATNATURE": [
+      "http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8"
+    ],
+    "TV1000 PREMIUM FHD": [
+      "http://185.176.117.243/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8"
+    ],
+    "NATGEOHD": [
+      "http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/index.m3u8"
+    ],
+    "ЕВРОКИНО [SD]": [
+      "http://178.163.18.154:4022/udp/234.0.0.176:2000"
+    ],
+    "MUSIC BOX TV": [
+      "http://178.159.52.230:34040/udp/239.255.11.44:1234"
+    ],
+    "MUSIC BOX RU": [
+      "http://178.159.52.230:34040/udp/239.255.11.43:1234"
+    ],
+    "SKY SPORT NEWS": [
+      "http://134.3.199.67:9981/stream/channelid/832246889"
+    ],
+    "12 КАНАЛ": [
+      "http://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8"
+    ],
+    "СИЛА ТВ (FullHD)": [
+      "https://gcore.silatv.ru/streams/3431_1488/1080n/index.m3u8"
+    ],
+    "СИЛА ТВ (HD)": [
+      "https://gcore.silatv.ru/streams/3431_1488/720n/index.m3u8"
+    ],
+    "ViP Serial": [
+      "https://rt-cache1.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8"
+    ],
+    "Kino24": [
+      "http://85.192.10.168/Kino24Ru/mpegts"
+    ],
+    "foxlife": [
+      "http://31.131.80.12:81/foxlife/tracks-v2a1/mono.m3u8"
+    ],
+    "poehali": [
+      "http://31.131.80.12:81/poehali/tracks-v2a1/mono.m3u8"
+    ],
+    "sarafan": [
+      "http://31.131.80.12:81/sarafan/tracks-v2a1/mono.m3u8"
+    ],
+    "kinotv": [
+      "http://31.131.80.12:81/kinotv/tracks-v2a1/mono.m3u8"
+    ],
+    "Русский Роман 1": [
+      "http://178.163.76.12:4022/udp/234.0.0.224:2000"
+    ],
+    "M1 Global (Резерв)": [
+      "http://178.172.177.249:4141/udp/238.1.1.19:1234"
+    ],
+    "Fish Channel": [
+      "http://161.0.157.9/PLTV/88888888/224/3221226811/index.m3u8"
+    ],
+    "Fox (Резерв2)": [
+      "http://109.248.236.41:4433/udp/238.1.1.109:1234"
+    ],
+    "Минск ТВ HD": [
+      "http://178.172.177.249:4141/udp/238.1.1.7:1234"
+    ],
+    "Cartoon HD": [
+      "http://web.onair-radio.eu:1935/cartoon/cartoon/chunklist.m3u8"
+    ],
+    "VM Music Armenia HD": [
+      "http://autopilot.myowntv.org:80/content/34414/index.m3u8"
+    ],
+    "Twoja.TV HD": [
+      "http://94.246.169.19/ttv_hls/live_720p/index.m3u8"
+    ],
+    "Penthouse Passion HD 18+": [
+      "http://4127302f.iptvspy.me/iptv/NTNSEG6A7LSUKX/1073/index.m3u8"
+    ],
+    "Vivid TV Europe 18+": [
+      "http://188.35.9.26:2031/udp/031a"
+    ],
+    "#EXTVLCOPT:http-user-agent=smartlabs": [
+      "https://hls.goodgame.ru/hls/147367.m3u8"
+    ],
+    "Italian Video 13": [
+      "http://media.tuboitaliano.it:81/videos/5/7/e/0/0/57e000c813990.mp4"
+    ],
+    "Lecciones de cocina con Madison": [
+      "http://cdn2.servitubes.com/videos/f/3/0/3/c/f303c83df55269205ca2d0487c55145c7ac27907.mp4"
+    ],
+    "Lust Cinema - Sex Fetish": [
+      "http://cdn.servitubes.com/videos/6/1/7/d/b/617db9bf132a0fcfda158f7ff141c747e38c7582.mp4"
+    ],
+    "Mira tu polla": [
+      "http://cdn2.servitubes.com/videos/e/4/a/6/9/e4a69acb6e1e959c9b3f5b3413ebe1ea9b5e795e.mp4"
+    ],
+    "Penetrando a Kelsie Monroe": [
+      "http://cdn2.servitubes.com/videos/0/9/4/f/7/094f71d2f0310d75f102985daa132ee3f51368de.mp4"
+    ],
+    "Porneq 1": [
+      "http://porneq.com/media/porn5/videos/465/Amanda-Black-20-10-2015-Mylove-360p-2Df89PnA8q2.mp4"
+    ],
+    "Porneq 17": [
+      "http://porneq.com/media/porn7/videos/1876/Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-PIR-TE-Nika-Noire-loves-teasing-Madison-Scotts-moist-pussy-360p-FfBh6youF6y.mp4"
+    ],
+    "Porneq 2": [
+      "http://porneq.com/media/porn2/videos/904/Blonde-Hottie-Fucking-with-Asslicking-Front-Hidden-Webcam-Cumshot-on-Ass-360p-MuRBZyuxvaa.mp4"
+    ],
+    "Porneq 20": [
+      "http://porneq.com/media/porn12/videos/876/Rebeka-21yo-Virgin-Rebeka-Letting-Me-Finger-Her-And-Go-Down-Til-Orgasm-1280x720-360p-sqWVNIw88nh.mp4"
+    ],
+    "Porneq 3": [
+      "http://porneq.com/media/porn3/videos/162/Hegre-Art-15-08-04-Emily-And-Serena-Cucumber-Loving-XXX-MP4-KTR-hart-15-08-04-emily-and-serena-cucumber-loving-360p-OYjQJSpz65S.mp4"
+    ],
+    "Porneq 9": [
+      "http://porneq.com/media/porn4/videos/907/Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-360p-gLM0fvToF3C.mp4"
     ]
   },
   "unreadChannels": false

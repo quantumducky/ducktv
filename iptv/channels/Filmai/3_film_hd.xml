@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[3 Film HD]]></title>
+            <stream_url><![CDATA[http://88.216.48.147/flussonic/TV1000Pre_HD/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[3 Film HD]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+</items>

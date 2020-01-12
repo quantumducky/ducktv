@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+        <channel>
+          <title><![CDATA[3 Film]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[3 Film HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[Balticum TV]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <title><![CDATA[Balticum Auksinis]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum_auksinis.xml]]></playlist_url>
+        </channel>
+      
+</items>

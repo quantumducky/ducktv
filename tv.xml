@@ -21,6 +21,10 @@
   </description>
 </channel> -->
 
+<channel>
+  <title><![CDATA[TV Kanalai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/main.xml]]></playlist_url>
+</channel>
 
 <channel>
   <title><![CDATA[Serialai]]></title>

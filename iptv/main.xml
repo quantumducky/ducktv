@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+      <channel>
+        <title><![CDATA[LT]]></title>
+        <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/LT/main.xml]]></playlist_url>
+      </channel>
+    
+      <channel>
+        <title><![CDATA[Filmai]]></title>
+        <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/main.xml]]></playlist_url>
+      </channel>
+    
+</items>

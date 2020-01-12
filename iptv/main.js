@@ -1,13 +1,15 @@
-const fs = require('fs').promises;
+const fsPromise = require('fs').promises;
+const fs = require('fs');
 const fetch = require('node-fetch');
 const xml2js = require('xml2js');
 const parser = new xml2js.Parser();
 
 
-const PLAYLISTS_FOLDER_PATH = './data/playlists/';
+const PLAYLISTS_FOLDER_PATH = './data/playlists';
 const LOG_FILE_PATH = './data/log.json';
 const CHANNELS_INFO_FILE_PATH = './data/channelsInfo.json';
 const M3U8_PLAYLIST_FILE_PATH = './playlist.m3u8';
+const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/quantumducky/ducktv/master';
 const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
 
@@ -15,33 +17,114 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   // await fetchPlaylists();
 
-  const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
-  const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
-  await findChannels(channels, channelsToSearch);
+  // const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
+  // const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
+  // const foundChannels = await findChannels(channels, channelsToSearch);
+
+  const foundChannel = await readLogData('./foundChannels.json');
+
+  // writeLogData(foundChannels, './foundChannels.json');
+
+  await generateXMLPlaylist(foundChannel);
+
   
 })();
+
+
+async function generateXMLPlaylist(channels) {
+  console.log("Generating XML playlist");
+
+  let mainXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+
+  for (let category in channels) {
+
+    // Create a DIR for category, if it doesn't exist.
+    let categoryPath = `./channels/${category}`;
+    if (!fs.existsSync(categoryPath)) {
+      fsPromise.mkdir(categoryPath);
+    }
+
+    let categoryXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+    for (let channel of channels[category]) {
+      let channelXml = `<?xml version="1.0" encoding="UTF-8"?>\n<items>`;
+      for (let url of channel.urls) {
+        channelXml += `
+          <channel>
+            <title><![CDATA[${channel.name}]]></title>
+            <stream_url><![CDATA[${url}]]></stream_url>
+          </channel>
+        `;
+      }
+      channelXml += '\n</items>';
+      await writeToFile(channelXml, `${categoryPath}/${channel.id}.xml`);
+
+      categoryXml += `
+        <channel>
+          <title><![CDATA[${channel.name}]]></title>
+          <playlist_url><![CDATA[${GITHUB_BASE_URL}/iptv/channels/${category}/${channel.id}.xml]]></playlist_url>
+        </channel>
+      `;
+    }
+    categoryXml += '\n</items>';
+    await writeToFile(categoryXml, `${categoryPath}/main.xml`);
+
+    mainXml += `
+      <channel>
+        <title><![CDATA[${category}]]></title>
+        <playlist_url><![CDATA[${GITHUB_BASE_URL}/iptv/channels/${category}/main.xml]]></playlist_url>
+      </channel>
+    `;
+  }
+
+  mainXml += '\n</items>';
+  await writeToFile(mainXml, `./main.xml`);
+}
+
+
+async function generateM3U8Playlist(channels, filePath, limit) {
+  // let results = '#EXTM3U\n';
+  // for (let channel in channels) {
+  //   const channelUrls = limit ? channels[channel].slice(0, limit) : channels[channel];
+  //   channelUrls.forEach(url => {
+  //     results += `#EXTINF:0, ${channel}\n${url}\n`;
+  //   });
+  // }
+
+  // await writeToFile(results, filePath);
+  // console.log('M3U8 playlist was generated.')
+  console.log("Needs re-implementing!");
+}
+
 
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
   let foundChannels = {}
-  for (let channel in channelsToSearch) {
-    let foundUrls = [];
-    for (let term of channelsToSearch[channel].terms) {
-      if (term in allChannels) {
-        for (let url of allChannels[term]) {
-          foundUrls.push(url);
+  for (let category in channelsToSearch) {
+    foundChannels[category] = [];
+    for (let channel of channelsToSearch[category]) {
+      let foundUrls = [];
+      for (let term of channel.terms) {
+        if (term in allChannels) {
+          for (let url of allChannels[term]) {
+            if (!foundUrls.includes(url)) {
+              foundUrls.push(url);
+            }
+          }
         }
       }
+  
+      const workingUrls = await findWorkingChannels(foundUrls);
+      let foundChannel = {...channel};
+      foundChannel.urls = workingUrls;
+      foundChannels[category].push(foundChannel);
+      console.log(`Found ${workingUrls.length}/${foundUrls.length} working urls for channel '${channel.name}'`);
     }
-
-    const workingUrls = await findWorkingChannels(foundUrls);
-    foundChannels[channel] = workingUrls;
-    console.log(`Found ${workingUrls.length}/${foundUrls.length} working urls for channel '${channel}'`);
   }
 
-  await generateM3U8Playlist(foundChannels, M3U8_PLAYLIST_FILE_PATH, 3);
+  return foundChannels;
 }
+
 
 async function findWorkingChannels(urls) {
   let workingUrls = [];
@@ -56,42 +139,6 @@ async function findWorkingChannels(urls) {
   return workingUrls;
 }
 
-async function generateM3U8Playlist(channels, filePath, limit) {
-  let results = '#EXTM3U\n';
-  for (let channel in channels) {
-    const channelUrls = channels[channel].slice(0, limit);
-    channelUrls.forEach(url => {
-      results += `#EXTINF:0, ${channel}\n${url}\n`;
-    });
-  }
-
-  await writeToFile(results, filePath);
-  console.log('M3U8 playlist was generated.')
-}
-
-async function readLogData(filePath) {
-  const logFile = await fs.readFile(filePath, 'utf-8');
-  const log = await JSON.parse(logFile);
-  return log;
-}
-
-async function writeLogData(log, filePath) {
-  let json = JSON.stringify(log, null, 2);
-  await writeToFile(json, filePath);
-}
-
-async function writeToFile(data, filePath) {
-  let fileHandle;
-  try {
-    fileHandle = await fs.writeFile(filePath, data);
-  } catch (err) {
-    console.log(`Error writing to file.`);
-  } finally {
-    if (fileHandle !== undefined) {
-      fileHandle.close();
-    }
-  }
-}
 
 async function readChannelsFromPlaylists(logPath) {
 
@@ -108,13 +155,16 @@ async function readChannelsFromPlaylists(logPath) {
   let checkedURLs = [];
 
   for (let playlist of log.playlists) {
-    const text = await fs.readFile(PLAYLISTS_FOLDER_PATH + playlist, 'utf-8');
+    const text = await fsPromise.readFile(`${PLAYLISTS_FOLDER_PATH}/${playlist}`, 'utf-8');
     const lines = text.split("\n");
   
     for (let i=0; i < lines.length; i++) {
       if (lines[i].startsWith("#EXTINF")) {
-        const channelName = lines[i++].split(",").slice(1).join(",").trim();
-        const channelURL = lines[i].startsWith("#EXTGRP") ? lines[++i] : lines[i];
+        let channelName = lines[i++].split(",").slice(1).join(",").trim();
+        if (channelName.includes("group-title=")) {
+          channelName = channelName.split(",").slice(1).join(",").trim();
+        }
+        let channelURL = lines[i].startsWith("#EXTGRP") ? lines[++i] : lines[i];
 
         if (!(channelName in foundChannels) && !checkedURLs.includes(channelURL)) {
           foundChannels[channelName] = [];
@@ -136,6 +186,7 @@ async function readChannelsFromPlaylists(logPath) {
   console.log('Finished reading channels.');
   return foundChannels;
 }
+
 
 async function fetchPlaylists() {
 
@@ -179,7 +230,7 @@ async function fetchPlaylists() {
     
     let fileHandle;
     try {
-      fileHandle = await fs.writeFile(PLAYLISTS_FOLDER_PATH + name, m3u);
+      fileHandle = await fsPromise.writeFile(`${PLAYLISTS_FOLDER_PATH}/${name}`, m3u);
       playlistLog.push(name);
       log.unreadChannels = true;
       console.log(`Playlist '${name}' has been written to file.`);
@@ -194,4 +245,31 @@ async function fetchPlaylists() {
 
   await writeLogData(log, LOG_FILE_PATH);
   console.log('Playlist fetching completed.');
+}
+
+
+async function readLogData(filePath) {
+  const logFile = await fsPromise.readFile(filePath, 'utf-8');
+  const log = await JSON.parse(logFile);
+  return log;
+}
+
+
+async function writeLogData(log, filePath) {
+  let json = JSON.stringify(log, null, 2);
+  await writeToFile(json, filePath);
+}
+
+
+async function writeToFile(data, filePath) {
+  let fileHandle;
+  try {
+    fileHandle = await fsPromise.writeFile(filePath, data);
+  } catch (err) {
+    console.log(`Error writing to file.`);
+  } finally {
+    if (fileHandle !== undefined) {
+      fileHandle.close();
+    }
+  }
 }
