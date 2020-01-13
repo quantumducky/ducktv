@@ -2,16 +2,11 @@
 <items>
           <channel>
             <title><![CDATA[Init TV (1)]]></title>
-            <stream_url><![CDATA[http://88.216.48.147/flussonic/Init_HD/video.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Init TV (2)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/155/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Init TV (3)]]></title>
+            <title><![CDATA[Init TV (2)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/13/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

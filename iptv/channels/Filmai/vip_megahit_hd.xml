@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[VIP Megahit HD (1)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit HD (2)]]></title>
+            <stream_url><![CDATA[http://tv545.com/stream/3znj4KV/channel/210.m3u8]]></stream_url>
+          </channel>
+        
+</items>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/3_film.png]]></logo_30x30>
-          <title><![CDATA[3 Film]]></title>
-          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film.xml]]></playlist_url>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv3_film.png]]></logo_30x30>
+          <title><![CDATA[TV3 Film]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv3_film.xml]]></playlist_url>
         </channel>
       
         <channel>
-          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/3_film.png]]></logo_30x30>
-          <title><![CDATA[3 Film HD]]></title>
-          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/3_film_hd.xml]]></playlist_url>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv3_film.png]]></logo_30x30>
+          <title><![CDATA[TV3 Film HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv3_film_hd.xml]]></playlist_url>
         </channel>
       
         <channel>
@@ -28,6 +28,66 @@
           <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/balticum_platinum.png]]></logo_30x30>
           <title><![CDATA[Balticum Platinum HD]]></title>
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/balticum_platinum_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv1000.png]]></logo_30x30>
+          <title><![CDATA[TV1000]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv1000.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv1000.png]]></logo_30x30>
+          <title><![CDATA[TV1000 HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv1000_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv1000_action.png]]></logo_30x30>
+          <title><![CDATA[TV1000 Action]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv1000_action.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/tv1000_action.png]]></logo_30x30>
+          <title><![CDATA[TV1000 Action HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/tv1000_action_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_comedy.png]]></logo_30x30>
+          <title><![CDATA[VIP Comedy]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_comedy.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_comedy.png]]></logo_30x30>
+          <title><![CDATA[VIP Comedy HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_comedy_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_megahit.png]]></logo_30x30>
+          <title><![CDATA[VIP Megahit]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_megahit.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_megahit.png]]></logo_30x30>
+          <title><![CDATA[VIP Megahit HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_megahit_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_premiere.png]]></logo_30x30>
+          <title><![CDATA[VIP Premiere]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_premiere.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/vip_premiere.png]]></logo_30x30>
+          <title><![CDATA[VIP Premiere HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_premiere_hd.xml]]></playlist_url>
         </channel>
       
 </items>

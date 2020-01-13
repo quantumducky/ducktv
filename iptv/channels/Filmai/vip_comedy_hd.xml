@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[VIP Comedy HD (1)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (2)]]></title>
+            <stream_url><![CDATA[http://31.41.96.176:81/udp/225.0.56.14:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (3)]]></title>
+            <stream_url><![CDATA[http://50.7.244.58:8080/vip_comedy_hd/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (4)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (5)]]></title>
+            <stream_url><![CDATA[http://tv545.com/stream/3znj4KV/channel/208.m3u8]]></stream_url>
+          </channel>
+        
+</items>

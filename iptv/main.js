@@ -25,7 +25,7 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   writeLogData(foundChannels, './foundChannels.json');
 
-  // await generateXMLPlaylist(foundChannels);
+  await generateXMLPlaylist(foundChannels);
 
   
 })();
@@ -101,7 +101,7 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  const ignoreCategories = ["LT", "Filmai"];
+  const ignoreCategories = ["Sportas"];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {
@@ -140,10 +140,7 @@ async function findWorkingChannels(urls) {
   let index = 1;
   await Promise.all(urls.slice(0,20).map(async url => {
     try {
-      //https://davidwalsh.name/fetch-timeout
-      // console.log(index++ + ': ' + url);
-      let res = await fetch(url);
-      // console.log('res -> ' + res);
+      let res = await timeoutPromise(10000, fetch(url));
       if (res.ok) workingUrls.push(url);
     } catch (err) {}
   }));
@@ -284,4 +281,27 @@ async function writeToFile(data, filePath) {
       fileHandle.close();
     }
   }
+}
+
+function timeoutPromise(ms, promise) {
+  return new Promise((resolve, reject) => {
+    let timeoutId = setTimeout(() => {
+      timeoutId = undefined;
+      reject(new Error("promise timeout"))
+    }, ms);
+    promise.then(
+      (res) => {
+        if (timeoutId) {
+          clearTimeout(timeoutId);
+          resolve(res);
+        }
+      },
+      (err) => {
+        if (timeoutId) {
+          clearTimeout(timeoutId);
+          reject(err);
+        }
+      }
+    );
+  })
 }

@@ -2,47 +2,32 @@
 <items>
           <channel>
             <title><![CDATA[LNK (1)]]></title>
-            <stream_url><![CDATA[http://84.32.72.60:8080/lnk/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (2)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (3)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (4)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (5)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (6)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LNK (7)]]></title>
             <stream_url><![CDATA[http://78.31.227.252:8080/lnk/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[LNK (8)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0378/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <title><![CDATA[LNK (2)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[LNK (9)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/77/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <title><![CDATA[LNK (3)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LNK (4)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LNK (5)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LNK (6)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/LNK/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
 </items>

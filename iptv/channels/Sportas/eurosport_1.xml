@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Eurosport 1 (1)]]></title>
+            <stream_url><![CDATA[http://195.162.90.141:8080/228ae58f824e7668c245ecb1e5c1c850]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (2)]]></title>
+            <stream_url><![CDATA[http://213.174.8.7:8000/play/15/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (3)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (4)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/141/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/141/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/141/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/141/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (9)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/141/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (10)]]></title>
+            <stream_url><![CDATA[http://50.7.244.58:8080/eurosport_1/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 (11)]]></title>
+            <stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.114:1234]]></stream_url>
+          </channel>
+        
+</items>

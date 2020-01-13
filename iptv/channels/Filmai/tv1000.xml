@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[TV1000 (1)]]></title>
+            <stream_url><![CDATA[http://212.12.194.10/tv1000/live.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (2)]]></title>
+            <stream_url><![CDATA[http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (3)]]></title>
+            <stream_url><![CDATA[http://188.35.9.5:10020/stolen/484c/hot.dll]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (4)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream56/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (5)]]></title>
+            <stream_url><![CDATA[http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/132/index.m3u8]]></stream_url>
+          </channel>
+        
+</items>

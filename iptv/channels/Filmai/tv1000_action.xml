@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[TV1000 Action (1)]]></title>
+            <stream_url><![CDATA[http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (2)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream58/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (3)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s91/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (4)]]></title>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/131/index.m3u8]]></stream_url>
+          </channel>
+        
+</items>

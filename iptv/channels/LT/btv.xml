@@ -12,11 +12,6 @@
         
           <channel>
             <title><![CDATA[BTV (3)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0377/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[BTV (4)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/81/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

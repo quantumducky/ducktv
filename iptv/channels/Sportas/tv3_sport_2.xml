@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[TV3 Sport 2 HD (1)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/tvplaysportsplus/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Sport 2 HD (2)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/214/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Sport 2 HD (3)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58424.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Sport 2 HD (4)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58422.ts]]></stream_url>
+          </channel>
+        
+</items>

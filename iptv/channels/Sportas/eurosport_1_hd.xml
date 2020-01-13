@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (1)]]></title>
+            <stream_url><![CDATA[http://188.35.9.11:21081/udp/098t]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (2)]]></title>
+            <stream_url><![CDATA[http://188.35.9.9:21081/udp/098t]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (3)]]></title>
+            <stream_url><![CDATA[http://109.171.45.81:81/udp/239.54.7.174:1224]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (4)]]></title>
+            <stream_url><![CDATA[http://109.171.6.220:81/udp/239.54.6.174:1224]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (5)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream44/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (6)]]></title>
+            <stream_url><![CDATA[http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (7)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56776.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (8)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31430.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (9)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (10)]]></title>
+            <stream_url><![CDATA[http://151.80.59.206/TV/FLASH-TV/n/mac/479.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (11)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56579.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (12)]]></title>
+            <stream_url><![CDATA[http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1343]]></stream_url>
+          </channel>
+        
+</items>
