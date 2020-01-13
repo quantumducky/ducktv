@@ -2,27 +2,147 @@
 <items>
           <channel>
             <title><![CDATA[TV1000 (1)]]></title>
-            <stream_url><![CDATA[http://212.12.194.10/tv1000/live.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 (2)]]></title>
             <stream_url><![CDATA[http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[TV1000 (2)]]></title>
+            <stream_url><![CDATA[http://212.12.194.10/tv1000/live.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[TV1000 (3)]]></title>
-            <stream_url><![CDATA[http://188.35.9.5:10020/stolen/484c/hot.dll]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.14/hls/6WMZMUEWGN/bw1200000/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV1000 (4)]]></title>
-            <stream_url><![CDATA[http://212.112.101.69:8081/stream56/output.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV1000 (5)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/tv1000/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (6)]]></title>
+            <stream_url><![CDATA[http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (7)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (8)]]></title>
+            <stream_url><![CDATA[http://178.124.183.12/hls/6WMZMUEWGN/bw2000000/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (9)]]></title>
+            <stream_url><![CDATA[http://84.32.72.60:8080/tv1000/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (10)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (11)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (12)]]></title>
+            <stream_url><![CDATA[http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (13)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (14)]]></title>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.234.1:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (15)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (16)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (17)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (18)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream56/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (19)]]></title>
+            <stream_url><![CDATA[http://46.181.116.168:81/udp/239.255.42.49:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (20)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (21)]]></title>
+            <stream_url><![CDATA[http://158.46.88.95:4022/udp/239.255.42.49:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (22)]]></title>
             <stream_url><![CDATA[http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/132/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (23)]]></title>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (24)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/82/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (25)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (26)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/50/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (27)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59444.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (28)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32599.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 (29)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32776.ts]]></stream_url>
           </channel>
         
 </items>

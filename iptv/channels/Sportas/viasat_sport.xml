@@ -2,27 +2,27 @@
 <items>
           <channel>
             <title><![CDATA[Viasat Sport (1)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.234.12:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (2)]]></title>
-            <stream_url><![CDATA[http://212.112.101.69:8081/stream55/output.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/239.1.23.147:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (3)]]></title>
-            <stream_url><![CDATA[http://46.19.43.248:9981/stream/channelid/344696513]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (4)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/160/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/160/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/160/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/160/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -32,26 +32,61 @@
         
           <channel>
             <title><![CDATA[Viasat Sport (7)]]></title>
-            <stream_url><![CDATA[http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Sport (8)]]></title>
             <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/160/index.m3u]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat Sport (8)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream55/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat Sport (9)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (10)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/160/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://46.19.43.248:9981/stream/channelid/344696513]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport (11)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/160/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (12)]]></title>
+            <stream_url><![CDATA[http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (13)]]></title>
+            <stream_url><![CDATA[http://158.46.88.95:4022/udp/239.255.42.57:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (14)]]></title>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (15)]]></title>
+            <stream_url><![CDATA[http://188.113.190.12/34/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (16)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (17)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/77/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport (18)]]></title>
             <stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.50:1234]]></stream_url>
           </channel>
         

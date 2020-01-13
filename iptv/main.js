@@ -3,6 +3,7 @@ const fs = require('fs');
 const fetch = require('node-fetch');
 const xml2js = require('xml2js');
 const parser = new xml2js.Parser();
+const AbortController = require("abort-controller");
 
 
 const PLAYLISTS_FOLDER_PATH = './data/playlists';
@@ -17,15 +18,16 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   // await fetchPlaylists();
 
-  const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
-  const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
-  const foundChannels = await findChannels(channels, channelsToSearch);
+  // const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
+  // const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
+  // const foundChannels = await findChannels(channels, channelsToSearch);
 
-  // const foundChannels = await readLogData('./foundChannels.json');
+  const foundChannels = await readLogData('./foundChannels.json');
 
-  writeLogData(foundChannels, './foundChannels.json');
+  // writeLogData(foundChannels, './foundChannels.json');
 
   await generateXMLPlaylist(foundChannels);
+  process.exit(0);
 
   
 })();
@@ -101,7 +103,7 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  const ignoreCategories = ["Sportas"];
+  const ignoreCategories = ["Filmai", "Sportas"];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {
@@ -137,11 +139,24 @@ async function findChannels(allChannels, channelsToSearch) {
 
 async function findWorkingChannels(urls) {
   let workingUrls = [];
-  let index = 1;
-  await Promise.all(urls.slice(0,20).map(async url => {
+  await Promise.all(urls.map(async url => {
     try {
-      let res = await timeoutPromise(10000, fetch(url));
-      if (res.ok) workingUrls.push(url);
+      const controller = new AbortController();
+      const timeout = setTimeout(
+        () => { controller.abort(); },
+        15000,
+      );
+        
+      await fetch(url, { signal: controller.signal })
+        .then(res => {
+          if (res.ok) workingUrls.push(url);
+        })
+        .finally(() => {
+          clearTimeout(timeout);
+        });
+
+      // let res = await timeoutPromise(10000, fetch(url));
+      // if (res.ok) workingUrls.push(url);
     } catch (err) {}
   }));
 

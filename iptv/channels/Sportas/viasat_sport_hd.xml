@@ -17,17 +17,17 @@
         
           <channel>
             <title><![CDATA[Viasat Sport HD (4)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Sport HD (5)]]></title>
             <stream_url><![CDATA[http://54.38.180.196/play/198/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Sport HD (6)]]></title>
+            <title><![CDATA[Viasat Sport HD (5)]]></title>
             <stream_url><![CDATA[http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport HD (6)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts]]></stream_url>
           </channel>
         
 </items>

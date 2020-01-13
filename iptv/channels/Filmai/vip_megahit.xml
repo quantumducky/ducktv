@@ -2,27 +2,27 @@
 <items>
           <channel>
             <title><![CDATA[VIP Megahit (1)]]></title>
-            <stream_url><![CDATA[http://212.29.231.242:8080/btv_201/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Megahit (2)]]></title>
-            <stream_url><![CDATA[http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/201/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Megahit (3)]]></title>
             <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/201/index.m3u]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[VIP Megahit (2)]]></title>
+            <stream_url><![CDATA[http://212.29.231.242:8080/btv_201/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit (3)]]></title>
+            <stream_url><![CDATA[http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/201/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[VIP Megahit (4)]]></title>
-            <stream_url><![CDATA[http://188.35.9.11:2016]]></stream_url>
+            <stream_url><![CDATA[http://50.7.244.58:8080/vip_megahit_hd/mpegts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Megahit (5)]]></title>
-            <stream_url><![CDATA[http://188.35.9.10:2016]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/201/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,32 +32,32 @@
         
           <channel>
             <title><![CDATA[VIP Megahit (7)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/201/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/202/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Megahit (8)]]></title>
-            <stream_url><![CDATA[http://50.7.244.58:8080/vip_megahit_hd/mpegts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Megahit (9)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/201/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Megahit (10)]]></title>
-            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Megahit (11)]]></title>
             <stream_url><![CDATA[http://78.157.230.19/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[VIP Megahit (12)]]></title>
+            <title><![CDATA[VIP Megahit (9)]]></title>
+            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit (10)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/201/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit (11)]]></title>
             <stream_url><![CDATA[http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit (12)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/195/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
           <channel>

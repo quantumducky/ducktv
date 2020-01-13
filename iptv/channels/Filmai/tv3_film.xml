@@ -7,17 +7,17 @@
         
           <channel>
             <title><![CDATA[TV3 Film (2)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/tv1000premium/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV3 Film (3)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV3 Film (4)]]></title>
+            <title><![CDATA[TV3 Film (3)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Film (4)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/tv1000premium/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -28,6 +28,11 @@
           <channel>
             <title><![CDATA[TV3 Film (6)]]></title>
             <stream_url><![CDATA[http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Film (7)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/103/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

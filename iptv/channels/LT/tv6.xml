@@ -2,7 +2,7 @@
 <items>
           <channel>
             <title><![CDATA[TV6 (1)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/TV6/mono.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -12,12 +12,12 @@
         
           <channel>
             <title><![CDATA[TV6 (3)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://84.32.72.60:8080/tv6/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV6 (4)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -27,6 +27,16 @@
         
           <channel>
             <title><![CDATA[TV6 (6)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 (7)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/TV6/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV6 (8)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/83/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
