@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/national_geographic.png]]></logo_30x30>
+          <title><![CDATA[National Geographic]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/national_geographic.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/national_geographic.png]]></logo_30x30>
+          <title><![CDATA[National Geographic HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/national_geographic_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/nat_geo_wild.png]]></logo_30x30>
+          <title><![CDATA[Nat Geo Wild]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/nat_geo_wild.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/nat_geo_wild.png]]></logo_30x30>
+          <title><![CDATA[Nat Geo Wild HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/nat_geo_wild_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/docubox.png]]></logo_30x30>
+          <title><![CDATA[DocuBox HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/docubox_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/ochota_i_rybalka.png]]></logo_30x30>
+          <title><![CDATA[Охота и Рыбалка]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/ochota_i_rybalka.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/animal_planet.png]]></logo_30x30>
+          <title><![CDATA[Animal Planet]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/animal_planet.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/animal_planet.png]]></logo_30x30>
+          <title><![CDATA[Animal Planet HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/animal_planet_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_explore.png]]></logo_30x30>
+          <title><![CDATA[Viasat Explore]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_explore.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_explore.png]]></logo_30x30>
+          <title><![CDATA[Viasat Explore HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_explore_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_history.png]]></logo_30x30>
+          <title><![CDATA[Viasat History]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_history.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_history.png]]></logo_30x30>
+          <title><![CDATA[Viasat History HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_history_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_nature.png]]></logo_30x30>
+          <title><![CDATA[Viasat Nature]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_nature.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/viasat_nature.png]]></logo_30x30>
+          <title><![CDATA[Viasat Nature HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/viasat_nature_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/discovery_channel.png]]></logo_30x30>
+          <title><![CDATA[Discovery Channel]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/discovery_channel.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/discovery_channel.png]]></logo_30x30>
+          <title><![CDATA[Discovery Channel HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/discovery_channel_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/discovery_science.png]]></logo_30x30>
+          <title><![CDATA[Discovery Science]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/discovery_science.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/discovery_science.png]]></logo_30x30>
+          <title><![CDATA[Discovery Science HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Dokumentika/discovery_science_hd.xml]]></playlist_url>
+        </channel>
+      
+</items>

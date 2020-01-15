@@ -197,7 +197,15 @@
     "(11.01.20)iptvchannels_no_save.m3u",
     "(11.01.20)MAX-475Play_no_save.m3u",
     "(10.01.20)MAX-PLAYLIST_no_save.m3u",
-    "(10.01.20)MAX-XXX18ltx_no_save.m3u"
+    "(10.01.20)MAX-XXX18ltx_no_save.m3u",
+    "(15.01.20)391RuSgoldsi_no_save.m3u",
+    "(15.01.20)03nildwuvkte_no_save.m3u",
+    "(15.01.20)ukr-blagovi_no_save.m3u",
+    "(15.01.20)iptvchannels_no_save.m3u",
+    "(14.01.20)DEhqiulufutw_no_save.m3u",
+    "(13.01.20)Germanyejsql_no_save.m3u",
+    "(13.01.20)WorldStream_no_save.m3u",
+    "(12.01.20)iptvhdvrzqzq_no_save.m3u"
   ],
   "channels": {
     "53": [
@@ -532,7 +540,8 @@
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISNEY/variant.m3u8",
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=43",
       "http://iptvnelt.com/kanalas/143/hls/4WT1bzMG/?type=m3u8",
-      "http://77.47.100.184:9981/stream/channelid/1749534617?ticket=5E7FFA1D6F108E154302E329C7EA86F14E15EA35&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1749534617?ticket=5E7FFA1D6F108E154302E329C7EA86F14E15EA35&profile=pass",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6420"
     ],
     "Disney Junior": [
       "http://89.45.201.132:2222/udp/224.0.0.3:151",
@@ -556,7 +565,9 @@
       "http://88.119.220.3/live/eds/Disney_Junior/HLS_encr/index.m3u8",
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=41",
       "https://cdn2.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyJunior&login=voryag&key=FRedfr66",
+      "http://303tv.net:8080/barissen12/24082019adpara/195",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/868"
     ],
     "Cartoon Network": [
       "http://89.45.201.132:2222/udp/224.0.0.3:152",
@@ -759,7 +770,10 @@
       "#EXTINF:-1 ,Discovery Channel",
       "http://151.0.48.26:8080/ch0116",
       "http://iptvnelt.com/kanalas/46/hls/4WT1bzMG/?type=m3u8",
-      "http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd",
+      "http://smip.tv:8080/destekuser/22122019/1113",
+      "http://303tv.net:8080/barissen12/24082019adpara/4877",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2613"
     ],
     "Discovery Science": [
       "http://89.45.201.132:2222/udp/224.0.0.3:702",
@@ -811,7 +825,8 @@
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=57",
       "http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/137/index.m3u8",
-      "http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6424"
     ],
     "DaVinci Learning": [
       "http://89.45.201.132:2222/udp/224.0.0.3:708"
@@ -819,7 +834,8 @@
     "NatGeo Wild": [
       "http://89.45.201.132:2222/udp/224.0.0.3:709",
       "http://persik.by/stream/9189/416795/10446.m3u8",
-      "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=54"
+      "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=54",
+      "http://smip.tv:8080/destekuser/22122019/1128"
     ],
     "History HD": [
       "http://89.45.201.132:2222/udp/224.0.0.3:710",
@@ -841,7 +857,8 @@
       "http://server1.life-tv.eu/ch0059/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/231/index.m3u8",
       "http://185.93.3.83:5001/play/a06f/index.m3u8",
-      "http://185.78.112.18/History-HD/index.m3u8"
+      "http://185.78.112.18/History-HD/index.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2627"
     ],
     "Viasat Explore": [
       "http://89.45.201.132:2222/udp/224.0.0.3:711",
@@ -1006,7 +1023,9 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/228/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/228/index.m3u8",
       "http://iptvnelt.com/kanalas/24/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=voryag&key=FRedfr66",
+      "http://303tv.net:8080/barissen12/24082019adpara/236",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=Martyn&key=CBxWefH"
     ],
     "Eurosport 2 HD": [
       "http://89.45.201.132:2222/udp/224.0.0.3:1208",
@@ -1022,7 +1041,9 @@
       "http://92.46.127.146:8080/Eurosport2/index.m3u8",
       "http://iptvnelt.com/kanalas/23/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a06z/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=voryag&key=FRedfr66",
+      "http://303tv.net:8080/barissen12/24082019adpara/235",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=Martyn&key=CBxWefH"
     ],
     "Pro Cinema": [
       "http://89.45.201.132:2222/udp/224.0.0.3:504"
@@ -1056,7 +1077,9 @@
       "#EXTINF:-1 ,Outdoor HD",
       "http://iptvnelt.com/kanalas/21/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a066/index.m3u8",
-      "http://185.78.112.18/AnimalPlanetRussiaHD/index.m3u8"
+      "http://185.78.112.18/AnimalPlanetRussiaHD/index.m3u8",
+      "http://303tv.net:8080/barissen12/24082019adpara/4876",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetHD&login=Martyn&key=CBxWefH"
     ],
     "Happy Channel": [
       "http://89.45.201.132:2222/udp/224.0.0.3:508"
@@ -1133,7 +1156,8 @@
     ],
     "SUPER RTL": [
       "http://89.45.201.132:2222/udp/224.0.0.3:359",
-      "http://88.216.8.122:8080/super_rtl/index.m3u8"
+      "http://88.216.8.122:8080/super_rtl/index.m3u8",
+      "http://smip.tv:8080/destekuser/22122019/1092"
     ],
     "E HD": [
       "http://89.45.201.132:2222/udp/224.0.0.3:511"
@@ -1852,7 +1876,8 @@
       "http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8",
       "http://178.124.183.14/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8",
       "http://iptvnelt.com/kanalas/63/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoomerang&login=voryag&key=FRedfr66",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3849"
     ],
     "Bridge Hits": [
       "http://185.254.189.134:8000/play/a05x/index.m3u8?auth=test1457:test1457",
@@ -1979,7 +2004,8 @@
       "http://185.254.189.134:8000/play/a028/index.m3u8?auth=test1457:test1457",
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2147.m3u8",
       "http://ott.shara.club:80/ainar/UQNmliosG1/2147",
-      "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8"
+      "http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport4k&login=Martyn&key=CBxWefH"
     ],
     "Extreme sport": [
       "http://185.254.189.134:8000/play/a05a/index.m3u8?auth=test1457:test1457",
@@ -2065,7 +2091,8 @@
       "http://178.124.183.5/hls/CH_HISTORY_HLS/variant.m3u8?version=2",
       "http://185.93.3.83:5001/play/a034/index.m3u8",
       "http://178.124.183.150/hls/CH_HISTORY_HLS/bw1200000/playlist.m3u8",
-      "http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd",
+      "http://smip.tv:8080/destekuser/22122019/1123"
     ],
     "Hit Music Channel": [
       "http://185.254.189.134:8000/play/a02i/index.m3u8?auth=test1457:test1457",
@@ -2130,7 +2157,9 @@
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/216/index.m3u8",
       "http://iptvnelt.com/kanalas/409/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a05n/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=voryag&key=FRedfr66",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/872",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=Martyn&key=CBxWefH"
     ],
     "National Geographic Channel HD": [
       "http://185.254.189.134:8000/play/a02z/index.m3u8?auth=test1457:test1457"
@@ -2166,7 +2195,8 @@
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/223/index.m3u8",
       "http://persik.by/stream/2102/351000/10420.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=voryag&key=FRedfr66",
-      "http://5.129.5.72:81/udp/239.1.21.52:1234"
+      "http://5.129.5.72:81/udp/239.1.21.52:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=Martyn&key=CBxWefH"
     ],
     "Ocean TV": [
       "http://185.254.189.134:8000/play/a03b/index.m3u8?auth=test1457:test1457",
@@ -2274,7 +2304,8 @@
       "http://37.195.247.86:81/udp/239.1.3.16:1234",
       "http://iptvnelt.com/kanalas/65/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a057/index.m3u8",
-      "http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd",
+      "http://smip.tv:8080/destekuser/22122019/1095"
     ],
     "TV1000": [
       "http://185.254.189.134:8000/play/a02r/index.m3u8?auth=test1457:test1457",
@@ -2702,7 +2733,8 @@
       "http://1music.hu/1music.m3u8"
     ],
     "24 канал": [
-      "http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4"
+      "http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4",
+      "http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4&app=playlist"
     ],
     "24 канал HD": [
       "http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b1328800.m3u8",
@@ -3066,7 +3098,8 @@
       "http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4"
     ],
     "Еспресо TV": [
-      "http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4"
+      "http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4",
+      "http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4&app=playlist"
     ],
     "ИКС ТВ [FHD]": [
       "http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8"
@@ -3408,7 +3441,8 @@
       "https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_1.m3u8",
       "http://46.32.68.167/s/live/938/86.169.51.136/0/0.m3u8",
       "http://server1.life-tv.eu/ch0190/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=Martyn&key=CBxWefH"
     ],
     "Россия 24": [
       "http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8",
@@ -3738,7 +3772,8 @@
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/213/index.m3u8",
       "http://178.163.18.154:4022/udp/234.0.0.206:2000",
       "http://185.93.3.83:5001/play/a06o/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=Martyn&key=CBxWefH"
     ],
     "24/6 HD": [
       "http://live-urfo24.cdnvideo.ru/urfo24/urfo24.sdp/playlist.m3u8"
@@ -4385,7 +4420,8 @@
       "http://dmitry-tv.ru/his/itv_blrus/CH_BELARUS1SD.m3u8",
       "http://178.124.183.13/hls/M52YG9EVYD/bw1200000/playlist.m3u8",
       "http://178.124.183.5/hls/M52YG9EVYD_HLS/variant.m3u8?version=2",
-      "http://178.124.183.150/hls/M52YG9EVYD_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/M52YG9EVYD_HLS/bw1200000/playlist.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=Martyn&key=CBxWefH"
     ],
     "Беларусь 1 HD": [
       "http://178.124.183.5/hls/M52YG9EVYD/variant.m3u8?version=2",
@@ -4615,7 +4651,8 @@
     "WDR HD": [
       "http://wdr_fs_geo-lh.akamaihd.net/i/wdrfs_geogeblockt@112044/master.m3u8",
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2104",
-      "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8"
+      "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3842"
     ],
     "BFM Paris": [
       "http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8"
@@ -4638,7 +4675,8 @@
       "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/1016/index.m3u",
       "http://play.lanet.tv/live/9921.m3u8",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1016/index.m3u8",
-      "http://server1.life-tv.eu/ch0504/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0504/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4&app=playlist"
     ],
     "UA:Культура": [
       "http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8",
@@ -4653,7 +4691,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1017/index.m3u8"
     ],
     "UA:Донбас": [
-      "http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4&app=playlist"
+      "http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4&app=playlist",
+      "http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4"
     ],
     "UA:TV": [
       "http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8"
@@ -5015,7 +5054,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/222/index.m3u8",
       "http://server1.life-tv.eu/ch0160/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/222/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1HD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1HD&login=Martyn&key=CBxWefH"
     ],
     "Матч! Футбол 2 HD": [
       "http://83.174.198.141/Futbol2HD.m3u8",
@@ -5031,7 +5071,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/211/index.m3u8",
       "http://server1.life-tv.eu/ch0161/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/211/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2HD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2HD&login=Martyn&key=CBxWefH"
     ],
     "Матч! Футбол 2 HD (Резерв2)": [
       "http://ygk.info/stream/5ZX39WWQSZ8E4A/211/index.m3u8"
@@ -5052,7 +5093,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/206/index.m3u8",
       "http://server1.life-tv.eu/ch0308/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/206/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3HD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3HD&login=Martyn&key=CBxWefH"
     ],
     "Матч! Футбол 3 HD (Резерв2)": [
       "http://188.35.9.11:2012"
@@ -5808,7 +5850,8 @@
     "Дом кино премиум HD": [
       "http://188.35.9.26:12030/udp/160l",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDomkinoPremiumHD&login=voryag&key=FRedfr66",
-      "http://109.171.6.220:81/udp/239.54.6.224:1234"
+      "http://109.171.6.220:81/udp/239.54.6.224:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomKinoPremiumHD&login=Martyn&key=CBxWefH"
     ],
     "Ростов-ПАПА HD": [
       "http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8"
@@ -5830,7 +5873,8 @@
       "http://178.124.183.14:80/hls/CH_KINOPREMERA/variant.m3u8",
       "http://server1.life-tv.eu/ch0179/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://185.93.3.83:5001/play/a06c/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=Martyn&key=CBxWefH"
     ],
     "Комедийное HD": [
       "http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&amp;p=12326fa256d9bf86",
@@ -6486,7 +6530,8 @@
       "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1039/index.m3u8",
       "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/1039/index.m3u8",
       "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/1039/index.m3u",
-      "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1039/index.m3u8"
+      "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1039/index.m3u8",
+      "http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4&app=playlist"
     ],
     "5 Канал": [
       "http://api.tv.ipnet.ua:80/api/v1/manifest/1293299450.m3u8",
@@ -7139,7 +7184,8 @@
       "http://api.tv.ipnet.ua:80/api/v1/manifest/1293294600.m3u8",
       "http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=em9uYS1pcHR2LnJ1",
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/484",
-      "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/1014/index.m3u"
+      "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/1014/index.m3u",
+      "http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4&app=playlist"
     ],
     "ПЯТНИЦА": [
       "http://ott-cdn.ucom.am/s50/01.m3u8",
@@ -7918,7 +7964,9 @@
       "http://46.32.68.167/s/live/407/100.0.0.5/1/0.m3u8",
       "http://178.124.183.14/hls/CH_NATGEO/bw1200000/playlist.m3u8",
       "http://iptvnelt.com/kanalas/39/hls/4WT1bzMG/?type=m3u8",
-      "http://185.93.3.83:5001/play/a046/index.m3u8"
+      "http://185.93.3.83:5001/play/a046/index.m3u8",
+      "http://smip.tv:8080/destekuser/22122019/1129",
+      "http://303tv.net:8080/barissen12/24082019adpara/184"
     ],
     "Brazzers": [
       "https://213.252.252.2/live/eds/Brazzers/HLS_encr/Brazzers-audio_20001=96000-video=2200000.m3u8",
@@ -8450,7 +8498,9 @@
       "http://server1.life-tv.eu/ch0081/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/230/index.m3u8",
       "http://iptvnelt.com/kanalas/408/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=voryag&key=FRedfr66",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1007",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=Martyn&key=CBxWefH"
     ],
     "Food Network HD": [
       "http://88.216.48.147/flussonic/Food_Network_HD/video.m3u8",
@@ -8482,7 +8532,8 @@
       "http://31.13.223.104:1935/travel/community.stream/chunklist_w79979599.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/233/index.m3u8",
       "http://185.93.3.83:5001/play/a06h/index.m3u8",
-      "http://185.78.112.18/TravelChannelHD/index.m3u8"
+      "http://185.78.112.18/TravelChannelHD/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannelHD&login=Martyn&key=CBxWefH"
     ],
     "Моя планета": [
       "http://88.216.48.147/flussonic/Moja_Planeta/index.m3u8",
@@ -8751,7 +8802,8 @@
       "http://178.124.183.14:80/hls/ESCMSBZJ8X/variant.m3u8",
       "http://iptvnelt.com/kanalas/166/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a045/index.m3u8",
-      "http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd"
+      "http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd",
+      "http://smip.tv:8080/destekuser/22122019/1109"
     ],
     "New TV": [
       "http://212.112.101.69:8081/stream32/output.m3u8"
@@ -9445,7 +9497,8 @@
       "http://188.35.9.26:14050/udp/238.0.14.3:69000",
       "http://185.93.3.83:5001/play/a07g/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=voryag&key=FRedfr66",
-      "http://188.35.9.15:2015"
+      "http://188.35.9.15:2015",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=Martyn&key=CBxWefH"
     ],
     "Охотник и Рыболов": [
       "http://ott-cdn.ucom.am/s55/index.m3u8",
@@ -10152,7 +10205,8 @@
       "http://46.32.68.167/s/live/423/86.169.51.136/1/0.m3u8",
       "http://91.211.132.25/hls/34/stream.m3u8",
       "http://185.93.3.83:5001/play/a01x/index.m3u8",
-      "http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8",
+      "http://smip.tv:8080/destekuser/22122019/1108"
     ],
     "ID": [
       "http://cooltv.dyndns.tv:8200/udp/239.255.1.58:1234",
@@ -11224,7 +11278,8 @@
       "http://85.112.114.11:8086/udp/238.2.50.6:1234.1.2",
       "http://85.112.114.11:8086/udp/238.2.50.6:1234.1.3",
       "http://185.78.112.18/tnt_hd/index.m3u8",
-      "http://54.38.180.196/play/86/2D6E866C992891C/video.m3u8"
+      "http://54.38.180.196/play/86/2D6E866C992891C/video.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTntHD&login=Martyn&key=CBxWefH"
     ],
     "ТНТ +4": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/481",
@@ -11272,7 +11327,8 @@
       "http://85.112.114.11:8086/udp/238.2.62.80:1234",
       "http://cdn.ottg.tv/9657/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://server1.life-tv.eu/ch0375/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=Martyn&key=CBxWefH"
     ],
     "RTVI": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/16",
@@ -11307,7 +11363,8 @@
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2076/index.m3u8",
       "http://185.93.3.83:5001/play/a06w/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Frussianromanhd&login=voryag&key=FRedfr66",
-      "http://185.78.112.18/russki_roman_hd/index.m3u8"
+      "http://185.78.112.18/russki_roman_hd/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frussianromanhd&login=Martyn&key=CBxWefH"
     ],
     "Дождь HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/22",
@@ -11332,7 +11389,8 @@
       "http://85.112.114.11:8086/udp/238.2.49.249:1234",
       "http://cdn.ottg.tv/3894/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://85.112.114.11:8086/udp/233.170.170.105:58631",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSuperHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSuperHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSuperHD&login=Martyn&key=CBxWefH"
     ],
     "Русский Детектив": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/28",
@@ -11378,14 +11436,16 @@
       "http://tv545.com/stream/PzDAvbQ/channel/967.m3u8",
       "http://185.93.3.83:5001/play/a07i/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fstrashnoehd&login=voryag&key=FRedfr66",
-      "http://90.189.185.11:1234/udp/225.54.53.32:5000"
+      "http://90.189.185.11:1234/udp/225.54.53.32:5000",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStrashnoeHD&login=Martyn&key=CBxWefH"
     ],
     "FAN HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/472",
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2076.m3u8",
       "http://ott.shara.club:80/ainar/UQNmliosG1/2076",
       "http://cdn.ottg.tv/2006/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://217.25.216.4:8085/udp/238.2.29.234:1234"
+      "http://217.25.216.4:8085/udp/238.2.29.234:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFanHDL&login=Martyn&key=CBxWefH"
     ],
     "Кинохит": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/32",
@@ -11419,7 +11479,8 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1938",
       "http://server1.life-tv.eu/ch0182/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOHITHD/variant.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=Martyn&key=CBxWefH"
     ],
     "Киносерия": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/192",
@@ -11439,13 +11500,15 @@
     ],
     "Киносерия HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2258",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKINOSERIYAHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKINOSERIYAHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoseriyaHD&login=Martyn&key=CBxWefH"
     ],
     "Киносемья HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1948",
       "http://server1.life-tv.eu/ch0181/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINOFAMILYHD/variant.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=Martyn&key=CBxWefH"
     ],
     "Кино ТВ": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/33",
@@ -11468,7 +11531,8 @@
       "http://220.79.125.230:8080/play/a014/index.m3u8",
       "http://185.93.3.83:5001/play/a074/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=voryag&key=FRedfr66",
-      "http://78.157.230.19/streaming/kino_tv_hd/364/copy/playlist.m3u8"
+      "http://78.157.230.19/streaming/kino_tv_hd/364/copy/playlist.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=Martyn&key=CBxWefH"
     ],
     "Киносвидание": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/34",
@@ -11493,7 +11557,8 @@
     "Киносвидание HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2049",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_KINODATEHD/variant.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=Martyn&key=CBxWefH"
     ],
     "Наше крутое HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/35",
@@ -11544,7 +11609,8 @@
     ],
     "Киномикс HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2214",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=Martyn&key=CBxWefH"
     ],
     "Наше новое кино": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/37",
@@ -11577,7 +11643,8 @@
     "Наш кинороман HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/38",
       "http://ott.shara.club:80/nonecsa/DGMkwp30d8/127",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=Martyn&key=CBxWefH"
     ],
     "Комедия": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/40",
@@ -11617,7 +11684,8 @@
       "http://188.35.9.11:2022",
       "http://185.93.3.83:5001/play/a05k/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=voryag&key=FRedfr66",
-      "http://185.78.112.18/muzhskoe-kino_hd/index.m3u8"
+      "http://185.78.112.18/muzhskoe-kino_hd/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=Martyn&key=CBxWefH"
     ],
     "Любимое HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/39",
@@ -11726,7 +11794,8 @@
     ],
     "ТВ3 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1696",
-      "http://85.112.114.11:8086/udp/238.2.50.7:1234"
+      "http://85.112.114.11:8086/udp/238.2.50.7:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV3HDRUS&login=Martyn&key=CBxWefH"
     ],
     "VIP Premiere HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/45",
@@ -11842,7 +11911,8 @@
       "http://server1.life-tv.eu/ch0153/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/207/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchArenaHD&login=voryag&key=FRedfr66",
-      "http://185.78.112.18/arena_hd/index.m3u8"
+      "http://185.78.112.18/arena_hd/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchArenaHD&login=Martyn&key=CBxWefH"
     ],
     "Матч! Премьер HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/3441",
@@ -11851,7 +11921,8 @@
       "http://cdn.ottg.tv/7517/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://193.9.60.131:8000/play/a00k/index.m3u8",
       "http://server1.life-tv.eu/ch0157/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbalHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbalHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbalHD&login=Martyn&key=CBxWefH"
     ],
     "Setanta Украина": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2843"
@@ -11887,7 +11958,8 @@
       "http://cdn.ottg.tv/6328/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://server1.life-tv.eu/ch0186/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://persik.by/stream/2102/351000/10242.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKHLHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKHLHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKHLHD&login=Martyn&key=CBxWefH"
     ],
     "Футбол 1 Украина": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/67",
@@ -11935,7 +12007,8 @@
       "http://iptvnelt.com/kanalas/104/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a07k/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=voryag&key=FRedfr66",
-      "http://5.129.5.72:81/udp/239.1.21.143:1234"
+      "http://5.129.5.72:81/udp/239.1.21.143:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=Martyn&key=CBxWefH"
     ],
     "Discovery Showcase HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/76",
@@ -12061,7 +12134,8 @@
       "http://server1.life-tv.eu/ch0659/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/921/index.m3u8",
       "http://195.88.23.22/play/a02s",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=Martyn&key=CBxWefH"
     ],
     "Cartoon Network HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/447",
@@ -12069,7 +12143,8 @@
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_CARTOON_NETWORKSHD/variant.m3u8",
       "http://server1.life-tv.eu/ch0025/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2011/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=Martyn&key=CBxWefH"
     ],
     "2+2": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/95",
@@ -12103,7 +12178,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/240/index.m3u8",
       "http://server1.life-tv.eu/ch0252/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/240/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=Martyn&key=CBxWefH"
     ],
     "Музыка Первого": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/97",
@@ -12235,7 +12311,8 @@
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBoksTV&login=voryag&key=FRedfr66"
     ],
     "Amedia hit HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1702"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1702",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=Martyn&key=CBxWefH"
     ],
     "DocuBOX HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/491"
@@ -12335,7 +12412,8 @@
     "Spike HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1704",
       "http://server1.life-tv.eu/ch0097/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=Martyn&key=CBxWefH"
     ],
     "TOP 80's": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1713",
@@ -12482,22 +12560,26 @@
     "Детский HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1980",
       "http://cdn.ottg.tv/5438/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=Martyn&key=CBxWefH"
     ],
     "Еврокино HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1979",
       "http://cdn.ottg.tv/5240/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://server1.life-tv.eu/ch0147/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=Martyn&key=CBxWefH"
     ],
     "Наша Сибирь 4K": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1983"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1983",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal7&login=Martyn&key=CBxWefH"
     ],
     "Русский иллюзион HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1977",
       "http://cdn.ottg.tv/9282/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2114/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=Martyn&key=CBxWefH"
     ],
     "UFC ТВ HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2003",
@@ -12521,7 +12603,8 @@
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/2326.m3u8",
       "http://cdn.ottg.tv/2647/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://server1.life-tv.eu/ch0261/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelekanalFootbalHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTelekanalFootbalHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTelekanalFootbalHD&login=Martyn&key=CBxWefH"
     ],
     "Планета HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2038",
@@ -12533,7 +12616,8 @@
       "http://server1.life-tv.eu/ch0219/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2090/index.m3u8",
       "http://185.93.3.83:5001/play/a073/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=Martyn&key=CBxWefH"
     ],
     "4ever Music HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2048"
@@ -12654,7 +12738,8 @@
       "http://cdn.ottg.tv/1119/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2132/index.m3u8",
       "http://iptvnelt.com/kanalas/377/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomediyaHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomediyaHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomediyaHD&login=Martyn&key=CBxWefH"
     ],
     "Авто 24 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2724",
@@ -12689,7 +12774,8 @@
       "http://cdn.ottg.tv/8749/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_EUROSPORT_GHD/variant.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2002/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgoldhd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Feurosportgoldhd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosportGoldHD&login=Martyn&key=CBxWefH"
     ],
     "A2 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2764",
@@ -12777,7 +12863,8 @@
     "Театр HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/3063",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_THEATERHD/variant.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTHEATERHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTHEATERHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTHEATERHD&login=Martyn&key=CBxWefH"
     ],
     "Clubbing TV HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/3065",
@@ -13937,7 +14024,8 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1732"
     ],
     "Kinowelt TV": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1733"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1733",
+      "http://smip.tv:8080/destekuser/22122019/4749"
     ],
     "Nat geo Wild HD de": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1735"
@@ -13958,7 +14046,8 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1795"
     ],
     "RTL HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1745"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1745",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/133"
     ],
     "RTL 2 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1746"
@@ -13967,17 +14056,21 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1796"
     ],
     "RTL Living": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1797"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1797",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4262"
     ],
     "Sky Cinema Action": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1799",
       "http://server1.life-tv.eu/ch0600/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
     ],
     "Sky Atlantic HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1738"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1738",
+      "http://303tv.net:8080/barissen12/24082019adpara/253",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2019"
     ],
     "Sky Bundesliga 1 HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1742"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1742",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1309"
     ],
     "Sky Bundesliga 2 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1743"
@@ -14007,10 +14100,13 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2664"
     ],
     "Sky Cinema HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1739"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1739",
+      "http://303tv.net:8080/barissen12/24082019adpara/255",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/127"
     ],
     "Sky Cinema Emotion": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1741"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1741",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2734"
     ],
     "Sky Cinema Family HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1740"
@@ -14025,7 +14121,8 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2100"
     ],
     "Sat 1 HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2101"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2101",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/793"
     ],
     "Sky sport 1 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2102"
@@ -14043,17 +14140,20 @@
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/3035"
     ],
     "TNT Film": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2105"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2105",
+      "http://smip.tv:8080/destekuser/22122019/1150"
     ],
     "TNT Serie HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2106"
     ],
     "Vox HD": [
-      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2107"
+      "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2107",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/132"
     ],
     "ZDF HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2108",
-      "http://77.47.100.184:9981/stream/channelid/1784769915?ticket=6AB97EE29F774E7C60EAF7DFEBCF4AB3F374DA71&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1784769915?ticket=6AB97EE29F774E7C60EAF7DFEBCF4AB3F374DA71&profile=pass",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/143"
     ],
     "Sky Cinema Hits HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/1798"
@@ -14172,7 +14272,8 @@
       "http://178.124.183.13/hls/TSNEW37RPC/bw1200000/playlist.m3u8",
       "http://178.124.183.5/hls/TSNEW37RPC/variant.m3u8",
       "http://178.124.183.5/hls/TSNEW37RPC_HLS/variant.m3u8?version=2",
-      "http://178.124.183.150/hls/TSNEW37RPC_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/TSNEW37RPC_HLS/bw1200000/playlist.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=Martyn&key=CBxWefH"
     ],
     "Беларусь 5": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/500",
@@ -14186,7 +14287,8 @@
       "http://persik.by/stream/1017/402000/932.m3u8",
       "http://178.124.183.13/hls/JRKVSUPCP8/bw2500000/playlist.m3u8",
       "http://178.124.183.5/hls/JRKVSUPCP8_HLS/variant.m3u8?version=2",
-      "http://178.124.183.150/hls/JRKVSUPCP8_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/JRKVSUPCP8_HLS/bw1200000/playlist.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB5&login=Martyn&key=CBxWefH"
     ],
     "Беларусь 5 HD": [
       "http://fox-tv.fun:25461/qomtrlcl/7jU3T17pnh/2795",
@@ -17651,7 +17753,8 @@
       "http://178.124.183.13/hls/GCKYZGGFEJ/bw1200000/playlist.m3u8",
       "http://178.124.183.5/hls/GCKYZGGFEJ/variant.m3u8",
       "http://178.124.183.5/hls/GCKYZGGFEJ_HLS/variant.m3u8?version=2",
-      "http://178.124.183.150/hls/GCKYZGGFEJ_HLS/bw1200000/playlist.m3u8"
+      "http://178.124.183.150/hls/GCKYZGGFEJ_HLS/bw1200000/playlist.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=Martyn&key=CBxWefH"
     ],
     "НТВ Беларусь": [
       "http://persik.by/stream/9189/416795/10255.m3u8",
@@ -17742,7 +17845,8 @@
     "Fashion 4K": [
       "http://persik.by/stream/9189/416795/10317.m3u8",
       "http://persik.tv/stream/7725/408679/10317.m3u8",
-      "http://persik.by/stream/9721/417980/10317.m3u8"
+      "http://persik.by/stream/9721/417980/10317.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUMARVELDC&login=Martyn&key=CBxWefH"
     ],
     "Санаторий Радон HD": [
       "http://persik.by/stream/9189/416795/10370.m3u8"
@@ -17828,14 +17932,16 @@
       "http://ott-cdn.ucom.am/s65/index.m3u8"
     ],
     "Tele 5": [
-      "http://persik.by/stream/9189/416795/10474.m3u8"
+      "http://persik.by/stream/9189/416795/10474.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6402"
     ],
     "RTL": [
       "http://persik.by/stream/9189/416795/10475.m3u8",
       "http://212.12.194.10/rtl/live.m3u8",
       "http://88.216.48.147/flussonic/RTL/video.m3u8",
       "http://88.216.8.122:8080/rtl/index.m3u8",
-      "http://iptvnelt.com/kanalas/175/hls/4WT1bzMG/?type=m3u8"
+      "http://iptvnelt.com/kanalas/175/hls/4WT1bzMG/?type=m3u8",
+      "http://smip.tv:8080/destekuser/22122019/1086"
     ],
     "China": [
       "http://persik.by/stream/9189/416795/10476.m3u8"
@@ -17851,7 +17957,9 @@
       "https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830",
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=23",
       "http://persik.by/stream/2102/351000/10480.m3u8",
-      "http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2671"
+      "http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2671",
+      "http://smip.tv:8080/destekuser/22122019/4748",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10720"
     ],
     "VH1 classic": [
       "http://persik.by/stream/9189/416795/10481.m3u8"
@@ -18342,7 +18450,8 @@
       "http://46.32.68.167/s/live/937/86.169.51.136/0/0.m3u8",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/204/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/204/index.m3u8",
-      "http://185.93.3.83:5001/play/a07a/index.m3u8"
+      "http://185.93.3.83:5001/play/a07a/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOrtHD&login=Martyn&key=CBxWefH"
     ],
     "Первый канал (+2)": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1262.m3u8",
@@ -18806,7 +18915,8 @@
       "http://ott.shara.club:80/ainar/UQNmliosG1/128",
       "http://195.162.90.141:8080/fa6eca5757e2029ce6f0e5e9ff90d952",
       "http://server1.life-tv.eu/ch0496/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://188.35.9.15:2017"
+      "http://188.35.9.15:2017",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremiumHD&login=Martyn&key=CBxWefH"
     ],
     "Ultra HD Cinema": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1557.m3u8",
@@ -18901,7 +19011,8 @@
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/227/index.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/227/index.m3u8",
       "http://217.25.216.4:8085/udp/238.2.16.147:1234",
-      "http://2.60.50.50:1234/udp/233.7.70.12:5000"
+      "http://2.60.50.50:1234/udp/233.7.70.12:5000",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Martyn&key=CBxWefH"
     ],
     "ID Xtra": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/224.m3u8",
@@ -18924,7 +19035,8 @@
       "http://ott.shara.club:80/ainar/UQNmliosG1/2123",
       "http://cdn.ottg.tv/4485/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://185.93.3.83:5001/play/a06b/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=Martyn&key=CBxWefH"
     ],
     "Eureka HD": [
       "http://ott.shara.club:80/live/C82isEEUhG/bNwafZT9av/1281.m3u8",
@@ -20081,7 +20193,8 @@
       "http://server1.life-tv.eu/ch0155/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/225/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchIgraHD&login=voryag&key=FRedfr66",
-      "http://185.78.112.18/match-igra_hd/index.m3u8"
+      "http://185.78.112.18/match-igra_hd/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchIgraHD&login=Martyn&key=CBxWefH"
     ],
     "Eurosport 2 North-East HD": [
       "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/234/index.m3u",
@@ -21089,7 +21202,9 @@
       "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1108/index.m3u8",
       "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/1108/index.m3u8",
       "http://c889d7cf.shukinuki.ru/iptv/RZTR2WGM8QP847/1108/index.m3u8",
-      "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=21"
+      "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=21",
+      "http://smip.tv:8080/destekuser/22122019/1103",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6425"
     ],
     "%EF%BB%BF": [
       "#EXTINF:0, HD"
@@ -22053,7 +22168,8 @@
       "http://185.167.208.157/master_462.m3u8"
     ],
     "MGM HD": [
-      "http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8"
+      "http://c0.cdn.trinity-tv.net/stream/uq2t763988wmx82xs37vrzrtrvaz686y22jd9gcgvgbhu88g6dntdb82kggx9zgvpvwj5wisyi5mgwwgdqzm7d6xbf7yvctwzvhsu3t57ms3wa4qxwyeuqk3ayrdwx3k2b6cdtnrydx9qa3ezqzea===.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMGMHD&login=Martyn&key=CBxWefH"
     ],
     "Extremadura TV": [
       "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000.m3u8",
@@ -22444,7 +22560,8 @@
     ],
     "Наш детектив HD": [
       "http://ott.shara.club:80/nonecsa/DGMkwp30d8/1331",
-      "http://185.93.3.83:5001/play/a07h/index.m3u8"
+      "http://185.93.3.83:5001/play/a07h/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashDetektivHD&login=Martyn&key=CBxWefH"
     ],
     "radio TAORMINA TV": [
       "http://flash8.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8"
@@ -22499,7 +22616,8 @@
     ],
     "UA:Закарпаття": [
       "http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4&app=playlist",
-      "http://server1.life-tv.eu/ch0520/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0520/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4"
     ],
     "News Center 7 (Ohio)": [
       "http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8",
@@ -23266,7 +23384,8 @@
       "http://cdn.ottg.tv/9954/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://hlsstr01.svc.iptv.rt.ru/hls/CH_STSKIDSHD/variant.m3u8",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2001/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=Martyn&key=CBxWefH"
     ],
     "DFM": [
       "http://ott.shara.club:80/ainar/UQNmliosG1/1898"
@@ -23417,7 +23536,8 @@
       "http://212.12.194.10/vox/live.m3u8",
       "http://88.216.48.147/flussonic/VOX/video.m3u8",
       "http://88.216.8.122:8080/vox/index.m3u8",
-      "http://77.47.100.184:9981/stream/channelid/296773125?ticket=C99610E7FC05237C0A79C1E0A20993D762B17B67&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/296773125?ticket=C99610E7FC05237C0A79C1E0A20993D762B17B67&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1090"
     ],
     "Zemaitijos TV": [
       "http://212.12.194.10/zemaitijos/live.m3u8"
@@ -23705,7 +23825,9 @@
       "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=48",
       "http://server1.life-tv.eu/ch0524/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
       "http://iptvnelt.com/kanalas/260/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDisneyXDLTRU&login=voryag&key=FRedfr66",
+      "http://303tv.net:8080/barissen12/24082019adpara/194",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1327"
     ],
     "tru TV": [
       "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1085/index.m3u8",
@@ -24306,7 +24428,8 @@
     ],
     "RTL2": [
       "http://88.216.48.147/flussonic/RTL2/video.m3u8",
-      "http://77.47.100.184:9981/stream/channelid/433388417?ticket=560CCC0F4E916F8DEE3448EC2C7BAC8A2FB2D255&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/433388417?ticket=560CCC0F4E916F8DEE3448EC2C7BAC8A2FB2D255&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1091"
     ],
     "RTR_Planeta": [
       "http://88.216.48.147/flussonic/RTR_Planeta/video.m3u8"
@@ -26715,7 +26838,8 @@
       "http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw1500000/variant.m3u8?version=2&offset=-3600"
     ],
     "Galaxy HD": [
-      "http://cdn.ottg.tv/2753/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/2753/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTAINYGALAKTIKIHD&login=Martyn&key=CBxWefH"
     ],
     "Домашний +6": [
       "http://cdn.ottg.tv/3760/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
@@ -26774,16 +26898,19 @@
     "Наше новое кино HD": [
       "http://cdn.ottg.tv/3259/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2133/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10004&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2F10004&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F10004&login=Martyn&key=CBxWefH"
     ],
     "TV 1000 HD": [
-      "http://cdn.ottg.tv/1411/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/1411/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=Martyn&key=CBxWefH"
     ],
     "TV 1000 Action HD": [
       "http://cdn.ottg.tv/9080/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
     ],
     "TV 1000 Русское кино HD": [
-      "http://cdn.ottg.tv/1502/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/1502/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000rukinohd&login=Martyn&key=CBxWefH"
     ],
     "ViP Megahit HD": [
       "http://cdn.ottg.tv/8448/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
@@ -26793,7 +26920,8 @@
     "Amedia 1 HD": [
       "http://cdn.ottg.tv/7386/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://185.93.3.83:5001/play/a078/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=Martyn&key=CBxWefH"
     ],
     "КиноТВ HD": [
       "http://cdn.ottg.tv/5930/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
@@ -26928,7 +27056,8 @@
     ],
     "Amedia 2 HD": [
       "http://cdn.ottg.tv/7515/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=Martyn&key=CBxWefH"
     ],
     "Пёс и Ко": [
       "http://cdn.ottg.tv/4479/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
@@ -26982,7 +27111,8 @@
     "Дорама HD": [
       "http://cdn.ottg.tv/2233/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
       "http://server1.life-tv.eu/ch0036/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
-      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2131/index.m3u8"
+      "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2131/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDoramaHD&login=Martyn&key=CBxWefH"
     ],
     "Еда": [
       "http://cdn.ottg.tv/2048/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
@@ -27050,7 +27180,8 @@
     ],
     "Романтичное HD": [
       "http://cdn.ottg.tv/7262/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=Martyn&key=CBxWefH"
     ],
     "Мир баскетбола": [
       "http://cdn.ottg.tv/3271/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
@@ -27172,11 +27303,13 @@
     ],
     "NIKI Junior HD": [
       "http://cdn.ottg.tv/5077/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=Martyn&key=CBxWefH"
     ],
     "NIKI Kids HD": [
       "http://cdn.ottg.tv/8665/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=Martyn&key=CBxWefH"
     ],
     "OBOZ TV HD": [
       "http://cdn.ottg.tv/4917/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
@@ -27391,7 +27524,8 @@
       "http://cdn.ottg.tv/3521/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
     ],
     "Fashion TV 4K": [
-      "http://cdn.ottg.tv/5477/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
+      "http://cdn.ottg.tv/5477/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFashionTVHD&login=Martyn&key=CBxWefH"
     ],
     "Stingray Festival 4K": [
       "http://cdn.ottg.tv/9311/video.m3u8?username=Maxiti&password=maksitiproc5vk&token=5012b56e7fb33676d55a06d208b2d2a0"
@@ -28925,7 +29059,8 @@
       "http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8"
     ],
     "Augsburg TV HD": [
-      "http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2/playlist.m3u8"
+      "http://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_2/playlist.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35106"
     ],
     "Azon TV (UZ)": [
       "https://tv2.azon.uz/med/stream.m3u8"
@@ -29276,7 +29411,8 @@
       "https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_1_av-p.m3u8"
     ],
     "Das Erste HD": [
-      "https://mcdn.daserste.de/daserste/int/master_3744.m3u8"
+      "https://mcdn.daserste.de/daserste/int/master_3744.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3804"
     ],
     "Daystar TV": [
       "http://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_720p.m3u8"
@@ -29959,10 +30095,12 @@
       "http://92.60.237.32:1935/live/nisville/playlist.m3u8"
     ],
     "Noa 4 Hamburg": [
-      "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+      "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35093"
     ],
     "Noa 4 Norderstedt": [
-      "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+      "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35094"
     ],
     "Nova (CZ)": [
       "http://nova-live.ssl.cdn.cra.cz/channels/mcra/playlist/cze/live_hq.m3u8"
@@ -31748,7 +31886,8 @@
       "http://46.245.180.160/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8",
       "#EXTINF:0,http://91.242.97.4:8000/play/a02r",
       "http://iptvnelt.com/kanalas/339/hls/4WT1bzMG/?type=m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDeluxeMusic&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDeluxeMusic&login=voryag&key=FRedfr66",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6910"
     ],
     "Санкт-Петербрг": [
       "http://46.32.68.167/s/live/21/86.169.51.136/2/0.m3u8"
@@ -32458,7 +32597,8 @@
       "http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/chunklist.m3u8"
     ],
     "HR": [
-      "http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8"
+      "http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11067"
     ],
     "ТРК Губерния 33 (Владимир)": [
       "http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/chunklist.m3u8"
@@ -33051,7 +33191,8 @@
     ],
     "kabel eins": [
       "http://88.216.8.122:8080/kabel_eins/index.m3u8",
-      "http://77.47.100.184:9981/stream/channelid/964922233?ticket=8A882D03908BA9877881328A53E5F31A9B79E57D&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/964922233?ticket=8A882D03908BA9877881328A53E5F31A9B79E57D&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1088"
     ],
     "Konnyi Mir": [
       "http://88.216.8.122:8080/konnyi_mir/index.m3u8"
@@ -33099,7 +33240,8 @@
       "http://88.216.8.122:8080/rossiya24/index.m3u8"
     ],
     "RTL 2": [
-      "http://88.216.8.122:8080/rtl2/index.m3u8"
+      "http://88.216.8.122:8080/rtl2/index.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/134"
     ],
     "SAT 1": [
       "http://88.216.8.122:8080/sat1/index.m3u8"
@@ -36735,7 +36877,8 @@
       "http://178.163.127.23:4022/udp/234.0.0.181:2000"
     ],
     "ТНТ 4 HD": [
-      "http://195.191.208.2:8086/udp/233.170.170.130:58631"
+      "http://195.191.208.2:8086/udp/233.170.170.130:58631",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4HD&login=Martyn&key=CBxWefH"
     ],
     "ТНТ 4 (+4)": [
       "http://83.246.208.234:81/udp/239.54.5.36:1234"
@@ -37733,7 +37876,8 @@
       "http://server1.life-tv.eu/ch0591/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
     ],
     "Sky Cinema": [
-      "http://server1.life-tv.eu/ch0602/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0602/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://303tv.net:8080/barissen12/24082019adpara/251"
     ],
     "Channel 11": [
       "http://server1.life-tv.eu/ch0603/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
@@ -37829,7 +37973,8 @@
       "http://server1.life-tv.eu/ch0655/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
     ],
     "Love Nature 4K": [
-      "http://server1.life-tv.eu/ch0650/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
+      "http://server1.life-tv.eu/ch0650/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FLoveNature4K&login=Martyn&key=CBxWefH"
     ],
     "Ключ": [
       "http://server1.life-tv.eu/ch0652/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09"
@@ -38011,7 +38156,8 @@
       "http://iptvnelt.com/kanalas/22/hls/4WT1bzMG/?type=m3u8",
       "http://185.93.3.83:5001/play/a06u/index.m3u8",
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryShowcaseHD&login=voryag&key=FRedfr66",
-      "http://46.44.30.232:81/udp/224.0.90.246:1234"
+      "http://46.44.30.232:81/udp/224.0.90.246:1234",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryShowcaseHD&login=Martyn&key=CBxWefH"
     ],
     "Russian Extreme HD": [
       "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2077/index.m3u8"
@@ -38065,7 +38211,8 @@
       "http://82.200.127.58:8080/udp/239.54.7.47:1224"
     ],
     "Sony TV HD": [
-      "http://188.113.190.12/149/video.m3u8"
+      "http://188.113.190.12/149/video.m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4370"
     ],
     "VIP Premium HD": [
       "http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-96000_rus=6-avc1_5000000=10.m3u8"
@@ -38106,10 +38253,12 @@
       "http://s.igiptv.com:8000/live/Hisham/hisham123/25810.m3u8"
     ],
     "Eleven Sports 1 HD": [
-      "http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/225.ts"
+      "http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/225.ts",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports1HDPL&login=Martyn&key=CBxWefH"
     ],
     "Eleven Sports 2 HD": [
-      "http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts"
+      "http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/226.ts",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports2HDPL&login=Martyn&key=CBxWefH"
     ],
     "Eleven Sports 6 HD": [
       "http://iptv4.premium-stv.com:8000/live/SOURCESPORTSWORLDPRO2/fpB6wu4xIh/230.ts"
@@ -39590,7 +39739,8 @@
       "http://iptvnelt.com/kanalas/396/hls/4WT1bzMG/?type=m3u8"
     ],
     "TNT Film HD": [
-      "http://iptvnelt.com/kanalas/208/hls/4WT1bzMG/?type=m3u8"
+      "http://iptvnelt.com/kanalas/208/hls/4WT1bzMG/?type=m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/129"
     ],
     "Amedia Premium HD(test)": [
       "http://iptvnelt.com/kanalas/385/hls/4WT1bzMG/?type=m3u8"
@@ -39658,7 +39808,8 @@
       "http://iptvnelt.com/kanalas/361/hls/4WT1bzMG/?type=m3u8"
     ],
     "N-tv": [
-      "http://iptvnelt.com/kanalas/414/hls/4WT1bzMG/?type=m3u8"
+      "http://iptvnelt.com/kanalas/414/hls/4WT1bzMG/?type=m3u8",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3855"
     ],
     "Canal 24 horas": [
       "http://iptvnelt.com/kanalas/417/hls/4WT1bzMG/?type=m3u8"
@@ -39775,7 +39926,8 @@
       "http://185.93.3.83:5001/play/a01f/index.m3u8"
     ],
     "Amedia premium HD": [
-      "http://185.93.3.83:5001/play/a06e/index.m3u8"
+      "http://185.93.3.83:5001/play/a06e/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=Martyn&key=CBxWefH"
     ],
     "Ar (AM)": [
       "http://185.93.3.83:5001/play/a05z/index.m3u8"
@@ -39811,7 +39963,8 @@
       "http://185.93.3.83:5001/play/a05w/index.m3u8"
     ],
     "Ginger HD": [
-      "http://185.93.3.83:5001/play/a075/index.m3u8"
+      "http://185.93.3.83:5001/play/a075/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGingerHD&login=Martyn&key=CBxWefH"
     ],
     "H1 HD (AM)": [
       "http://185.93.3.83:5001/play/a05o/index.m3u8"
@@ -39925,7 +40078,8 @@
       "http://185.93.3.83:5001/play/a071/index.m3u8"
     ],
     "Кинопоказ HD2": [
-      "http://185.93.3.83:5001/play/a05b/index.m3u8"
+      "http://185.93.3.83:5001/play/a05b/index.m3u8",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz2HD&login=Martyn&key=CBxWefH"
     ],
     "М1 (UA)": [
       "http://185.93.3.83:5001/play/a08r/index.m3u8"
@@ -39944,7 +40098,8 @@
     ],
     "Матч ТВ HD": [
       "http://185.93.3.83:5001/play/a076/index.m3u8",
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTVHD&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTVHD&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTVHD&login=Martyn&key=CBxWefH"
     ],
     "Матч Футбол 1 HD": [
       "http://185.93.3.83:5001/play/a06r/index.m3u8"
@@ -40340,7 +40495,8 @@
       "http://topchantv.net:3456//live//911site//ZMAwycTy1pu7mb9//489.m3u8"
     ],
     "3sat": [
-      "http://77.47.100.184:9981/stream/channelid/1646555773?ticket=5FD8C9B709277994682559EE9BFE7A1107469D16&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1646555773?ticket=5FD8C9B709277994682559EE9BFE7A1107469D16&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1085"
     ],
     "3sat HD": [
       "http://77.47.100.184:9981/stream/channelid/569367435?ticket=7F2A76DDE9AEF7EC0F27857A04565FEBD527CDFD&profile=pass"
@@ -40355,7 +40511,9 @@
       "http://77.47.100.184:9981/stream/channelid/2126368454?ticket=51DEDA6711039703E83F7457B88897CE8B478120&profile=pass"
     ],
     "Das Erste": [
-      "http://77.47.100.184:9981/stream/channelid/1328956783?ticket=81B120DE406EC06BE96FCE5BF56E55E88F655138&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1328956783?ticket=81B120DE406EC06BE96FCE5BF56E55E88F655138&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1083",
+      "http://303tv.net:8080/barissen12/24082019adpara/29591"
     ],
     "Dlf": [
       "http://77.47.100.184:9981/stream/channelid/50310566?ticket=03E97E47D708415E5DEF0AAD693D778CCC9D307D&profile=pass"
@@ -40367,7 +40525,8 @@
       "http://77.47.100.184:9981/stream/channelid/722992264?ticket=B8BBB95C3B61E49E19EC2EDE75496EF564AB73D7&profile=pass"
     ],
     "kabel eins Doku": [
-      "http://77.47.100.184:9981/stream/channelid/741702138?ticket=EEB7D7457F7978B170C8F7EA63D3CEBA10C2BE04&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/741702138?ticket=EEB7D7457F7978B170C8F7EA63D3CEBA10C2BE04&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1121"
     ],
     "KiKA": [
       "http://77.47.100.184:9981/stream/channelid/1934080595?ticket=26513B69626D4C54324710C55642ACB7DA00B053&profile=pass"
@@ -40394,13 +40553,17 @@
       "http://77.47.100.184:9981/stream/channelid/2106469165?ticket=2E0583744B95BDFD171B11789585A422099EE2CF&profile=pass"
     ],
     "Pro7 MAXX": [
-      "http://77.47.100.184:9981/stream/channelid/2054492349?ticket=E4AD45484C437BEB2AF0DE665849240406087A2F&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/2054492349?ticket=E4AD45484C437BEB2AF0DE665849240406087A2F&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1098"
     ],
     "ProSieben": [
-      "http://77.47.100.184:9981/stream/channelid/2079495425?ticket=3A55FF7FBFDEB6BE1628DAD20A2D799A6CE0BE99&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/2079495425?ticket=3A55FF7FBFDEB6BE1628DAD20A2D799A6CE0BE99&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1089",
+      "http://303tv.net:8080/barissen12/24082019adpara/227"
     ],
     "SIXX": [
-      "http://77.47.100.184:9981/stream/channelid/1266541807?ticket=0F345B38B6E8F5D08FFC2EDC7393210EC196B5B0&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1266541807?ticket=0F345B38B6E8F5D08FFC2EDC7393210EC196B5B0&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1093"
     ],
     "tagesschau24": [
       "http://77.47.100.184:9981/stream/channelid/918479202?ticket=EC95554A354CBC60EFAA750FE2BE17463FC3472A&profile=pass"
@@ -40415,19 +40578,23 @@
       "http://77.47.100.184:9981/stream/channelid/39240289?ticket=B976BE1545E173171A624EA629C08FB7CCB1B06C&profile=pass"
     ],
     "ZDF": [
-      "http://77.47.100.184:9981/stream/channelid/1870821162?ticket=7FC018A89C98212A843E5F4B13E22142B43C2E9B&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1870821162?ticket=7FC018A89C98212A843E5F4B13E22142B43C2E9B&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1084"
     ],
     "zdf_neo": [
-      "http://77.47.100.184:9981/stream/channelid/1397254783?ticket=4EA2BE9AAD01A23C5413843FCC2E93EB0698524C&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1397254783?ticket=4EA2BE9AAD01A23C5413843FCC2E93EB0698524C&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1096"
     ],
     "zdf_neo HD": [
       "http://77.47.100.184:9981/stream/channelid/1139330284?ticket=DDE8687B2CAC7224AC206BD1FEDB7D7A56392A05&profile=pass"
     ],
     "ZDFinfo": [
-      "http://77.47.100.184:9981/stream/channelid/80739990?ticket=F1BD12E9254CCE45B53930B87EC95A0F61B1C679&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/80739990?ticket=F1BD12E9254CCE45B53930B87EC95A0F61B1C679&profile=pass",
+      "http://smip.tv:8080/destekuser/22122019/1097"
     ],
     "Zee One HD": [
-      "http://77.47.100.184:9981/stream/channelid/1879495621?ticket=8BC704BE3A59F4D8EA5C392C98790CA543D22019&profile=pass"
+      "http://77.47.100.184:9981/stream/channelid/1879495621?ticket=8BC704BE3A59F4D8EA5C392C98790CA543D22019&profile=pass",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4374"
     ],
     "TV1 (KG) +3": [
       "http://212.2.225.30:1935/live//raketa.stream/playlist.m3u8"
@@ -40560,7 +40727,8 @@
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=voryag&key=FRedfr66"
     ],
     "VIP Serial HD": [
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=Martyn&key=CBxWefH"
     ],
     "ZeeTV Россия": [
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FZeeNTV&login=voryag&key=FRedfr66"
@@ -40599,7 +40767,8 @@
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTopComedyHD&login=voryag&key=FRedfr66"
     ],
     "TOP 80s": [
-      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=voryag&key=FRedfr66"
+      "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=voryag&key=FRedfr66",
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=Martyn&key=CBxWefH"
     ],
     "TOP СССР": [
       "http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTOPSSSR&login=voryag&key=FRedfr66"
@@ -41605,7 +41774,8 @@
     "DELUXE MUSIC": [
       "http://188.35.9.11:21031/udp/082r",
       "http://188.35.9.12:21031/udp/082r",
-      "http://77.109.171.191:8000/play/xxxDeluxeMusicxxx"
+      "http://77.109.171.191:8000/play/xxxDeluxeMusicxxx",
+      "http://smip.tv:8080/destekuser/22122019/1107"
     ],
     "VIASAT NATURE HD": [
       "http://188.35.9.11:21071/udp/078s"
@@ -43542,6 +43712,1107 @@
     ],
     "Porneq 9": [
       "http://porneq.com/media/porn4/videos/907/Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-Girls-In-Blue-Pt1-Full-Vintage-Movie-6-PIR-TE-360p-gLM0fvToF3C.mp4"
+    ],
+    "HDFashion & LifeStyle": [
+      "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8"
+    ],
+    "UA:Крим": [
+      "http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4&app=playlist"
+    ],
+    "Київ TV": [
+      "http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4&app=playlist"
+    ],
+    "Надія": [
+      "http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8"
+    ],
+    "Family TV": [
+      "http://smip.tv:8080/destekuser/22122019/4746"
+    ],
+    "E! Entertainm.": [
+      "http://smip.tv:8080/destekuser/22122019/1156"
+    ],
+    "TNT Comedy": [
+      "http://smip.tv:8080/destekuser/22122019/1149",
+      "http://303tv.net:8080/barissen12/24082019adpara/29590"
+    ],
+    "TNT Serie": [
+      "http://smip.tv:8080/destekuser/22122019/1151"
+    ],
+    "SYFY": [
+      "http://smip.tv:8080/destekuser/22122019/1147"
+    ],
+    "13th Street": [
+      "http://smip.tv:8080/destekuser/22122019/1146"
+    ],
+    "Classica": [
+      "http://smip.tv:8080/destekuser/22122019/4747"
+    ],
+    "Motorvision TV": [
+      "http://smip.tv:8080/destekuser/22122019/4750",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/7834"
+    ],
+    "EURONEWS GERMAN": [
+      "http://smip.tv:8080/destekuser/22122019/1119"
+    ],
+    "N-TV": [
+      "http://smip.tv:8080/destekuser/22122019/1126",
+      "http://303tv.net:8080/barissen12/24082019adpara/20827"
+    ],
+    "N24 DOKU": [
+      "http://smip.tv:8080/destekuser/22122019/1127"
+    ],
+    "NatGeo": [
+      "http://smip.tv:8080/destekuser/22122019/1110"
+    ],
+    "Spiegel Geschichte": [
+      "http://smip.tv:8080/destekuser/22122019/1111",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3806"
+    ],
+    "Spiegel TV Wissen": [
+      "http://smip.tv:8080/destekuser/22122019/1112"
+    ],
+    "DMAX": [
+      "http://smip.tv:8080/destekuser/22122019/1122"
+    ],
+    "SAT.1": [
+      "http://smip.tv:8080/destekuser/22122019/1087"
+    ],
+    "RTL Crime": [
+      "http://smip.tv:8080/destekuser/22122019/1099",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2728"
+    ],
+    "RTLplus": [
+      "http://smip.tv:8080/destekuser/22122019/1100"
+    ],
+    "SAT.1 Gold": [
+      "http://smip.tv:8080/destekuser/22122019/1101"
+    ],
+    "1-2-3.tv": [
+      "http://smip.tv:8080/destekuser/22122019/1102"
+    ],
+    "ANIXE SD": [
+      "http://smip.tv:8080/destekuser/22122019/1104"
+    ],
+    "Channel21": [
+      "http://smip.tv:8080/destekuser/22122019/1106"
+    ],
+    "One": [
+      "http://smip.tv:8080/destekuser/22122019/1134"
+    ],
+    "ZEE ONE": [
+      "http://smip.tv:8080/destekuser/22122019/4753"
+    ],
+    "EWTN katholisches TV": [
+      "http://smip.tv:8080/destekuser/22122019/1120"
+    ],
+    "NITRO": [
+      "http://smip.tv:8080/destekuser/22122019/1131"
+    ],
+    "Sat Hd 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/222"
+    ],
+    "Sat 1 Gold": [
+      "http://303tv.net:8080/barissen12/24082019adpara/240",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3845"
+    ],
+    "Sat 1 Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/243"
+    ],
+    "Rtl Crime Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/266"
+    ],
+    "Rtl Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/265"
+    ],
+    "Rtl Living": [
+      "http://303tv.net:8080/barissen12/24082019adpara/269"
+    ],
+    "Rtl Nitro": [
+      "http://303tv.net:8080/barissen12/24082019adpara/263"
+    ],
+    "Rtl Passion": [
+      "http://303tv.net:8080/barissen12/24082019adpara/261"
+    ],
+    "Rtl Television": [
+      "http://303tv.net:8080/barissen12/24082019adpara/268"
+    ],
+    "Rtl Plus": [
+      "http://303tv.net:8080/barissen12/24082019adpara/262"
+    ],
+    "Pro 7 Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/270"
+    ],
+    "Pro7 Maxx": [
+      "http://303tv.net:8080/barissen12/24082019adpara/271"
+    ],
+    "Zdf Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/229"
+    ],
+    "Zdf.": [
+      "http://303tv.net:8080/barissen12/24082019adpara/202"
+    ],
+    "Zdf Neo": [
+      "http://303tv.net:8080/barissen12/24082019adpara/218"
+    ],
+    "Zdf Info": [
+      "http://303tv.net:8080/barissen12/24082019adpara/228"
+    ],
+    "Syfy Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/192"
+    ],
+    "Vox Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/230"
+    ],
+    "Vox": [
+      "http://303tv.net:8080/barissen12/24082019adpara/216"
+    ],
+    "Wdr": [
+      "http://303tv.net:8080/barissen12/24082019adpara/191"
+    ],
+    "Wdr Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/217"
+    ],
+    "Ndr Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/13122"
+    ],
+    "13th Street HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/233"
+    ],
+    "Servus TV": [
+      "http://303tv.net:8080/barissen12/24082019adpara/4561",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/5261"
+    ],
+    "Ard HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/231",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/870"
+    ],
+    "Axn Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/223"
+    ],
+    "Fox  HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/225"
+    ],
+    "One HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/224",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10454"
+    ],
+    "Ndr HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/226",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2615"
+    ],
+    "Orf 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/20037"
+    ],
+    "Orf 2": [
+      "http://303tv.net:8080/barissen12/24082019adpara/201"
+    ],
+    "3 Sat Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/4875"
+    ],
+    "Sixx": [
+      "http://303tv.net:8080/barissen12/24082019adpara/190"
+    ],
+    "Kabel 1 Classic": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10419"
+    ],
+    "Kabel 1 Doku": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10418",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/8464"
+    ],
+    "Kabel 1 HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10417",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/859"
+    ],
+    "Phoenix": [
+      "http://303tv.net:8080/barissen12/24082019adpara/20826",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3812"
+    ],
+    "------| Kino |------": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10881"
+    ],
+    "Sky Cinema+1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/250"
+    ],
+    "Sky Action HD.": [
+      "http://303tv.net:8080/barissen12/24082019adpara/248"
+    ],
+    "Sky Action HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/254",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/128"
+    ],
+    "Sky Comedy": [
+      "http://303tv.net:8080/barissen12/24082019adpara/256"
+    ],
+    "Sky Emotion": [
+      "http://303tv.net:8080/barissen12/24082019adpara/249"
+    ],
+    "Sky Nostalgie": [
+      "http://303tv.net:8080/barissen12/24082019adpara/257"
+    ],
+    "Sky Cinema+24": [
+      "http://303tv.net:8080/barissen12/24082019adpara/252"
+    ],
+    "Tnt Film Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/245"
+    ],
+    "Tnt Serie Hd.": [
+      "http://303tv.net:8080/barissen12/24082019adpara/246"
+    ],
+    "Tnt Serie Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/197"
+    ],
+    "------| Select |------": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10886"
+    ],
+    "Sky Select HD 2": [
+      "http://303tv.net:8080/barissen12/24082019adpara/209"
+    ],
+    "Sky Select HD 3": [
+      "http://303tv.net:8080/barissen12/24082019adpara/208"
+    ],
+    "Sky Select HD 4": [
+      "http://303tv.net:8080/barissen12/24082019adpara/207"
+    ],
+    "Sky Select HD 5": [
+      "http://303tv.net:8080/barissen12/24082019adpara/206"
+    ],
+    "Sky Select HD 7": [
+      "http://303tv.net:8080/barissen12/24082019adpara/204"
+    ],
+    "Sky Select HD 8": [
+      "http://303tv.net:8080/barissen12/24082019adpara/203"
+    ],
+    "------| Doku |------": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10883"
+    ],
+    "D Max Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/200"
+    ],
+    "Sky Natgeo Wild Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/244"
+    ],
+    "Discovery Channel Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/185"
+    ],
+    "History Channel Hd": [
+      "http://303tv.net:8080/barissen12/24082019adpara/199"
+    ],
+    "------| Kinder |------": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10882"
+    ],
+    "Super Rtl": [
+      "http://303tv.net:8080/barissen12/24082019adpara/260"
+    ],
+    "Disney Channel.": [
+      "http://303tv.net:8080/barissen12/24082019adpara/198"
+    ],
+    "Heimat Kanal": [
+      "http://303tv.net:8080/barissen12/24082019adpara/188"
+    ],
+    "------| Sport |------": [
+      "http://303tv.net:8080/barissen12/24082019adpara/10885"
+    ],
+    "Srf Sport 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/221"
+    ],
+    "Sky Sport HD 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/238"
+    ],
+    "Sky Sport HD 2": [
+      "http://303tv.net:8080/barissen12/24082019adpara/237"
+    ],
+    "Sky Sport News HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/214"
+    ],
+    "Sky Sport Austria HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/213"
+    ],
+    "Sky Bundesliga 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/215"
+    ],
+    "Sky Bundesliga HD 1": [
+      "http://303tv.net:8080/barissen12/24082019adpara/649"
+    ],
+    "Eurosport 2 Xtra": [
+      "http://303tv.net:8080/barissen12/24082019adpara/4878",
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10571"
+    ],
+    "Sport1+ HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/211"
+    ],
+    "Dazn 1 HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/20017"
+    ],
+    "Dazn 2 HD": [
+      "http://303tv.net:8080/barissen12/24082019adpara/20018"
+    ],
+    "Pro 7 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/582"
+    ],
+    "Kabel 1 Classic HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4375"
+    ],
+    "Pro 7 Maxx": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/915"
+    ],
+    "Pro7 Fun HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4373"
+    ],
+    "RTL Nitro HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2918"
+    ],
+    "Sixx HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2733"
+    ],
+    "Tagesschau 24": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11072"
+    ],
+    "Arte HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1321"
+    ],
+    "3 Sat": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3840"
+    ],
+    "Universal Channel": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2614"
+    ],
+    "Classic HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3811"
+    ],
+    "SWR Fernsehens HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3854"
+    ],
+    "ZDF neo": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3810"
+    ],
+    "ZDF info HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4377"
+    ],
+    "Super RTL": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/547"
+    ],
+    "MTV Music": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10691"
+    ],
+    "Kika HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1553"
+    ],
+    "Nickelodeon Junior HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6412"
+    ],
+    "Planet HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6411"
+    ],
+    "Geo Tv HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/10455"
+    ],
+    "Orf 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2041"
+    ],
+    "ORF 2 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2042"
+    ],
+    "Orf 3": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2617"
+    ],
+    "RTL Passion": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/866"
+    ],
+    "Silverline": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6404"
+    ],
+    "E! Entertainment": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6419"
+    ],
+    "SR HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11068"
+    ],
+    "HG Tv": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34058"
+    ],
+    "RBB": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11071"
+    ],
+    "TV Aktuelle": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/11073"
+    ],
+    "Toggo Plus": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6928"
+    ],
+    "Sky Cinema 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6403"
+    ],
+    "Sky Cinema 24 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/138"
+    ],
+    "Sky 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/7628"
+    ],
+    "Sky Hits HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/871"
+    ],
+    "Sky Family": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/5992"
+    ],
+    "Sky Comedy HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1552"
+    ],
+    "13 Street HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2624"
+    ],
+    "Syfy": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2621"
+    ],
+    "Sky Krimi HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2921"
+    ],
+    "Sky Romance Tv": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/3236"
+    ],
+    "Sky Fox HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2922"
+    ],
+    "Sky Anixe HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/869"
+    ],
+    "Sky Kinowelt TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/4372"
+    ],
+    "Sky Arts": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/9279"
+    ],
+    "Sky TNT Series HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2924"
+    ],
+    "TNT Comedy HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6401"
+    ],
+    "Disney Cinemagic": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2731"
+    ],
+    "SKY Select 1": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/283"
+    ],
+    "SKY Select 2": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/117"
+    ],
+    "SKY Select 3": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/118"
+    ],
+    "SKY Select 4": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/119"
+    ],
+    "SKY Select 5": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/120"
+    ],
+    "SKY Select 6": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/121"
+    ],
+    "SKY Select 7": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2925"
+    ],
+    "SKY Select 8": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/2926"
+    ],
+    "Teleclub Action HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34984"
+    ],
+    "Teleclub Cinema HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34982"
+    ],
+    "Teleclub Emotion HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34983"
+    ],
+    "Eagle Cinema Abenteuer HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34099"
+    ],
+    "Eagle Cinema Aktion HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34100"
+    ],
+    "Eagle Cinema Animation HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34101"
+    ],
+    "Eagle Cinema Drama HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34102"
+    ],
+    "Eagle Cinema Komodie HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34106"
+    ],
+    "Eagle Cinema Lächeln HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34107"
+    ],
+    "Eagle Cinema Premiere HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34109"
+    ],
+    "Eagle Cinema Sci-Fi HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34111"
+    ],
+    "Eagle Cinema Thriller HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34112"
+    ],
+    "123 TV": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35090"
+    ],
+    "A1 Now HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35104"
+    ],
+    "Allgäu TV": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35105"
+    ],
+    "Bibel TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35107"
+    ],
+    "BR Süd HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35108"
+    ],
+    "Canal 9 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35109"
+    ],
+    "Deutsches Musik Fernsehen HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35110"
+    ],
+    "Die Neue Zeit HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35111"
+    ],
+    "Donau TV": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35092"
+    ],
+    "DRF1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35113"
+    ],
+    "Elbekanal HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35114"
+    ],
+    "ERF 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35115"
+    ],
+    "Erz-TV Stollberg HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35116"
+    ],
+    "Filstalwelle HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35117"
+    ],
+    "Folx TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35118"
+    ],
+    "Franken Fernsehen HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35119"
+    ],
+    "HR Event 2 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35120"
+    ],
+    "KabelJournal HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35121"
+    ],
+    "L-TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35122"
+    ],
+    "Ländle TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35126"
+    ],
+    "Light Channel HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35125"
+    ],
+    "M4 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35127"
+    ],
+    "Mediashop TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35129"
+    ],
+    "Melodie Express TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35130"
+    ],
+    "München TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35132"
+    ],
+    "Musig24 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35131"
+    ],
+    "NDR Hamburg HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35133"
+    ],
+    "Oberpfalz TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35135"
+    ],
+    "Parlamentsfernsehen 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35136"
+    ],
+    "R9 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35137"
+    ],
+    "Radio 21 TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35138"
+    ],
+    "Radio 3i HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35139"
+    ],
+    "Radio Pilatus TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35140"
+    ],
+    "Regio TV Bodensee HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35141"
+    ],
+    "Regio TV Schwaben HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35142"
+    ],
+    "Rfn HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35144"
+    ],
+    "RFO HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35143"
+    ],
+    "Rouge TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35145"
+    ],
+    "RTS-Salzburg HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35146"
+    ],
+    "Saarland Fernsehen 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35147"
+    ],
+    "Santhora TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35149"
+    ],
+    "Sonus FM HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35150"
+    ],
+    "Südthüringer Regionalfernsehen HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35151"
+    ],
+    "Teins TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35152"
+    ],
+    "Tele Regional Passau 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35153"
+    ],
+    "Telebasel": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35095"
+    ],
+    "TeleTicino HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35154"
+    ],
+    "TV Aktuell HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35155"
+    ],
+    "TV Mainfranken HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35156"
+    ],
+    "TVA Ostbayern HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35158"
+    ],
+    "Unserding HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35159"
+    ],
+    "Westerwald TV HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/35160"
+    ],
+    "Sky Bundesliga 1 HD+": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/144"
+    ],
+    "Sky Sport 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/125"
+    ],
+    "Sky Sport 1 HD+": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/1317"
+    ],
+    "Sky Sport 2 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/126"
+    ],
+    "Sky Sport 2 HD+": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/5912"
+    ],
+    "Sky Sport Austria": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/544"
+    ],
+    "Dazn Sport": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/13863"
+    ],
+    "Dazn Sport 2": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/13864"
+    ],
+    "Sport Digital HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/5612"
+    ],
+    "Sport 1 US HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/5849"
+    ],
+    "Auto Motor Sport Channel": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/6422"
+    ],
+    "eSports 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34057"
+    ],
+    "Telekom Fussball 1 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34119"
+    ],
+    "Telekom Fussball 2 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34120"
+    ],
+    "Telekom Fussball 3 HD": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/34121"
+    ],
+    "BR Fernsehen": [
+      "http://ipturkhd.biz:8000/berkbayrak/ZbwOXE1bH1/25971"
+    ],
+    "DE:Sky-Cinema-- 1-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25797"
+    ],
+    "DE:Sky-Cinema-- 24-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25798"
+    ],
+    "DE:Sky-Cinema-Family-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25799"
+    ],
+    "DE:Sky-Cinema-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25801"
+    ],
+    "DE:Sky-Action-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25764"
+    ],
+    "DE:Sky-Comedy": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25787"
+    ],
+    "DE:Sky-Emotion": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25788"
+    ],
+    "DE:Sky-Hits-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25800"
+    ],
+    "DE:Sky-Krimi": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25789"
+    ],
+    "DE:Sky-Nostalgie": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25792"
+    ],
+    "DE:Sky-1-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25763"
+    ],
+    "DE:Sky-Arts-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25765"
+    ],
+    "DE:Sky-Atlantic-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25766"
+    ],
+    "DE:Sky-Bundesliga-1-HD-[24/7]": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25698"
+    ],
+    "DE:Sky-Bundesliga-10": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25689"
+    ],
+    "DE:Sky-Sport-10": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25679"
+    ],
+    "DE:Sky-Sport-2-HD-[24/7]": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25687"
+    ],
+    "DE:Sky-Sport-8": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25681"
+    ],
+    "DE:Eurosport-2-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25756"
+    ],
+    "DE:Eurosport-2-HD-Xtra": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25770"
+    ],
+    "DE:RTL-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25753"
+    ],
+    "DE:RTL2-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25729"
+    ],
+    "DE:RTL-Crime-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25759"
+    ],
+    "DE:ProSieben-MAXX-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25727"
+    ],
+    "DE:ZDF-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25752"
+    ],
+    "DE:ZDF-Info-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25654"
+    ],
+    "DE:ZDF-NEO-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25751"
+    ],
+    "DE:13th-Street-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25791"
+    ],
+    "DE:Kinowelt-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25795"
+    ],
+    "DE:3sat-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25676"
+    ],
+    "DE:A&E-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25774"
+    ],
+    "DE:Acht-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25672"
+    ],
+    "DE:Animal-Planet-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25780"
+    ],
+    "DE:Arte-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25677"
+    ],
+    "DE:BR-Fernsehen-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25670"
+    ],
+    "DE:Cartoon-Network-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25702"
+    ],
+    "DE:Das-Erste-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25714"
+    ],
+    "DE:DAZN-1-Bar-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25652"
+    ],
+    "DE:DAZN-2-Bar-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25653"
+    ],
+    "DE:Discovery-Channel-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25781"
+    ],
+    "DE:Disney-Channel-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25701"
+    ],
+    "DE:Disney-Cinemagic-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25712"
+    ],
+    "DE:Disney-Jr.-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25703"
+    ],
+    "DE:Disney-XD-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25707"
+    ],
+    "DE:DMAX-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25715"
+    ],
+    "DE:E!-Entertainment": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25754"
+    ],
+    "DE:E!-Entertainment-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25669"
+    ],
+    "DE:eoTV": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25668"
+    ],
+    "DE:History-Channel-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25776"
+    ],
+    "DE:HR-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25718"
+    ],
+    "DE:Junior-[6:00-20:00]": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25709"
+    ],
+    "DE:Kabel-1-Classic-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25796"
+    ],
+    "DE:Kabel-1-Doku": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25667"
+    ],
+    "DE:Kabel-1-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25745"
+    ],
+    "DE:Kika-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25706"
+    ],
+    "DE:MDR": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25746"
+    ],
+    "DE:MDR-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25747"
+    ],
+    "DE:MTV-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25666"
+    ],
+    "DE:N24-Doku": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25665"
+    ],
+    "DE:N24-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25748"
+    ],
+    "DE:Nat-Geo-Wild-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25777"
+    ],
+    "DE:National-Geo-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25778"
+    ],
+    "DE:NDR": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25719"
+    ],
+    "DE:NDR-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25664"
+    ],
+    "DE:Nick-Jr.-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25710"
+    ],
+    "DE:Nickelodeon-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25711"
+    ],
+    "DE:NTV-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25720"
+    ],
+    "DE:ONE-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25721"
+    ],
+    "DE:ORF-1-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25722"
+    ],
+    "DE:ORF-2-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25723"
+    ],
+    "DE:ORF-3-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25742"
+    ],
+    "DE:ORF-Sport-Plus": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25663"
+    ],
+    "DE:PHOENIX-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25724"
+    ],
+    "DE:Planet-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25775"
+    ],
+    "DE:PULS-24": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25662"
+    ],
+    "DE:RBB-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25728"
+    ],
+    "DE:Sportdigital-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25772"
+    ],
+    "DE:TLC-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25743"
+    ],
+    "DE:TNT-Comedy-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25783"
+    ],
+    "DE:TNT-Film-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25784"
+    ],
+    "DE:TNT-Serie-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25785"
+    ],
+    "DE:TOGGO-Plus": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25705"
+    ],
+    "DE:Universal-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25793"
+    ],
+    "DE:PULS_4": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25744"
+    ],
+    "DE:VOX-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25749"
+    ],
+    "DE:WDR-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25750"
+    ],
+    "DE:Zee-One-HD": [
+      "http://tv2iptv.com:8000/Faysal/faysal123/25786"
+    ],
+    "TV Play Sports HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=Martyn&key=CBxWefH"
+    ],
+    "TV Play Sports+": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=Martyn&key=CBxWefH"
+    ],
+    "TV Play 1000 Premium": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=Martyn&key=CBxWefH"
+    ],
+    "Первый HD (+4)": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORTHDplus4&login=Martyn&key=CBxWefH"
+    ],
+    "Рен тв HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenTvHD&login=Martyn&key=CBxWefH"
+    ],
+    "Кинопоказ HD1": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz1HD&login=Martyn&key=CBxWefH"
+    ],
+    "VIP premiere HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPPremiereHD&login=Martyn&key=CBxWefH"
+    ],
+    "VIP megahit HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPMegahitHD&login=Martyn&key=CBxWefH"
+    ],
+    "VIP comedy HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPComedyHD&login=Martyn&key=CBxWefH"
+    ],
+    "TV 1000 action HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000actionhd&login=Martyn&key=CBxWefH"
+    ],
+    "Paramount channel HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=Martyn&key=CBxWefH"
+    ],
+    "Paramount comedy HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=Martyn&key=CBxWefH"
+    ],
+    "STAR CINEMA HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHDRU&login=Martyn&key=CBxWefH"
+    ],
+    "STAR FAMILY HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHDRU&login=Martyn&key=CBxWefH"
+    ],
+    "STAR CINEMA HD UA": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHD&login=Martyn&key=CBxWefH"
+    ],
+    "STAR FAMILY HD UA": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHD&login=Martyn&key=CBxWefH"
+    ],
+    "Bolt HD RU": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOLTHDRU&login=Martyn&key=CBxWefH"
+    ],
+    "Ultra Cinema UHD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FUltraCinemaUHD&login=Martyn&key=CBxWefH"
+    ],
+    "TOP Budo": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPBudo&login=Martyn&key=CBxWefH"
+    ],
+    "TOP Cinema": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPCinema&login=Martyn&key=CBxWefH"
+    ],
+    "Иллюзион + HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal2&login=Martyn&key=CBxWefH"
+    ],
+    "Сетанта спорт HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=Martyn&key=CBxWefH"
+    ],
+    "Сетанта спорт + HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaEurasiaHD&login=Martyn&key=CBxWefH"
+    ],
+    "Eleven Sports 3 HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports3HDPL&login=Martyn&key=CBxWefH"
+    ],
+    "Eleven Sports 4 HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FELEVENSPORTS4HDPL&login=Martyn&key=CBxWefH"
+    ],
+    "Eurosport 2  PL": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HDPL&login=Martyn&key=CBxWefH"
+    ],
+    "Bein sports 1": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXCinemaHD&login=Martyn&key=CBxWefH"
+    ],
+    "Bein sports 2": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXVHS&login=Martyn&key=CBxWefH"
+    ],
+    "Chelsea TV HD": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fchelseatv&login=Martyn&key=CBxWefH"
+    ],
+    "Nasa 4K": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasaTV&login=Martyn&key=CBxWefH"
+    ],
+    "Insight 4K": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FInsightUHD&login=Martyn&key=CBxWefH"
+    ],
+    "My zen tv 4K": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fhotbird4k&login=Martyn&key=CBxWefH"
+    ],
+    "Home 4K": [
+      "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUKinozakaz&login=Martyn&key=CBxWefH"
     ]
   },
   "unreadChannels": false

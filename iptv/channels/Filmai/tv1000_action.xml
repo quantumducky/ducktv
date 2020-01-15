@@ -7,52 +7,52 @@
         
           <channel>
             <title><![CDATA[TV1000 Action (2)]]></title>
-            <stream_url><![CDATA[http://212.12.194.10/tv1000act/live.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (3)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (4)]]></title>
             <stream_url><![CDATA[http://78.31.227.252:8080/tv1000action/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1000 Action (5)]]></title>
-            <stream_url><![CDATA[http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (6)]]></title>
-            <stream_url><![CDATA[http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (7)]]></title>
-            <stream_url><![CDATA[http://178.124.183.14/hls/9X9NUEEKGW/bw1200000/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (8)]]></title>
+            <title><![CDATA[TV1000 Action (3)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1000 Action (9)]]></title>
+            <title><![CDATA[TV1000 Action (4)]]></title>
+            <stream_url><![CDATA[http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (5)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (6)]]></title>
+            <stream_url><![CDATA[http://178.124.183.14/hls/9X9NUEEKGW/bw1200000/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (7)]]></title>
             <stream_url><![CDATA[http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1000 Action (10)]]></title>
+            <title><![CDATA[TV1000 Action (8)]]></title>
             <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1000 Action (11)]]></title>
+            <title><![CDATA[TV1000 Action (9)]]></title>
+            <stream_url><![CDATA[http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (10)]]></title>
             <stream_url><![CDATA[http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (11)]]></title>
+            <stream_url><![CDATA[http://212.12.194.10/tv1000act/live.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -62,7 +62,7 @@
         
           <channel>
             <title><![CDATA[TV1000 Action (13)]]></title>
-            <stream_url><![CDATA[http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2]]></stream_url>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/131/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -72,42 +72,47 @@
         
           <channel>
             <title><![CDATA[TV1000 Action (15)]]></title>
-            <stream_url><![CDATA[http://212.112.101.69:8081/stream58/output.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (16)]]></title>
-            <stream_url><![CDATA[http://46.181.116.168:81/udp/239.255.42.46:1234]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (17)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s91/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action (18)]]></title>
             <stream_url><![CDATA[http://92.43.140.204/s91/04.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1000 Action (19)]]></title>
+            <title><![CDATA[TV1000 Action (16)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (17)]]></title>
             <stream_url><![CDATA[http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[TV1000 Action (18)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s91/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (19)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream58/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[TV1000 Action (20)]]></title>
-            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/131/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://46.181.116.168:81/udp/239.255.42.46:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV1000 Action (21)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/83/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0106/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV1000 Action (22)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/51/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 Action (23)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/83/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
 </items>

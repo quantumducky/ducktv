@@ -2,22 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[TV3 (1)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/TV3/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV3 (2)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV3 (3)]]></title>
             <stream_url><![CDATA[http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV3 (4)]]></title>
+            <title><![CDATA[TV3 (2)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/TV3/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 (3)]]></title>
             <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 (4)]]></title>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,6 +32,11 @@
         
           <channel>
             <title><![CDATA[TV3 (7)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0415/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 (8)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/82/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

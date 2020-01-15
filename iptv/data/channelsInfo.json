@@ -247,6 +247,42 @@
       "name": "VIP Premiere HD",
       "logo": "vip_premiere.png",
       "terms": ["ViP Premiere HD", "VIP Premiere HD", "ViP Premiere HD PREMIUM+", "ViP PREMIERE HD"]
+    },
+    {
+      "id": "amc",
+      "name": "AMC",
+      "logo": "amc.png",
+      "terms": ["AMC"]
+    },
+    {
+      "id": "filmbox",
+      "name": "Filmbox",
+      "logo": "filmbox.png",
+      "terms": ["Filmbox", "FilmBox Baltic", "filmbox_baltic", "FilmBox", "Filmbox Baltic"]
+    },
+    {
+      "id": "paramount_channel",
+      "name": "Paramount Channel",
+      "logo": "paramount_channel.png",
+      "terms": ["Paramount Channel", "PARAMOUNT CHANNEL", "PARAMOUNT", "Paramount"]
+    },
+    {
+      "id": "paramount_channel_hd",
+      "name": "Paramount Channel HD",
+      "logo": "paramount_channel.png",
+      "terms": ["Paramount Channel HD", "Paramount channel HD"]
+    },
+    {
+      "id": "paramount_comedy",
+      "name": "Paramount Comedy",
+      "logo": "paramount_comedy.png",
+      "terms": ["Paramount Comedy", "PARAMOUNT COMEDY", "Paramount Comedy Russia"]
+    },
+    {
+      "id": "paramount_comedy_hd",
+      "name": "Paramount Comedy HD",
+      "logo": "paramount_comedy.png",
+      "terms": ["Paramount Comedy", "Paramount Comedy HD", "Paramount comedy HD"]
     }
   ],
   "Sportas": [
@@ -260,7 +296,7 @@
       "id": "tv3_sport_hd",
       "name": "TV3 Sport HD",
       "logo": "tv3_sport.png",
-      "terms": ["TVPlay Sports HD", "TV3 Sport HD (TVPlay Sports HD)"]
+      "terms": ["TVPlay Sports HD", "TV3 Sport HD (TVPlay Sports HD)", "TV Play Sports HD"]
     },
     {
       "id": "tv3_sport_2",
@@ -325,6 +361,116 @@
       "name": "Матч!",
       "logo": "match.png",
       "terms": ["Матч ТВ", "Матч!"]
+    }
+  ],
+  "Dokumentika": [
+    {
+      "id": "national_geographic",
+      "name": "National Geographic",
+      "logo": "national_geographic.png",
+      "terms": ["National Geographic", "National Geographic Channel", "NATIONAL GEOGRAPHIC"]
+    },
+    {
+      "id": "national_geographic_hd",
+      "name": "National Geographic HD",
+      "logo": "national_geographic.png",
+      "terms": ["National Geographic HD", "NATIONAL GEOGRAPHIC HD", "NATIONAL GEOGRAPHIC HD (RU)"]
+    },
+    {
+      "id": "nat_geo_wild",
+      "name": "Nat Geo Wild",
+      "logo": "nat_geo_wild.png",
+      "terms": ["Nat Geo Wild", "Nat Geo WILD", "NAT GEO WILD"]
+    },
+    {
+      "id": "nat_geo_wild_hd",
+      "name": "Nat Geo Wild HD",
+      "logo": "nat_geo_wild.png",
+      "terms": ["Nat Geo Wild HD", "Nat Geo Wild HD (720)", "NAT GEO WILD HD"]
+    },
+    {
+      "id": "docubox_hd",
+      "name": "DocuBox HD",
+      "logo": "docubox.png",
+      "terms": ["DocuBox HD", "DocuBOX HD", "Docubox", "DocuBoxHD", "docubox_hd HD", "Docubox HD", "DocuBox"]
+    },
+    {
+      "id": "ochota_i_rybalka",
+      "name": "Охота и Рыбалка",
+      "logo": "ochota_i_rybalka.png",
+      "terms": ["Охота и рыбалка", "ОХОТА И РЫБАЛКА", "Охота и Рыбалка"]
+    },
+    {
+      "id": "animal_planet",
+      "name": "Animal Planet",
+      "logo": "animal_planet.png",
+      "terms": ["Animal Planet", "ANIMAL PLANET", "Animal planet"]
+    },
+    {
+      "id": "animal_planet_hd",
+      "name": "Animal Planet HD",
+      "logo": "animal_planet.png",
+      "terms": ["Animal Planet HD", "ANIMAL PLANET HD"]
+    },
+    {
+      "id": "viasat_explore",
+      "name": "Viasat Explore",
+      "logo": "viasat_explore.png",
+      "terms": ["Viasat Explore", "VIASAT EXPLORE", "Viasat Explorer"]
+    },
+    {
+      "id": "viasat_explore_hd",
+      "name": "Viasat Explore HD",
+      "logo": "viasat_explore.png",
+      "terms": ["Viasat Explore HD", "Viasat Explorer HD", "Viasat Explore HD (резерв)", "Viasat Explore HD (720)"]
+    },
+    {
+      "id": "viasat_history",
+      "name": "Viasat History",
+      "logo": "viasat_history.png",
+      "terms": ["Viasat History", "VIASAT HISTORY"]
+    },
+    {
+      "id": "viasat_history_hd",
+      "name": "Viasat History HD",
+      "logo": "viasat_history.png",
+      "terms": ["Viasat History HD", "Viasat History HD (720)", "VIASAT HISTORY HD"]
+    },
+    {
+      "id": "viasat_nature",
+      "name": "Viasat Nature",
+      "logo": "viasat_nature.png",
+      "terms": ["Viasat Nature", "Viasat Nature CEE", "VIASAT Nature East", "VIASAT NATURE"]
+    },
+    {
+      "id": "viasat_nature_hd",
+      "name": "Viasat Nature HD",
+      "logo": "viasat_nature.png",
+      "terms": ["Viasat Nature HD", "Viasat Nature/History HD", "VIASAT NATURE HD", "VIASAT NATURE/HISTORY HD"]
+    },
+    {
+      "id": "discovery_channel",
+      "name": "Discovery Channel",
+      "logo": "discovery_channel.png",
+      "terms": ["Discovery Channel", "DISCOVERY CHANNEL", "Discovery Channel Europe", "Discovery Channel (Россия)", "Discovery channel"]
+    },
+    {
+      "id": "discovery_channel_hd",
+      "name": "Discovery Channel HD",
+      "logo": "discovery_channel.png",
+      "terms": ["Discovery Channel HD", "DISCOVERY CHANNEL HD", "Discovery channel HD"]
+    },
+    {
+      "id": "discovery_science",
+      "name": "Discovery Science",
+      "logo": "discovery_science.png",
+      "terms": ["Discovery Science", "DISCOVERY SCIENCE", "Discovery Science Europe", "Discovery science"]
+    },
+    {
+      "id": "discovery_science_hd",
+      "name": "Discovery Science HD",
+      "logo": "discovery_science.png",
+      "terms": ["Discovery Science HD", "Discovery Science HD (720)", "DISCOVERY SCIENCE HD"]
     }
   ]
 }

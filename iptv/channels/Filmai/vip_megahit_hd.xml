@@ -7,6 +7,11 @@
         
           <channel>
             <title><![CDATA[VIP Megahit HD (2)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0543/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Megahit HD (3)]]></title>
             <stream_url><![CDATA[http://tv545.com/stream/3znj4KV/channel/210.m3u8]]></stream_url>
           </channel>
         

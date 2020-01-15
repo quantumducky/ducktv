@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Viasat Nature HD (1)]]></title>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.234.7:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (2)]]></title>
+            <stream_url><![CDATA[http://188.35.9.11:21071/udp/078s]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (3)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (4)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/203/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (5)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/203/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/203/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (7)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/203/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (8)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/203/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (9)]]></title>
+            <stream_url><![CDATA[http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/203/i.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (10)]]></title>
+            <stream_url><![CDATA[http://telesfor.kartoshkaka.ru/iptv/WY7ZG2Z6XFDMMQ/203/i.m3u8 ]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature HD (11)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0121/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Filmbox (1)]]></title>
+            <stream_url><![CDATA[http://84.32.72.60:8080/filmbox_baltic/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Filmbox (2)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/ch16003/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Filmbox (3)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/948/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Filmbox (4)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/948/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Filmbox (5)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/948/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Filmbox (6)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/149/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+</items>

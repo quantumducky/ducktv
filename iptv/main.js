@@ -18,13 +18,13 @@ const OTTV_URL = 'http://ottv.tk/public/plst/plstfb/playlist.php?ott';
 
   // await fetchPlaylists();
 
-  // const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
-  // const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
-  // const foundChannels = await findChannels(channels, channelsToSearch);
+  const channels = await readChannelsFromPlaylists(LOG_FILE_PATH);
+  const channelsToSearch = await readLogData(CHANNELS_INFO_FILE_PATH);
+  const foundChannels = await findChannels(channels, channelsToSearch);
 
-  const foundChannels = await readLogData('./foundChannels.json');
+  // const foundChannels = await readLogData('./foundChannels.json');
 
-  // writeLogData(foundChannels, './foundChannels.json');
+  writeLogData(foundChannels, './foundChannels.json');
 
   await generateXMLPlaylist(foundChannels);
   process.exit(0);
@@ -81,7 +81,7 @@ async function generateXMLPlaylist(channels) {
   }
 
   mainXml += '\n</items>';
-  await writeToFile(mainXml, `./main.xml`);
+  // await writeToFile(mainXml, `./main.xml`);
 }
 
 
@@ -103,7 +103,7 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  const ignoreCategories = ["Filmai", "Sportas"];
+  const ignoreCategories = ["LT", "Sportas", "Dokumentika"];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {

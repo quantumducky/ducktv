@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Discovery Science HD (1)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (2)]]></title>
+            <stream_url><![CDATA[http://5.129.5.72:81/udp/239.1.21.143:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (3)]]></title>
+            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (4)]]></title>
+            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (5)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/104/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (6)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (7)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/391/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (8)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (9)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55671.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science HD (10)]]></title>
+            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=Martyn&key=CBxWefH]]></stream_url>
+          </channel>
+        
+</items>

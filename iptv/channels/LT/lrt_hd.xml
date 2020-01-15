@@ -2,17 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[LRT HD (1)]]></title>
-            <stream_url><![CDATA[http://212.12.194.10/lrthd/live.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.31.227.252:8080/lrthd/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[LRT HD (2)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/lrthd/mono.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://212.12.194.10/lrthd/live.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[LRT HD (3)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/110/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT HD (4)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0379/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
           </channel>
         
 </items>

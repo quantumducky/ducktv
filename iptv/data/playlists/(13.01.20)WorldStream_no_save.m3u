@@ -1,0 +1,236 @@
+#EXTM3U
+#EXTINF:-1,TV Play Sports HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,TV Play Sports+  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPLAYSPORTPLUSSD&login=Martyn&key=CBxWefH
+#EXTINF:-1,TV Play 1000 Premium  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV1000PremiumRU&login=Martyn&key=CBxWefH
+#EXTINF:-1,Беларусь 1  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB1&login=Martyn&key=CBxWefH
+#EXTINF:-1,Беларусь 2  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB2&login=Martyn&key=CBxWefH
+#EXTINF:-1,Беларусь 3  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB3&login=Martyn&key=CBxWefH
+#EXTINF:-1,Беларусь 5  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FB5&login=Martyn&key=CBxWefH
+#EXTINF:-1,Первый HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOrtHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Первый HD (+4)
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FORTHDplus4&login=Martyn&key=CBxWefH
+#EXTINF:-1,Россия 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRossiya1HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,НТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNTVHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,ТНТ HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTntHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,ТНТ 4 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTNT4HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Рен тв HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRenTvHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Пятница HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFridayHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,ТВ3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTV3HDRUS&login=Martyn&key=CBxWefH
+#EXTINF:-1,Супер HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSuperHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Наш кинороман HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashKinoromanHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Наш детектив HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashDetektivHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинопоказ HD1
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz1HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинопоказ HD2
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopokaz2HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Страшное HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStrashnoeHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинопремиум HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremiumHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Остросюжетное HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FOstrosuzetnoeHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кино ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,VIP premiere HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPPremiereHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,VIP megahit HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPMegahitHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,VIP comedy HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FViPComedyHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Дом кино премиум HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDomKinoPremiumHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинопремьера HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinopremieraHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Мужское кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMuzskoekinoHDTELEK&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинокомедия HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinokomediyaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Кинохит HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinohitHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Киносвидание HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosvidanieHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Киносемья HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinosemyaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Киномикс HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinomiksHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Киносерия HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKinoseriyaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Наше новое кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2F10004&login=Martyn&key=CBxWefH
+#EXTINF:-1,Русский роман HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Frussianromanhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,TV 1000 Русское кино HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000rukinohd&login=Martyn&key=CBxWefH
+#EXTINF:-1,TV 1000 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv100hd&login=Martyn&key=CBxWefH
+#EXTINF:-1,TV 1000 action HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftv1000actionhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,MGM HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMGMHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Paramount channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Paramount comedy HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Amedia premium HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Amedia hit HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Amedia 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Amedia 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,STAR CINEMA HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHDRU&login=Martyn&key=CBxWefH
+#EXTINF:-1,STAR FAMILY HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHDRU&login=Martyn&key=CBxWefH
+#EXTINF:-1,STAR CINEMA HD UA
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarCinemaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,STAR FAMILY HD UA
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FStarFamilyHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Spike HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fspiektvhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Bolt HD RU
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOLTHDRU&login=Martyn&key=CBxWefH
+#EXTINF:-1,Дорама HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDoramaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Романтичное HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FRomantichnoeHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Ultra Cinema UHD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FUltraCinemaUHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,TOP 80s
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOP80s&login=Martyn&key=CBxWefH
+#EXTINF:-1,TOP Budo
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPBudo&login=Martyn&key=CBxWefH
+#EXTINF:-1,TOP Cinema
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTOPCinema&login=Martyn&key=CBxWefH
+#EXTINF:-1,VIP Serial HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fviasatgolfhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Русский иллюзион HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal1&login=Martyn&key=CBxWefH
+#EXTINF:-1,Иллюзион + HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal2&login=Martyn&key=CBxWefH
+#EXTINF:-1,Еврокино HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal3&login=Martyn&key=CBxWefH
+#EXTINF:-1,Театр HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTHEATERHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,FAN HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFanHDL&login=Martyn&key=CBxWefH
+#EXTINF:-1,Nickelodeon HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNickelodeonHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Cartoon Network HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fcartoonnetworkhd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Ginger HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FGingerHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Детский HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal4&login=Martyn&key=CBxWefH
+#EXTINF:-1,Тлум HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTlumHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Мультик HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMultikHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,СТС Kids HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSTSKidsHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,NIKI Kids HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIKidsHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,NIKI Junior HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNIKIJuniorHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Discovery Channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Discovery Science HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Discovery HD Showcase
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryShowcaseHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Animal Planet HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,National Geographic HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Nat Geo Wild HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Galaxy HD
+http://ott.onlineott.tv/tools/m3u/play.php?url=http%3A%2F%2Fcdn.onlineott.tv%2FTAINYGALAKTIKIHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Планета HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fplanetahd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Travel+Adventure HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Ftraveladventurehd&login=Martyn&key=CBxWefH
+#EXTINF:-1,Travel Channel HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTravelChannelHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч ТВ HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchTVHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Футбол 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol1HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Футбол 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol2HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Футбол 3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchFutbol3HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Премьер HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNashFootbalHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Игра HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchIgraHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Матч! Арена HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FMatchArenaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Футбол HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTelekanalFootbalHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,КХЛ HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FKHLHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Сетанта спорт HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Сетанта спорт + HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FSetantaEurasiaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eurosport Gold HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosportGoldHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eurosport 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport4k&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eurosport 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eurosport 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eleven Sports 1 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports1HDPL&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eleven Sports 2 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports2HDPL&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eleven Sports 3 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FElevenSports3HDPL&login=Martyn&key=CBxWefH
+#EXTINF:-1,Eleven Sports 4 HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FELEVENSPORTS4HDPL&login=Martyn&key=CBxWefH
+ 
+#EXTINF:-1,Eurosport 2  PL
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HDPL&login=Martyn&key=CBxWefH
+#EXTINF:-1,Bein sports 1  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXCinemaHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Bein sports 2  
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBOXVHS&login=Martyn&key=CBxWefH
+#EXTINF:-1,Chelsea TV HD
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fchelseatv&login=Martyn&key=CBxWefH
+#EXTINF:-1,Fashion TV 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FFashionTVHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,Fashion 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUMARVELDC&login=Martyn&key=CBxWefH
+#EXTINF:-1,Nasa 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNasaTV&login=Martyn&key=CBxWefH
+#EXTINF:-1,Insight 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FInsightUHD&login=Martyn&key=CBxWefH
+#EXTINF:-1,My zen tv 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fhotbird4k&login=Martyn&key=CBxWefH
+#EXTINF:-1,Home 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUKinozakaz&login=Martyn&key=CBxWefH
+#EXTINF:-1,Наша Сибирь 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FBCUkinozal7&login=Martyn&key=CBxWefH
+#EXTINF:-1,Love Nature 4K
+http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FLoveNature4K&login=Martyn&key=CBxWefH

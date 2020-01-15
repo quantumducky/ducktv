@@ -2,22 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[TV1000 Action HD (1)]]></title>
-            <stream_url><![CDATA[http://217.15.48.100:15001/udp/225.77.53.67:5000]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1000 Action HD (2)]]></title>
             <stream_url><![CDATA[http://31.41.96.176:81/udp/225.0.56.76:1234]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[TV1000 Action HD (2)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0107/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[TV1000 Action HD (3)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000ACTIONHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://54.38.180.196/play/487/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV1000 Action HD (4)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/487/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000ACTIONHD/variant.m3u8]]></stream_url>
           </channel>
         
 </items>

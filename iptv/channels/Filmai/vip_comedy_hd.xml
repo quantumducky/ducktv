@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[VIP Comedy HD (1)]]></title>
-            <stream_url><![CDATA[http://31.41.96.176:81/udp/225.0.56.14:1234]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (2)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://31.41.96.176:81/udp/225.0.56.14:1234]]></stream_url>
           </channel>
         
           <channel>
@@ -22,6 +22,11 @@
         
           <channel>
             <title><![CDATA[VIP Comedy HD (5)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0124/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (6)]]></title>
             <stream_url><![CDATA[http://tv545.com/stream/3znj4KV/channel/208.m3u8]]></stream_url>
           </channel>
         

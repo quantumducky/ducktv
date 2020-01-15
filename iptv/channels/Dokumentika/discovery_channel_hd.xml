@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Discovery Channel HD (1)]]></title>
+            <stream_url><![CDATA[http://217.25.216.4:8085/udp/238.2.16.147:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (2)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/227/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (3)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/227/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (4)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/227/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (5)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/227/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (6)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/227/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (7)]]></title>
+            <stream_url><![CDATA[http://109.171.6.220:81/udp/239.54.7.86:1224]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (8)]]></title>
+            <stream_url><![CDATA[http://2.60.50.50:1234/udp/233.7.70.12:5000]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (9)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0032/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (10)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (11)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30961.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (12)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57356.ts]]></stream_url>
+          </channel>
+        
+</items>

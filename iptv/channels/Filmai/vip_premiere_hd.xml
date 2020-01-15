@@ -7,11 +7,21 @@
         
           <channel>
             <title><![CDATA[VIP Premiere HD (2)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/328/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0125/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere HD (3)]]></title>
+            <stream_url><![CDATA[http://188.35.9.15:2013]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere HD (4)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/328/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere HD (5)]]></title>
             <stream_url><![CDATA[http://hls.peers.tv/streaming/tv1000_premium_hd/16/copy/playlist.m3u8]]></stream_url>
           </channel>
         

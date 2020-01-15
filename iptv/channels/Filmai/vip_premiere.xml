@@ -12,22 +12,22 @@
         
           <channel>
             <title><![CDATA[VIP Premiere (3)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/202/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Premiere (4)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/202/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[VIP Premiere (5)]]></title>
+            <title><![CDATA[VIP Premiere (4)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/202/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[VIP Premiere (6)]]></title>
+            <title><![CDATA[VIP Premiere (5)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/202/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere (6)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/202/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -42,27 +42,22 @@
         
           <channel>
             <title><![CDATA[VIP Premiere (9)]]></title>
-            <stream_url><![CDATA[http://50.7.244.58:8080/vip_premiere_hd/mpegts]]></stream_url>
+            <stream_url><![CDATA[http://54.38.180.196/play/196/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere (10)]]></title>
-            <stream_url><![CDATA[http://188.113.190.12/201/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere (11)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/196/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://50.7.244.58:8080/vip_premiere_hd/mpegts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere (12)]]></title>
             <stream_url><![CDATA[http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Premiere (13)]]></title>
-            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8]]></stream_url>
           </channel>
         
 </items>

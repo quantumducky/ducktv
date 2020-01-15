@@ -90,4 +90,40 @@
           <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/vip_premiere_hd.xml]]></playlist_url>
         </channel>
       
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/amc.png]]></logo_30x30>
+          <title><![CDATA[AMC]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/amc.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/filmbox.png]]></logo_30x30>
+          <title><![CDATA[Filmbox]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/filmbox.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/paramount_channel.png]]></logo_30x30>
+          <title><![CDATA[Paramount Channel]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/paramount_channel.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/paramount_channel.png]]></logo_30x30>
+          <title><![CDATA[Paramount Channel HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/paramount_channel_hd.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/paramount_comedy.png]]></logo_30x30>
+          <title><![CDATA[Paramount Comedy]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/paramount_comedy.xml]]></playlist_url>
+        </channel>
+      
+        <channel>
+          <logo_30x30><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/data/logos/paramount_comedy.png]]></logo_30x30>
+          <title><![CDATA[Paramount Comedy HD]]></title>
+          <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/channels/Filmai/paramount_comedy_hd.xml]]></playlist_url>
+        </channel>
+      
 </items>

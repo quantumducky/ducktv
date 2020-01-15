@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (1)]]></title>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.232.5:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (2)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (3)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (4)]]></title>
+            <stream_url><![CDATA[http://188.35.9.8:21121/udp/126z]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/915/86.169.51.136/2/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/216/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (7)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/216/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/216/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (9)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/216/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (10)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (11)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/216/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (12)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/409/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (13)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/162/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (14)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0079/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (15)]]></title>
+            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (16)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30949.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Nat Geo Wild HD (17)]]></title>
+            <stream_url><![CDATA[https://cdn1.mobiletv.bg/T14/ATV/ngc_wild_hd/ngc_wild_hd_ATV987654321.m3u8]]></stream_url>
+          </channel>
+        
+</items>

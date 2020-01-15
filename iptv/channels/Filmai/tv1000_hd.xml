@@ -2,6 +2,11 @@
 <items>
           <channel>
             <title><![CDATA[TV1000 HD (1)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0108/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV1000 HD (2)]]></title>
             <stream_url><![CDATA[http://54.38.180.196/play/488/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         

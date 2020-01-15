@@ -2,7 +2,7 @@
 <items>
           <channel>
             <title><![CDATA[Balticum Auksinis (1)]]></title>
-            <stream_url><![CDATA[http://212.12.194.10/auksinis/live.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.31.227.252:8080/balticumauksinis/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -12,7 +12,7 @@
         
           <channel>
             <title><![CDATA[Balticum Auksinis (3)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/balticumauksinis/mono.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://212.12.194.10/auksinis/live.m3u8]]></stream_url>
           </channel>
         
           <channel>

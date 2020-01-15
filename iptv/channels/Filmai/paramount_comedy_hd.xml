@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (1)]]></title>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.241.89:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (2)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (3)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/250/816951136/819088191919/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (4)]]></title>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (6)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (7)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (8)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0087/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (9)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0088/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (10)]]></title>
+            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=Martyn&key=CBxWefH]]></stream_url>
+          </channel>
+        
+</items>

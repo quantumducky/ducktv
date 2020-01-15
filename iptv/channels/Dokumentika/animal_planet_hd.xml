@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Animal Planet HD (1)]]></title>
+            <stream_url><![CDATA[http://78.31.227.252:8080/animalplanethd/mono.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (2)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (3)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/918/86.169.51.136/8/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (4)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (6)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/918/86.169.51.136/2/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/218/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/218/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (9)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/918/51.51.51.51/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (10)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/218/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (11)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/218/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (12)]]></title>
+            <stream_url><![CDATA[http://217.25.216.4:8085/udp/238.2.16.175:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (13)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/218/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (14)]]></title>
+            <stream_url><![CDATA[http://server1.life-tv.eu/ch0015/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (15)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/21/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (16)]]></title>
+            <stream_url><![CDATA[http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (17)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55696.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (18)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33330.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (19)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57189.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Animal Planet HD (20)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33522.ts]]></stream_url>
+          </channel>
+        
+</items>
