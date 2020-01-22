@@ -7,42 +7,52 @@
         
           <channel>
             <title><![CDATA[Матч! Арена (2)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/506/86.169.51.136/2/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Арена (3)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/528/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Арена (4)]]></title>
             <stream_url><![CDATA[http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Матч! Арена (3)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/506/86.169.51.136/2/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Арена (4)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/528/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Матч! Арена (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/528/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/528/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Арена (6)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/528/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/528/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Арена (7)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/528/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Арена (8)]]></title>
             <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/528/index.m3u]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Матч! Арена (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/528/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Матч! Арена (9)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/528/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Арена (10)]]></title>
             <stream_url><![CDATA[http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Арена (11)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/528/index.m3u8]]></stream_url>
           </channel>
         
 </items>

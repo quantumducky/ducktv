@@ -1,13 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
-          <channel>
-            <title><![CDATA[LRytas TV HD (1)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/lrytashd/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LRytas TV HD (2)]]></title>
-            <stream_url><![CDATA[http://212.12.194.10/lrytashd/live.m3u8]]></stream_url>
-          </channel>
-        
 </items>

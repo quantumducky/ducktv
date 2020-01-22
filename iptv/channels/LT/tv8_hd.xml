@@ -10,4 +10,9 @@
             <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1]]></stream_url>
           </channel>
         
+          <channel>
+            <title><![CDATA[TV8 HD (3)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2286/index.m3u8]]></stream_url>
+          </channel>
+        
 </items>

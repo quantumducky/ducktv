@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+          <channel>
+            <title><![CDATA[Amedia Premium (1)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/211/86.169.51.136/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (2)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/555/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (3)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (4)]]></title>
+            <stream_url><![CDATA[http://178.124.183.14:80/hls/CH_AMEDIAPREMIUM/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (5)]]></title>
+            <stream_url><![CDATA[http://92.43.140.249/s64/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (6)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/211/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (7)]]></title>
+            <stream_url><![CDATA[http://188.35.9.11:21031/udp/035c]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (8)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/211/86.169.51.136/8/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (9)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (10)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s64/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (11)]]></title>
+            <stream_url><![CDATA[http://178.163.58.72:4022/udp/234.0.0.209:2000]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (12)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream46/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (13)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (14)]]></title>
+            <stream_url><![CDATA[http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (15)]]></title>
+            <stream_url><![CDATA[http://OTT-cdn.ucom.am/s64/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (16)]]></title>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (17)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (18)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/229/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (19)]]></title>
+            <stream_url><![CDATA[http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (20)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (21)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/229/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (22)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (23)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/555/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (24)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (25)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/555/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (26)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/229/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (27)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/555/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (28)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/555/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (29)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/555/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (30)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/555/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (31)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/630/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (32)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/187/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (33)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/151.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Premium (34)]]></title>
+            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=Martyn&key=CBxWefH]]></stream_url>
+          </channel>
+        
+</items>

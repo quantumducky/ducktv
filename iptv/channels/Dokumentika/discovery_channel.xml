@@ -2,52 +2,52 @@
 <items>
           <channel>
             <title><![CDATA[Discovery Channel (1)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/423/51.51.51.51/1/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (2)]]></title>
-            <stream_url><![CDATA[http://213.174.8.7:8000/play/24/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (3)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/423/86.169.51.136/0/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (4)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/423/100.0.0.5/1/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (5)]]></title>
             <stream_url><![CDATA[http://46.32.68.167/s/live/423/86.169.51.136/8/0.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Channel (2)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/423/51.51.51.51/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (3)]]></title>
+            <stream_url><![CDATA[http://213.174.8.7:8000/play/24/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (4)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/423/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/423/100.0.0.5/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Channel (6)]]></title>
-            <stream_url><![CDATA[http://193.201.98.123:7000/play/a029]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (7)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (8)]]></title>
             <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/140/index.m3u]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Channel (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/140/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Channel (9)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (10)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -57,86 +57,81 @@
         
           <channel>
             <title><![CDATA[Discovery Channel (12)]]></title>
-            <stream_url><![CDATA[http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (13)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Channel (13)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/140/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Channel (14)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (15)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (16)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0031/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (17)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/46/hls/4WT1bzMG/?type=m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (18)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31968.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (19)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (20)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32620.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (21)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (22)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34412.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (23)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (24)]]></title>
-            <stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.124:1234]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (25)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31265.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Channel (26)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33662.ts]]></stream_url>
+            <title><![CDATA[Discovery Channel (17)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34412.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Channel (27)]]></title>
+            <title><![CDATA[Discovery Channel (18)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32620.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (19)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31968.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (20)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (21)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35500.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Channel (28)]]></title>
+            <title><![CDATA[Discovery Channel (22)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (23)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (24)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33662.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (25)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/46/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (26)]]></title>
+            <stream_url><![CDATA[http://303tv.net:8080/barissen12/24082019adpara/4877]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel (27)]]></title>
             <stream_url><![CDATA[http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=56]]></stream_url>
           </channel>
         

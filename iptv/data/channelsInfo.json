@@ -283,6 +283,30 @@
       "name": "Paramount Comedy HD",
       "logo": "paramount_comedy.png",
       "terms": ["Paramount Comedy", "Paramount Comedy HD", "Paramount comedy HD"]
+    },
+    {
+      "id": "amedia_1",
+      "name": "Amedia 1",
+      "logo": "amedia_1.png",
+      "terms": ["Amedia 1", "Amedia 1 HD", "AMEDIA 1"]
+    },
+    {
+      "id": "amedia_2",
+      "name": "Amedia 2",
+      "logo": "amedia_2.png",
+      "terms": ["Amedia 2", "Amedia 2 HD", "AMEDIA 2"]
+    },
+    {
+      "id": "amedia_hit",
+      "name": "Amedia Hit",
+      "logo": "amedia_hit.png",
+      "terms": ["Amedia Hit", "Amedia hit HD", "AMEDIA HIT", "Amedia HIT", "Amedia Hit HD", "AMEDIA HIT HD"]
+    },
+    {
+      "id": "amedia_premium",
+      "name": "Amedia Premium",
+      "logo": "amedia_premium.png",
+      "terms": ["Amedia Premium", "Amedia Premium HD", "AMEDIA Premium HD", "Amedia Premium HD (SD)", "AMEDIA PREMIUM", "Amedia premium", "Amedia premium HD", "AMEDIA PREMIUM HD"]
     }
   ],
   "Sportas": [
@@ -446,7 +470,7 @@
       "id": "viasat_nature_hd",
       "name": "Viasat Nature HD",
       "logo": "viasat_nature.png",
-      "terms": ["Viasat Nature HD", "Viasat Nature/History HD", "VIASAT NATURE HD", "VIASAT NATURE/HISTORY HD"]
+      "terms": ["Viasat Nature HD", "Viasat Nature/History HD", "VIASAT NATURE HD"]
     },
     {
       "id": "discovery_channel",

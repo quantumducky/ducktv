@@ -2,27 +2,27 @@
 <items>
           <channel>
             <title><![CDATA[VIP Comedy (1)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Comedy (2)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/01.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Comedy (3)]]></title>
             <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/03.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[VIP Comedy (4)]]></title>
+            <title><![CDATA[VIP Comedy (2)]]></title>
             <stream_url><![CDATA[http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[VIP Comedy (3)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy (4)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/01.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[VIP Comedy (5)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/04.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/133/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,7 +32,7 @@
         
           <channel>
             <title><![CDATA[VIP Comedy (7)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/133/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/04.m3u8]]></stream_url>
           </channel>
         
           <channel>

@@ -7,57 +7,57 @@
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (2)]]></title>
-            <stream_url><![CDATA[http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Охота и Рыбалка (3)]]></title>
-            <stream_url><![CDATA[http://178.163.127.23:4022/udp/234.0.0.230:2000]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Охота и Рыбалка (4)]]></title>
             <stream_url><![CDATA[http://178.163.12.60:4022/udp/234.0.0.230:2000]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Охота и Рыбалка (5)]]></title>
+            <title><![CDATA[Охота и Рыбалка (3)]]></title>
             <stream_url><![CDATA[http://178.163.109.216:34040/udp/234.0.0.230:2000]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Охота и Рыбалка (6)]]></title>
+            <title><![CDATA[Охота и Рыбалка (4)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2019/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Охота и Рыбалка (5)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2019/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Охота и Рыбалка (6)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/2019/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Охота и Рыбалка (7)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (8)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (9)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/88/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (10)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/67/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.5/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (11)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0214/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/67/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Охота и Рыбалка (12)]]></title>
-            <stream_url><![CDATA[http://109.248.236.41:4433/udp/238.1.1.22:1234]]></stream_url>
+            <stream_url><![CDATA[http://54.38.180.196/play/88/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
 </items>

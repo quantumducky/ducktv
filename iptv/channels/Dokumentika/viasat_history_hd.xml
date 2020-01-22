@@ -2,46 +2,36 @@
 <items>
           <channel>
             <title><![CDATA[Viasat History HD (1)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/viasathistory/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History HD (2)]]></title>
             <stream_url><![CDATA[http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History HD (3)]]></title>
+            <title><![CDATA[Viasat History HD (2)]]></title>
             <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History HD (4)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATHISTORYHD/variant.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History HD (5)]]></title>
-            <stream_url><![CDATA[http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History HD (6)]]></title>
+            <title><![CDATA[Viasat History HD (3)]]></title>
             <stream_url><![CDATA[http://188.35.9.11:21121/udp/137s]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History HD (7)]]></title>
+            <title><![CDATA[Viasat History HD (4)]]></title>
+            <stream_url><![CDATA[http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History HD (5)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATHISTORYHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History HD (6)]]></title>
             <stream_url><![CDATA[http://54.38.180.196/play/491/2D6E866C992891C/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History HD (8)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0118/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History HD (9)]]></title>
+            <title><![CDATA[Viasat History HD (7)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/33/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

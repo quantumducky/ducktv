@@ -7,42 +7,42 @@
         
           <channel>
             <title><![CDATA[National Geographic HD (2)]]></title>
-            <stream_url><![CDATA[http://37.235.254.189:81/udp/225.50.71.16:1234]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[National Geographic HD (3)]]></title>
-            <stream_url><![CDATA[http://188.35.9.12:21031/udp/034x]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (4)]]></title>
-            <stream_url><![CDATA[http://188.35.9.5:10005/stolen/151i/imposter.rar]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (5)]]></title>
-            <stream_url><![CDATA[http://188.35.9.11:21031/udp/034x]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (6)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/922/51.51.51.51/1/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (7)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/922/86.169.51.136/8/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (8)]]></title>
             <stream_url><![CDATA[http://46.32.68.167/s/live/922/86.169.51.136/1/0.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[National Geographic HD (4)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/922/86.169.51.136/8/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (5)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/922/51.51.51.51/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (6)]]></title>
+            <stream_url><![CDATA[http://37.235.254.189:81/udp/225.50.71.16:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (7)]]></title>
+            <stream_url><![CDATA[http://188.35.9.11:21031/udp/034x]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (8)]]></title>
+            <stream_url><![CDATA[http://188.35.9.12:21031/udp/034x]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[National Geographic HD (9)]]></title>
-            <stream_url><![CDATA[http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/ndex.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/230/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -52,52 +52,67 @@
         
           <channel>
             <title><![CDATA[National Geographic HD (11)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/ndex.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[National Geographic HD (12)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (13)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/230/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (14)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/230/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (15)]]></title>
             <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/230/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic HD (16)]]></title>
+            <title><![CDATA[National Geographic HD (13)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/230/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (14)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/230/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (15)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/230/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[National Geographic HD (16)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/230/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[National Geographic HD (17)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/408/hls/4WT1bzMG/?type=m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (18)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0081/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic HD (19)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30948.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic HD (20)]]></title>
+            <title><![CDATA[National Geographic HD (18)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57308.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (19)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (20)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/116.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (21)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/143/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (22)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/408/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic HD (23)]]></title>
+            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=Martyn&key=CBxWefH]]></stream_url>
           </channel>
         
 </items>

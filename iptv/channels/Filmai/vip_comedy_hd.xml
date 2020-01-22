@@ -12,17 +12,17 @@
         
           <channel>
             <title><![CDATA[VIP Comedy HD (3)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[VIP Comedy HD (4)]]></title>
             <stream_url><![CDATA[http://50.7.244.58:8080/vip_comedy_hd/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[VIP Comedy HD (4)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[VIP Comedy HD (5)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0124/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/201.m3u8]]></stream_url>
           </channel>
         
           <channel>

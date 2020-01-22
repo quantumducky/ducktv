@@ -2,11 +2,6 @@
 <items>
           <channel>
             <title><![CDATA[LRT Plius HD (1)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/LRTKulturaHD/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[LRT Plius HD (2)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/109/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

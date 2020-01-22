@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[National Geographic (1)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[National Geographic (2)]]></title>
-            <stream_url><![CDATA[http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://88.119.220.3/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -17,156 +17,141 @@
         
           <channel>
             <title><![CDATA[National Geographic (4)]]></title>
-            <stream_url><![CDATA[http://78.31.227.252:8080/natgeo/mono.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (5)]]></title>
             <stream_url><![CDATA[http://178.124.183.14/hls/CH_NATGEO/bw1200000/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[National Geographic (5)]]></title>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[National Geographic (6)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (7)]]></title>
-            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.232.2:1234]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (8)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/407/51.51.51.51/1/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (9)]]></title>
             <stream_url><![CDATA[http://46.32.68.167/s/live/407/100.0.0.5/1/0.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (10)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/0/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (11)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/8/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (12)]]></title>
+            <title><![CDATA[National Geographic (7)]]></title>
             <stream_url><![CDATA[http://188.35.9.11:21121/udp/127x]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (13)]]></title>
+            <title><![CDATA[National Geographic (8)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/8/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (9)]]></title>
             <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/1/0.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (14)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/2/0.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (15)]]></title>
-            <stream_url><![CDATA[http://193.201.98.123:7000/play/a02h]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (16)]]></title>
-            <stream_url><![CDATA[http://178.163.127.23:4022/udp/234.0.0.241:2000]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (17)]]></title>
+            <title><![CDATA[National Geographic (10)]]></title>
             <stream_url><![CDATA[http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (18)]]></title>
+            <title><![CDATA[National Geographic (11)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/2/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (12)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/407/51.51.51.51/1/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (13)]]></title>
+            <stream_url><![CDATA[http://46.32.68.167/s/live/407/86.169.51.136/0/0.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (14)]]></title>
             <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (19)]]></title>
+            <title><![CDATA[National Geographic (15)]]></title>
             <stream_url><![CDATA[http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (20)]]></title>
-            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8]]></stream_url>
+            <title><![CDATA[National Geographic (16)]]></title>
+            <stream_url><![CDATA[http://303tv.net:8080/barissen12/24082019adpara/184]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (21)]]></title>
-            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (22)]]></title>
-            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (23)]]></title>
+            <title><![CDATA[National Geographic (17)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/39/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (24)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/31/2D6E866C992891C/video.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (25)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33713.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (26)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31250.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (27)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56485.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (28)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33448.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[National Geographic (29)]]></title>
+            <title><![CDATA[National Geographic (18)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31947.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (30)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55803.ts]]></stream_url>
+            <title><![CDATA[National Geographic (19)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31250.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (31)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57128.ts]]></stream_url>
+            <title><![CDATA[National Geographic (20)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56485.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (32)]]></title>
+            <title><![CDATA[National Geographic (21)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33713.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (22)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58155.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (33)]]></title>
+            <title><![CDATA[National Geographic (23)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33448.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (24)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55803.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (25)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58774.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[National Geographic (34)]]></title>
+            <title><![CDATA[National Geographic (26)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57128.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (27)]]></title>
+            <stream_url><![CDATA[http://54.38.180.196/play/31/2D6E866C992891C/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (28)]]></title>
+            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (29)]]></title>
+            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (30)]]></title>
+            <stream_url><![CDATA[http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[National Geographic (31)]]></title>
             <stream_url><![CDATA[http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=59]]></stream_url>
           </channel>
         

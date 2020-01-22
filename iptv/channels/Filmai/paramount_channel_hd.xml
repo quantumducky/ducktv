@@ -7,11 +7,6 @@
         
           <channel>
             <title><![CDATA[Paramount Channel HD (2)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0086/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Channel HD (3)]]></title>
             <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=Martyn&key=CBxWefH]]></stream_url>
           </channel>
         

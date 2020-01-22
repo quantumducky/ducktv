@@ -7,42 +7,52 @@
         
           <channel>
             <title><![CDATA[DocuBox HD (2)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/968/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/968/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (4)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/968/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/968/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (6)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/968/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (7)]]></title>
             <stream_url><![CDATA[http://31.41.96.176:81/udp/225.0.56.79:1234]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[DocuBox HD (3)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/968/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (4)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/90.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (5)]]></title>
+            <stream_url><![CDATA[http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/968/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (7)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/968/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[DocuBox HD (8)]]></title>
-            <stream_url><![CDATA[http://server1.life-tv.eu/ch0514/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (9)]]></title>
-            <stream_url><![CDATA[http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/968/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (10)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/968/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (11)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/968/index.m3u8]]></stream_url>
           </channel>
         
 </items>
