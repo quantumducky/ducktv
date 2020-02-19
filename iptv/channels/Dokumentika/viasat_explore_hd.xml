@@ -12,7 +12,7 @@
         
           <channel>
             <title><![CDATA[Viasat Explore HD (3)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -22,12 +22,27 @@
         
           <channel>
             <title><![CDATA[Viasat Explore HD (5)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/100/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Explore HD (6)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-avc1_5000000=9-mp4a_96000_rus=2.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Explore HD (7)]]></title>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a003?auth=blhenko:blhenko]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Explore HD (8)]]></title>
             <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLOREHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Explore HD (9)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/100/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

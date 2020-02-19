@@ -2,27 +2,42 @@
 <items>
           <channel>
             <title><![CDATA[VIP Premiere HD (1)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a010?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere HD (2)]]></title>
-            <stream_url><![CDATA[http://188.35.9.15:2013]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere HD (3)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/202.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://188.35.9.15:2013]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere HD (4)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/328/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/202.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Premiere HD (5)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/202.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere HD (6)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/328/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere HD (7)]]></title>
             <stream_url><![CDATA[http://hls.peers.tv/streaming/tv1000_premium_hd/16/copy/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Premiere HD (8)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/17104/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
 </items>

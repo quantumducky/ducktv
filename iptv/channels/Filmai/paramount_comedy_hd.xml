@@ -2,42 +2,42 @@
 <items>
           <channel>
             <title><![CDATA[Paramount Comedy HD (1)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.165.68.39:7781/udp/239.2.1.19:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (2)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/250/816951136/819088191919/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a06e?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (3)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a04a?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (4)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/196.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (5)]]></title>
-            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (6)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (7)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (8)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=Martyn&key=CBxWefH]]></stream_url>
+            <stream_url><![CDATA[http://ch01.spr24.net/220/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
           </channel>
         
 </items>

@@ -2,22 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[Viasat Sport HD (1)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/2007/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Sport HD (2)]]></title>
             <stream_url><![CDATA[http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Sport HD (3)]]></title>
+            <title><![CDATA[Viasat Sport HD (2)]]></title>
             <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat Sport HD (3)]]></title>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/2007/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat Sport HD (4)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts]]></stream_url>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2007/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -27,17 +27,27 @@
         
           <channel>
             <title><![CDATA[Viasat Sport HD (6)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2007/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/2007/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport HD (7)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/198/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0ae?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Sport HD (8)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport HD (9)]]></title>
             <stream_url><![CDATA[http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Sport HD (10)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/17106/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
 </items>

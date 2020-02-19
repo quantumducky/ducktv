@@ -1,0 +1,325 @@
+﻿#EXTM3U
+#EXTINF:-1,1+1 (www.playlist-iptv.ru)
+http://188.35.9.11:2001/index.m3u8
+#EXTINF:-1,СТБ
+http://188.35.9.11:2002/index.m3u8
+#EXTINF:-1,Интер
+http://188.35.9.11:2020/index.m3u8
+#EXTINF:-1,2+2
+http://188.35.9.11:2030/index.m3u8
+#EXTINF:-1,2+2
+http://188.35.9.11:2031/index.m3u8
+#EXTINF:-1,1+1 International
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:-1,1+1
+http://188.35.9.26:1050/udp/238.0.1.1:69000
+#EXTINF:-1,МЕГА (www.playlist-iptv.ru)
+http://188.35.9.11:11082/s
+#EXTINF:-1,Интер
+http://188.35.9.11:11031/z
+#EXTINF:-1,Перший незалежний
+http://95.67.12.149:9004
+#EXTINF:-1,Укр Live
+http://95.67.12.149:9005
+#EXTINF:-1,100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,11 канал (Днепр)
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,112 Україна
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1,112 Україна
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1,112 Україна
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1,24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,4 канал
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1,4 канал
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1,4 канал
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1,CNL (Европа)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1,ECO TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+#EXTINF:-1,GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1,GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1,ID Fashion
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:-1,ID Fashion
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+#EXTINF:-1,ID Fashion
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:-1,Impact
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1,Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1,Iнтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,K1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1,K1
+http://109.68.40.67:80/life/k1_3/index.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Maxxi-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,Maxxi-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,MostVideo TV
+http://w4.mostvideo.tv/heltv/ch2.m3u8
+#EXTINF:-1,MostVideo TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,MusicBox UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8?fluxustv.m3u8
+#EXTINF:-1,NewsOne
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+#EXTINF:-1,OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1,STV (Одесса)
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
+#EXTINF:-1,STV (Одесса)
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:-1,TV5 Запорожье
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,TV5 Запорожье
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:-1,TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1,UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1,UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1,UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1,UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+#EXTINF:-1,UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,UATV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1,UATV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8?codec=mpeg4
+#EXTINF:-1,UATV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UATV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UATV
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1,Академия
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:-1,Академия
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1,Архат ТВ
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1,Возрождение
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+#EXTINF:-1,Возрождение
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
+#EXTINF:-1,Громадське
+http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
+#EXTINF:-1,Думская TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1,Думская TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1,Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1,Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,Здоровье (Одесса)
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Київ TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Київ TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4
+#EXTINF:-1,Київ TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Київ TV
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1,М1
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1,Медиа-Информ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:-1,Надія
+http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_700_av-p.m3u8
+#EXTINF:-1,Надія
+http://stream.hope.ua/hopeua/live_1/playlist.m3u8
+#EXTINF:-1,НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:-1,НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1,НТН
+https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Одеса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:-1,ОТБ Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1,ОТБ Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8?codec=mpeg4
+#EXTINF:-1,Первый городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,Первый городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1,Первый городской (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1,Перший Західний (Львов)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+#EXTINF:-1,Перший Західний (Львов)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Перший Західний (Львов)
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ПравдаТУТ
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1,Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Прямий
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1,Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+#EXTINF:-1,Радио Люкс
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
+#EXTINF:-1,РАІ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1,РАІ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4
+#EXTINF:-1,РАІ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&app=playlist
+#EXTINF:-1,Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,Сварожичи
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
+#EXTINF:-1,ТIС (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1,ТВА (Чернiвцi)
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ТВА (Чернiвцi)
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,Твій плюс
+http://62.64.92.118:8080/Apple/1/index.m3u8
+#EXTINF:-1,ТИС ТВ
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1,Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,ТРК Чернівці
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1,Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1,Чернівецький Промінь
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,ЧП.iнфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1,ЧП.iнфо
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1,Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1,Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/playlist.m3u8

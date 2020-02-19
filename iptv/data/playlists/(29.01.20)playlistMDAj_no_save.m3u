@@ -1,0 +1,340 @@
+#EXTM3U
+#EXTINF:-1,1-Prime
+http://109.233.192.88:8002/play/1/index.m3u8
+#EXTINF:-1,2-TV8
+http://109.233.192.88:8002/play/2/index.m3u8
+#EXTINF:-1,3-PRO TV Chisinau
+http://109.233.192.88:8002/play/3/index.m3u8
+#EXTINF:-1,4-Moldova 1
+http://109.233.192.88:8002/play/4/index.m3u8
+#EXTINF:-1,6-Gurinel TV HD
+http://109.233.192.88:8002/play/6/index.m3u8
+#EXTINF:-1,7-NTV Moldova
+http://109.233.192.88:8002/play/7/index.m3u8
+#EXTINF:-1,8-Canal 2
+http://109.233.192.88:8002/play/8/index.m3u8
+#EXTINF:-1,9-THT Exclusive TV
+http://109.233.192.88:8002/play/9/index.m3u8
+#EXTINF:-1,10-CTC MEGA
+http://109.233.192.88:8002/play/10/index.m3u8
+#EXTINF:-1,11-Romania TV
+http://109.233.192.88:8002/play/11/index.m3u8
+#EXTINF:-1,12-Familia Domasnii
+http://109.233.192.88:8002/play/12/index.m3u8
+#EXTINF:-1,13-РТР-Moldova
+http://109.233.192.88:8002/play/13/index.m3u8
+#EXTINF:-1,14-Agro TV Moldova
+http://109.233.192.88:8002/play/14/index.m3u8
+#EXTINF:-1,44-Televiziunea Centrala
+http://109.233.192.88:8002/play/44/index.m3u8
+#EXTM3U
+#EXTINF:-1,Pro 2
+http://109.233.192.88:8000/play/90/index.m3u8
+#EXTINF:-1,Психология 21
+http://109.233.192.88:8000/play/129/index.m3u8
+#EXTINF:-1,Orhei TV
+http://109.233.192.88:8000/play/130/index.m3u8
+#EXTINF:-1,Gurinel TV
+http://109.233.192.88:8000/play/143/index.m3u8
+#EXTINF:-1,Новый канал
+http://109.233.192.88:8001/play/132/index.m3u8
+#EXTINF:-1,Новый мир
+http://109.233.192.88:8001/play/133/index.m3u8
+#EXTINF:-1,Усадьба
+http://109.233.192.88:8001/play/134/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://109.233.192.88:8001/play/135/index.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://109.233.192.88:8001/play/137/index.m3u8
+#EXTINF:-1,Bridge TV Ru
+http://109.233.192.88:8001/play/139/index.m3u8
+#EXTINF:-1,Bridge TV classic
+http://109.233.192.88:8001/play/140/index.m3u8
+#EXTINF:-1,Феникс-кино
+http://109.233.192.88:8001/play/141/index.m3u8
+#EXTINF:-1,Мультимания
+http://109.233.192.88:8001/play/142/index.m3u8
+#EXTINF:-1,TBH
+http://109.233.192.88:8001/play/145/index.m3u8
+#EXTINF:-1,136-RTGi
+http://109.233.192.88:8001/play/136/index.m3u8
+#EXTINF:-1,8-Satellite TV
+http://109.233.192.88:8002/play/8/index.m3u8
+#EXTINF:-1,9-THT Exclusive TV
+http://109.233.192.88:8002/play/9/index.m3u8
+#EXTINF:-1,6-Gurinel TV HD
+http://109.233.192.88:8002/play/6/index.m3u8
+#EXTINF:-1,7-NTV Moldova
+http://109.233.192.88:8002/play/7/index.m3u8
+#EXTINF:-1,13-РТР-Moldova
+http://109.233.192.88:8002/play/13/index.m3u8
+#EXTINF:-1,12-Familia
+http://109.233.192.88:8002/play/12/index.m3u8
+#EXTINF:-1,14-Agro TV Moldova
+http://109.233.192.88:8002/play/14/index.m3u8
+#EXTINF:-1,1-Prime
+http://109.233.192.88:8002/play/1/index.m3u8
+#EXTINF:-1,4-Moldova 1
+http://109.233.192.88:8002/play/4/index.m3u8
+#EXTINF:-1,10-CTC MEGA
+http://109.233.192.88:8002/play/10/index.m3u8
+#EXTINF:-1,11-Bravo TV
+http://109.233.192.88:8002/play/11/index.m3u8
+#EXTINF:-1,2-TV8
+http://109.233.192.88:8002/play/2/index.m3u8
+#EXTINF:-1,3-PRO TV Chisinau
+http://109.233.192.88:8002/play/3/index.m3u8
+#EXTINF:-1,23-Film UA Drama
+http://109.233.192.88:8003/play/23/index.m3u8
+#EXTINF:-1,22-EPOQUE
+http://109.233.192.88:8003/play/22/index.m3u8
+#EXTINF:-1,21-Союз
+http://109.233.192.88:8003/play/21/index.m3u8
+#EXTINF:-1,20-N4
+http://109.233.192.88:8003/play/20/index.m3u8
+#EXTINF:-1,26-Авто плюс
+http://109.233.192.88:8003/play/26/index.m3u8
+#EXTINF:-1,27-Deutsche Welle (DW)
+http://109.233.192.88:8003/play/27/index.m3u8
+#EXTINF:-1,15-PEH Moldova
+http://109.233.192.88:8003/play/15/index.m3u8
+#EXTINF:-1,25-Mama TB
+http://109.233.192.88:8003/play/25/index.m3u8
+#EXTINF:-1,18-Bolt
+http://109.233.192.88:8003/play/18/index.m3u8
+#EXTINF:-1,19-TVC 21
+http://109.233.192.88:8003/play/19/index.m3u8
+#EXTINF:-1,29-Etno
+http://109.233.192.88:8003/play/29/index.m3u8
+#EXTINF:-1,28-Детский мир
+http://109.233.192.88:8003/play/28/index.m3u8
+#EXTINF:-1,17-Jurnal TV HD
+http://109.233.192.88:8003/play/17/index.m3u8
+#EXTINF:-1,16-Publika TV
+http://109.233.192.88:8003/play/16/index.m3u8
+#EXTINF:-1,30-Noroc
+http://109.233.192.88:8004/play/30/index.m3u8
+#EXTINF:-1,32-Живая планета
+http://109.233.192.88:8004/play/32/index.m3u8
+#EXTINF:-1,31-ITV
+http://109.233.192.88:8004/play/31/index.m3u8
+#EXTINF:-1,41-История
+http://109.233.192.88:8004/play/41/index.m3u8
+#EXTINF:-1,42-Busuioc TV
+http://109.233.192.88:8004/play/42/index.m3u8
+#EXTINF:-1,40-TV5 Monde Europe
+http://109.233.192.88:8004/play/40/index.m3u8
+#EXTINF:-1,43-Киносвидание
+http://109.233.192.88:8004/play/43/index.m3u8
+#EXTINF:-1,35-Здоровое ТВ
+http://109.233.192.88:8004/play/35/index.m3u8
+#EXTINF:-1,36-MBC
+http://109.233.192.88:8004/play/36/index.m3u8
+#EXTINF:-1,34-Satellite TV
+http://109.233.192.88:8004/play/34/index.m3u8
+#EXTINF:-1,39-CNL
+http://109.233.192.88:8004/play/39/index.m3u8
+#EXTINF:-1,38-Europa Plus TV
+http://109.233.192.88:8004/play/38/index.m3u8
+#EXTINF:-1,37-Индийское кино
+http://109.233.192.88:8004/play/37/index.m3u8
+#EXTINF:-1,151-Bollywood
+http://109.233.192.88:8000/play/151/index.m3u8
+#EXTINF:-1,147-Точка отрыва
+http://109.233.192.88:8000/play/147/index.m3u8
+#EXTINF:-1,149-Смайлик
+http://109.233.192.88:8000/play/149/index.m3u8
+#EXTINF:-1,33-Ретро
+http://109.233.192.88:8000/play/33/index.m3u8
+#EXTINF:-1,24-В гостях у сказки
+http://109.233.192.88:8000/play/24/index.m3u8
+#EXTINF:-1,126-Наш футбол
+http://109.233.192.88:8000/play/126/index.m3u8
+#EXTINF:-1,150-TV Nord
+http://109.233.192.88:8000/play/150/index.m3u8
+#EXTINF:-1,45-Киносемья
+http://109.233.192.88:8005/play/45/index.m3u8
+#EXTINF:-1,58-CNN
+http://109.233.192.88:8005/play/58/index.m3u8
+#EXTINF:-1,57-Cartoon Network
+http://109.233.192.88:8005/play/57/index.m3u8
+#EXTINF:-1,56-MiniMax
+http://109.233.192.88:8005/play/56/index.m3u8
+#EXTINF:-1,49-Кухня ТВ
+http://109.233.192.88:8005/play/49/index.m3u8
+#EXTINF:-1,48-TVR Moldova
+http://109.233.192.88:8005/play/48/index.m3u8
+#EXTINF:-1,50-Animal Planet
+http://109.233.192.88:8005/play/50/index.m3u8
+#EXTINF:-1,51-Discovery Science
+http://109.233.192.88:8005/play/51/index.m3u8
+#EXTINF:-1,52-DTX
+http://109.233.192.88:8005/play/52/index.m3u8
+#EXTINF:-1,53-ID Xtra
+http://109.233.192.88:8005/play/53/index.m3u8
+#EXTINF:-1,55-TLC
+http://109.233.192.88:8005/play/55/index.m3u8
+#EXTINF:-1,54-Discovery Channel
+http://109.233.192.88:8005/play/54/index.m3u8
+#EXTINF:-1,46-Киносерия
+http://109.233.192.88:8005/play/46/index.m3u8
+#EXTINF:-1,47-Кинохит
+http://109.233.192.88:8005/play/47/index.m3u8
+#EXTINF:-1,69-Cinema
+http://109.233.192.88:8006/play/69/index.m3u8
+#EXTINF:-1,68-Русская ночь
+http://109.233.192.88:8006/play/68/index.m3u8
+#EXTINF:-1,67-Родное кино
+http://109.233.192.88:8006/play/67/index.m3u8
+#EXTINF:-1,60-Favorit Tv
+http://109.233.192.88:8006/play/60/index.m3u8
+#EXTINF:-1,66-Gulli
+http://109.233.192.88:8006/play/66/index.m3u8
+#EXTINF:-1,63-Матч! планета
+http://109.233.192.88:8006/play/63/index.m3u8
+#EXTINF:-1,61-Eurosport 1
+http://109.233.192.88:8006/play/61/index.m3u8
+#EXTINF:-1,70- History
+http://109.233.192.88:8006/play/70/index.m3u8
+#EXTINF:-1,72-EuroNews
+http://109.233.192.88:8006/play/72/index.m3u8
+#EXTINF:-1,71-Ля-минор
+http://109.233.192.88:8006/play/71/index.m3u8
+#EXTINF:-1,62-Eurosport2
+http://109.233.192.88:8006/play/62/index.m3u8
+#EXTINF:-1,59-Boomerang TV
+http://109.233.192.88:8006/play/59/index.m3u8
+#EXTINF:-1,64-Мужское кино
+http://109.233.192.88:8006/play/64/index.m3u8
+#EXTINF:-1,82-МИР
+http://109.233.192.88:8007/play/82/index.m3u8
+#EXTINF:-1,83-BTV
+http://109.233.192.88:8007/play/83/index.m3u8
+#EXTINF:-1,84- Explorer
+http://109.233.192.88:8007/play/84/index.m3u8
+#EXTINF:-1,85- Nature
+http://109.233.192.88:8007/play/85/index.m3u8
+#EXTINF:-1,76-Trinitas
+http://109.233.192.88:8007/play/76/index.m3u8
+#EXTINF:-1,77-TV
+http://109.233.192.88:8007/play/77/index.m3u8
+#EXTINF:-1,78-TV Action
+http://109.233.192.88:8007/play/78/index.m3u8
+#EXTINF:-1,79-TV Русское кино
+http://109.233.192.88:8007/play/79/index.m3u8
+#EXTINF:-1,86-History
+http://109.233.192.88:8007/play/86/index.m3u8
+#EXTINF:-1,81-Мир HD
+http://109.233.192.88:8007/play/81/index.m3u8
+#EXTINF:-1,75-1 1 International
+http://109.233.192.88:8007/play/75/index.m3u8
+#EXTINF:-1,74-Sport 2
+http://109.233.192.88:8007/play/74/index.m3u8
+#EXTINF:-1,73-Sport 1
+http://109.233.192.88:8007/play/73/index.m3u8
+#EXTINF:-1,80-Мир24
+http://109.233.192.88:8007/play/80/index.m3u8
+#EXTINF:-1,101-Satellite TV
+http://109.233.192.88:8008/play/101/index.m3u8
+#EXTINF:-1,95-ICTV
+http://109.233.192.88:8008/play/95/index.m3u8
+#EXTINF:-1,91-Da Vinci Learning
+http://109.233.192.88:8008/play/91/index.m3u8
+#EXTINF:-1,92-КВН
+http://109.233.192.88:8008/play/92/index.m3u8
+#EXTINF:-1,93-Шансон
+http://109.233.192.88:8008/play/93/index.m3u8
+#EXTINF:-1,100-Кинопремьера HD
+http://109.233.192.88:8008/play/100/index.m3u8
+#EXTINF:-1,96-Impact TV
+http://109.233.192.88:8008/play/96/index.m3u8
+#EXTINF:-1,88-RTV International
+http://109.233.192.88:8008/play/88/index.m3u8
+#EXTINF:-1,98-Bridge TV dance
+http://109.233.192.88:8008/play/98/index.m3u8
+#EXTINF:-1,97-Național 24 Plus
+http://109.233.192.88:8008/play/97/index.m3u8
+#EXTINF:-1,94-Bridge TV
+http://109.233.192.88:8008/play/94/index.m3u8
+#EXTINF:-1,87-National TV
+http://109.233.192.88:8008/play/87/index.m3u8
+#EXTINF:-1,99-Bridge HD
+http://109.233.192.88:8008/play/99/index.m3u8
+#EXTINF:-1,89-Наука 2.0
+http://109.233.192.88:8008/play/89/index.m3u8
+#EXTINF:-1,104-Кинокомедия
+http://109.233.192.88:8009/play/104/index.m3u8
+#EXTINF:-1,106-StarCinema
+http://109.233.192.88:8009/play/106/index.m3u8
+#EXTINF:-1,114-Сарафан
+http://109.233.192.88:8009/play/114/index.m3u8
+#EXTINF:-1,111-Мульт
+http://109.233.192.88:8009/play/111/index.m3u8
+#EXTINF:-1,108-Наше любимое кино
+http://109.233.192.88:8009/play/108/index.m3u8
+#EXTINF:-1,115-Ностальгия
+http://109.233.192.88:8009/play/115/index.m3u8
+#EXTINF:-1,103-10TV
+http://109.233.192.88:8009/play/103/index.m3u8
+#EXTINF:-1,113-Моя Планета
+http://109.233.192.88:8009/play/113/index.m3u8
+#EXTINF:-1,105-Кино ТВ
+http://109.233.192.88:8009/play/105/index.m3u8
+#EXTINF:-1,112-KHL
+http://109.233.192.88:8009/play/112/index.m3u8
+#EXTINF:-1,109-Киномикс
+http://109.233.192.88:8009/play/109/index.m3u8
+#EXTINF:-1,110-Драйв
+http://109.233.192.88:8009/play/110/index.m3u8
+#EXTINF:-1,107-StarFamily
+http://109.233.192.88:8009/play/107/index.m3u8
+#EXTINF:-1,121-Охота и рыбалка
+http://109.233.192.88:8010/play/121/index.m3u8
+#EXTINF:-1,116-Детский
+http://109.233.192.88:8010/play/116/index.m3u8
+#EXTINF:-1,124- Sport
+http://109.233.192.88:8010/play/124/index.m3u8
+#EXTINF:-1,138-Popas TV
+http://109.233.192.88:8010/play/138/index.m3u8
+#EXTINF:-1,128-Kanal D
+http://109.233.192.88:8010/play/128/index.m3u8
+#EXTINF:-1,125-Life HD
+http://109.233.192.88:8010/play/125/index.m3u8
+#EXTINF:-1,144-Moldova 2
+http://109.233.192.88:8010/play/144/index.m3u8
+#EXTINF:-1,122-Интер
+http://109.233.192.88:8010/play/122/index.m3u8
+#EXTINF:-1,127-1 HD
+http://109.233.192.88:8010/play/127/index.m3u8
+#EXTINF:-1,120-Еврокино
+http://109.233.192.88:8010/play/120/index.m3u8
+#EXTINF:-1,118-Русский Иллюзион
+http://109.233.192.88:8010/play/118/index.m3u8
+#EXTINF:-1,117-Живи
+http://109.233.192.88:8010/play/117/index.m3u8
+#EXTINF:-1,123-Наш футбол HD
+http://109.233.192.88:8010/play/123/index.m3u8
+#EXTINF:-1,119-Илюзион
+http://109.233.192.88:8010/play/119/index.m3u8
+#EXTINF:-1,153-Kvartal TV
+http://109.233.192.88:8011/play/153/index.m3u8
+#EXTINF:-1,159-RU TV MD
+http://109.233.192.88:8011/play/159/index.m3u8
+#EXTINF:-1,156-Ostwest
+http://109.233.192.88:8011/play/156/index.m3u8
+#EXTINF:-1,158-Tvxxi
+http://109.233.192.88:8011/play/158/index.m3u8
+#EXTINF:-1,148-Zona M
+http://109.233.192.88:8011/play/148/index.m3u8
+#EXTINF:-1,160-Диалоги о рыбалке
+http://109.233.192.88:8011/play/160/index.m3u8
+#EXTINF:-1,152-Зоопарк
+http://109.233.192.88:8011/play/152/index.m3u8
+#EXTINF:-1,155-Taraf TV
+http://109.233.192.88:8011/play/155/index.m3u8
+#EXTINF:-1,154-Наше новое кино
+http://109.233.192.88:8011/play/154/index.m3u8
+#EXTINF:-1,157-H2
+http://109.233.192.88:8011/play/157/index.m3u8
+#EXTINF:-1,146-Tiji
+http://109.233.192.88:8011/play/146/index.m3u8

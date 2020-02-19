@@ -314,19 +314,19 @@
       "id": "tv3_sport",
       "name": "TV3 Sport",
       "logo": "tv3_sport.png",
-      "terms": ["TVPlay Sport", "TVPlay Sports", "TV3 Sport (TVPlay Sports)", "TV3 SPORT 1", "TV 3 SPORT 1"]
+      "terms": ["TVPlay Sport", "TVPlay Sports", "TV3 Sport (TVPlay Sports)", "TV3 SPORT 1", "TV 3 SPORT 1", "TV3 Sport [LT]"]
     },
     {
       "id": "tv3_sport_hd",
       "name": "TV3 Sport HD",
       "logo": "tv3_sport.png",
-      "terms": ["TVPlay Sports HD", "TV3 Sport HD (TVPlay Sports HD)", "TV Play Sports HD"]
+      "terms": ["TVPlay Sports HD", "TV3 Sport HD (TVPlay Sports HD)", "TV Play Sports HD", "TV3 Sport HD", "TV3 Sport HD [LT]"]
     },
     {
       "id": "tv3_sport_2",
       "name": "TV3 Sport 2 HD",
       "logo": "tv3_sport_2.png",
-      "terms": ["TV3 SPORT 2", "TV 3 SPORT 2", "TVPlay Sports+ HD", "TVPlay Sports + HD", "TVPlay Sports Plus HD", "TV3 Sport 2 HD (TVPlay Sports +)"]
+      "terms": ["TV3 SPORT 2", "TV 3 SPORT 2", "TVPlay Sports+ HD", "TVPlay Sports + HD", "TVPlay Sports Plus HD", "TV3 Sport 2 HD (TVPlay Sports +)", "TV3 Sport2 HD", "TV3 Sport 2 HD [LT]"]
     },
 
     {

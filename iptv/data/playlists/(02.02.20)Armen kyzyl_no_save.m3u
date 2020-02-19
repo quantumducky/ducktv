@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,BEINSPORTS 2 SD
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/45.ts
+#EXTINF:-1,BEINSPORTS 2 FULLHD
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/26.ts
+#EXTINF:-1,BEINSPORTS 2 HD
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/3.ts
+#EXTINF:-1,BEINSPORTS 2 HD BACKUP
+http://iptv2.premium-stv.com:8888/live/beIN02/6hGJ^8Jvfc3u2qfyY)V39cN3/4.ts
+#EXTINF:-1,RMC SPORTS 3 SD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+#EXTINF:-1,RMC SPORT 3 HD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
+#EXTINF:-1,RMC SPORTS 3 FHD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
+#EXTINF:-1,RMC SPORT 5 HD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
+#EXTINF:-1,RMC SPORT 5 FHD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
+#EXTINF:-1,AR: BEINSPORT 1 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3475
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 2 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3476
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 3 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3477
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 5 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3479
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 6 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3480
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 7 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3481
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 8 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3482
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 9 HD
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3483
+#EXTINF:-1,|AR.BEIN|  BEIN SPORTS 10 HD@e
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3484
+#EXTINF:-1,SP: ZIGGO VOETBAL@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3243
+#EXTINF:-1,SP: ZIGGO SPORT RACING@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3245
+#EXTINF:-1,SP: TSN 1 CA@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3246
+#EXTINF:-1,SP: ARENA SPORT 1 @
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3247
+#EXTINF:-1,SP: ARENA SPORT 3@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3249
+#EXTINF:-1,SP: ARENA SPORT 4@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3250
+#EXTINF:-1,SP: FOX SPORTS 2@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3252
+#EXTINF:-1,SP: FOX SPORTS 4 @
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3253
+#EXTINF:-1,SP: ELEVEN SPORT 1.@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3254
+#EXTINF:-1,SP: ELEVEN SPORT 2@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3255
+#EXTINF:-1,SP: Eleven SPORT 4@
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3258
+#EXTINF:-1,SP: ELEVEN SPORT 5 @
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3259
+#EXTINF:-1,SP: ELEVEN SPORT 6 @
+http://wweraw.ddns.net:8080/Meeeeeeeerrrrrrggggggggg/Meeeeeeeerrrrrrggggggggg/3260

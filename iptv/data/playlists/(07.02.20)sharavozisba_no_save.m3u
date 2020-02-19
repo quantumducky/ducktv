@@ -1,0 +1,1139 @@
+﻿#EXTM3U
+#EXTINF:0 tvg-id="ort-hd" group-title="RU Bendri" timeshift="3",Первый HD
+http://ch01.spr24.net/128/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort" group-title="RU Bendri" timeshift="3",Первый канал
+http://ch01.spr24.net/5005/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort+2" group-title="RU Bendri" timeshift="3",Первый канал (+2)
+http://ch01.spr24.net/351/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort+4" group-title="RU Bendri" timeshift="3",Первый HD (+4)
+http://ch01.spr24.net/3185/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort+4" group-title="RU Bendri" timeshift="3",Первый канал (+4)
+http://ch01.spr24.net/356/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort+6" group-title="RU Bendri" timeshift="3",Первый канал (+6)
+http://ch01.spr24.net/20751/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ort+8" group-title="RU Bendri" timeshift="3",Первый канал (+8)
+http://ch01.spr24.net/20771/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rossiya-hd" group-title="RU Bendri" timeshift="3",Россия 1 HD
+http://ch01.spr24.net/129/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rtr" group-title="RU Bendri" timeshift="3",Россия 1
+http://ch01.spr24.net/20002/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rossiya+2" group-title="RU Bendri" timeshift="3",Россия 1 (+2)
+http://ch01.spr24.net/352/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rossiya+4" group-title="RU Bendri" timeshift="3",Россия 1 (+4)
+http://ch01.spr24.net/355/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rossiya+6" group-title="RU Bendri" timeshift="3",Россия 1 (+6)
+http://ch01.spr24.net/20752/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rossiya+8" group-title="RU Bendri" timeshift="3",Россия 1 (+8)
+http://ch01.spr24.net/20772/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kultura" group-title="RU Bendri" timeshift="3",Россия-Культура
+http://ch01.spr24.net/5099/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rtrpl" group-title="RU Bendri" timeshift="3",РТР Планета
+http://ch01.spr24.net/5299/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv" group-title="RU Bendri" timeshift="3",НТВ HD
+http://ch01.spr24.net/253/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv" group-title="RU Bendri" timeshift="3",НТВ
+http://ch01.spr24.net/5097/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv2" group-title="RU Bendri" timeshift="3",НТВ (+2)
+http://ch01.spr24.net/223/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv4" group-title="RU Bendri" timeshift="3",НТВ (+4)
+http://ch01.spr24.net/358/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv6" group-title="RU Bendri" timeshift="3",НТВ (+6)
+http://ch01.spr24.net/20754/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv8" group-title="RU Bendri" timeshift="3",НТВ (+8)
+http://ch01.spr24.net/20774/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntvmir" group-title="RU Bendri" timeshift="3",НТВ Мир
+http://ch01.spr24.net/5633/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rentv" group-title="RU Bendri" timeshift="3",РЕН HD
+http://ch01.spr24.net/200/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rentv" group-title="RU Bendri" timeshift="3",РЕН ТВ
+http://ch01.spr24.net/5106/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rentv2" group-title="RU Bendri" timeshift="3",РЕН ТВ (+2)
+http://ch01.spr24.net/226/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rentv4" group-title="RU Bendri" timeshift="3",РЕН ТВ (+4)
+http://ch01.spr24.net/357/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt" group-title="RU Bendri" timeshift="3",ТНТ HD
+http://ch01.spr24.net/301/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt" group-title="RU Bendri" timeshift="3",ТНТ
+http://ch01.spr24.net/5001/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt2" group-title="RU Bendri" timeshift="3",ТНТ (+2)
+http://ch01.spr24.net/353/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt+4" group-title="RU Bendri" timeshift="3",ТНТ (+4)
+http://ch01.spr24.net/20749/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt+6" group-title="RU Bendri" timeshift="3",ТНТ (+6)
+http://ch01.spr24.net/20769/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt4" group-title="RU Bendri" timeshift="3",ТНТ4
+http://ch01.spr24.net/364/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt-international" group-title="RU Bendri" timeshift="3",ТНТ International
+http://ch01.spr24.net/5296/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts" group-title="RU Bendri" timeshift="3",СТС HD
+http://ch01.spr24.net/3187/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts" group-title="RU Bendri" timeshift="3",СТС
+http://ch01.spr24.net/292/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts2" group-title="RU Bendri" timeshift="3",СТС (+2)
+http://ch01.spr24.net/224/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts4" group-title="RU Bendri" timeshift="3",СТС (+4)
+http://ch01.spr24.net/354/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts-int" group-title="RU Bendri" timeshift="3",СТС International
+http://ch01.spr24.net/5297/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sts-love" group-title="RU Bendri" timeshift="3",СТС Love
+http://ch01.spr24.net/5253/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="super" group-title="RU Bendri" timeshift="3",Супер
+http://ch01.spr24.net/6856/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="piter" group-title="RU Bendri" timeshift="3",Пятый Канал
+http://ch01.spr24.net/338/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="5kanal" group-title="RU Bendri" timeshift="3",Пятый Канал (+2)
+http://ch01.spr24.net/285/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zvezda" group-title="RU Bendri" timeshift="3",Телеканал Звезда
+http://ch01.spr24.net/337/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zvezda2" group-title="RU Bendri" timeshift="3",Телеканал Звезда (+2)
+http://ch01.spr24.net/366/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zvezda4" group-title="RU Bendri" timeshift="3",Телеканал Звезда (+4)
+http://ch01.spr24.net/360/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tvcen" group-title="RU Bendri" timeshift="3",ТВЦ
+http://ch01.spr24.net/334/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="home" group-title="RU Bendri" timeshift="3",Домашний
+http://ch01.spr24.net/291/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="home2" group-title="RU Bendri" timeshift="3",Домашний (+2)
+http://ch01.spr24.net/225/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="home4" group-title="RU Bendri" timeshift="3",Домашний (+4)
+http://ch01.spr24.net/359/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="pyatnica" group-title="RU Bendri" timeshift="3",Пятница HD
+http://ch01.spr24.net/213/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="pyatnica" group-title="RU Bendri",Пятница
+http://ch01.spr24.net/5300/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="chetv" group-title="RU Bendri",Че
+http://ch01.spr24.net/363/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kuhnya" group-title="RU Bendri" timeshift="3",Кухня ТВ
+http://ch01.spr24.net/283/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="teledom" group-title="RU Bendri",ТелеДом HD
+http://ch01.spr24.net/361/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kto-est-kto" group-title="RU Bendri",Кто есть кто
+http://ch01.spr24.net/282/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv3" group-title="RU Bendri",ТВ3
+http://ch01.spr24.net/336/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mat-i-ditya" group-title="RU Bendri",Мама
+http://ch01.spr24.net/314/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mir-hd" group-title="RU Bendri",Мир HD
+http://ch01.spr24.net/138/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mir24" group-title="RU Bendri",Мир 24
+http://ch01.spr24.net/5129/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="novyi-mir" group-title="RU Bendri",Новый мир
+http://ch01.spr24.net/6737/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="podmoskovie" group-title="RU Bendri",360°
+http://ch01.spr24.net/6792/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="8-kanal" group-title="RU Bendri",8 канал
+http://ch01.spr24.net/5288/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kvn-tv" group-title="RU Bendri" timeshift="3",КВН ТВ
+http://ch01.spr24.net/5177/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nashe-tv" group-title="RU Bendri",Наше ТВ
+http://ch01.spr24.net/5176/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="otr" group-title="RU Bendri",ОТР
+http://ch01.spr24.net/5501/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="peretz-int" group-title="RU Bendri",Перец International
+http://ch01.spr24.net/6711/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Bendri",Продвижение
+http://ch01.spr24.net/6759/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="retro" group-title="RU Bendri",Ретро ТВ
+http://ch01.spr24.net/6722/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sarafan" group-title="RU Bendri",Сарафан
+http://ch01.spr24.net/5332/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="soyuz" group-title="RU Bendri",Союз
+http://ch01.spr24.net/5047/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="spas" group-title="RU Bendri",Спас Тв
+http://ch01.spr24.net/5133/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tvoi-dom" group-title="RU Bendri",Твой дом
+http://ch01.spr24.net/6810/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="teatr" group-title="RU Bendri" timeshift="3",Телеканал Театр
+http://ch01.spr24.net/5116/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="telecafe" group-title="RU Bendri",Телекафе
+http://ch01.spr24.net/5323/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Uspeh.ru" group-title="RU Bendri",Успех
+http://ch01.spr24.net/6853/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="muztv" group-title="RU Bendri",Ю ТВ
+http://ch01.spr24.net/5142/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="krik" group-title="RU Bendri",КРИК-ТВ
+http://ch01.spr24.net/309/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nostalgia" group-title="RU Bendri" timeshift="3",Ностальгия
+http://ch01.spr24.net/313/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Bendri",Ратник
+http://ch01.spr24.net/23667/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="doverie" group-title="RU Bendri" timeshift="3",Москва Доверие
+http://ch01.spr24.net/20321/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="1obr" group-title="RU Bendri",Первый образовательный
+http://ch01.spr24.net/20263/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="vremya" group-title="RU Bendri",Время
+http://ch01.spr24.net/5628/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Bendri",HOME 4K
+http://ch01.spr24.net/17445/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="vesti" group-title="RU Zinios",Россия-24
+http://ch01.spr24.net/302/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="euro" group-title="RU Zinios" timeshift="3",Euronews Россия
+http://ch01.spr24.net/325/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="dozhd" group-title="RU Zinios" timeshift="3",Дождь
+http://ch01.spr24.net/266/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="russia-today" group-title="RU Zinios",RT HD
+http://ch01.spr24.net/105/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rt-doc-rus" group-title="RU Zinios",RTД (Русская версия)
+http://ch01.spr24.net/5016/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rt-doc" group-title="RU Zinios",RT Doc HD(English version)
+http://ch01.spr24.net/214/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="moskva24" group-title="RU Zinios",Москва 24
+http://ch01.spr24.net/295/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rbk" group-title="RU Zinios",РБК-ТВ
+http://ch01.spr24.net/316/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="izvestiy" group-title="RU Zinios",IZ.RU
+http://ch01.spr24.net/6750/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rtvint" group-title="RU Zinios",RTVi
+http://ch01.spr24.net/5673/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="1meteo" group-title="RU Zinios",Первый Метео
+http://ch01.spr24.net/5017/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="current-time" group-title="RU Zinios",Настоящее время
+http://ch01.spr24.net/5674/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="avto24" group-title="RU Pazintiniai" timeshift="3",Авто 24
+http://ch01.spr24.net/315/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="avto-plus" group-title="RU Pazintiniai" timeshift="3",Авто Плюс
+http://ch01.spr24.net/279/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="drive" group-title="RU Pazintiniai" timeshift="3",Драйв
+http://ch01.spr24.net/20097/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Большая Азия
+http://ch01.spr24.net/6452/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_showcase-hd" group-title="RU Pazintiniai" timeshift="3",Discovery HD Showcase
+http://ch01.spr24.net/216/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="RU Pazintiniai" timeshift="3",Discovery Channel HD
+http://ch01.spr24.net/267/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_rus" group-title="RU Pazintiniai",Discovery Channel
+http://ch01.spr24.net/5180/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_sci" group-title="RU Pazintiniai" timeshift="3",Discovery Science HD
+http://ch01.spr24.net/303/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_sci" group-title="RU Pazintiniai",Discovery Science
+http://ch01.spr24.net/6391/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="id-extra" group-title="RU Pazintiniai",Investigation Discovery
+http://ch01.spr24.net/5035/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="id-extra" group-title="RU Pazintiniai",ID Xtra HD
+http://ch01.spr24.net/149/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="discov_turbo-extra" group-title="RU Pazintiniai",DTX
+http://ch01.spr24.net/210/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="natgeo_hd" group-title="RU Pazintiniai" timeshift="3",National Geographic HD
+http://ch01.spr24.net/203/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="natgeo" group-title="RU Pazintiniai",National Geographic
+http://ch01.spr24.net/5493/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="wild-hd" group-title="RU Pazintiniai" timeshift="3",Nat Geo Wild HD
+http://ch01.spr24.net/20162/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="wild-hd" group-title="RU Pazintiniai",Nat Geo Wild
+http://ch01.spr24.net/124/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="animal-hd" group-title="RU Pazintiniai" timeshift="3",Animal Planet HD
+http://ch01.spr24.net/254/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="animal_rus" group-title="RU Pazintiniai",Animal Planet
+http://ch01.spr24.net/5322/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",В мире животных HD
+http://ch01.spr24.net/219/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hd-life" group-title="RU Pazintiniai" timeshift="3",HD Life
+http://ch01.spr24.net/202/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="moya-planeta" group-title="RU Pazintiniai" timeshift="3",Моя Планета
+http://ch01.spr24.net/168/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="travel-adv-hd" group-title="RU Pazintiniai" timeshift="3",Travel+Adventure HD
+http://ch01.spr24.net/208/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="puteshestviya-hd" group-title="RU Pazintiniai" timeshift="3",Приключения  HD
+http://ch01.spr24.net/136/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="travel-hd" group-title="RU Pazintiniai" timeshift="3",Travel Channel HD
+http://ch01.spr24.net/261/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="glazami-turista" group-title="RU Pazintiniai",Глазами Туриста HD
+http://ch01.spr24.net/252/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rtg-hd" group-title="RU Pazintiniai",Russian Travel Guide HD
+http://ch01.spr24.net/125/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rtgtv" group-title="RU Pazintiniai",RTG TV
+http://ch01.spr24.net/5233/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="HistoryHD.ru" group-title="RU Pazintiniai" timeshift="3",History HD
+http://ch01.spr24.net/259/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="history-rus" group-title="RU Pazintiniai",History
+http://ch01.spr24.net/5032/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="history2-rus" group-title="RU Pazintiniai" timeshift="3",H2
+http://ch01.spr24.net/205/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nature-history" group-title="RU Pazintiniai" timeshift="3",Viasat Nature/History HD
+http://ch01.spr24.net/263/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="history" group-title="RU Pazintiniai" timeshift="3",Viasat History HD
+http://ch01.spr24.net/20491/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="history" group-title="RU Pazintiniai",Viasat History
+http://ch01.spr24.net/20078/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="viasat-nature" group-title="RU Pazintiniai" timeshift="3",Viasat Nature HD
+http://ch01.spr24.net/23963/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="viasat-nature" group-title="RU Pazintiniai",Viasat Nature
+http://ch01.spr24.net/20119/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="explorer-rus" group-title="RU Pazintiniai" timeshift="3",Viasat Explore
+http://ch01.spr24.net/321/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="docubox-hd" group-title="RU Pazintiniai",DocuBox HD
+http://ch01.spr24.net/332/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="wildnature-hd" group-title="RU Pazintiniai",Живая Природа
+http://ch01.spr24.net/217/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="living-planet" group-title="RU Pazintiniai",Живая Планета
+http://ch01.spr24.net/341/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ohotnik-i-rybolov-hd" group-title="RU Pazintiniai",Охотник и рыболов HD
+http://ch01.spr24.net/144/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ohota-i-rybalka" group-title="RU Pazintiniai",Охота и Рыбалка
+http://ch01.spr24.net/5257/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",Дикая охота HD
+http://ch01.spr24.net/327/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",Дикая рыбалка HD
+http://ch01.spr24.net/326/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Диалоги о рыбалке
+http://ch01.spr24.net/6751/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="outdoor-hd" group-title="RU Pazintiniai",Outdoor Channel
+http://ch01.spr24.net/212/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",Тайны галактики HD
+http://ch01.spr24.net/146/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="eureka-hd" group-title="RU Pazintiniai" timeshift="3",Эврика HD
+http://ch01.spr24.net/145/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="eda-hd" group-title="RU Pazintiniai" timeshift="3",ЕДА Премиум
+http://ch01.spr24.net/137/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="eda" group-title="RU Pazintiniai",Еда
+http://ch01.spr24.net/20241/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="food-network-rus" group-title="RU Pazintiniai" timeshift="3",Food Network
+http://ch01.spr24.net/5168/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="RU Pazintiniai" timeshift="3",TLC HD
+http://ch01.spr24.net/260/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tlc-russia" group-title="RU Pazintiniai",TLC
+http://ch01.spr24.net/5152/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hdmedia" group-title="RU Pazintiniai",HD Media
+http://ch01.spr24.net/262/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nauka" group-title="RU Pazintiniai" timeshift="3",Наука 2.0
+http://ch01.spr24.net/308/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="24texno" group-title="RU Pazintiniai",24 Техно
+http://ch01.spr24.net/6811/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="istoria" group-title="RU Pazintiniai",История
+http://ch01.spr24.net/342/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Muzhskoj.ru" group-title="RU Pazintiniai",Мужской
+http://ch01.spr24.net/344/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="oruszie" group-title="RU Pazintiniai",Оружие
+http://ch01.spr24.net/5811/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sov-sek" group-title="RU Pazintiniai",Сов. Секретно
+http://ch01.spr24.net/296/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="365dney" group-title="RU Pazintiniai",365 дней ТВ
+http://ch01.spr24.net/278/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="bober" group-title="RU Pazintiniai" timeshift="3",Бобёр
+http://ch01.spr24.net/5391/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Дикий
+http://ch01.spr24.net/6754/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="domashnie-zhivotnye" group-title="RU Pazintiniai",Домашние Животные
+http://ch01.spr24.net/5452/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zoopark" group-title="RU Pazintiniai",Зоопарк
+http://ch01.spr24.net/5270/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ocean" group-title="RU Pazintiniai",OCEAN-TV
+http://ch01.spr24.net/5139/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nautical" group-title="RU Pazintiniai",Морской
+http://ch01.spr24.net/329/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="galaxy" group-title="RU Pazintiniai" timeshift="3",Galaxy TV
+http://ch01.spr24.net/6864/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="RU Pazintiniai",CBS Reality
+http://ch01.spr24.net/5102/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="voprosy-i-otvety" group-title="RU Pazintiniai" timeshift="3",Вопросы и ответы
+http://ch01.spr24.net/20123/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zoo-tv" group-title="RU Pazintiniai",Зоо ТВ
+http://ch01.spr24.net/20386/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Мир Вокруг HD
+http://ch01.spr24.net/23740/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Нано ТВ HD
+http://ch01.spr24.net/23769/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="open-world" group-title="RU Pazintiniai",Открытый мир
+http://ch01.spr24.net/20346/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Пес и ко
+http://ch01.spr24.net/23683/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="FineLiving.ru" group-title="RU Pazintiniai" timeshift="3",Fine Living
+http://ch01.spr24.net/201/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zagorzhizn" group-title="RU Pazintiniai",Загородная Жизнь
+http://ch01.spr24.net/345/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",Загородный int HD
+http://ch01.spr24.net/23684/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-style" group-title="RU Pazintiniai",НТВ Стиль
+http://ch01.spr24.net/349/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="usadba" group-title="RU Pazintiniai" timeshift="3",Усадьба ТВ
+http://ch01.spr24.net/6668/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="24dok" group-title="RU Pazintiniai",Доктор
+http://ch01.spr24.net/311/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="1vegan" group-title="RU Pazintiniai",Первый Вегетарианский
+http://ch01.spr24.net/6658/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="psihologiya21" group-title="RU Pazintiniai",Психология 21
+http://ch01.spr24.net/5239/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai",Мир увлечений
+http://ch01.spr24.net/17453/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="english-club" group-title="RU Pazintiniai",English Club TV
+http://ch01.spr24.net/6725/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Puls4.at" group-title="RU Pazintiniai",Puls 4
+http://ch01.spr24.net/17091/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fashion" group-title="RU Pazintiniai",Fashion TV
+http://ch01.spr24.net/211/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fashion-one-hd" group-title="RU Pazintiniai",Fashion One HD
+http://ch01.spr24.net/20226/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Pazintiniai" timeshift="3",Арсенал
+http://ch01.spr24.net/222/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="poehali" group-title="RU Pazintiniai",Поехали!
+http://ch01.spr24.net/246/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-premiera" group-title="RU Kinas" timeshift="3",КИНОПРЕМЬЕРА HD
+http://ch01.spr24.net/209/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",Кино UHD
+http://ch01.spr24.net/17372/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",Сериал UHD
+http://ch01.spr24.net/17728/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kinohit" group-title="RU Kinas" timeshift="3",КИНОХИТ
+http://ch01.spr24.net/272/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kino-plus" group-title="RU Kinas" timeshift="3",КИНОМИКС
+http://ch01.spr24.net/273/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hd-kino" group-title="RU Kinas" timeshift="3",КИНОСЕМЬЯ
+http://ch01.spr24.net/274/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mnogo-tv" group-title="RU Kinas" timeshift="3",КИНОСЕРИЯ
+http://ch01.spr24.net/286/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-kinoklub" group-title="RU Kinas" timeshift="3",КИНОСВИДАНИЕ
+http://ch01.spr24.net/271/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="komediya" group-title="RU Kinas" timeshift="3",КИНОКОМЕДИЯ
+http://ch01.spr24.net/281/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kinouzhas" group-title="RU Kinas" timeshift="3",КИНОУЖАС HD
+http://ch01.spr24.net/22395/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",Комедия
+http://ch01.spr24.net/5089/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="man-kino" group-title="RU Kinas" timeshift="3",МУЖСКОЕ КИНО
+http://ch01.spr24.net/287/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nashe-novoe" group-title="RU Kinas" timeshift="3",Наше новое кино
+http://ch01.spr24.net/289/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-nashekino" group-title="RU Kinas" timeshift="3",РОДНОЕ КИНО
+http://ch01.spr24.net/288/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="indiya" group-title="RU Kinas" timeshift="3",ИНДИЙСКОЕ КИНО
+http://ch01.spr24.net/331/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000-premium-hd" group-title="RU Kinas" timeshift="3",VIP Premiere
+http://ch01.spr24.net/104/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000-megahit-hd" group-title="RU Kinas" timeshift="3",VIP Megahit
+http://ch01.spr24.net/103/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000-comedy-hd" group-title="RU Kinas" timeshift="3",VIP Comedy
+http://ch01.spr24.net/102/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="vip-serial" group-title="RU Kinas" timeshift="3",VIP Serial
+http://ch01.spr24.net/109/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000" group-title="RU Kinas" timeshift="3",TV1000
+http://ch01.spr24.net/320/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000-action" group-title="RU Kinas" timeshift="3",TV1000 Action
+http://ch01.spr24.net/319/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000_rus" group-title="RU Kinas" timeshift="3",TV1000 Русское кино
+http://ch01.spr24.net/318/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nstv" group-title="RU Kinas" timeshift="3",НСТ
+http://ch01.spr24.net/312/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kinopremium-hd" group-title="RU Kinas" timeshift="3",Премиальное HD
+http://ch01.spr24.net/121/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ostrsuszet-hd" group-title="RU Kinas" timeshift="3",Остросюжетное HD
+http://ch01.spr24.net/122/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kinopokaz-hd1" group-title="RU Kinas" timeshift="3",Шокирующее
+http://ch01.spr24.net/119/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="strashnoe-hd" group-title="RU Kinas" timeshift="3",Страшное HD
+http://ch01.spr24.net/218/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kino-tv" group-title="RU Kinas" timeshift="3",КИНО ТВ
+http://ch01.spr24.net/147/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",Комедийное
+http://ch01.spr24.net/120/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="semeinoe-hd" group-title="RU Kinas" timeshift="3",Наше Крутое HD
+http://ch01.spr24.net/123/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nashe-hd" group-title="RU Kinas" timeshift="3",Наш Кинороман
+http://ch01.spr24.net/107/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rus-roman" group-title="RU Kinas" timeshift="3",Русский роман
+http://ch01.spr24.net/142/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="domkino-prem" group-title="RU Kinas" timeshift="3",Дом Кино Премиум HD
+http://ch01.spr24.net/108/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="domkino" group-title="RU Kinas" timeshift="3",Дом Кино
+http://ch01.spr24.net/333/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nashe-lubimoe" group-title="RU Kinas" timeshift="3",Наше Любимое
+http://ch01.spr24.net/139/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lyubimoe-kino" group-title="RU Kinas" timeshift="3",Любимое Кино
+http://ch01.spr24.net/335/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rus-bestseller" group-title="RU Kinas" timeshift="3",Русский бестселлер
+http://ch01.spr24.net/276/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="illuzion" group-title="RU Kinas" timeshift="3",Русский Иллюзион
+http://ch01.spr24.net/294/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="illuzion+" group-title="RU Kinas" timeshift="3",Иллюзион +
+http://ch01.spr24.net/293/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rus-detective" group-title="RU Kinas" timeshift="3",Русский детектив
+http://ch01.spr24.net/277/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fenix+kino" group-title="RU Kinas" timeshift="3",Феникс Плюс Кино
+http://ch01.spr24.net/350/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="set" group-title="RU Kinas" timeshift="3",Sony Entertainment Television HD
+http://ch01.spr24.net/140/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sony-turbo" group-title="RU Kinas" timeshift="3",Sony Turbo
+http://ch01.spr24.net/227/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="axn" group-title="RU Kinas" timeshift="3",SONY Sci-Fi
+http://ch01.spr24.net/228/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="amedia-hit" group-title="RU Kinas" timeshift="3",Amedia Hit
+http://ch01.spr24.net/270/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="amedia-hd" group-title="RU Kinas" timeshift="3",Amedia Premium
+http://ch01.spr24.net/258/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="amedia1" group-title="RU Kinas" timeshift="3",A1
+http://ch01.spr24.net/268/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="amedia2" group-title="RU Kinas" timeshift="3",A2
+http://ch01.spr24.net/269/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fox-hd" group-title="RU Kinas" timeshift="3",FOX HD
+http://ch01.spr24.net/101/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fox-crime" group-title="RU Kinas" timeshift="3",Fox Russia
+http://ch01.spr24.net/5266/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fox-life-hd" group-title="RU Kinas" timeshift="3",Fox Life HD
+http://ch01.spr24.net/207/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fox-life" group-title="RU Kinas" timeshift="3",Fox Life
+http://ch01.spr24.net/5668/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="paramount-comedy" group-title="RU Kinas" timeshift="3",Paramount Comedy HD
+http://ch01.spr24.net/220/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="paramount" group-title="RU Kinas" timeshift="3",Paramount Channel HD
+http://ch01.spr24.net/221/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="paramount" group-title="RU Kinas" timeshift="3",Paramount channel
+http://ch01.spr24.net/5158/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="bollywood-hd" group-title="RU Kinas" timeshift="3",Bollywood HD
+http://ch01.spr24.net/251/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hollywood-hd" group-title="RU Kinas" timeshift="3",Hollywood HD
+http://ch01.spr24.net/127/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hollywood" group-title="RU Kinas" timeshift="3",Hollywood
+http://ch01.spr24.net/5511/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv21" group-title="RU Kinas" timeshift="3",TV XXI
+http://ch01.spr24.net/310/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="evrokino" group-title="RU Kinas" timeshift="3",Еврокино
+http://ch01.spr24.net/275/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",НТВ-ХИТ
+http://ch01.spr24.net/328/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-pravo" group-title="RU Kinas" timeshift="3",НТВ Право
+http://ch01.spr24.net/348/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-serial" group-title="RU Kinas" timeshift="3",НТВ Сериал
+http://ch01.spr24.net/347/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mir-seriala" group-title="RU Kinas" timeshift="3",Мир Сериала
+http://ch01.spr24.net/5264/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="film-box" group-title="RU Kinas" timeshift="3",FilmBox
+http://ch01.spr24.net/6888/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="film-box-arthouse" group-title="RU Kinas" timeshift="3",Filmbox Arthouse
+http://ch01.spr24.net/6887/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="spike" group-title="RU Kinas" timeshift="3",Spike Russia
+http://ch01.spr24.net/6758/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zee" group-title="RU Kinas" timeshift="3",ZEE TV
+http://ch01.spr24.net/5596/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="dorama" group-title="RU Kinas" timeshift="3",Дорама
+http://ch01.spr24.net/6723/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="pobeda" group-title="RU Kinas" timeshift="3",Победа
+http://ch01.spr24.net/3085/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="23562" group-title="RU Kinas" timeshift="3",FAN HD
+http://ch01.spr24.net/23562/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="uhd-cinema" group-title="RU Kinas" timeshift="3",Ultra Cinema 4K
+http://ch01.spr24.net/20799/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Kinas" timeshift="3",Сиеста HD
+http://ch01.spr24.net/247/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="boomerang" group-title="RU Vaikiski",Boomerang
+http://ch01.spr24.net/306/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tlum-hd" group-title="RU Vaikiski" timeshift="3",Мульт HD
+http://ch01.spr24.net/141/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="strana" group-title="RU Vaikiski",Мультимузыка
+http://ch01.spr24.net/340/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mult" group-title="RU Vaikiski" timeshift="3",Мульт
+http://ch01.spr24.net/5161/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="malish" group-title="RU Vaikiski",Малыш
+http://ch01.spr24.net/6752/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ryzhij" group-title="RU Vaikiski",Рыжий
+http://ch01.spr24.net/6867/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="detskiy" group-title="RU Vaikiski" timeshift="3",Детский
+http://ch01.spr24.net/5275/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="det" group-title="RU Vaikiski" timeshift="3",Детский мир
+http://ch01.spr24.net/5276/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="karusel" group-title="RU Vaikiski" timeshift="3",Карусель
+http://ch01.spr24.net/339/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="multimania" group-title="RU Vaikiski",Мультиландия
+http://ch01.spr24.net/304/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tiji" group-title="RU Vaikiski",Tiji TV
+http://ch01.spr24.net/299/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="vgus" group-title="RU Vaikiski",В гостях у сказки
+http://ch01.spr24.net/330/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Vaikiski" timeshift="3",СТС Kids HD
+http://ch01.spr24.net/362/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="gulli" group-title="RU Vaikiski",Gulli Girl
+http://ch01.spr24.net/300/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="cartoon" group-title="RU Vaikiski",Cartoon Network
+http://ch01.spr24.net/6859/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="disney" group-title="RU Vaikiski",Disney
+http://ch01.spr24.net/307/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ani" group-title="RU Vaikiski" timeshift="3",Ani
+http://ch01.spr24.net/343/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nickelod-hd" group-title="RU Vaikiski",Nickelodeon HD
+http://ch01.spr24.net/135/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="RU Vaikiski",Nickelodeon
+http://ch01.spr24.net/5341/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="nick-jr" group-title="RU Vaikiski",Nick Jr.
+http://ch01.spr24.net/5494/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="jimjam" group-title="RU Vaikiski",Jim Jam
+http://ch01.spr24.net/5342/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="2x2" group-title="RU Vaikiski" timeshift="3",2x2
+http://ch01.spr24.net/5245/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="o" group-title="RU Vaikiski" timeshift="3",O!
+http://ch01.spr24.net/5315/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ginger-hd" group-title="RU Vaikiski" timeshift="3",Капитан Фантастика
+http://ch01.spr24.net/148/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="da_vinci-rus" group-title="RU Vaikiski",Da Vinci Kids
+http://ch01.spr24.net/317/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lolo" group-title="RU Vaikiski" timeshift="3",Пингвин Лоло
+http://ch01.spr24.net/23971/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="1hdru" group-title="RU Muzika",1HD
+http://ch01.spr24.net/256/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tnt-music" group-title="RU Muzika",ТНТ MUSIC
+http://ch01.spr24.net/365/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="muzika1" group-title="RU Muzika",Музыка первого
+http://ch01.spr24.net/5491/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="europa-plus" group-title="RU Muzika",Europa Plus TV
+http://ch01.spr24.net/280/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="bridge-hd" group-title="RU Muzika",BRIDGE TV Deluxe
+http://ch01.spr24.net/297/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rusong" group-title="RU Muzika",BRIDGE TV Русский Хит
+http://ch01.spr24.net/298/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="bridge" group-title="RU Muzika",Bridge TV
+http://ch01.spr24.net/5283/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="topsong" group-title="RU Muzika",Bridge TV Classic
+http://ch01.spr24.net/6861/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="dange" group-title="RU Muzika",BRIDGE TV HITS
+http://ch01.spr24.net/5662/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rutv" group-title="RU Muzika",RU.TV
+http://ch01.spr24.net/5664/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="iconcerts_hd" group-title="RU Muzika",iConcerts
+http://ch01.spr24.net/126/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mezzo-hd" group-title="RU Muzika",Mezzo Live HD
+http://ch01.spr24.net/3126/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mtv-rus" group-title="RU Muzika",MTV
+http://ch01.spr24.net/5490/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mtv-dance" group-title="RU Muzika",MTV Dance
+http://ch01.spr24.net/5630/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mtv-hits" group-title="RU Muzika",MTV Hits
+http://ch01.spr24.net/5162/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mtv-rocks" group-title="RU Muzika",MTV Rocks
+http://ch01.spr24.net/5631/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mtvlive-hd" group-title="RU Muzika",MTV Live HD
+http://ch01.spr24.net/134/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lya-minor" group-title="RU Muzika",Ля-минор
+http://ch01.spr24.net/284/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="muz-tv" group-title="RU Muzika" timeshift="3",МУЗ
+http://ch01.spr24.net/324/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="c-music" group-title="RU Muzika",C Music TV
+http://ch01.spr24.net/257/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="shansontv" group-title="RU Muzika",Шансон ТВ
+http://ch01.spr24.net/5247/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mcm-top" group-title="RU Muzika",MCM Top
+http://ch01.spr24.net/5268/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zhara" group-title="RU Muzika" timeshift="3",Zhara HD
+http://ch01.spr24.net/17734/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="zhara" group-title="RU Muzika",ЖАРА
+http://ch01.spr24.net/5483/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Muzika",Открытый HD
+http://ch01.spr24.net/23928/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="mb-russia" group-title="RU Muzika",Music Box Russian
+http://ch01.spr24.net/20230/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TraceUrban.ru" group-title="RU Muzika",Trace Urban HD
+http://ch01.spr24.net/20960/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Muzika",VH-1 Classic
+http://ch01.spr24.net/20051/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-1" group-title="RU Sportas" timeshift="3",Матч! Футбол 1 HD
+http://ch01.spr24.net/130/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-1" group-title="RU Sportas" timeshift="3",Матч! Футбол 1 HD
+http://ch01.spr24.net/6661/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-1" group-title="RU Sportas",Матч! Футбол 1
+http://ch01.spr24.net/5462/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-2" group-title="RU Sportas" timeshift="3",Матч! Футбол 2 HD
+http://ch01.spr24.net/131/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-2" group-title="RU Sportas" timeshift="3",Матч! Футбол 2 HD
+http://ch01.spr24.net/6662/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-2" group-title="RU Sportas",Матч! Футбол 2
+http://ch01.spr24.net/5463/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-3" group-title="RU Sportas" timeshift="3",Матч! Футбол 3 HD
+http://ch01.spr24.net/132/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-3" group-title="RU Sportas" timeshift="3",Матч! Футбол 3 HD
+http://ch01.spr24.net/6724/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-football-3" group-title="RU Sportas",Матч! Футбол 3
+http://ch01.spr24.net/5464/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="futbol" group-title="RU Sportas",Футбол
+http://ch01.spr24.net/5249/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="hd-sport" group-title="RU Sportas" timeshift="3",Матч! Игра HD
+http://ch01.spr24.net/215/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="match" group-title="RU Sportas" timeshift="3",Матч! HD
+http://ch01.spr24.net/255/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="match" group-title="RU Sportas" timeshift="3",Матч ТВ
+http://ch01.spr24.net/5027/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="boec" group-title="RU Sportas" timeshift="3",МАТЧ! Боец
+http://ch01.spr24.net/230/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="RU Sportas" timeshift="3",МАТЧ ПРЕМЬЕР HD
+http://ch01.spr24.net/133/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="RU Sportas",МАТЧ ПРЕМЬЕР
+http://ch01.spr24.net/5261/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sport1_rus" group-title="RU Sportas",Матч! Арена HD
+http://ch01.spr24.net/204/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sport1_rus" group-title="RU Sportas",Матч! Арена
+http://ch01.spr24.net/5252/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sport-plus" group-title="RU Sportas",Матч! Страна
+http://ch01.spr24.net/229/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ntv-sport" group-title="RU Sportas",Матч! Планета
+http://ch01.spr24.net/6062/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="m1-global" group-title="RU Sportas",M-1 Global TV
+http://ch01.spr24.net/5829/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="viasat-sport" group-title="RU Sportas" timeshift="3",Viasat Sport HD
+http://ch01.spr24.net/5244/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="viasat-sport" group-title="RU Sportas",Viasat Sport
+http://ch01.spr24.net/106/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Sportas",Eurosport 4K
+http://ch01.spr24.net/17090/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="esp-hd" group-title="RU Sportas" timeshift="3",Eurosport
+http://ch01.spr24.net/264/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="esp2-hd" group-title="RU Sportas" timeshift="3",Eurosport 2 HD
+http://ch01.spr24.net/265/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Sportas",Eurosport Gold HD
+http://ch01.spr24.net/23922/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="setanta-sport-1" group-title="RU Sportas" timeshift="3",SETANTA SPORTS HD
+http://ch01.spr24.net/933/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="setanta-sport-2" group-title="RU Sportas" timeshift="3",SETANTA SPORTS+ HD
+http://ch01.spr24.net/934/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="boxtv" group-title="RU Sportas" timeshift="3",Бокс ТВ
+http://ch01.spr24.net/346/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kxl-hd" group-title="RU Sportas" timeshift="3",КХЛ ТВ HD
+http://ch01.spr24.net/206/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="kxl" group-title="RU Sportas" timeshift="3",КХЛ HD
+http://ch01.spr24.net/5154/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="konnyj-mir" group-title="RU Sportas",Конный мир HD
+http://ch01.spr24.net/5689/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="konnyj-mir" group-title="RU Sportas",Конный Мир
+http://ch01.spr24.net/150/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="extreme-sports" group-title="RU Sportas",Extreme Sports
+http://ch01.spr24.net/5242/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="russkij-extreme" group-title="RU Sportas" timeshift="3",Русский Экстрим
+http://ch01.spr24.net/143/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Sportas",Точка отрыва
+http://ch01.spr24.net/6667/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Sportas",Моторспорт ТВ HD
+http://ch01.spr24.net/23919/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="RU Sportas",UFC
+http://ch01.spr24.net/17111/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fast-n-funbox-hd" group-title="RU Sportas",Fast and Fun Box HD
+http://ch01.spr24.net/240/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="fight-box-hd" group-title="RU Sportas",FightBox HD
+http://ch01.spr24.net/241/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="start" group-title="RU Sportas",Старт
+http://ch01.spr24.net/248/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1-lt" group-title="Lietuviski" timeshift="3",TV1 [LT]
+http://ch01.spr24.net/785/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Lietuviski" timeshift="3",BTV HD [LT]
+http://ch01.spr24.net/19208/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Lietuviski" timeshift="3",BTV [LT]
+http://ch01.spr24.net/788/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lrt" group-title="Lietuviski" timeshift="3",LRT Televizija HD [LT]
+http://ch01.spr24.net/19159/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lrt" group-title="Lietuviski" timeshift="3",LRT Televizija  [LT]
+http://ch01.spr24.net/789/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lrtkult" group-title="Lietuviski" timeshift="3",LRT Plius HD [LT]
+http://ch01.spr24.net/791/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lrtkult" group-title="Lietuviski" timeshift="3",LRT Plius [LT]
+http://ch01.spr24.net/19161/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lnk-lt" group-title="Lietuviski" timeshift="3",LNK HD [LT]
+http://ch01.spr24.net/19190/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="lnk-lt" group-title="Lietuviski" timeshift="3",LNK [LT]
+http://ch01.spr24.net/781/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="liuks" group-title="Lietuviski" timeshift="3",LIUKS! [LT]
+http://ch01.spr24.net/783/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="balt-auks" group-title="Lietuviski" timeshift="3",Balticum Auksinis  [LT]
+http://ch01.spr24.net/792/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="info-tv" group-title="Lietuviski" timeshift="3",Info TV [LT]
+http://ch01.spr24.net/782/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv3-lt" group-title="Lietuviski" timeshift="3",TV3 HD [LT]
+http://ch01.spr24.net/786/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv3-lt" group-title="Lietuviski" timeshift="3",TV3 [LT]
+http://ch01.spr24.net/17865/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv6-lt" group-title="Lietuviski" timeshift="3",TV6 HD [LT]
+http://ch01.spr24.net/787/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv6-lt" group-title="Lietuviski" timeshift="3",TV6 [LT]
+http://ch01.spr24.net/17866/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv8-lt" group-title="Lietuviski" timeshift="3",TV8 HD [LT]
+http://ch01.spr24.net/784/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv8-lt" group-title="Lietuviski" timeshift="3",TV8 [LT]
+http://ch01.spr24.net/17872/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="siauliu" group-title="Lietuviski" timeshift="3",Siauliu TV [LT]
+http://ch01.spr24.net/23711/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="LoloTV.ee" group-title="Lietuviski" timeshift="3",Lolo TV [LT]
+http://ch01.spr24.net/23715/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="rytas-lt" group-title="Lietuviski" timeshift="3",Lietuvos ryto TV [LT]
+http://ch01.spr24.net/780/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="balt-plat-lt" group-title="Lietuviski" timeshift="3",Balticum Platinum HD [LT]
+http://ch01.spr24.net/19172/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="tv1000-premium-lt" group-title="Lietuviski" timeshift="3",TV3 Film [LT]
+http://ch01.spr24.net/19173/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sport1-lt" group-title="Lietuviski" timeshift="3",Sport 1 HD [LT]
+http://ch01.spr24.net/794/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="sport1-lt" group-title="Lietuviski" timeshift="3",Sport 1 [LT]
+http://ch01.spr24.net/19194/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TVPlaySports.lt" group-title="Lietuviski" timeshift="3",TV3 Sport [LT]
+http://ch01.spr24.net/793/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TVPlaySportsPlus.lt" group-title="Lietuviski" timeshift="3",TV3 Sport 2 [LT+LV]
+http://ch01.spr24.net/790/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="Angliski",Blaze [UK]
+http://ch01.spr24.net/24160/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Yesterday.uk" group-title="Angliski",Yesterday [UK]
+http://ch01.spr24.net/24161/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryDMAX.uk" group-title="Angliski",DMAX [UK]
+http://ch01.spr24.net/24162/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryDMAXPlus1.uk" group-title="Angliski",DMAX + 1 [UK]
+http://ch01.spr24.net/24163/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="Angliski",Discovery History [UK]
+http://ch01.spr24.net/24164/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Angliski",Discovery Turbo [UK]
+http://ch01.spr24.net/24165/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryTurboPlus1.uk	" group-title="Angliski",Discovery Turbo + 1 [UK]
+http://ch01.spr24.net/24166/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryShed.uk" group-title="Angliski",Discovery Shed [UK]
+http://ch01.spr24.net/24167/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="Angliski",Discovery Science [UK]
+http://ch01.spr24.net/24168/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Angliski",Animal Planet [UK]
+http://ch01.spr24.net/24169/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CrimeAndInvestigationNetwork.uk" group-title="Angliski",Crime and Investigation [UK]
+http://ch01.spr24.net/24170/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Discovery.uk" group-title="Angliski",Discovery Channel [UK]
+http://ch01.spr24.net/24171/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Discoveryplus1.uk" group-title="Angliski",Discovery + 1 [UK]
+http://ch01.spr24.net/24172/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="History.uk" group-title="Angliski",History HD [UK]
+http://ch01.spr24.net/24173/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="H2.uk" group-title="Angliski",H2 [UK]
+http://ch01.spr24.net/24174/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Angliski",Animal Planet HD [UK]
+http://ch01.spr24.net/24175/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="AnimalPlanetplus1.uk" group-title="Angliski",Animal Planet + 1 [UK]
+http://ch01.spr24.net/24176/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="NationalGeographic.uk" group-title="Angliski",Nat Geo [UK]
+http://ch01.spr24.net/24177/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="Angliski",Nat Geo Wild [UK]
+http://ch01.spr24.net/24178/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="Angliski",Travel Channel [UK]
+http://ch01.spr24.net/24179/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Universal.uk" group-title="Angliski",Universal TV [UK]
+http://ch01.spr24.net/24180/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Lifetime.uk" group-title="Angliski",Lifetime HD [UK]
+http://ch01.spr24.net/24181/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Eden.uk" group-title="Angliski",Eden [UK]
+http://ch01.spr24.net/24182/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBCEarth.nordic" group-title="Angliski",Sony BBC Earth HD [UK]
+http://ch01.spr24.net/24183/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="PBS.uk" group-title="Angliski",PBS America [UK]
+http://ch01.spr24.net/24184/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MTV.uk" group-title="Angliski",MTV HD [UK]
+http://ch01.spr24.net/24270/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MTVplus1.uk" group-title="Angliski",MTV + 1 [UK]
+http://ch01.spr24.net/24271/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Angliski",VH1 [UK]
+http://ch01.spr24.net/24272/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="Angliski",MTV Music [UK]
+http://ch01.spr24.net/24273/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="Angliski",MTV Base [UK]
+http://ch01.spr24.net/24275/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",MTV Club [UK]
+http://ch01.spr24.net/24276/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",MTV Classic [UK]
+http://ch01.spr24.net/24277/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="Angliski",MTV Hits [UK]
+http://ch01.spr24.net/24278/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",MTV ROCK
+http://ch01.spr24.net/24280/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Trace Vault [UK]
+http://ch01.spr24.net/24281/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TheBox.uk" group-title="Angliski",The Box [UK]
+http://ch01.spr24.net/24282/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BoxUpfront.uk" group-title="Angliski",Box Upfront [UK]
+http://ch01.spr24.net/24283/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BoxHits.uk" group-title="Angliski",Box Hits [UK]
+http://ch01.spr24.net/24284/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="StarzTV.uk" group-title="Angliski",Starz TV [UK]
+http://ch01.spr24.net/24285/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",NOW XMAS [UK]
+http://ch01.spr24.net/24286/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Now 80s [UK]
+http://ch01.spr24.net/15896/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Magic.uk" group-title="Angliski",Magic [UK]
+http://ch01.spr24.net/24288/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Kiss.uk" group-title="Angliski",KISS [UK]
+http://ch01.spr24.net/24289/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Kerrang.uk" group-title="Angliski",Kerrang [UK]
+http://ch01.spr24.net/24290/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",SpotLight [UK]
+http://ch01.spr24.net/24291/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="4Music.uk" group-title="Angliski",4Music [UK]
+http://ch01.spr24.net/24292/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ClublandTV.uk" group-title="Angliski",Clubland TV [UK]
+http://ch01.spr24.net/24295/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Angliski",Sky Cinema Premiere HD [UK]
+http://ch01.spr24.net/24185/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesPremiere.uk" group-title="Angliski",Sky Cinema Premiere [UK]
+http://ch01.spr24.net/24186/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Angliski",Sky Cinema Hits HD [UK]
+http://ch01.spr24.net/24187/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyCinemaHits.uk" group-title="Angliski" timeshift="3",Sky Cinema Hits [UK]
+http://ch01.spr24.net/24188/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sky Cinema Greats HD [UK]
+http://ch01.spr24.net/24189/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sky Cinema Greats [UK]
+http://ch01.spr24.net/24190/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Angliski",Sky Cinema Disney HD [UK]
+http://ch01.spr24.net/24191/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesDisney.uk" group-title="Angliski",Sky Cinema Disney [UK]
+http://ch01.spr24.net/24192/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Angliski" timeshift="3",Sky Cinema Family HD [UK]
+http://ch01.spr24.net/24193/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Angliski",Sky Cinema Family [UK]
+http://ch01.spr24.net/24194/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Angliski",Sky Cinema Action HD [UK]
+http://ch01.spr24.net/24195/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesActionThriller.uk" group-title="Angliski",Sky Cinema Action [UK]
+http://ch01.spr24.net/24196/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Angliski",Sky Cinema Comedy HD [UK]
+http://ch01.spr24.net/24197/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesComedy.uk" group-title="Angliski",Sky Cinema Comedy [UK]
+http://ch01.spr24.net/24198/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Angliski",Sky Cinema Thriller HD [UK]
+http://ch01.spr24.net/24199/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyCinemaThriller.uk" group-title="Angliski",Sky Cinema Thriller [UK]
+http://ch01.spr24.net/24200/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Angliski",Sky Cinema Drama HD [UK]
+http://ch01.spr24.net/24201/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesDrama.uk" group-title="Angliski",Sky Cinema Drama [UK]
+http://ch01.spr24.net/24202/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Angliski",Sky Cinema Sci-fi and Horror HD [UK]
+http://ch01.spr24.net/24203/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySciFiHorror.uk" group-title="Angliski",Sky Cinema Sci-fi and Horror [UK]
+http://ch01.spr24.net/24204/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Angliski",Sky Cinema Select HD [UK]
+http://ch01.spr24.net/24205/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Angliski",Sky Cinema Select [UK]
+http://ch01.spr24.net/24206/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Film4.uk" group-title="Angliski",Film 4 [UK]
+http://ch01.spr24.net/24207/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Film4plus1.uk	" group-title="Angliski",Film 4 + 1 [UK]
+http://ch01.spr24.net/24208/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Movies4Men.uk" group-title="Angliski",Sony Movies Action [UK]
+http://ch01.spr24.net/24209/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Movies4MenPlus1.uk	" group-title="Angliski",Sony Movies Action +1 [UK]
+http://ch01.spr24.net/24210/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TrueMovies.uk" group-title="Angliski",Sony Movies Christmas [UK]
+http://ch01.spr24.net/24211/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TrueMovies2.uk" group-title="Angliski",Sony Movies Christmas +1 [UK]
+http://ch01.spr24.net/24212/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Angliski",Sony Movies [UK]
+http://ch01.spr24.net/24213/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SonyMoviesplus1.uk" group-title="Angliski",Sony Movies + 1 [UK]
+http://ch01.spr24.net/24214/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TalkingPictures.uk	" group-title="Angliski",Talking Pictures TV [UK]
+http://ch01.spr24.net/24215/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TCM.uk" group-title="Angliski",TCM HD [UK]
+http://ch01.spr24.net/24216/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="HorrorChannel.uk" group-title="Angliski",Horror Channel [UK]
+http://ch01.spr24.net/24217/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="HorrorChannelPlus1.uk" group-title="Angliski",Horror Channel + 1 [UK]
+http://ch01.spr24.net/24218/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Angliski",Sky News [UK]
+http://ch01.spr24.net/24315/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="Angliski",Sky News HD [UK]
+http://ch01.spr24.net/24316/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="Angliski",BBC 1 HD [UK]
+http://ch01.spr24.net/15785/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Angliski",BBC 2 HD [UK]
+http://ch01.spr24.net/15845/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBC1London.uk" group-title="Angliski",BBC 1 London [UK]
+http://ch01.spr24.net/16620/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBC2.uk" group-title="Angliski",BBC 2 Eng [UK]
+http://ch01.spr24.net/16617/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Angliski",CBEEBIES [UK]
+http://ch01.spr24.net/16679/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Angliski",BBC News HD [UK]
+http://ch01.spr24.net/24317/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="Angliski",BBC News [UK]
+http://ch01.spr24.net/16618/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BBCParliament.uk" group-title="Angliski",BBC Parliament [UK]
+http://ch01.spr24.net/24318/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Euronews.nws" group-title="Angliski",Euro News [UK]
+http://ch01.spr24.net/24319/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CNN.nws" group-title="Angliski",CNN HD [UK]
+http://ch01.spr24.net/24321/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="Angliski",TRT WORLD [UK]
+http://ch01.spr24.net/24323/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Angliski",Sky Sports News HD [UK]
+http://ch01.spr24.net/24222/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Angliski",Sky Sports News [UK]
+http://ch01.spr24.net/24223/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Angliski",Sky Sports Main Event HD [UK]
+http://ch01.spr24.net/24224/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Angliski",Sky Sports Main Event [UK]
+http://ch01.spr24.net/24225/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpPL.uk	" group-title="Angliski",Sky Sports Premiere League HD [UK]
+http://ch01.spr24.net/24226/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpPL.uk	" group-title="Angliski",Sky Sports Premiere League [UK]
+http://ch01.spr24.net/24227/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Angliski",Sky Sports Football HD [UK]
+http://ch01.spr24.net/24228/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Angliski",Sky Sports Football [UK]
+http://ch01.spr24.net/24229/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Angliski",Sky Sports Arena [UK]
+http://ch01.spr24.net/24230/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Angliski",Sky Sports Action HD [UK]
+http://ch01.spr24.net/24231/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Angliski",Sky Sports Cricket [UK]
+http://ch01.spr24.net/24233/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="Angliski",Sky Sports Golf [UK]
+http://ch01.spr24.net/24235/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Angliski",Sky Sports F1 HD [UK]
+http://ch01.spr24.net/24236/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="Angliski",Sky Sports F1 [UK]
+http://ch01.spr24.net/24237/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Angliski",Sky Sports Action [UK]
+http://ch01.spr24.net/24238/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Angliski",Sky Sports Mix HD [UK]
+http://ch01.spr24.net/24240/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Angliski",Sky Sports Mix [UK]
+http://ch01.spr24.net/24241/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sky Sports Races [UK]
+http://ch01.spr24.net/24242/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Angliski",BT Sport 1 HD [UK]
+http://ch01.spr24.net/24243/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Angliski",BT Sport 1 [UK]
+http://ch01.spr24.net/24244/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Angliski",BT Sport 2 HD [UK]
+http://ch01.spr24.net/24245/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Angliski",BT Sport 2 [UK]
+http://ch01.spr24.net/24246/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Angliski",BT Sport 3 HD [UK]
+http://ch01.spr24.net/24248/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Angliski",BT Sport 3 [UK]
+http://ch01.spr24.net/24249/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Angliski",BT Sport ESPN HD [UK]
+http://ch01.spr24.net/24251/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Angliski",Eurosport 1 HD [UK]
+http://ch01.spr24.net/24252/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Angliski",Eurosport 2 HD [UK]
+http://ch01.spr24.net/24253/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BoxNation.uk" group-title="Angliski",Box Nation [UK]
+http://ch01.spr24.net/24254/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RacingUK.uk	" group-title="Angliski",Racing TV [UK]
+http://ch01.spr24.net/24255/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="MUTV.uk" group-title="Angliski",MUTV [UK]
+http://ch01.spr24.net/24256/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sony Entertainment Television HD [UK]
+http://ch01.spr24.net/24257/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SonyTVAsia.uk" group-title="Angliski",Sony Entertainment Television [UK]
+http://ch01.spr24.net/15513/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="Angliski",LFC TV HD [UK]
+http://ch01.spr24.net/24258/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="Angliski",Premier Sports 1 HD [UK]
+http://ch01.spr24.net/24259/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="PremierSports2.uk	" group-title="Angliski",Premier Sports 2 HD [UK]
+http://ch01.spr24.net/24260/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="FreeSports.uk	" group-title="Angliski",Freesports HD [UK]
+http://ch01.spr24.net/24261/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Angliski",Eir Sports 1 [UK]
+http://ch01.spr24.net/24262/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Angliski",Eir Sports 2 [UK]
+http://ch01.spr24.net/24263/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BoxNationHD.uk" group-title="Angliski",Box Nation HD [UK]
+http://ch01.spr24.net/24264/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",WWE Channel HD
+http://ch01.spr24.net/24266/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="Angliski",Horse And Country [UK]
+http://ch01.spr24.net/24268/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",RedBull TV [UK]
+http://ch01.spr24.net/24269/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Angliski",Cbeebies HD [UK]
+http://ch01.spr24.net/24296/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Angliski",CBBC HD [UK]
+http://ch01.spr24.net/24297/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CBBC.uk" group-title="Angliski",CBBC [UK]
+http://ch01.spr24.net/16972/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CITV.uk" group-title="Angliski",CITV [UK]
+http://ch01.spr24.net/24298/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="pop.uk" group-title="Angliski",POP [UK]
+http://ch01.spr24.net/24299/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",POP Max [UK]
+http://ch01.spr24.net/24300/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TinyPop.uk" group-title="Angliski",Tiny Pop [UK]
+http://ch01.spr24.net/24301/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="Angliski",Boomerang [UK]
+http://ch01.spr24.net/24303/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Angliski",Nicktoons [UK]
+http://ch01.spr24.net/24304/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Angliski",Nickelodeon [UK]
+http://ch01.spr24.net/24305/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="Angliski",Nick Jr [UK]
+http://ch01.spr24.net/24306/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="NickJrPeppa.uk" group-title="Angliski",Nick Jr PAW Patrol [UK]
+http://ch01.spr24.net/24307/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Angliski",Cartoon Network HD [UK]
+http://ch01.spr24.net/24309/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="Angliski",Cartoon Network [UK]
+http://ch01.spr24.net/24302/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Angliski",Cartoonito [UK]
+http://ch01.spr24.net/24308/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="Angliski",Nick HD [UK]
+http://ch01.spr24.net/24310/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="Angliski",Baby TV [UK]
+http://ch01.spr24.net/24311/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="Angliski",Disney XD [UK]
+http://ch01.spr24.net/24312/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Disney.uk" group-title="Angliski",Disney Channel [UK]
+http://ch01.spr24.net/24313/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Angliski",Disney Junior [UK]
+http://ch01.spr24.net/24314/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RTE1.ie" group-title="Angliski",IRE  RTE 1 HD [UK]
+http://ch01.spr24.net/24703/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RTE2.ie" group-title="Angliski",IRE  RTE 2 HD [UK]
+http://ch01.spr24.net/24704/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="TV3.ie" group-title="Angliski",IRE  Virgin Media One [UK]
+http://ch01.spr24.net/24705/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="3e.ie" group-title="Angliski",IRE  Virgin Media Two [UK]
+http://ch01.spr24.net/24706/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="VirginThree.ie" group-title="Angliski",IRE  Virgin Media Three [UK]
+http://ch01.spr24.net/24707/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="VirginMediaSport.ie" group-title="Angliski",IRE  Virgin Media Sport [UK]
+http://ch01.spr24.net/24708/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RTEjr.ie" group-title="Angliski",IRE  RTE Jr [UK]
+http://ch01.spr24.net/24710/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RTENewsNow.ie" group-title="Angliski",IRE  RTE News [UK]
+http://ch01.spr24.net/24711/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="S4C.uk" group-title="Angliski",IRE  S4C [UK]
+http://ch01.spr24.net/24712/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Angliski",ITV HD [UK]
+http://ch01.spr24.net/16626/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="Angliski",ITV [UK]
+http://ch01.spr24.net/16608/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ITV2.uk" group-title="Angliski",ITV 2 [UK]
+http://ch01.spr24.net/15787/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ITV3.uk" group-title="Angliski",ITV 3 [UK]
+http://ch01.spr24.net/15811/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ITV4.uk" group-title="Angliski",ITV 4 [UK]
+http://ch01.spr24.net/15812/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Angliski",Channel 4 HD [UK]
+http://ch01.spr24.net/16492/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Channel4.uk" group-title="Angliski",Channel 4 [UK]
+http://ch01.spr24.net/16681/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Channel5.uk" group-title="Angliski",Channel 5 HD [UK]
+http://ch01.spr24.net/16987/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="E4.uk" group-title="Angliski",E4 [UK]
+http://ch01.spr24.net/16986/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Dave.uk" group-title="Angliski",Dave [UK]
+http://ch01.spr24.net/16994/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Home.uk" group-title="Angliski",Home [UK]
+http://ch01.spr24.net/17000/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="More4.uk" group-title="Angliski",More4 [UK]
+http://ch01.spr24.net/16985/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Really.uk" group-title="Angliski",Really [UK]
+http://ch01.spr24.net/17001/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SonyCrimeChannel.uk" group-title="Angliski",Sony Crime Channel [UK]
+http://ch01.spr24.net/15820/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",CBS Justice [UK]
+http://ch01.spr24.net/15798/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="SonyMovies.uk" group-title="Angliski",Sony Movie [UK]
+http://ch01.spr24.net/15804/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="FoodNetwork.uk" group-title="Angliski",Food Network [UK]
+http://ch01.spr24.net/17010/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="UTV.uk" group-title="Angliski",UTV HD [UK]
+http://ch01.spr24.net/17700/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="UTV.uk" group-title="Angliski",UTV [UK]
+http://ch01.spr24.net/16600/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sony Channel [UK]
+http://ch01.spr24.net/16640/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="RussiaToday.uk" group-title="Angliski",RT HD [UK]
+http://ch01.spr24.net/17707/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="ext" group-title="Angliski",Sony Movies Christmas
+http://ch01.spr24.net/17722/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="Showcase.uk" group-title="Angliski",Showcase [UK]
+http://ch01.spr24.net/17724/mpegts?token=hiVi8EHiq86NZA
+#EXTINF:0 tvg-id="CNBC.uk" group-title="Angliski",CNBC [UK]
+http://ch01.spr24.net/17730/mpegts?token=hiVi8EHiq86NZA

@@ -1,0 +1,75 @@
+﻿#EXTM3U
+#EXTINF:-1 ,Беларусь 1
+http://s2.mnogotv.club:4444/hd/bel1HD/index.m3u8
+#EXTINF:-1 ,Беларусь 2
+http://s2.mnogotv.club:4444/hd/bel2HD/index.m3u8
+#EXTINF:-1 ,Беларусь 3
+http://s2.mnogotv.club:4444/hd/bel3HD/index.m3u8
+#EXTINF:-1,ТВ 3 Minsk
+http://s2.mnogotv.club:4444/sd/TV3MINSK/index.m3u8
+#EXTINF:-1,ВТВ
+http://s2.mnogotv.club:4444/sd/VTV/index.m3u8
+#EXTINF:-1,ТНТ international
+http://s2.mnogotv.club:4444/sd/TNTINT/index.m3u8
+#EXTINF:-1 ,Перец Int
+http://s2.mnogotv.club:4444/sd/PEREZ/index.m3u8
+#EXTINF:-1 ,8 канал (Беларусь)
+http://s2.mnogotv.club:4444/hd/8channelHD/index.m3u8
+#EXTINF:-1,+TV
+http://s2.mnogotv.club:4444/sd/plusTV/index.m3u8
+#EXTINF:-1,+TV 3 LV
+http://s2.mnogotv.club:4444/sd/3plus_LV/index.m3u8
+#EXTINF:-1 ,Супер
+http://s2.mnogotv.club:4444/sd/Super/index.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://s2.mnogotv.club:4444/sd/ANEKDOT/index.m3u8
+#EXTINF:-1 ,Euronews
+http://s2.mnogotv.club:4444/sd/Euronews/index.m3u8
+#EXTINF:-1 ,Boomerang
+http://s2.mnogotv.club:4444/sd/Boomerang/index.m3u8
+#EXTINF:-1 ,В гостях у сказки
+http://s2.mnogotv.club:4444/sd/VGOSTYAH/index.m3u8
+#EXTINF:-1,Nicktoons
+http://s2.mnogotv.club:4444/sd/Nicktoons/index.m3u8
+#EXTINF:-1,Disney Channel EU
+http://s2.mnogotv.club:4444/sd/DisneyEU/index.m3u8
+#EXTINF:-1,Disney Junior EU
+http://s2.mnogotv.club:4444/sd/DisneyJuniorEU/index.m3u8
+#EXTINF:-1,Disney XD EU
+http://s2.mnogotv.club:4444/sd/DisneyXD/index.m3u8
+#EXTINF:-1 ,FAN HD
+http://s2.mnogotv.club:4444/hd/FANHD/index.m3u8
+#EXTINF:-1,Советские мультфильмы HD
+http://s2.mnogotv.club:4444/hd/sovmultHD/index.m3u8
+#EXTINF:-1 ,Ultra HD Cinema 4K
+http://s2.mnogotv.club:4444/hd/ULTRAHDCINEMA/index.m3u8
+#EXTINF:-1,Советское кино HD
+http://s2.mnogotv.club:4444/hd/sovkinoHD/index.m3u8
+#EXTINF:-1,Star Cinema
+http://s2.mnogotv.club:4444/sd/StarCinema/index.m3u8
+#EXTINF:-1,Болт
+http://s2.mnogotv.club:4444/sd/BOLT/index.m3u8
+#EXTINF:-1,Film.Ua Drama
+http://s2.mnogotv.club:4444/sd/FILMUADRAMA/index.m3u8
+#EXTINF:-1,3 FILM HD
+http://s2.mnogotv.club:4444/hd/3FILMHD/index.m3u8
+#EXTINF:-1,Epic Drama HD
+http://s2.mnogotv.club:4444/hd/EpicDramaHD/index.m3u8
+#EXTINF:-1,Поехали!
+http://s2.mnogotv.club:4444/sd/POEHALY/index.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K test
+http://s2.mnogotv.club:4444/hd/LOVENATURE4K/index.m3u8
+#EXTINF:-1 ,Eurosport 4K
+http://s2.mnogotv.club:4444/hd/Eurosport4K/index.m3u8
+#EXTINF:-1 ,Russian Extreme 4K
+http://s2.mnogotv.club:4444/hd/RussianExtreme4K/index.m3u8
+#EXTINF:-1 ,Футбол
+http://s2.mnogotv.club:4444/sd/futbol/index.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://s2.mnogotv.club:4444/hd/BT5HD/index.m3u8
+#EXTINF:-1 ,М-1 Глобал
+http://s2.mnogotv.club:4444/sd/M1/index.m3u8
+#EXTINF:-1 ,Моторспорт.ТВ
+http://s2.mnogotv.club:4444/sd/motosport/index.m3u8
+#EXTINF:-1,БелМуз ТВ
+http://s2.mnogotv.club:4444/sd/BELMUZ/index.m3u8

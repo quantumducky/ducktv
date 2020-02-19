@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[Discovery Channel HD (1)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/227/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/227/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel HD (2)]]></title>
-            <stream_url><![CDATA[http://217.25.216.4:8085/udp/238.2.16.147:1234]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/227/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -17,27 +17,27 @@
         
           <channel>
             <title><![CDATA[Discovery Channel HD (4)]]></title>
-            <stream_url><![CDATA[http://109.171.6.220:81/udp/239.54.7.86:1224]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/227/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel HD (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/227/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel HD (6)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/227/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel HD (7)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/227/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Channel HD (6)]]></title>
+            <stream_url><![CDATA[http://217.25.216.4:8085/udp/238.2.16.147:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Channel HD (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/227/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Channel HD (8)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/227/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/227/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -47,12 +47,12 @@
         
           <channel>
             <title><![CDATA[Discovery Channel HD (10)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts]]></stream_url>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30961.ts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel HD (11)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30961.ts]]></stream_url>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts]]></stream_url>
           </channel>
         
           <channel>
@@ -62,12 +62,12 @@
         
           <channel>
             <title><![CDATA[Discovery Channel HD (13)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/147/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a063?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel HD (14)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Martyn&key=CBxWefH]]></stream_url>
+            <stream_url><![CDATA[http://s1.only4.tv/12105/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
 </items>

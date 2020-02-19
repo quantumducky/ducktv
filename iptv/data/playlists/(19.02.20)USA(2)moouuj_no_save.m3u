@@ -1,0 +1,689 @@
+#EXTM3U
+#EXTINF:-1 ,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1 ,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIOHDS_1@92141/master.m3u8
+#EXTINF:-1 ,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 ,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 ,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 ,Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 ,iHeart 80s
+http://c3.prod.playlists.ihrhls.com/5060/playlist.m3u8
+#EXTINF:-1 ,Lite FM 106.7
+http://c11.prod.playlists.ihrhls.com/1477/playlist.m3u8
+#EXTINF:-1 ,Nick Radio
+http://c9.prod.playlists.ihrhls.com/6395/playlist.m3u8
+#EXTINF:-1 ,Z100 New York
+http://c5.prod.playlists.ihrhls.com/1469/playlist.m3u8
+#EXTINF:-1 ,360 North
+http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8
+#EXTINF:-1 ,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 ,ATXN
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-b/playlist.m3u8
+#EXTINF:-1 ,ATXN 2
+http://oflash.dfw.swagit.com/livecc02/austintx/smil:atx-16x9-1-a/playlist.m3u8
+#EXTINF:-1 ,Beach TV - 30A
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 ,Beach TV - Panama City
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 ,Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 ,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 ,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 ,Capital City Connection
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 ,Daytona Beach TV
+http://oflash.dfw.swagit.com/live/daytonabeachfl/smil:std-4x3-1-a/chucklist.m3u8
+#EXTINF:-1 ,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 ,House of Representatives
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8
+#EXTINF:-1 ,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 ,Key TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 ,Kool TV
+http://173.199.158.79:1935/roku/myStream/playlist.m3u8
+#EXTINF:-1 ,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 ,RyeTV
+http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 ,Seattle Channel
+https://wowzaprod121-i.akamaihd.net/hls/live/266526/d2ea1f60/playlist.m3u8
+#EXTINF:-1 ,Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 ,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 ,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 ,TVW-2
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVW2_all/master.m3u8
+#EXTINF:-1 ,30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 ,30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 ,ABC News (SD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 ,ABC News (HD)
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1 ,Action Sports 4U
+https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 ,Adventure Sports Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 ,AKC TV
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 ,America's Funniest Videos
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-americasfunniesthomevideos/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,Apple Sauce Network
+https://nimble.dashmedia.tv/onestudio/applesaucetv/playlist.m3u8
+#EXTINF:-1 ,AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1 ,Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 ,Bloomberg Television (Opt-1)
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 ,Bravo
+http://161.0.157.5/PLTV/88888888/224/3221226804/index.m3u8
+#EXTINF:-1 ,Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
+#EXTINF:-1 ,C-SPAN
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 ,C-SPAN 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 ,C-SPAN 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 ,Cartoons 4U
+https://edge1.dashmedia.tv/onestudio/cartoons_4u/playlist.m3u8
+#EXTINF:-1 ,Cartoon Network (LA)
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1 ,CBS (WFOR) (EST)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 ,Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 ,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 ,Classic TV 4U
+https://nimble.dashmedia.tv/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 ,CNN (Opt-1)
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1 ,CONtv
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
+#EXTINF:-1 ,Cooking 4U
+https://edge1.dashmedia.tv/onestudio/cooking_4u_network/playlist.m3u8
+#EXTINF:-1 ,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 ,Court TV
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 ,Dancestar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 ,Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 ,Documentaries 4U
+https://nimble.dashmedia.tv/onestudio/documentaries4u/playlist.m3u8
+#EXTINF:-1 ,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 ,Edge Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8
+#EXTINF:-1 ,Entertainment Studios
+http://161.0.157.38/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 ,ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 ,Evine
+https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
+#EXTINF:-1 ,Exercise 4U
+https://nimble.dashmedia.tv/onestudio/exercise_4u_tv/playlist.m3u8
+#EXTINF:-1 ,EZWay Network
+https://edge1.dashmedia.tv/onestudio/ezwaytv/playlist.m3u8
+#EXTINF:-1 ,FailArmy
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 ,Filmrise Family
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefamily/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 ,Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/676x540_2500000/index.m3u8
+#EXTINF:-1 ,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,Fox (WSVN) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227013/index.m3u8
+#EXTINF:-1 ,Fox News Radio
+http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 ,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 ,Fox Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 ,Fox Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 ,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 ,Gone Fishing
+https://edge1.dashmedia.tv/onestudio/gonefishing/playlist.m3u8
+#EXTINF:-1 ,Gone Hunting
+https://edge1.dashmedia.tv/onestudio/hunting/playlist.m3u8
+#EXTINF:-1 ,HBO (LA)
+http://161.0.157.50/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 ,HBO 2 (LA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 ,Horrified TV
+https://edge1.dashmedia.tv/onestudio/horrified/playlist.m3u8
+#EXTINF:-1 ,Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 ,Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 ,Kartoon Fun Time (Opt-1)
+https://edge1.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:-1 ,Kartoon Fun Time (Opt-2)
+https://nimble.dashmedia.tv/onestudio/kartoonfuntime/playlist.m3u8
+#EXTINF:-1 ,Kathryn Raaker's World
+https://edge1.dashmedia.tv/onestudio/kathryn_raakers_world/playlist.m3u8
+#EXTINF:-1 ,KLNM TV
+https://edge1.dashmedia.tv/onestudio/Decoder800/playlist.m3u8
+#EXTINF:-1 ,Living Outdoors
+https://edge1.dashmedia.tv/onestudio/Living_Outdoors/playlist.m3u8
+#EXTINF:-1 ,Metro Cable Network
+http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
+#EXTINF:-1 ,Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 ,Movee 4U
+https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
+#EXTINF:-1 ,My9 (WWOR) (EST)
+http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:-1 ,My Life TV
+https://edge1.dashmedia.tv/onestudio/my_life_4u/playlist.m3u8
+#EXTINF:-1 ,NASA TV
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 ,NBC (WTVJ) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 ,NBC Golf
+http://161.0.157.9/PLTV/88888888/224/3221226812/index.m3u8
+#EXTINF:-1 ,New Orleans TV
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 ,Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 ,NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 ,Nothing Scripted
+http://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 ,Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+#EXTINF:-1 ,Olympic Channel (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1 ,Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 ,Pets.TV
+http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
+#EXTINF:-1 ,Planet Cannabis
+https://edge1.dashmedia.tv/onestudio/planetshopping/playlist.m3u8
+#EXTINF:-1 ,Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1 ,Red Bull TV (Opt-1)
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 ,Red Bull TV (Opt-2)
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 ,Red Bull TV (UHD)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 ,Regalia TV
+https://edge1.dashmedia.tv/onestudio/regalia_network/playlist.m3u8
+#EXTINF:-1 ,Right Now TV
+https://edge1.dashmedia.tv/onestudio/rightnowtv/playlist.m3u8
+#EXTINF:-1 ,SafeTV4U2
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 ,Sci-fi 4U
+https://edge1.dashmedia.tv/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 ,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 ,She TV
+https://edge1.dashmedia.tv/onestudio/She_Tv_Network/playlist.m3u8
+#EXTINF:-1 ,Shopping 4U
+https://edge1.dashmedia.tv/onestudio/shopping_4u/playlist.m3u8
+#EXTINF:-1 ,Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 ,Spydar TV
+https://nimble.dashmedia.tv/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 ,Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 ,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+#EXTINF:-1 ,TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+#EXTINF:-1 ,The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 ,The Beach Show
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 ,The Pet Collective
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,The Works
+https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
+#EXTINF:-1 ,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 ,Travel 4U
+https://edge1.dashmedia.tv/onestudio/travel4u/playlist.m3u8
+#EXTINF:-1 ,TWiT
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 ,UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
+#EXTINF:-1 ,Universal TV
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 ,Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 ,Westerns 4U
+https://nimble.dashmedia.tv/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 ,WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 ,WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 ,Xcorps TV
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 ,177 HD
+http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 ,3ABN Latino [480p]
+http://uni5rtmp.tulix.tv:1935/bettervida/bettervida/playlist.m3u8
+#EXTINF:-1 ,ABC NEWS (US)
+https://abclive1-lh.akamaihd.net/i/abc_preview02@425077/index_100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,ABC News Digital 2 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 ,ABC News Digital 3 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 ,ABC News Digital 4 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 ,ABC News Digital 5 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 ,ABC News Digital 6 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 ,ABC News Digital 7 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 ,ABC News Digital 8 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 ,ABC News Digital 9 [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 ,ABC News Digital [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 ,ABC News Live [720p]
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 ,AKAKU 53 HAWAII [480p]
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 ,AKAKU 54 HAWAII [480p]
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 ,AKAKU 54 HAWAII [480p]
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 ,ALHorreya TV [AR][1080p]
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 ,Alhurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 ,Beto TV (Lifestyle)
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+#EXTINF:-1 ,BETTER HEALTH [480p]
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 ,Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 ,BETTER NATURE [480p]
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 ,BLOOMBERG (US)
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 ,Bloomberg [720p]
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,BLOOMBERG TV (1+)
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 ,Boston 25 News (Massachusetts)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 ,Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CATHOLIC TV [720p]
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 ,CBN [480p]
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 ,CBN Espanol [720p]
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 ,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,CBN News [480p]
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 ,CBS 4 News [720p]
+http://161.0.157.50/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 ,CBS 4 News [720p]
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1 ,CBS 47 Jacksonville (WJAX)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 ,CBS News (CBSN)
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
+#EXTINF:-1 ,CBS News [540p]
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8
+#EXTINF:-1 ,CBS News [720p]
+http://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+#EXTINF:-1 ,CC-TV Charlotte County
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 ,CCX Sports [1080p]
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 ,Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,CGTV [234p]
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 ,Chandler Channel
+https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+#EXTINF:-1 ,CHANNEL 11 NEWS WPXI PITTSBURGH
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 ,Cheddar Sports
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 ,CMC TV [720p]
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 ,CNBC [720p]
+http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
+#EXTINF:-1 ,Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 ,CORNERSTONE TV [640p]
+http://cdn.media9.truegod.tv/ctvnlive/smil:ctvn.smil/chunklist_w1852678767_b2328000_sleng.m3u8
+#EXTINF:-1 ,CSU Dominguez Hills
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 ,CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 ,CT-N Instant
+http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 1
+http://video.ct-n.com/live/web1stream/chunklist_w1992415243_DVR.m3u8
+#EXTINF:-1 ,CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 ,CT-N Streaming Media
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+#EXTINF:-1 ,CTNI ES | SD (US)
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:-1 ,DC COUNCIL CHANNEL [1080p]
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 ,DC Eagle Cam
+http://americaneagle-lh.akamaihd.net:80/i/AEF_DC1@31049/master.m3u8
+#EXTINF:-1 ,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 ,DJing [540p]
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 ,DJing Animation [540p]
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 ,DJing Avicii [720p]
+http://www.djing.com/tv/session_avicii.m3u8
+#EXTINF:-1 ,DJing Classic [540p]
+http://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 ,DJing Dance Floor [540p]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 ,DJing Electro rock [540p]
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 ,DJing French touch [540p]
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 ,DJing Hedonist [720p]
+http://www.djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1 ,DJing Hits [540p]
+http://www.djing.com/tv/04.m3u8
+#EXTINF:-1 ,DJing Hot Hot Hot [720p]
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+#EXTINF:-1 ,DJing Karaoke [540p]
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 ,DJing Summer Vibes [720p]
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 ,DJing Underground [540p]
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 ,DR GENE SCOTT [EN][480p]
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 ,Escambia County TV
+http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
+#EXTINF:-1 ,Eye 95 TV
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+#EXTINF:-1 ,Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,FLORIDA CH
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
+#EXTINF:-1 ,Folk TV (New!)
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Fox 28 Savannah (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 ,FOX News [144p]
+http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
+#EXTINF:-1 ,FOX NEWS LD
+https://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/index_300000_av-p.m3u8
+#EXTINF:-1 ,FOX NEWS Talk - FOX NEWS Radio
+https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 ,Fox Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Gem TV [480p]
+http://63.237.48.3/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1 ,Glendale 11
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 ,GOOD LIFE 45 | SD (US)
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1 ,GREENSBORO TV NETWORK [360p]
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 ,HBO
+http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 ,HBO
+http://161.0.157.5/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 ,HBO 2
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,HBO2 [360p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 ,HBO2 [720p]
+http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 ,Jasmin TV [720p]
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+#EXTINF:-1 ,JRES TV ES | SD
+http://teleredmcp.com:1935/jrestv/jrestv/chunklist_w1193494329.m3u8
+#EXTINF:-1 ,KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,KIRO 7 NEWS SEATTLE
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1 ,KOMO 4 NEWS SEATTLE
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 ,KTVB [720p]
+http://ktvb-lh.akamaihd.net/i/KTVB_Shows_1@60359/master.m3u8
+#EXTINF:-1 ,LA36
+http://granicusliveus6-a.akamaihd.net/la36/G0019_002/chunklist_w1442089063.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Lake Havasu City 4
+https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/chunklist.m3u8
+#EXTINF:-1 ,Leominster TV Educational
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,LEOMINSTER TV EDUCATIONAL [720p]
+http://edu.leominster.tv/Edu/smil:Edu.smil/chunklist_w43731873_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Leominster TV Government
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,LEOMINSTER TV GOVERNMENT [720p]
+http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Leominster TV Public
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,LEOMINSTER TV PUBLIC [720p]
+http://gov.leominster.tv/Pub/smil:Pub.smil/chunklist_w2036537178_b1344100_sleng_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,LEX TV [720p]
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1 ,LIFEVISION TV | SD (US)
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 ,Melody Channel TV [480p]
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 ,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
+#EXTINF:-1 ,NBC 1
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 ,NBC 11 News (Bay Area)
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1 ,NBC 4 News (Washington DC)
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1 ,NBC 5
+https://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
+#EXTINF:-1 ,News 12 (Brooklyn)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12KN
+#EXTINF:-1 ,News 12 (Connecticut - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_CT
+#EXTINF:-1 ,News 12 (Connecticut)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12CT_WEST
+#EXTINF:-1 ,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12HV
+#EXTINF:-1 ,News 12 (Hudson Valley)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_WC
+#EXTINF:-1 ,News 12 (Long Island - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_LI
+#EXTINF:-1 ,News 12 (Long Island)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12LI_WEST
+#EXTINF:-1 ,News 12 (New Jersey - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NJ
+#EXTINF:-1 ,News 12 (New Jersey)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12NJ_CENTRAL
+#EXTINF:-1 ,News 12 (New York City - Traffic)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12TW_NYC
+#EXTINF:-1 ,News 12 (The Bronx)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12BX
+#EXTINF:-1 ,News 12 (Westchester)
+http://hls.iptv.optimum.net/news12/nipadlive/index_new.m3u8?callsign=N12WH_WESTCHESTER
+#EXTINF:-1 ,News Center 7 (Ohio)
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,NEWS CENTER 7 OHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1 ,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 ,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_288.m3u8
+#EXTINF:-1 ,NEWSMAXTV (US)
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 ,NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,NEWSY
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 ,Npowered TV
+https://nimble.dashmedia.tv/onestudio/npowered/playlist.m3u8
+#EXTINF:-1 ,NRB NETWORK | SD (US)
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 ,NWCT 12 (Minnesota)
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Olelo Community Media 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1 ,OLELO COMMUNITY MEDIA 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 ,Olelo Community Media 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 ,Olelo Community Media 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 ,Olympic Channel (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Olympic Channel (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Olympic Channel (UHD)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,One Channel (US) (Arabic)
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1 ,PATV
+http://47.23.7.30:8080/live/WIFI-1096k-360p/WIFI-1096k-360p.m3u8
+#EXTINF:-1 ,PBC TAPESH TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 ,Penthouse HD
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
+#EXTINF:-1 ,RT USA
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 ,San Francisco - KNTV Cam
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 ,SINOVISION
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1 ,SUBRANG TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 ,TeleBoston TV
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 ,Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 ,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 ,The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+#EXTINF:-1 ,Town of Vienna Community Network
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8
+#EXTINF:-1 ,Town of Vienna Community Network (Opt-1)
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_002/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Town of Vienna Community Network (Opt-2)
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,Town of Vienna Community Network [HQ]
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:-1 ,TV BATON ROUGE
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 ,TV84
+http://stream2.svbllc.com:1935/tv84/tv84.stream/playlist.m3u8
+#EXTINF:-1 ,UALR UNIVERSITY TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 ,UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,USA
+https://stream.vagalume.fm/hls/14671417541091220806/aac.m3u8
+#EXTINF:-1 ,UWW-TV - University of Wisconsin Whitewater
+http://vanadium.uww.edu:1935/uwwlive/smil:uwwtv.smil/chunklist_w2102626622_b300000.m3u8
+#EXTINF:-1 ,VH HD
+http://161.0.157.5/PLTV/88888888/224/3221226078/index.m3u8
+#EXTINF:-1 ,VH1 (Opt-2)
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:-1 ,VICTORY TV NETWORK
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:-1 ,VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 ,VOA
+http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 ,Voice of America (VOA)
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
+#EXTINF:-1 ,VTV CHANNEL 6 COLORADO
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1 ,Washington DC - White House
+http://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 ,WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WCCA TV Worcester
+http://worcester.vod.castus.tv/live/ch1.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WCCA TV WORCESTER
+http://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 ,WCNC Breaking News
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 ,WGN 9 NEWS CHICAGO
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1 ,WHDH 7 Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 ,White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 ,WHO 13 Weather (Iowa)
+http://whotribune-lh.akamaihd.net/i/WHOTribune_1@198423/master.m3u8
+#EXTINF:-1 ,WSVI-TV
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,WVIT
+http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/master.m3u8
+#EXTINF:-1 ,WWE Network
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8

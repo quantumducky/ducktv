@@ -2,12 +2,17 @@
 <items>
           <channel>
             <title><![CDATA[TV3 Sport HD (1)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/105/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV3 Sport HD (2)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=Martyn&key=CBxWefH]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/TVPlaySportHD?auth=blhenko:blhenko]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[TV3 Sport HD (3)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/105/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

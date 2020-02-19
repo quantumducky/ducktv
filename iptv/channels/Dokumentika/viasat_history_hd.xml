@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[Viasat History HD (1)]]></title>
-            <stream_url><![CDATA[http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History HD (2)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -17,7 +17,7 @@
         
           <channel>
             <title><![CDATA[Viasat History HD (4)]]></title>
-            <stream_url><![CDATA[http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-avc1_5000000=9-mp4a_96000_rus=1.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -27,11 +27,16 @@
         
           <channel>
             <title><![CDATA[Viasat History HD (6)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/491/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History HD (7)]]></title>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/ViasatHistoryHD?auth=blhenko:blhenko]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History HD (8)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/33/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1,TV3 Sport HD
+http://cdn1.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8
+#EXTINF:-1,TV3 Sport2 HD
+http://cdn1.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD-avc1_5000000=12-mp4a_96000_lit=3.m3u8
+#EXTINF:-1,TV3 Film HD
+http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD-avc1_5500000=16-mp4a_96000_lit=11.m3u8
+#EXTINF:-1,TV3 LT HD
+http://cdn1.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD-avc1_5500000=13-mp4a_96000_lit=9.m3u8
+#EXTINF:-1,TV6 LT HD
+http://cdn1.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD-avc1_5000000=4-mp4a_96000_lit=1.m3u8
+#EXTINF:-1,Epic Drama HD
+http://cdn1.tvplayhome.lt/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD-avc1_5000000=25-mp4a_96000_lit=21.m3u8
+#EXTINF:-1,Sport1 LT
+http://cdn1.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1-avc1_2200000=12-mp4a_96000_lit=8.m3u8
+#EXTINF:-1,Esport HD
+http://cdn1.tvplayhome.lt/live/eds/EsportHD/HLS_encr/EsportHD-avc1_5000000=6-mp4a_96000_eng=1.m3u8
+#EXTINF:-1,Fight Sport HD
+http://cdn1.tvplayhome.lt/live/eds/FightSportHD/HLS_encr/FightSportHD-avc1_5000000=12-mp4a_96000_eng=8.m3u8
+#EXTINF:-1,LRT
+http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-avc1_6000000=9-mp4a_96000_lit=11.m3u8
+#EXTINF:-1,LRT PLIUS
+http://cdn1.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura-avc1_6000000=14-mp4a_96000_lit=8.m3u8
+#EXTINF:-1,LRT Lithuanica
+http://cdn1.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania-avc1_6000000=17-mp4a_96000_lit=15.m3u8
+#EXTINF:-1,LNK
+http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK-avc1_6000000=34-mp4a_96000_lit=24.m3u8
+#EXTINF:-1,TV3 Lietuva
+http://cdn1.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD-avc1_6000000=15-mp4a_96000_lit=9.m3u8
+#EXTINF:-1,TV6 Lietuva
+http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD-avc1_2200000=14-mp4a_96000_lit=10.m3u8
+#EXTINF:-1,TV8 Lietuva
+http://cdn1.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD-avc1_6000000=15-mp4a_96000_lit=9.m3u8
+#EXTINF:-1,Lietuvos_Ryto_TV
+http://cdn1.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV-avc1_2200000=14-mp4a_96000_lit=1.m3u8
+#EXTINF:-1,InfoTV
+http://cdn1.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV-avc1_2200000=13-mp4a_96000_lit=9.m3u8
+#EXTINF:-1,VH1
+http://cdn1.tvplayhome.lt/live/eds/VH1/HLS_encr/VH1-avc1_2200000=53-mp4a_96000_eng=46.m3u8
+#EXTINF:-1,MTV Hits
+http://cdn1.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits-avc1_2200000=24-mp4a_96000_eng=20.m3u8
+#EXTINF:-1,My Hits
+http://cdn1.tvplayhome.lt/live/eds/My_Hits/HLS_encr/My_Hits-avc1_2200000=5-mp4a_96000_est=1.m3u8
+#EXTINF:-1,PBK
+http://cdn1.tvplayhome.lt/live/eds/PBK/HLS_encr/PBK-avc1_2200000=11-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,NTV Mir Lithuania
+http://cdn1.tvplayhome.lt/live/eds/NTV_Mir_Baltic_LT/HLS_encr/NTV_Mir_Baltic_LT-avc1_2200000=5-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,NTV Mir Baltic
+http://cdn1.tvplayhome.lt/live/eds/NTV_Mir/HLS_encr/NTV_Mir-avc1_2200000=10-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://cdn1.tvplayhome.lt/live/eds/Ren_TV/HLS_encr/Ren_TV-avc1_2200000=12-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,Ren TV Lietuva
+http://cdn1.tvplayhome.lt/live/eds/Ren_TV_LT/HLS_encr/Ren_TV_LT-avc1_2200000=5-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,CTC Baltics
+http://cdn1.tvplayhome.lt/live/eds/CTCBaltics/HLS_encr/CTCBaltics-avc1_2200000=19-mp4a_96000_rus=12.m3u8
+#EXTINF:-1,3 plus
+http://cdn1.tvplayhome.lt/live/eds/3plus_LV_SD/HLS_encr/3plus_LV_SD-avc1_2200000=13-mp4a_96000_rus=9.m3u8
+#EXTINF:-1,TV1000
+http://cdn1.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD-avc1_2200000=14-mp4a_96000_rus=9.m3u8
+#EXTINF:-1,TV1000 Action
+http://cdn1.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD-avc1_2200000=21-mp4a_96000_rus=5.m3u8
+#EXTINF:-1,TV1000 Russkoe kino
+http://cdn1.tvplayhome.lt/live/eds/TV1000_rus_kino_SD/HLS_encr/TV1000_rus_kino_SD-avc1_2200000=8-mp4a_96000_rus=5.m3u8
+#EXTINF:-1,FOX 
+http://cdn1.tvplayhome.lt/live/eds/FOX_LT/HLS_encr/FOX_LT-avc1_2200000=6-mp4a_96000_rus=2.m3u8
+#EXTINF:-1,Fox Russia
+http://cdn1.tvplayhome.lt/live/eds/FOX/HLS_encr/FOX-avc1_2200000=6-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,BBC
+http://cdn1.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC-avc1_2200000=11-mp4a_96000_eng=1.m3u8
+#EXTINF:-1,Kidzone
+http://cdn1.tvplayhome.lt/live/eds/Kidzone/HLS_encr/Kidzone-avc1_2200000=31-mp4a_96000_lit=26.m3u8
+#EXTINF:-1,Disney Channel
+http://cdn1.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/Disney_Channel-avc1_2200000=12-mp4a_96000_rus=5.m3u8
+#EXTINF:-1,Disney XD
+http://cdn1.tvplayhome.lt/live/eds/Disney_XD/HLS_encr/Disney_XD-avc1_2200000=12-mp4a_96000_eng=5.m3u8
+#EXTINF:-1,Disney Junior
+http://cdn1.tvplayhome.lt/live/eds/Disney_Junior/HLS_encr/Disney_Junior-avc1_2200000=13-mp4a_96000_eng=7.m3u8
+#EXTINF:-1,Nickelodeon LT
+http://cdn1.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon-avc1_2200000=16-mp4a_96000_lit=12.m3u8
+#EXTINF:-1,Nick JR
+http://cdn1.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR-avc1_2200000=15-mp4a_96000_eng=6.m3u8
+#EXTINF:-1,NickToons
+http://cdn1.tvplayhome.lt/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_2200000=9-mp4a_96000_eng=2.m3u8
+#EXTINF:-1,Ohota i Ribalka
+http://cdn1.tvplayhome.lt/live/eds/Ohota_i_Ribalka/HLS_encr/Ohota_i_Ribalka-avc1_2200000=6-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,National Geographic HD
+http://cdn1.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD-avc1_5000000=10-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,Viasat Explorer HD
+http://cdn1.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD-avc1_5000000=9-mp4a_96000_rus=2.m3u8
+#EXTINF:-1,Viasat History HD
+http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD-avc1_5000000=9-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,Viasat Nature
+http://cdn1.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-avc1_2200000=24-mp4a_96000_rus=16.m3u8
+#EXTINF:-1,Viasat History
+http://cdn1.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-avc1_2200000=10-mp4a_96000_rus=1.m3u8
+#EXTINF:-1,Viasat Explore
+http://cdn1.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD-avc1_2200000=20-mp4a_96000_rus=15.m3u8
+#EXTINF:-1,National Geographic
+http://cdn1.tvplayhome.lt/live/eds/National_Geographic_LV/HLS_encr/National_Geographic_LV-avc1_2200000=7-mp4a_96000_rus=2.m3u8
+#EXTINF:-1,TV3 LV HD
+http://cdn1.tvplayhome.lt/live/eds/TV3_LV_HD/HLS_encr/TV3_LV_HD-avc1_5500000=9-mp4a_96000_lav=5.m3u8
+#EXTINF:-1,TV6 LV HD
+http://cdn1.tvplayhome.lt/live/eds/TV6_LV_HD/HLS_encr/TV6_LV_HD-avc1_5000000=5-mp4a_96000_eng=2.m3u8
+#EXTINF:-1,LNT
+http://cdn1.tvplayhome.lt/live/eds/LNT_LV_SD/HLS_encr/LNT_LV_SD-avc1_2200000=14-mp4a_96000_lav=9.m3u8
+#EXTINF:-1,TV3 LV
+http://cdn1.tvplayhome.lt/live/eds/TV3_LV_SD/HLS_encr/TV3_LV_SD-avc1_2200000=13-mp4a_96000_lav=9.m3u8
+#EXTINF:-1,TV6 LV
+http://cdn1.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD-avc1_2200000=13-mp4a_96000_lav=9.m3u8
+#EXTINF:-1,LTV1
+http://cdn1.tvplayhome.lt/live/eds/LTV1_LV_SD/HLS_encr/LTV1_LV_SD-avc1_2200000=24-mp4a_96000_lav=10.m3u8
+#EXTINF:-1,LTV7
+http://cdn1.tvplayhome.lt/live/eds/LTV7_LV_SD/HLS_encr/LTV7_LV_SD-avc1_2200000=14-mp4a_96000_lav=1.m3u8
+#EXTINF:-1,Kanals 2
+http://cdn1.tvplayhome.lt/live/eds/Kanals2_LV_SD/HLS_encr/Kanals2_LV_SD-avc1_2200000=13-mp4a_96000_lav=9.m3u8
+#EXTINF:-1,Re TV
+http://cdn1.tvplayhome.lt/live/eds/ReTV/HLS_encr/ReTV-avc1_2200000=13-mp4a_96000_lav=9.m3u8
+#EXTINF:-1,SportaCentrs LV
+http://cdn1.tvplayhome.lt/live/eds/SportaCentrs/HLS_encr/SportaCentrs-avc1_2200000=37-mp4a_96000_lav=33.m3u8
+#EXTINF:-1,TV3 EE HD
+http://cdn1.tvplayhome.lt/live/eds/TV3_EE_HD/HLS_encr/TV3_EE_HD-avc1_5000000=9-mp4a_96000_est=5.m3u8
+#EXTINF:-1,TV6 EE HD
+http://cdn1.tvplayhome.lt/live/eds/TV6_EE_HD/HLS_encr/TV6_EE_HD-avc1_5000000=4-mp4a_96000_est=1.m3u8
+#EXTINF:-1,TV3 EE
+http://cdn1.tvplayhome.lt/live/eds/TV3_EE_SD/HLS_encr/TV3_EE_SD-avc1_2200000=14-mp4a_96000_est=6.m3u8
+#EXTINF:-1,TV6 EE
+http://cdn1.tvplayhome.lt/live/eds/TV6_EE_SD/HLS_encr/TV6_EE_SD-avc1_2200000=13-mp4a_96000_est=6.m3u8
+#EXTINF:-1,ETV
+http://cdn1.tvplayhome.lt/live/eds/ETV/HLS_encr/ETV-avc1_2200000=48-mp4a_96000_est=5.m3u8
+#EXTINF:-1,ETV 2
+http://cdn1.tvplayhome.lt/live/eds/ETV2/HLS_encr/ETV2-avc1_2200000=67-mp4a_96000_est=1.m3u8
+#EXTINF:-1,ETV plus
+http://cdn1.tvplayhome.lt/live/eds/ETVplus/HLS_encr/ETVplus-avc1_2200000=15-mp4a_96000_est=10.m3u8
+#EXTINF:-1,Kanal 2
+http://cdn1.tvplayhome.lt/live/eds/Kanal2/HLS_encr/Kanal2-avc1_2200000=15-mp4a_96000_est=6.m3u8
+#EXTINF:-1,Kanal 11
+http://cdn1.tvplayhome.lt/live/eds/Kanal11/HLS_encr/Kanal11-avc1_2200000=12-mp4a_96000_est=5.m3u8
+#EXTINF:-1,Kanal 12
+http://cdn1.tvplayhome.lt/live/eds/Kanal12/HLS_encr/Kanal12-avc1_2200000=13-mp4a_96000_est=6.m3u8

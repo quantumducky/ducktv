@@ -1,0 +1,127 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Музыка",88 FM Stereo
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
+#EXTINF:-1 group-title="Музыка",Cannali Music
+http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Electro Rock HD
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1 group-title="Музыка",Djing French touch HD
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 group-title="Музыка",Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 group-title="Музыка",Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 group-title="Музыка",IndieWave HD
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Kiss TV (Romenia)
+http://fms-https1.mediadirect.ro/live3/kiss/chunklist_w1535526573.m3u8
+#EXTINF:-1 group-title="Музыка",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Музыка",Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Metal TV
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1 group-title="Музыка",MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музыка",MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Музыка",Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 group-title="Музыка",O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Музыка",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",Opoja TV HD
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Radio 538 TV
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q5.m3u8
+#EXTINF:-1 group-title="Музыка",Radio Capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 group-title="Музыка",Radio CONTACT
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="Музыка",RADIO FRECCIA HD
+http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Музыка",Radio San Borja
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/chunklist_w1688816594.m3u8
+#EXTINF:-1 group-title="Музыка",Radio Tivu' AZZURA
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RADIO ZETA
+https://rtl-radio-stream-thron.akamaized.net/live-video/video3/ngrp:video3/chunklist_b1196000.m3u8
+#EXTINF:-1 group-title="Музыка",radionorba TV
+http://46.165.210.112:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",radionumberone TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",radiosanborja.com
+https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Rock TV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Музыка",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",RUTV Молдова
+rtmp://217.12.116.122/live/rutv_direct
+#EXTINF:-1 group-title="Музыка",TRACE Africa
+http://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TRACE kitoko
+http://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TRACE Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TRACE Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TRACE Toca
+http://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TRACE Tropical
+http://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:-1 group-title="Музыка",TVM
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",UTV MUSIC
+http://81.196.0.126/utvedge/utvlivehls/index.m3u8
+#EXTINF:-1 group-title="Музыка",VIVA Russia
+http://85.143.202.116/hls/viva.m3u8
+#EXTINF:-1 group-title="Музыка",Илли ТВ HD
+http://cdn.illi.tv/illitv_2000/index.m3u8
+#EXTINF:-1 group-title="Музыка",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музыка",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Музыка",РORTAL FOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Музыка",Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Музыка",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8

@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+2)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+6)
+http://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Первый канал (+8)
+http://s14553.cdn.ngenix.net/hls/CH_R03_OTT_DV_SLIN_1TV_SLIN/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (hd)
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+5)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+6)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+7)
+http://s91030.cdn.ngenix.net/hls/CH_R04_OTT_DV_VLD_ROSSIA1_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+8)
+http://s20441.cdn.ngenix.net/hls/CH_R04_OTT_DV_MGDN_ROSSIA1_MGDN_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (+9)
+http://s14131.cdn.ngenix.net/hls/CH_R04_OTT_DV_KAM_ROSSIA1_PKAM_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 1 (-1)
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NW_KLGR_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", НТВ (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SARATOV_NTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", НТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", НТВ (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_BUL_NTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", НТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Пятый
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", 5 канал (Россия) (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", 5 канал (Россия) (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_5TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", 5 канал (Россия) (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС (+4)
+http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_IRK_STS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС Мир
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_TSM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", РЕН ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", РЕН ТВ (+4)
+http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", РЕН ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Звезда (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Звезда (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Звезда (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Домашний (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Домашний (+4)
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R04_DOMASHNY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Домашний (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ Центр (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ Центр (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ Центр (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ОТР (HD)
+http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ3 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ3 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТВ3 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Спас
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_SPAS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия К (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия К (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_BUL_ROSSIAK/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия К (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Че (+2)
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Че (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Пятница (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Пятница (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Пятница (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Ю
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Ю (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Ю (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Ю (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС Love (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", СТС Love (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Супер (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Супер (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Супер (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ4 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ4 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", ТНТ4 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир Premium (HD)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир (hd)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир (+4)
+http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_MIR/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Известия (HD)
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Россия 24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Мир 24 (hd)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Парк Патриот (hd)
+http://serv25.vintera.tv:8081/parad/patriot/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Россия ТВ", Совершенно секретно
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0_54_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Матч! ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Eurosport (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Моторспорт.ТВ
+https://strm.yandex.ru/kal/motosport/motosport0_169_360p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Спорт", Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", 2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", 2x2 (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", 2x2 (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", 2x2 (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Disney
+http://88.119.220.2/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Карусель (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Карусель (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Карусель (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Детские", Советские мультфильмы
+https://strm.yandex.ru/kal/sovmult_supres/sovmult_supres0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", TV1000 East
+http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOVERIE/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", КиноЗаказ HD1
+http://hls.goodgame.ru/hls/12949.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Фильмы", Советское кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", EarthTV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_360p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Наша Сибирь (hd)
+https://strm.yandex.ru/kal/sibir/sibir0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", HD Media (hd)
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Univer TV (hd)
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Терра Инкогнито
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Неизвестная планета (hd)
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Познавательные", Загородный (hd)
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", РЖД (hd)
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Наш Дом
+http://85.234.33.60/stream/c11.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Вместе-РФ (HD)
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", НТМ (hd)
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Московский образовательный ТВ (hd)
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", НСК 49
+http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_49CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Архыз 24 (hd)
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Волгоград 1
+https://strm.yandex.ru/kal/volgograd1/volgograd10_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Грозный ТВ
+https://strm.yandex.ru/kal/grozny_supres/grozny_supres0_2011_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Дагестан ТВ
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v3a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Дагестан ТВ (HD)
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Липецкое время (HD)
+http://rt-ct-lipetsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_LIPETSK_LVREM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Липецкое Время
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Миллет
+http://live.trkmillet.ru/millet/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Эхо ТВ 24 Новоуральск
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_ECHOTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Югра Тюмень
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_UGRA_URAL_TUM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ЮТВ Чебоксары
+http://rt-vlg-chr-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_CHR_UTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Якутия 24
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_SAHA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", JTV
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_5TV_URALIFORM_PERM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ивановское общественное телевидение
+http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", КТВ-Город Воронеж
+http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VRZH_CTVGOROD/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", МИГ ТВ
+http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Новый век
+http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Рифей-ТВ
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", 02ТВ (hd)
+https://strm.yandex.ru/kal/o2/o20_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Прямой (hd)
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", РИМ Каменск-Уральский
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ростов-папа Ростов
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R01_ROSTOVPAPA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", РТС Хакасия
+http://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_ABAKAN_RTS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Самара-ГИС
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_SAMARAGIS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Саха Якутск
+http://s34351.cdn.ngenix.net/hls/CH_R03_OTT_DV_YKT_NVC_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Селенга ТВ Улан-Удэ
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_SELENGA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Скат 24 Самара
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SAMARA_SKAT24/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", СТВ-Байкал Улан-Удэ
+http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_STVBAYKAL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Тагил ТВ
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_TAGILTV_URAL_TAG/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Тверской Проспект - Регион
+http://rt-ct-tver-htlive-lb.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ингушетия ТВ
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Арис 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Тивиком Улан-Удэ
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_TIVICOM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ТК Центр Красноярск
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_CENTRKRSN/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ТКР Рязань
+http://rt-ct-ryaz-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Томское время
+http://rt-sib-tomsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_TOMSK_TOMSKVREMIA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Тюменское время
+http://rt-ural-tum-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", К1
+http://109.68.40.67/life/k1_3/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Муз ТВ (+2)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Муз ТВ (+4)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_4/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Муз ТВ (+7)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Наши города Когалым
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ника ТВ Калуга
+https://strm.yandex.ru/kal/nikatv_supres/nikatv_supres0_2011_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ННТВ Нижний Новгород
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_NN_NNTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Осетия Ирыстон (hd)
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ОТВ Владивосток
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTTOTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ОТВ Екатеринбург
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ОТВ Челябинск
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_CHEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ОТВ-Сахалин Южно-Сахалинск
+http://s14553.cdn.ngenix.net/hls/CH_R01_OTT_DV_SLIN_OTV_SLIN_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый Балтийский Муз.
+https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый городской Киров
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KIROV_PERVYGORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый городской Нижний Новгород
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый городской Омск
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_1GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый областной Орел
+http://rt-ct-orl-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERVOBL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый Тульский (HD)
+http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R01_PERV_TUL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Первый Ярославский
+http://rt-ct-yarl-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_YARL_NTM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Продвижение Омск
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_PRODVIZHENIE/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Заб.TV Чита
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_CHITA_ZABTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Инфо 24 (HD)
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Каскад Калининград
+http://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_KASKAD/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Катунь 24 Барнаул
+http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Кубань 24 Краснодар
+http://rt-sth-krdar-htlive-lb.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Курай ТВ
+http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", М1 Самара
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", 31 канал Челябинск
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", 49 канал Новосибирск
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", KURGAN.RU Курган
+http://rt-ural-krg-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_KURRU_URAL_KRG/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Russian MusicBox (hd)
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_720p.json/index-v1-a1.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Music Box RU (HD)
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/bw5000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", UGRA Travel Сургут
+http://rt-ural-sur-htlive-lb.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_TRAVEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Аист Иркутск
+http://rt-sib-irk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Альтес Чита
+http://rt-sib-chita-htlive-lb.cdn.ngenix.net/hls/CH_R01_ALTES/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ариг Ус 24 Улан-Удэ
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_UUDE_ARIGUS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", АТВ-медиа Улан-удэ
+http://rt-sib-uude-htlive-lb.cdn.ngenix.net/hls/CH_R01_ATVMEDIA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_ya.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Барс Иваново
+http://rt-ct-ivan-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Белгород 24
+http://rt-ct-belg-htlive-lb.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Брянская губерния
+http://rt-ct-bryansk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", БСТ Уфа
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_BST/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", БСТ
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Вариант V Владимир
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Волга Н. Новгород
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Восток 24
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ВОТ тв Липецк
+http://rt-ct-lipetsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_VOTTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Городской Брянск
+http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_GORODSKOY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ГТ-Ярославль
+http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Губерния Самара
+http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_SAMARA_GUBERNIA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Губерния ТВ Воронеж
+http://rt-ct-vrzh-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_CT_VRZH_TVGUBERNIYA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Губерния ТВ Хабаровск
+http://s97982.cdn.ngenix.net/hls/CH_R02_OTT_DV_HVSK_OTTGUBERNYA/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Девятка ТВ Киров
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Дон 24
+http://rt-sth-rd-htlive-lb.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", 11 канал Пенза
+http://rt-vlg-penza-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_PENZA_NASHDOM/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", 12 канал Омск
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Екатеринбург ТВ
+http://rt-ural-ekt-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_EKBTV_URAL_EKT/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", Енисей
+http://rt-sib-krsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", TMTV
+http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_KZN_TMTV/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Остальное ТВ", ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_720p.json/index-v1-a1.m3u8?version=2

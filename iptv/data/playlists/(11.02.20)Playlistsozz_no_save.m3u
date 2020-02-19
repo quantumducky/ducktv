@@ -1,0 +1,575 @@
+#EXTM3U url-tvg="EPG URL" 
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Первый
+http://ott.dugatv.me/ch0003/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Первый HD
+http://ott.dugatv.me/ch0001/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Россия 1
+http://ott.dugatv.me/ch294/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Россия 1 HD
+http://ott.dugatv.me/ch0004/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Матч! ТВ
+http://ott.dugatv.me/ch0008/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Матч! ТВ HD
+http://ott.dugatv.me/ch0006/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", НТВ
+http://ott.dugatv.me/ch00011/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", НТВ HD
+http://ott.dugatv.me/ch0009/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Пятый канал
+http://ott.dugatv.me/ch00012/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Россия 24
+http://ott.dugatv.me/ch00013/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Россия К
+http://ott.dugatv.me/ch00014/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Карусель
+http://ott.dugatv.me/ch00015/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Общественное телевидение России
+http://ott.dugatv.me/ch00016/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", ТВ Центр
+http://ott.dugatv.me/ch00017/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Рен ТВ
+http://ott.dugatv.me/ch00020/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Рен ТВ HD
+http://ott.dugatv.me/ch00018/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", СТС
+http://ott.dugatv.me/ch00021/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Домашний_+0
+http://ott.dugatv.me/ch00022/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Пятница!
+http://ott.dugatv.me/ch00024/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Звезда
+http://ott.dugatv.me/ch00023/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Мир
+http://ott.dugatv.me/ch00025/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", ТНТ
+http://ott.dugatv.me/ch00028/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", ТНТ HD
+http://ott.dugatv.me/ch00026/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", ТНТ4
+http://ott.dugatv.me/ch00050/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", ЧЕ
+http://ott.dugatv.me/ch00030/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эфирные"  tvg-rec="3" timeshift="3", Ю
+http://ott.dugatv.me/ch00031/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русский роман
+http://ott.dugatv.me/ch298/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русский роман HD
+http://ott.dugatv.me/ch0250/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русский бестселлер
+http://ott.dugatv.me/ch0252/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русский детектив
+http://ott.dugatv.me/ch0253/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Spike
+http://ott.dugatv.me/ch0256/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Spike HD
+http://ott.dugatv.me/ch0254/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Megahit
+http://ott.dugatv.me/ch0259/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Megahit HD
+http://ott.dugatv.me/ch0257/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Дом_Кино
+http://ott.dugatv.me/ch365/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Супер
+http://ott.dugatv.me/ch0261/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", FOX
+http://ott.dugatv.me/ch0264/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", FOX HD
+http://ott.dugatv.me/ch0262/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", FOX Life
+http://ott.dugatv.me/ch0267/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", FOX Life HD
+http://ott.dugatv.me/ch0265/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Sony Channel
+http://ott.dugatv.me/ch0270/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Sony Channel HD
+http://ott.dugatv.me/ch0268/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Sony Turbo
+http://ott.dugatv.me/ch0279/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Sony Sci-Fi
+http://ott.dugatv.me/ch0271/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кинокомедия
+http://ott.dugatv.me/ch0272/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кино ТВ
+http://ott.dugatv.me/ch0275/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кино ТВ HD
+http://ott.dugatv.me/ch0273/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киномикс
+http://ott.dugatv.me/ch0276/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Наше новое кино
+http://ott.dugatv.me/ch367/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", СТС Love
+http://ott.dugatv.me/ch0278/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киносемья 
+http://ott.dugatv.me/ch0282/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киносемья HD
+http://ott.dugatv.me/ch0280/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", A2
+http://ott.dugatv.me/ch0285/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", A2 HD
+http://ott.dugatv.me/ch0283/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", A1
+http://ott.dugatv.me/ch0288/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", A1 HD
+http://ott.dugatv.me/ch0286/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Amedia Premium
+http://ott.dugatv.me/ch0291/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Amedia Premium HD
+http://ott.dugatv.me/ch0289/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Иллюзион+
+http://ott.dugatv.me/ch364/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Hollywood
+http://ott.dugatv.me/ch0294/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Hollywood HD
+http://ott.dugatv.me/ch0293/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Premiere
+http://ott.dugatv.me/ch0297/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Premiere HD
+http://ott.dugatv.me/ch0295/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Comedy 
+http://ott.dugatv.me/ch300/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Comedy HD
+http://ott.dugatv.me/ch0298/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кинопремьера HD
+http://ott.dugatv.me/ch303/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киносвидание HD
+http://ott.dugatv.me/ch0305/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русский иллюзион
+http://ott.dugatv.me/ch312/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кинохит HD
+http://ott.dugatv.me/ch313/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000 Русское кино HD
+http://ott.dugatv.me/ch320/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Дом кино премиум HD
+http://ott.dugatv.me/ch317/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киноужас HD
+http://ott.dugatv.me/ch391/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Русское кино
+http://ott.dugatv.me/ch250/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Мужское кино
+http://ott.dugatv.me/ch323/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Родное кино
+http://ott.dugatv.me/ch316/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Кинопремьера 
+http://ott.dugatv.me/ch304/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Киносвидание 
+http://ott.dugatv.me/ch307/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Дом кино Премиум 
+http://ott.dugatv.me/ch319/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Amedia Ht
+http://ott.dugatv.me/ch309/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Amedia Hit HD
+http://ott.dugatv.me/ch310/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Amedia Hit
+http://ott.dugatv.me/ch315/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000 Action HD
+http://ott.dugatv.me/ch327/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000 HD
+http://ott.dugatv.me/ch34/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000
+http://ott.dugatv.me/ch326/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000 Action
+http://ott.dugatv.me/ch329/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV1000 Русское кино
+http://ott.dugatv.me/ch322/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Star Cinema HD
+http://ott.dugatv.me/ch337/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Ultra HD Cinema
+http://ott.dugatv.me/ch331/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Cinema
+http://ott.dugatv.me/ch330/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Star Cinema
+http://ott.dugatv.me/ch338/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Star Cinema
+http://ott.dugatv.me/ch339/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Star Family 
+http://ott.dugatv.me/ch336/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Star Family HD
+http://ott.dugatv.me/ch334/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Комедия
+http://ott.dugatv.me/ch332/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Комедийное HD
+http://ott.dugatv.me/ch394/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Zee TV
+http://ott.dugatv.me/ch333/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Paramount Comedy
+http://ott.dugatv.me/ch00054/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Paramount Channel
+http://ott.dugatv.me/ch342/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Paramount Comedy HD
+http://ott.dugatv.me/ch00052/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Paramount Channel HD
+http://ott.dugatv.me/ch340/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", BOLT 
+http://ott.dugatv.me/ch345/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Bolt HD
+http://ott.dugatv.me/ch343/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Победа 
+http://ott.dugatv.me/ch349/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Победа HD
+http://ott.dugatv.me/ch347/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", ViP Serial 
+http://ott.dugatv.me/ch362/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", VIP Serial HD
+http://ott.dugatv.me/ch360/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", TV XXI
+http://ott.dugatv.me/ch363/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Ретро ТВ
+http://ott.dugatv.me/ch368/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", SHOT TV
+http://ott.dugatv.me/ch371/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Shot Tv HD
+http://ott.dugatv.me/ch369/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Тайна
+http://ott.dugatv.me/ch372/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", FAN HD
+http://ott.dugatv.me/ch373/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Мир сериала
+http://ott.dugatv.me/ch376/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", СИЕСТА 
+http://ott.dugatv.me/ch379/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Сиеста HD
+http://ott.dugatv.me/ch377/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Страшное HD
+http://ott.dugatv.me/ch380/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", СТРАШНОЕ 
+http://ott.dugatv.me/ch382/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Настоящее страшное ТВ
+http://ott.dugatv.me/ch308/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Остросюжетное HD
+http://ott.dugatv.me/ch387/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Крутое HD
+http://ott.dugatv.me/ch386/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", BOLLYWOOD HD
+http://ott.dugatv.me/ch383/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", BOLLYWOOD 
+http://ott.dugatv.me/ch385/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Фильмовые"  tvg-rec="3" timeshift="3", Ameia Premium
+http://ott.dugatv.me/ch0197/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", ТНТ4
+http://ott.dugatv.me/ch00050/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", КВН ТВ
+http://ott.dugatv.me/ch00051/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Paramount Comedy
+http://ott.dugatv.me/ch00054/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Paramount Comedy HD
+http://ott.dugatv.me/ch00052/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", MTV
+http://ott.dugatv.me/ch00057/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", MTV HD
+http://ott.dugatv.me/ch00055/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", 2x2
+http://ott.dugatv.me/ch00058/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Телекафе
+http://ott.dugatv.me/ch00059/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Кухня ТВ
+http://ott.dugatv.me/ch00060/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", TLC
+http://ott.dugatv.me/ch00063/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Ностальгия
+http://ott.dugatv.me/ch00064/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Живи!
+http://ott.dugatv.me/ch00065/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Сарафан
+http://ott.dugatv.me/ch00066/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Жара 
+http://ott.dugatv.me/ch00069/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Жара HD
+http://ott.dugatv.me/ch00067/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", World Fashion Channel 
+http://ott.dugatv.me/ch00072/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", World Fashion Channel HD
+http://ott.dugatv.me/ch00070/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", 360
+http://ott.dugatv.me/ch00102/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Супер
+http://ott.dugatv.me/ch0261/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Бобер
+http://ott.dugatv.me/ch00104/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", АНЕКДОТ ТВ
+http://ott.dugatv.me/ch00105/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", ВОСТОК ТВ 
+http://ott.dugatv.me/ch00106/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Точка_отрыва
+http://ott.dugatv.me/ch00110/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Развлекательные"  tvg-rec="3" timeshift="3", Ключ TV
+http://ott.dugatv.me/ch00111/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", National Geographic
+http://ott.dugatv.me/ch00114/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", National Geographic HD
+http://ott.dugatv.me/ch00112/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Animal Planet
+http://ott.dugatv.me/ch00117/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Animal Planet HD
+http://ott.dugatv.me/ch00115/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Discovery Channel
+http://ott.dugatv.me/ch00120/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Discovery Science HD
+http://ott.dugatv.me/ch00121/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Discovery Channel HD
+http://ott.dugatv.me/ch00118/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Nat Geo Wild
+http://ott.dugatv.me/ch00126/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Nat Geo Wild HD
+http://ott.dugatv.me/ch00124/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Моя планета
+http://ott.dugatv.me/ch00127/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Travel Adventure
+http://ott.dugatv.me/ch00130/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Travel Adventure HD
+http://ott.dugatv.me/ch00128/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Наука 2.0
+http://ott.dugatv.me/ch00131/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Da Vinci Learning
+http://ott.dugatv.me/ch449/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat History
+http://ott.dugatv.me/ch00133/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat Explore HD
+http://ott.dugatv.me/ch00148/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Охота и рыбалка
+http://ott.dugatv.me/ch288/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Охотник и рыболов HD
+http://ott.dugatv.me/ch00136/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Охотник и рыболов
+http://ott.dugatv.me/ch00138/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Дикая охота HD
+http://ott.dugatv.me/ch00165/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Загородная жизнь 
+http://ott.dugatv.me/ch00141/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Загородная жизнь HD
+http://ott.dugatv.me/ch00139/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Мама
+http://ott.dugatv.me/ch00142/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", English Club TV
+http://ott.dugatv.me/ch0018/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat Nature
+http://ott.dugatv.me/ch00146/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat Nature HD
+http://ott.dugatv.me/ch00144/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat Explore
+http://ott.dugatv.me/ch00150/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Viasat History HD
+http://ott.dugatv.me/ch00134/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", История
+http://ott.dugatv.me/ch00147/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Живая планета
+http://ott.dugatv.me/ch00151/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Оружие
+http://ott.dugatv.me/ch00155/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Дикая охота
+http://ott.dugatv.me/ch00167/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Дикий
+http://ott.dugatv.me/ch268/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", RTG
+http://ott.dugatv.me/ch00158/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Поехали! 
+http://ott.dugatv.me/ch00161/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Познавательные"  tvg-rec="3" timeshift="3", Поехали! HD
+http://ott.dugatv.me/ch00159/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Eurosport 1
+http://ott.dugatv.me/ch00170/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Eurosport 1 HD
+http://ott.dugatv.me/ch00168/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Eurosport 2
+http://ott.dugatv.me/ch00173/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Eurosport 2 HD
+http://ott.dugatv.me/ch00172/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Eurosport Gold HD
+http://ott.dugatv.me/ch0209/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", EUROSPORT 4K
+http://ott.dugatv.me/ch0217/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! ТВ HD
+http://ott.dugatv.me/ch0006/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Футбол 1 HD
+http://ott.dugatv.me/ch00191/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Футбол 2 HD
+http://ott.dugatv.me/ch00194/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Русский роман HD
+http://ott.dugatv.me/ch0250/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч_Страна
+http://ott.dugatv.me/ch278/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! ТВ
+http://ott.dugatv.me/ch0008/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Премьер HD
+http://ott.dugatv.me/ch00174/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Премьер
+http://ott.dugatv.me/ch00176/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Боец
+http://ott.dugatv.me/ch00177/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Арена HD
+http://ott.dugatv.me/ch00182/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Арена
+http://ott.dugatv.me/ch00184/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Игра HD
+http://ott.dugatv.me/ch00188/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Игра 
+http://ott.dugatv.me/ch00190/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Футбол 1 
+http://ott.dugatv.me/ch00193/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Матч! Футбол 2
+http://ott.dugatv.me/ch00196/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Авто плюс
+http://ott.dugatv.me/ch00178/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Авто24
+http://ott.dugatv.me/ch00181/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", АВТО24 HD
+http://ott.dugatv.me/ch00179/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Моторспорт ТВ 
+http://ott.dugatv.me/ch00187/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", M-1 Global
+http://ott.dugatv.me/ch00197/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", КХЛ
+http://ott.dugatv.me/ch0200/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", КХЛ HD
+http://ott.dugatv.me/ch00198/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Viasat Sport HD
+http://ott.dugatv.me/ch0201/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Русский экстрим
+http://ott.dugatv.me/ch0204/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Драйв
+http://ott.dugatv.me/ch0205/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", UFC HD
+http://ott.dugatv.me/ch0206/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Футбол
+http://ott.dugatv.me/ch0214/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Футбол HD
+http://ott.dugatv.me/ch0212/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Russian Extreme Ultra
+http://ott.dugatv.me/ch0218/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Extreme Sport
+http://ott.dugatv.me/ch218/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", Extreme Sports
+http://ott.dugatv.me/ch0215/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Спортивные"  tvg-rec="3" timeshift="3", МИР БАСКЕТБОЛА
+http://ott.dugatv.me/ch0216/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", TIJI
+http://ott.dugatv.me/ch430/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Nick Jr
+http://ott.dugatv.me/ch433/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Nickelodeon
+http://ott.dugatv.me/ch431/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Nickelodeon HD
+http://ott.dugatv.me/ch432/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Cartoon Network
+http://ott.dugatv.me/ch434/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Cartoon Network HD
+http://ott.dugatv.me/ch435/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", JIMJAM
+http://ott.dugatv.me/ch436/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Детский
+http://ott.dugatv.me/ch437/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", МУЛЬТ
+http://ott.dugatv.me/ch438/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Guli Girl
+http://ott.dugatv.me/ch221/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", О!
+http://ott.dugatv.me/ch440/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", BabyTV
+http://ott.dugatv.me/ch441/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", BOOMERANG
+http://ott.dugatv.me/ch442/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Радость моя
+http://ott.dugatv.me/ch443/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Мультимания
+http://ott.dugatv.me/ch451/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Тлум HD
+http://ott.dugatv.me/ch445/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Discovery Channel
+http://ott.dugatv.me/ch00120/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Discovery Channel HD
+http://ott.dugatv.me/ch00118/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Детский мир
+http://ott.dugatv.me/ch447/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", В Гостях у сказки
+http://ott.dugatv.me/ch448/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", A1 HD
+http://ott.dugatv.me/ch0286/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", Da Vinci Learning
+http://ott.dugatv.me/ch449/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", МАЛЫШ ТВ
+http://ott.dugatv.me/ch450/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Детские"  tvg-rec="3" timeshift="3", СТС Kids
+http://ott.dugatv.me/ch452/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", RU TV
+http://ott.dugatv.me/ch480/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", RU TV HD
+http://ott.dugatv.me/ch481/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Ля-минор
+http://ott.dugatv.me/ch482/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", ТНТ Music
+http://ott.dugatv.me/ch483/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Bridge-Tv
+http://ott.dugatv.me/ch487/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Bridge Tv Clasic
+http://ott.dugatv.me/ch485/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Bridge TV Hits
+http://ott.dugatv.me/ch498/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Bridge TV Русский Хит
+http://ott.dugatv.me/ch484/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Europa Plus TV
+http://ott.dugatv.me/ch486/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Mezzo
+http://ott.dugatv.me/ch488/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Mezzo Live HD
+http://ott.dugatv.me/ch489/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Shant music HD
+http://ott.dugatv.me/ch490/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Clubbing TV HD
+http://ott.dugatv.me/ch491/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", VH1 European
+http://ott.dugatv.me/ch492/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", VH1 Classic
+http://ott.dugatv.me/ch497/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV
+http://ott.dugatv.me/ch00057/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV HD
+http://ott.dugatv.me/ch00055/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV Hits
+http://ott.dugatv.me/ch495/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV Rock
+http://ott.dugatv.me/ch496/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", TMTV
+http://ott.dugatv.me/ch247/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV Dance
+http://ott.dugatv.me/ch494/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", MTV Live HD
+http://ott.dugatv.me/ch501/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Музыка Первого
+http://ott.dugatv.me/ch500/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", МУЗ ТВ
+http://ott.dugatv.me/ch00029/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", Мультимузыка
+http://ott.dugatv.me/ch444/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Музыкальные"  tvg-rec="3" timeshift="3", AIVA HD
+http://ott.dugatv.me/ch499/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", Евроновости
+http://ott.dugatv.me/ch550/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", РБК
+http://ott.dugatv.me/ch551/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", France 24 HD
+http://ott.dugatv.me/ch552/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", Russia Today
+http://ott.dugatv.me/ch553/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", CNN International
+http://ott.dugatv.me/ch554/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", Мир 24
+http://ott.dugatv.me/ch555/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", Известия HD
+http://ott.dugatv.me/ch556/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", BBC World News
+http://ott.dugatv.me/ch557/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", ЛДПР ТВ
+http://ott.dugatv.me/ch558/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", 360 НОВОСТИ HD
+http://ott.dugatv.me/ch559/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Информационные"  tvg-rec="3" timeshift="3", Первый Российский Национальный канал HD
+http://ott.dugatv.me/ch560/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эротические"  tvg-rec="3" timeshift="3", Babes TV HD
+http://ott.dugatv.me/ch600/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эротические"  tvg-rec="3" timeshift="3", Brazzers TV Europe
+http://ott.dugatv.me/ch601/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эротические"  tvg-rec="3" timeshift="3", Exxxotica HD
+http://ott.dugatv.me/ch602/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эротические"  tvg-rec="3" timeshift="3", O-la-la
+http://ott.dugatv.me/ch603/video.m3u8?token=KIZqoLR8y3
+#EXTINF:-1 group-title="Эротические"  tvg-rec="3" timeshift="3", Русская ночь
+http://ott.dugatv.me/ch604/video.m3u8?token=KIZqoLR8y3

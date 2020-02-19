@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1, TV3 LT
+https://cdn7.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1, TV6 LT
+https://cdn7.tvplayhome.lt/live/eds/TV6_LT_HD/HLS_encr/TV6_LT_HD.m3u8
+#EXTINF:-1, TV8 LT
+https://cdn7.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1, LRT Televizija
+https://cdn7.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT.m3u8
+#EXTINF:-1, LNK
+https://cdn7.tvplayhome.lt/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1, Lietuvos rytas TV
+https://cdn7.tvplayhome.lt/live/eds/Lietuvos_Ryto_TV/HLS_encr/Lietuvos_Ryto_TV.m3u8
+#EXTINF:-1, Info TV
+https://cdn7.tvplayhome.lt/live/eds/InfoTV/HLS_encr/InfoTV.m3u8
+#EXTINF:-1, LRT Plius
+https://cdn7.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/LRTKultura.m3u8
+#EXTINF:-1, Nick Junior
+https://cdn7.tvplayhome.lt/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
+#EXTINF:-1, TV3 Film
+https://cdn7.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1, TV1000 Action
+https://cdn7.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1, TV1000 Ruskoje kino
+https://cdn7.tvplayhome.lt/live/eds/TV1000_rus_kino_SD/HLS_encr/TV1000_rus_kino_SD.m3u8
+#EXTINF:-1, FOX LT
+https://cdn7.tvplayhome.lt/live/eds/FOX_LT/HLS_encr/FOX_LT.m3u8
+#EXTINF:-1, TV1000
+https://cdn7.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1, Viasat Explore
+https://cdn7.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/ViasatExploreHD.m3u8
+#EXTINF:-1, Viasat History
+https://cdn7.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8
+#EXTINF:-1, Viasat Nature
+https://cdn7.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1, NatioNAL Geographic
+https://cdn7.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1, Ohota y Ribalka 
+https://cdn7.tvplayhome.lt/live/eds/Ohota_i_Ribalka/HLS_encr/Ohota_i_Ribalka.m3u8
+#EXTINF:-1, BBC World News
+https://cdn7.tvplayhome.lt/live/eds/BBC/HLS_encr/BBC.m3u8
+#EXTINF:-1, MTV Hits
+https://cdn7.tvplayhome.lt/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
+#EXTINF:-1, My Hits
+https://cdn7.tvplayhome.lt/live/eds/My_Hits/HLS_encr/My_Hits.m3u8
+#EXTINF:-1, Ren TV Baltic LT
+https://cdn7.tvplayhome.lt/live/eds/Ren_TV_LT/HLS_encr/Ren_TV_LT.m3u8
+#EXTINF:-1, NTV Mir Baltic LT
+https://cdn7.tvplayhome.lt/live/eds/NTV_Mir_Baltic_LT/HLS_encr/NTV_Mir_Baltic_LT.m3u8
+#EXTINF:-1, CTC Baltija
+https://cdn7.tvplayhome.lt/live/eds/CTCBaltics/HLS_encr/CTCBaltics.m3u8
+#EXTINF:-1, TV3 Sport
+https://cdn7.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD.m3u8
+#EXTINF:-1, TV3 Sport 2
+https://cdn7.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD.m3u8
+#EXTINF:-1, Fight sport
+https://cdn7.tvplayhome.lt/live/eds/FightSportHD/HLS_encr/FightSportHD.m3u8
+#EXTINF:-1, Sport 1
+https://cdn7.tvplayhome.lt/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:-1, Esports
+https://cdn7.tvplayhome.lt/live/eds/EsportHD/HLS_encr/EsportHD.m3u8
+#EXTINF:-1, Nickelodeon LT
+https://cdn7.tvplayhome.lt/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8

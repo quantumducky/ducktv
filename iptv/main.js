@@ -102,14 +102,14 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  // const ignoreCategories = ["LT", "Sportas", "Dokumentika"];
+  const ignoreCategories = ["LT", "Filmai", "Dokumentika"];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {
-    // if (ignoreCategories.includes(category)) {
-    //   console.log(`Skipping category '${category}'`);
-    //   continue;
-    // }
+    if (ignoreCategories.includes(category)) {
+      console.log(`Skipping category '${category}'`);
+      continue;
+    }
     foundChannels[category] = [];
     for (let channel of channelsToSearch[category]) {
       let foundUrls = [];

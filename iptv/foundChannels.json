@@ -1,919 +1,4 @@
 {
-  "LT": [
-    {
-      "id": "lrt",
-      "name": "LRT",
-      "logo": "lrt.png",
-      "terms": [
-        "LRT",
-        "LRT televizija",
-        "LRT Televizija (LT)"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/LRT/HLS_encr/LRT.m3u8",
-        "http://88.119.220.3/live/eds/LRT/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/LRT/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/LRT/HLS_encr/LRT.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/106/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lrt_hd",
-      "name": "LRT HD",
-      "logo": "lrt.png",
-      "terms": [
-        "LRT HD",
-        "LRT TELEVIZIJA HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/110/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lrt_plius",
-      "name": "LRT Plius",
-      "logo": "lrt_plius.png",
-      "terms": [
-        "LRT Plius",
-        "LRT PLIUS",
-        "LRT KULTŪRA"
-      ],
-      "urls": [
-        "http://cdn1.tvplayhome.lt/live/eds/LRTKultura/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/107/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lrt_plius_hd",
-      "name": "LRT Plius HD",
-      "logo": "lrt_plius.png",
-      "terms": [
-        "LRT Plius HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/109/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lrt_lituanica",
-      "name": "LRT Lituanica",
-      "logo": "lrt_lituanica.png",
-      "terms": [
-        "LRT Lithuania",
-        "LRT_Lithuania",
-        "LRT Lithuanica",
-        "LRT Lituanica"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/LRT_Lithuania/HLS_encr/LRT_Lithuania.m3u8",
-        "http://iptvnelt.com/kanalas/159/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv3",
-      "name": "TV3",
-      "logo": "tv3.png",
-      "terms": [
-        "TV3",
-        "TV3 LT HD",
-        "TV3_LT_HD"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8",
-        "http://88.119.220.3/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8",
-        "http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/82/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv3_hd",
-      "name": "TV3 HD",
-      "logo": "tv3.png",
-      "terms": [
-        "TV3 HD",
-        "tv3",
-        "TV3 LT SD",
-        "TV3 Lietuva",
-        "TV3 LT"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/tv3/index.m3u8",
-        "http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8",
-        "http://213.252.252.17/live/eds/TV3_LT_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV3_LT_SD/HLS_encr/TV3_LT_SD.m3u8",
-        "http://iptvnelt.com/kanalas/132/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lnk",
-      "name": "LNK",
-      "logo": "lnk.png",
-      "terms": [
-        "LNK",
-        "lnk",
-        "LNK LT"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/LNK/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/LNK/HLS_encr/LNK.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/LNK/HLS_encr/index.m3u8",
-        "http://84.32.72.60:8080/lnk/index.m3u8",
-        "http://213.252.252.17/live/eds/LNK/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8",
-        "http://iptvnelt.com/kanalas/77/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lnk_hd",
-      "name": "LNK HD",
-      "logo": "lnk.png",
-      "terms": [
-        "LNK HD"
-      ],
-      "urls": []
-    },
-    {
-      "id": "btv",
-      "name": "BTV",
-      "logo": "btv.png",
-      "terms": [
-        "BTV"
-      ],
-      "urls": [
-        "http://77.89.199.174:8000/play/1024/index.m3u8",
-        "http://iptvnelt.com/kanalas/81/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "btv_hd",
-      "name": "BTV HD",
-      "logo": "btv.png",
-      "terms": [
-        "BTV HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/256/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv6",
-      "name": "TV6",
-      "logo": "tv6.png",
-      "terms": [
-        "TV6 Lietuva",
-        "TV6",
-        "TV6 LT",
-        "tv6",
-        "TV6 (LT)"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8",
-        "http://84.32.72.60:8080/tv6/index.m3u8",
-        "http://88.119.220.3/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8",
-        "http://iptvnelt.com/kanalas/83/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv6_hd",
-      "name": "TV6 HD",
-      "logo": "tv6.png",
-      "terms": [
-        "TV6 HD",
-        "tv6hd HD"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/tv6hd/index.m3u8",
-        "http://iptvnelt.com/kanalas/179/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "lrytas",
-      "name": "LRytas TV",
-      "logo": "lrytas.png",
-      "terms": [
-        "lietuvos_ryto_tv",
-        "Lietuvos rytas TV"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/lietuvos_ryto_tv/index.m3u8"
-      ]
-    },
-    {
-      "id": "lrytas_hd",
-      "name": "LRytas TV HD",
-      "logo": "lrytas.png",
-      "terms": [
-        "Lietuvos_rytas HD",
-        "Lrytas TV HD",
-        "LRytas HD"
-      ],
-      "urls": []
-    },
-    {
-      "id": "tv1",
-      "name": "TV1",
-      "logo": "tv1.png",
-      "terms": [
-        "TV1",
-        "tv1",
-        "TV1 (LT)"
-      ],
-      "urls": [
-        "http://212.52.59.86:8776/play/a02d/index.m3u8",
-        "http://84.32.72.60:8080/tv1/index.m3u8",
-        "http://iptvnelt.com/kanalas/78/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv1_hd",
-      "name": "TV1 HD",
-      "logo": "tv1.png",
-      "terms": [
-        "TV1 HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/257/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv8",
-      "name": "TV8",
-      "logo": "tv8.png",
-      "terms": [
-        "TV8 Lietuva",
-        "TV8",
-        "tv8",
-        "TV8 LT"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
-        "http://84.32.72.60:8080/tv8/index.m3u8",
-        "http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8",
-        "http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8",
-        "http://live.cdn.tv8.md/TV7/tracks-v2a1/mono.m3u8",
-        "http://live.cdn.tv8.md/TV7/tracks-v1a1/mono.m3u8?token=1",
-        "http://iptvnelt.com/kanalas/101/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv8_hd",
-      "name": "TV8 HD",
-      "logo": "tv8.png",
-      "terms": [
-        "TV8 HD"
-      ],
-      "urls": [
-        "http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8",
-        "http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2286/index.m3u8"
-      ]
-    },
-    {
-      "id": "info_tv",
-      "name": "Info TV",
-      "logo": "info_tv.png",
-      "terms": [
-        "Info TV",
-        "INFO TV",
-        "InfoTV"
-      ],
-      "urls": [
-        "http://cdn1.tvplayhome.lt/live/eds/InfoTV/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/79/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "info_tv_hd",
-      "name": "Info TV HD",
-      "logo": "info_tv.png",
-      "terms": [
-        "Info TV HD",
-        "InfoTV HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/258/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tavo_tv",
-      "name": "Tavo TV HD",
-      "logo": "tavo_tv.png",
-      "terms": [
-        "TavoTV HD",
-        "TAVOTV HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/293/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "init_tv",
-      "name": "Init TV",
-      "logo": "init_tv.png",
-      "terms": [
-        "Init TV HD",
-        "Init",
-        "Init TV",
-        "INIT TV HD"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/155/hls/4WT1bzMG/?type=m3u8",
-        "http://iptvnelt.com/kanalas/13/hls/4WT1bzMG/?type=m3u8"
-      ]
-    }
-  ],
-  "Filmai": [
-    {
-      "id": "tv3_film",
-      "name": "TV3 Film",
-      "logo": "tv3_film.png",
-      "terms": [
-        "TV1000 Premium",
-        "TV3 Film (TV1000 Premium)",
-        "TV 3 Film"
-      ],
-      "urls": [
-        "http://88.119.220.2/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8",
-        "http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
-        "http://88.119.220.3/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8",
-        "http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8",
-        "http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/103/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv3_film_hd",
-      "name": "TV3 Film HD",
-      "logo": "tv3_film.png",
-      "terms": [
-        "TV1000 Premium HD",
-        "TV1000 Premium HD (720)",
-        "TV3 Film HD (TV1000 Premium HD)",
-        "TV 3 Film HD"
-      ],
-      "urls": [
-        "http://91.211.132.25/hls/127/stream.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/178/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "balticum",
-      "name": "Balticum TV",
-      "logo": "balticum.png",
-      "terms": [
-        "Balticum TV"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/12/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "balticum_auksinis",
-      "name": "Balticum Auksinis",
-      "logo": "balticum_auksinis.png",
-      "terms": [
-        "Balticum Auksinis",
-        "Auksinis Balticum",
-        "balticum_auksinis"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/balticum_auksinis/index.m3u8",
-        "http://iptvnelt.com/kanalas/3/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "balticum_platinum_hd",
-      "name": "Balticum Platinum HD",
-      "logo": "balticum_platinum.png",
-      "terms": [
-        "Balticum Platinum HD",
-        "balticumplatinumhd HD",
-        "Balticum Platinum"
-      ],
-      "urls": [
-        "http://iptvnelt.com/kanalas/421/hls/4WT1bzMG/?type=m3u8",
-        "http://iptvnelt.com/kanalas/1/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "tv1000",
-      "name": "TV1000",
-      "logo": "tv1000.png",
-      "terms": [
-        "TV1000",
-        "tv1000"
-      ],
-      "urls": [
-        "http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8",
-        "http://185.176.117.243/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8",
-        "http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8",
-        "http://88.119.220.3/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8",
-        "http://178.124.183.12/hls/6WMZMUEWGN/bw2000000/playlist.m3u8",
-        "http://178.124.183.14/hls/6WMZMUEWGN/bw1200000/playlist.m3u8",
-        "http://88.119.220.3/live/eds/TV1000_SD/HLS_encr/index.m3u8",
-        "http://84.32.72.60:8080/tv1000/index.m3u8",
-        "http://88.119.220.2/live/eds/TV1000_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8",
-        "http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/index.m3u8",
-        "http://188.35.9.5:10020/stolen/484c/hot.dll",
-        "http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2",
-        "http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8",
-        "http://212.112.101.69:8081/stream56/output.m3u8",
-        "http://46.181.116.168:81/udp/239.255.42.49:1234",
-        "http://158.46.88.95:4022/udp/239.255.42.49:1234",
-        "http://cdn1.tvplayhome.lt/live/eds/TV1000_SD/HLS_encr/index.m3u8",
-        "http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/132/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000/variant.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59444.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32599.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32776.ts",
-        "http://178.124.183.5/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2",
-        "http://iptvnelt.com/kanalas/50/hls/4WT1bzMG/?type=m3u8",
-        "http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd",
-        "http://54.38.180.196/play/82/2D6E866C992891C/video.m3u8"
-      ]
-    },
-    {
-      "id": "tv1000_hd",
-      "name": "TV1000 HD",
-      "logo": "tv1000.png",
-      "terms": [
-        "TV1000 HD",
-        "TV1000 HD (720)"
-      ],
-      "urls": [
-        "http://54.38.180.196/play/488/2D6E866C992891C/video.m3u8"
-      ]
-    },
-    {
-      "id": "tv1000_action",
-      "name": "TV1000 Action",
-      "logo": "tv1000_action.png",
-      "terms": [
-        "TV1000 Action",
-        "a_TV1000 Action",
-        "TV1000 ACTION",
-        "tv1000action"
-      ],
-      "urls": [
-        "http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8",
-        "http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8",
-        "http://178.124.183.14/hls/9X9NUEEKGW/bw1200000/playlist.m3u8",
-        "http://185.176.117.243/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8",
-        "http://88.119.220.2/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8",
-        "http://88.119.220.3/live/eds/TV1000_action_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8",
-        "http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/TV1000_action_SD/HLS_encr/index.m3u8",
-        "http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8",
-        "http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2",
-        "http://212.112.101.69:8081/stream58/output.m3u8",
-        "http://ott-cdn.ucom.am/s91/index.m3u8",
-        "http://92.43.140.204/s91/04.m3u8",
-        "http://46.181.116.168:81/udp/239.255.42.46:1234",
-        "http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd",
-        "http://54.38.180.196/play/83/2D6E866C992891C/video.m3u8",
-        "http://iptvnelt.com/kanalas/51/hls/4WT1bzMG/?type=m3u8",
-        "http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/131/index.m3u8"
-      ]
-    },
-    {
-      "id": "tv1000_action_hd",
-      "name": "TV1000 Action HD",
-      "logo": "tv1000_action.png",
-      "terms": [
-        "TV1000 Action HD",
-        "TV1000 ACTION [FHD]",
-        "TV1000 ACTION HD"
-      ],
-      "urls": [
-        "http://31.41.96.176:81/udp/225.0.56.76:1234",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_TV1000ACTIONHD/variant.m3u8",
-        "http://54.38.180.196/play/487/2D6E866C992891C/video.m3u8"
-      ]
-    },
-    {
-      "id": "vip_comedy",
-      "name": "VIP Comedy",
-      "logo": "vip_comedy.png",
-      "terms": [
-        "VIP COMEDY",
-        "ViP Comedy",
-        "Vip Comedy"
-      ],
-      "urls": [
-        "http://ott-cdn.ucom.am/s97/03.m3u8",
-        "http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd",
-        "http://ott-cdn.ucom.am/s97/index.m3u8",
-        "http://ott-cdn.ucom.am/s97/01.m3u8",
-        "http://iptvnelt.com/kanalas/133/hls/4WT1bzMG/?type=m3u8",
-        "http://54.38.180.196/play/194/2D6E866C992891C/video.m3u8",
-        "http://ott-cdn.ucom.am/s97/04.m3u8",
-        "http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8"
-      ]
-    },
-    {
-      "id": "vip_comedy_hd",
-      "name": "VIP Comedy HD",
-      "logo": "vip_comedy.png",
-      "terms": [
-        "VIP Comedy HD",
-        "ViP Comedy HD",
-        "VIP COMEDY [FHD]",
-        "ViP Comedy HD PREMIUM+",
-        "ViP COMEDY HD"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8",
-        "http://31.41.96.176:81/udp/225.0.56.14:1234",
-        "http://50.7.244.58:8080/vip_comedy_hd/mono.m3u8",
-        "http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/201.m3u8",
-        "http://tv545.com/stream/3znj4KV/channel/208.m3u8"
-      ]
-    },
-    {
-      "id": "vip_megahit",
-      "name": "VIP Megahit",
-      "logo": "vip_megahit.png",
-      "terms": [
-        "ViP Megahit",
-        "VIP Megahit",
-        "VIP MEGAHIT"
-      ],
-      "urls": [
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/201/index.m3u8",
-        "http://212.29.231.242:8080/btv_201/index.m3u8",
-        "http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/201/index.m3u8",
-        "http://188.35.9.11:2016",
-        "http://188.35.9.10:2016",
-        "http://50.7.244.58:8080/vip_megahit_hd/mpegts",
-        "http://78.157.230.19/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8",
-        "http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/201/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/201/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/201/index.m3u",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/201/index.m3u",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/201/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/201/index.m3u8",
-        "http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd",
-        "http://54.38.180.196/play/195/2D6E866C992891C/video.m3u8"
-      ]
-    },
-    {
-      "id": "vip_megahit_hd",
-      "name": "VIP Megahit HD",
-      "logo": "vip_megahit.png",
-      "terms": [
-        "VIP Megahit HD",
-        "ViP Megahit HD",
-        "ViP Megahit HD PREMIUM+",
-        "ViP MEGAHIT HD"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000MEGAHITHD/variant.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/200.m3u8",
-        "http://tv545.com/stream/3znj4KV/channel/210.m3u8"
-      ]
-    },
-    {
-      "id": "vip_premiere",
-      "name": "VIP Premiere",
-      "logo": "vip_premiere.png",
-      "terms": [
-        "ViP Premiere",
-        "VIP Premiere",
-        "VIP PREMIERE",
-        "Vip Premiere"
-      ],
-      "urls": [
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/202/index.m3u",
-        "http://hls.trinity-tv.net/stream/7nuf6wzjvh27uviqijvaya3yf67ga7adtp5twz9fkjdy8ey9vyrpekvmmsjz6tqaq49kwge2m9nxx8rvpj6fgue3s3niz5trqeur4crgu2vcxi5tdtdimtwmzviim62ikbe766y9utpxy7eje3zdq===.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/202/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/202/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/202/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/202/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/202/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/202/index.m3u8",
-        "http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd",
-        "http://188.35.9.10:2013",
-        "http://188.35.9.11:2013",
-        "http://50.7.244.58:8080/vip_premiere_hd/mpegts",
-        "http://50.7.244.58:8080/vip_premiere_hd/mono.m3u8",
-        "http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8",
-        "http://54.38.180.196/play/196/2D6E866C992891C/video.m3u8",
-        "http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8"
-      ]
-    },
-    {
-      "id": "vip_premiere_hd",
-      "name": "VIP Premiere HD",
-      "logo": "vip_premiere.png",
-      "terms": [
-        "ViP Premiere HD",
-        "VIP Premiere HD",
-        "ViP Premiere HD PREMIUM+",
-        "ViP PREMIERE HD"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_TV1000PREMIUMHD/variant.m3u8",
-        "http://188.35.9.15:2013",
-        "http://myott.tv/stream/ANB1ZFMC9N/202.m3u8",
-        "http://iptvnelt.com/kanalas/328/hls/4WT1bzMG/?type=m3u8",
-        "http://hls.peers.tv/streaming/tv1000_premium_hd/16/copy/playlist.m3u8"
-      ]
-    },
-    {
-      "id": "amc",
-      "name": "AMC",
-      "logo": "amc.png",
-      "terms": [
-        "AMC"
-      ],
-      "urls": [
-        "http://c0.cdn.trinity-tv.net/stream/ksxcy7xzz9w32dhtpxqkyh4s9rbznvkxkc8xknger8nzu5247xgqvfwgvfvdie8rfzaqksacbuh4ny24vrnccvntdgvfgx478yjqwy6eg5cjk8q9n9jnkwnt89f7zujshhsivicx8m8833k5665vzzci.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1083/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/1083/index.m3u8",
-        "http://212.121.249.34:8080/amc/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/1083/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2192/index.m3u8",
-        "http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd",
-        "http://iptvnelt.com/kanalas/135/hls/4WT1bzMG/?type=m3u8",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=75"
-      ]
-    },
-    {
-      "id": "filmbox",
-      "name": "Filmbox",
-      "logo": "filmbox.png",
-      "terms": [
-        "Filmbox",
-        "FilmBox Baltic",
-        "filmbox_baltic",
-        "FilmBox",
-        "Filmbox Baltic"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/filmbox_baltic/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/948/index.m3u",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/948/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/948/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/948/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/948/index.m3u8",
-        "http://iptvnelt.com/kanalas/149/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "paramount_channel",
-      "name": "Paramount Channel",
-      "logo": "paramount_channel.png",
-      "terms": [
-        "Paramount Channel",
-        "PARAMOUNT CHANNEL",
-        "PARAMOUNT",
-        "Paramount"
-      ],
-      "urls": [
-        "http://188.35.9.26:2030/udp/039h",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2055/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/2055/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2055/index.m3u8",
-        "http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARAMOUNTCHANNEL/variant.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/2055/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32792.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31013.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58371.ts",
-        "http://paramount.live.flumotion.com/live/playlist.m3u8?fluxustv.m3u8",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=213"
-      ]
-    },
-    {
-      "id": "paramount_channel_hd",
-      "name": "Paramount Channel HD",
-      "logo": "paramount_channel.png",
-      "terms": [
-        "Paramount Channel HD",
-        "Paramount channel HD"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C02_PARAMOUNTCHANNELHD/variant.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "paramount_comedy",
-      "name": "Paramount Comedy",
-      "logo": "paramount_comedy.png",
-      "terms": [
-        "Paramount Comedy",
-        "PARAMOUNT COMEDY",
-        "Paramount Comedy Russia"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/157/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/157/index.m3u8",
-        "http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/157/index.m3u",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/157/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/157/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/157/index.m3u8",
-        "http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd",
-        "http://158.46.88.95:4022/udp/239.255.42.16:1234",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/157/index.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/196.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8",
-        "http://46.32.68.167/s/live/250/51.51.51.51/1/0.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/250/816951136/819088191919/0.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/8/0.m3u8"
-      ]
-    },
-    {
-      "id": "paramount_comedy_hd",
-      "name": "Paramount Comedy HD",
-      "logo": "paramount_comedy.png",
-      "terms": [
-        "Paramount Comedy",
-        "Paramount Comedy HD",
-        "Paramount comedy HD"
-      ],
-      "urls": [
-        "http://myott.tv/stream/ANB1ZFMC9N/196.m3u8",
-        "http://46.32.68.167/s/live/250/816951136/819088191919/0.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/250/86.169.51.136/0/0.m3u8",
-        "http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_PARAMOUNTCOMEDY/variant.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountcomedyhd&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "amedia_1",
-      "name": "Amedia 1",
-      "logo": "amedia_1.png",
-      "terms": [
-        "Amedia 1",
-        "Amedia 1 HD",
-        "AMEDIA 1"
-      ],
-      "urls": [
-        "http://46.32.68.167/s/live/208/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/208/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/208/86.169.51.136/0/0.m3u8",
-        "http://46.32.68.167/s/live/208/816951136/819088191919/0.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/554/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/554/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/554/index.m3u8",
-        "http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/554/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/554/index.m3u",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/554/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/554/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/554/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/554/index.m3u",
-        "http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd",
-        "http://92.43.140.249/s45/04.m3u8",
-        "http://54.38.180.196/play/267/2D6E866C992891C/video.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fa1hd&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "amedia_2",
-      "name": "Amedia 2",
-      "logo": "amedia_2.png",
-      "terms": [
-        "Amedia 2",
-        "Amedia 2 HD",
-        "AMEDIA 2"
-      ],
-      "urls": [
-        "http://178.124.183.150/hls/H4DP5GK3AE_HLS/bw1200000/playlist.m3u8",
-        "http://178.124.183.5/hls/H4DP5GK3AE_HLS/variant.m3u8?version=2",
-        "http://212.112.101.69:8081/stream49/output.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32623.ts",
-        "http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd",
-        "http://89.106.234.3/A2_36_37.m3u8",
-        "http://54.38.180.196/play/261/2D6E866C992891C/video.m3u8",
-        "https://sc.id-tv.kz/A2_38_39.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/510/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/510/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/510/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/510/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/510/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/510/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/510/index.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FA2HD&login=Martyn&key=CBxWefH",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/510/index.m3u",
-        "http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/510/index.m3u8"
-      ]
-    },
-    {
-      "id": "amedia_hit",
-      "name": "Amedia Hit",
-      "logo": "amedia_hit.png",
-      "terms": [
-        "Amedia Hit",
-        "Amedia hit HD",
-        "AMEDIA HIT",
-        "Amedia HIT",
-        "Amedia Hit HD",
-        "AMEDIA HIT HD"
-      ],
-      "urls": [
-        "http://178.163.18.154:4022/udp/234.0.0.169:2000",
-        "http://178.163.58.72:4022/udp/234.0.0.169:2000",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/556/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/556/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/556/index.m3u",
-        "http://217.25.216.4:8085/udp/238.2.18.120:1234",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/556/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/556/index.m3u",
-        "http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd",
-        "http://46.32.68.167/s/live/210/86.169.51.136/0/0.m3u8",
-        "http://46.32.68.167/s/live/210/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/210/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/210/816951136/819088191919/0.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/556/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/556/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/556/index.m3u8",
-        "http://54.38.180.196/play/632/2D6E866C992891C/video.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/162.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8",
-        "http://tv545.com/stream/PzDAvbQ/channel/200.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "amedia_premium",
-      "name": "Amedia Premium",
-      "logo": "amedia_premium.png",
-      "terms": [
-        "Amedia Premium",
-        "Amedia Premium HD",
-        "AMEDIA Premium HD",
-        "Amedia Premium HD (SD)",
-        "AMEDIA PREMIUM",
-        "Amedia premium",
-        "Amedia premium HD",
-        "AMEDIA PREMIUM HD"
-      ],
-      "urls": [
-        "http://46.32.68.167/s/live/211/86.169.51.136/1/0.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/555/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/229/index.m3u8",
-        "http://178.124.183.14:80/hls/CH_AMEDIAPREMIUM/variant.m3u8",
-        "http://92.43.140.249/s64/04.m3u8",
-        "http://46.32.68.167/s/live/211/86.169.51.136/0/0.m3u8",
-        "http://188.35.9.11:21031/udp/035c",
-        "http://46.32.68.167/s/live/211/86.169.51.136/8/0.m3u8",
-        "http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8",
-        "http://ott-cdn.ucom.am/s64/index.m3u8",
-        "http://178.163.58.72:4022/udp/234.0.0.209:2000",
-        "http://212.112.101.69:8081/stream46/output.m3u8",
-        "http://178.124.183.5/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2",
-        "http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/229/index.m3u8",
-        "http://OTT-cdn.ucom.am/s64/04.m3u8",
-        "http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAPREMIUMSD/variant.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/229/index.m3u",
-        "http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/229/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/229/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/229/index.m3u",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/229/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/555/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/229/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/555/index.m3u",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/229/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/555/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/555/index.m3u",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/555/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/555/index.m3u8",
-        "http://54.38.180.196/play/630/2D6E866C992891C/video.m3u8",
-        "http://54.38.180.196/play/187/2D6E866C992891C/video.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/151.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAHOMEOFHBO2HD&login=Martyn&key=CBxWefH"
-      ]
-    }
-  ],
   "Sportas": [
     {
       "id": "tv3_sport",
@@ -924,11 +9,12 @@
         "TVPlay Sports",
         "TV3 Sport (TVPlay Sports)",
         "TV3 SPORT 1",
-        "TV 3 SPORT 1"
+        "TV 3 SPORT 1",
+        "TV3 Sport [LT]"
       ],
       "urls": [
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58423.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58426.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58423.ts",
         "http://iptvnelt.com/kanalas/102/hls/4WT1bzMG/?type=m3u8"
       ]
     },
@@ -939,11 +25,14 @@
       "terms": [
         "TVPlay Sports HD",
         "TV3 Sport HD (TVPlay Sports HD)",
-        "TV Play Sports HD"
+        "TV Play Sports HD",
+        "TV3 Sport HD",
+        "TV3 Sport HD [LT]"
       ],
       "urls": [
-        "http://iptvnelt.com/kanalas/105/hls/4WT1bzMG/?type=m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FTVPlaySportsHD&login=Martyn&key=CBxWefH"
+        "http://cdn1.tvplayhome.lt/live/eds/ViasatSportBaltics_HD/HLS_encr/ViasatSportBaltics_HD-avc1_5500000=16-mp4a_96000_lit=11.m3u8",
+        "http://5.101.7.138:8816/play/TVPlaySportHD?auth=blhenko:blhenko",
+        "http://iptvnelt.com/kanalas/105/hls/4WT1bzMG/?type=m3u8"
       ]
     },
     {
@@ -956,11 +45,15 @@
         "TVPlay Sports+ HD",
         "TVPlay Sports + HD",
         "TVPlay Sports Plus HD",
-        "TV3 Sport 2 HD (TVPlay Sports +)"
+        "TV3 Sport 2 HD (TVPlay Sports +)",
+        "TV3 Sport2 HD",
+        "TV3 Sport 2 HD [LT]"
       ],
       "urls": [
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58424.ts",
+        "http://cdn1.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD-avc1_5000000=12-mp4a_96000_lit=3.m3u8",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58422.ts",
+        "http://5.101.7.138:8816/play/TVPlaySportsPlusHD?auth=blhenko:blhenko",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58424.ts",
         "http://iptvnelt.com/kanalas/214/hls/4WT1bzMG/?type=m3u8"
       ]
     },
@@ -975,19 +68,21 @@
       "urls": [
         "http://78.129.228.178/iptv/BACU6GGT7XNVQC/160/index.m3u8",
         "http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/160/index.m3u8",
+        "http://5.101.7.138:8816/play/a0jr?auth=blhenko:blhenko",
         "http://212.112.101.69:8081/stream55/output.m3u8",
         "http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8",
-        "http://158.46.88.95:4022/udp/239.255.42.57:1234",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/160/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/160/index.m3u8",
         "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/160/index.m3u",
+        "http://188.113.190.12/34/video.m3u8",
+        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/160/index.m3u8",
+        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/160/index.m3u8",
         "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/160/index.m3u",
+        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8",
         "http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/160/index.m3u8",
         "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/160/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATSPORT/variant.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/160/index.m3u8",
         "http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd",
-        "http://54.38.180.196/play/77/2D6E866C992891C/video.m3u8"
+        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/160/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/160/index.m3u8",
+        "http://ch01.spr24.net/106/mpegts?token=hiVi8EHiq86NZA"
       ]
     },
     {
@@ -1000,14 +95,16 @@
         "VIASAT SPORT HD"
       ],
       "urls": [
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/2007/index.m3u8",
         "http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8",
         "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/variant.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2007/index.m3u8",
+        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/2007/index.m3u8",
         "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2007/index.m3u8",
-        "http://54.38.180.196/play/198/2D6E866C992891C/video.m3u8",
-        "http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8"
+        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2007/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/2007/index.m3u8",
+        "http://5.101.7.138:8816/play/a0ae?auth=blhenko:blhenko",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58165.ts",
+        "http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8",
+        "http://s1.only4.tv/17106/video.m3u8?token=LnMt7V6gIB"
       ]
     },
     {
@@ -1019,35 +116,30 @@
         "EUROSPORT 1"
       ],
       "urls": [
-        "http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8",
         "http://195.162.90.141:8080/228ae58f824e7668c245ecb1e5c1c850",
-        "http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8",
-        "http://213.174.8.7:8000/play/15/index.m3u8",
-        "http://46.32.68.167/s/live/501/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/501/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/501/86.169.51.136/0/0.m3u8?version=2",
-        "http://46.32.68.167/s/live/501/51.51.51.51/1/0.m3u8",
-        "http://46.32.68.167/s/live/501/86.169.51.136/1/0.m3u8",
+        "http://178.165.68.39:7781/udp/239.2.1.66:1234",
         "http://78.129.228.178/iptv/FCU2M3ZSVTTVFR/141/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/141/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/141/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/141/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/141/index.m3u8",
         "http://78.129.228.178/iptv/BACU6GGT7XNVQC/141/index.m3u8",
+        "http://5.101.7.138:8816/play/a078?auth=blhenko:blhenko",
         "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/141/index.m3u8",
-        "http://50.7.244.58:8080/eurosport_1/mono.m3u8",
+        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/141/index.m3u",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/141/index.m3u8",
+        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/141/index.m3u8",
+        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/141/index.m3u8",
+        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/141/index.m3u",
         "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/141/index.m3u8",
-        "http://50.7.244.58:8080/eurosport_1/video.m3u8",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34567.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59016.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56944.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31277.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31004.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57545.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32018.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59016.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31277.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34567.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56944.ts",
+        "http://188.113.190.12/82/video.m3u8",
+        "http://iptvnelt.com/kanalas/44/hls/4WT1bzMG/?type=m3u8",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33411.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32814.ts",
-        "http://iptvnelt.com/kanalas/44/hls/4WT1bzMG/?type=m3u8",
+        "http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd",
         "https://46-166-139-148.livesports24.online/eurosport1ru.m3u8",
         "https://95-213-224-184.livesports24.online/eurosport1ru.m3u8"
       ]
@@ -1063,30 +155,30 @@
         "EUROSPORT 1 FHD 1080"
       ],
       "urls": [
-        "http://188.35.9.9:21081/udp/098t",
         "http://188.35.9.11:21081/udp/098t",
-        "http://109.171.45.81:81/udp/239.54.7.174:1224",
         "http://78.129.228.178/iptv/BACU6GGT7XNVQC/228/index.m3u8",
-        "http://109.171.6.220:81/udp/239.54.6.174:1224",
+        "http://5.101.7.138:8816/play/a02h?auth=blhenko:blhenko",
         "http://212.112.101.69:8081/stream44/output.m3u8",
-        "http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56579.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56776.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31430.ts",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/228/index.m3u",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/228/index.m3u",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56579.ts",
         "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/228/index.m3u8",
+        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/228/index.m3u",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts",
+        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/228/index.m3u",
         "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/228/index.m3u8",
         "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/228/index.m3u8",
+        "http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/228/index.m3u8",
+        "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/228/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/228/index.m3u8",
         "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/228/index.m3u8",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31218.ts",
         "http://iptvnelt.com/kanalas/24/hls/4WT1bzMG/?type=m3u8",
-        "http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/228/index.m3u8",
+        "http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8",
         "http://151.80.59.206/TV/FLASH-TV/n/mac/479.m3u8",
-        "http://303tv.net:8080/barissen12/24082019adpara/236",
         "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=Martyn&key=CBxWefH",
-        "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/228/index.m3u8"
+        "http://s1.only4.tv/26001/video.m3u8?token=LnMt7V6gIB",
+        "http://188.35.9.9:21081/udp/098t"
       ]
     },
     {
@@ -1100,27 +192,20 @@
       "urls": [
         "http://195.162.90.141:8080/440f706cdc90fc2a7b78e72a6d318ad9",
         "http://217.25.216.4:8085/udp/238.2.15.168:1234",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34667.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32484.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34667.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33412.ts",
+        "http://31.133.47.1:8800/eurosport_2",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32054.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34566.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58086.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58172.ts",
         "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31005.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32054.ts",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58086.ts",
+        "http://5.101.7.138:8816/play/a079?auth=blhenko:blhenko",
         "http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd",
-        "http://31.133.47.1:8800/eurosport_2",
-        "http://46.32.68.167/s/live/502/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/502/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8?version=2",
-        "http://46.32.68.167/s/live/502/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/502/86.169.51.136/0/0.m3u8",
-        "http://46.32.68.167/s/live/502/51.51.51.51/1/0.m3u8",
-        "http://46.32.68.167/s/live/502/816951136/819088191919/0.m3u8",
+        "https://46-166-139-148.livesports24.online/ruseurosport2.m3u8",
         "http://iptvnelt.com/kanalas/129/hls/4WT1bzMG/?type=m3u8",
-        "http://50.7.244.58:8080/eurosport_2/mono.m3u8",
-        "http://50.7.244.58:8080/eurosport_2/video.m3u8",
-        "http://54.38.180.196/play/43/2D6E866C992891C/video.m3u8"
+        "http://188.113.190.12/83/video.m3u8"
       ]
     },
     {
@@ -1135,17 +220,18 @@
       ],
       "urls": [
         "http://188.35.9.11:11089/e",
-        "http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/234/index.m3u8",
-        "http://91.211.132.25/hls/184/stream.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31219.ts",
+        "http://5.101.7.138:8816/play/a04b?auth=blhenko:blhenko",
         "http://92.46.127.146:8080/Eurosport2/index.m3u8",
-        "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31219.ts",
+        "http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/234/index.m3u8",
+        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts",
+        "http://myott.tv/stream/E4NBLH19Y5/192.m3u8",
         "http://iptvnelt.com/kanalas/23/hls/4WT1bzMG/?type=m3u8",
-        "http://54.38.180.196/play/361/2D6E866C992891C/video.m3u8",
+        "http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8",
         "http://151.80.59.206/TV/FLASH-TV/n/mac/480.m3u8",
+        "http://s1.only4.tv/17107/video.m3u8?token=LnMt7V6gIB",
         "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=Martyn&key=CBxWefH",
-        "http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8"
+        "http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8"
       ]
     },
     {
@@ -1156,17 +242,17 @@
         "Матч! Арена"
       ],
       "urls": [
-        "http://46.32.68.167/s/live/506/100.0.0.5/1/0.m3u8",
-        "http://46.32.68.167/s/live/506/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/506/86.169.51.136/2/0.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/528/index.m3u8",
         "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/528/index.m3u",
+        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/528/index.m3u8",
+        "http://5.101.7.138:8816/play/a06k?auth=blhenko:blhenko",
+        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/528/index.m3u8",
         "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/528/index.m3u8",
         "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/528/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/528/index.m3u8",
+        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/528/index.m3u8",
         "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/528/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/528/index.m3u8",
         "http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/528/index.m3u8"
+        "http://s1.only4.tv/1301/video.m3u8?token=LnMt7V6gIB"
       ]
     },
     {
@@ -1178,17 +264,17 @@
       ],
       "urls": [
         "http://78.129.228.178/iptv/BACU6GGT7XNVQC/529/index.m3u8",
-        "http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8",
         "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/529/index.m3u",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/529/index.m3u8",
         "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/529/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/529/index.m3u8",
+        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/529/index.m3u8",
+        "http://5.101.7.138:8816/play/a06l?auth=blhenko:blhenko",
+        "http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8",
+        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u",
         "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/529/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/529/index.m3u8",
+        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/529/index.m3u8",
         "http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd",
-        "http://46.32.68.167/s/live/507/100.0.0.5/1/0.m3u8",
-        "http://46.32.68.167/s/live/507/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/507/86.169.51.136/2/0.m3u8"
+        "http://s1.only4.tv/1303/video.m3u8?token=LnMt7V6gIB"
       ]
     },
     {
@@ -1200,587 +286,23 @@
         "Матч!"
       ],
       "urls": [
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/535/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/535/index.m3u",
         "http://195.162.90.141:8080/6f06899a7befdcc83504418f0cee90de",
-        "http://46.32.68.167/s/live/3/86.169.51.136/2/0.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/535/index.m3u",
+        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/535/index.m3u8",
         "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/535/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/535/index.m3u8",
-        "http://gorod.tv/s/live/3/ssiptv/0/0.m3u8",
+        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/535/index.m3u",
         "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/535/index.m3u8",
+        "http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/535/index.m3u8",
         "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/535/index.m3u8",
+        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/535/index.m3u",
+        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/535/index.m3u8",
+        "http://5.101.7.138:8816/play/a0aa?auth=blhenko:blhenko",
         "https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8",
-        "http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd",
-        "https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8",
         "http://rt-ct-tula-htlive-lb.cdn.ngenix.net/hls/CH_R04_ROSSIA2/variant.m3u8?version=2",
-        "http://dmitry-tv.ru/his/CH_MATCHTV.m3u8"
-      ]
-    }
-  ],
-  "Dokumentika": [
-    {
-      "id": "national_geographic",
-      "name": "National Geographic",
-      "logo": "national_geographic.png",
-      "terms": [
-        "National Geographic",
-        "National Geographic Channel",
-        "NATIONAL GEOGRAPHIC"
-      ],
-      "urls": [
-        "http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8",
-        "http://88.119.220.3/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8",
-        "http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8",
-        "http://178.124.183.14/hls/CH_NATGEO/bw1200000/playlist.m3u8",
-        "http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8",
-        "http://46.32.68.167/s/live/407/100.0.0.5/1/0.m3u8",
-        "http://188.35.9.11:21121/udp/127x",
-        "http://46.32.68.167/s/live/407/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/407/86.169.51.136/1/0.m3u8",
-        "http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2",
-        "http://46.32.68.167/s/live/407/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/407/51.51.51.51/1/0.m3u8",
-        "http://46.32.68.167/s/live/407/86.169.51.136/0/0.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_NATGEO/variant.m3u8",
-        "http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd",
-        "http://303tv.net:8080/barissen12/24082019adpara/184",
-        "http://iptvnelt.com/kanalas/39/hls/4WT1bzMG/?type=m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31947.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31250.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56485.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33713.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58155.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33448.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55803.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58774.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57128.ts",
-        "http://54.38.180.196/play/31/2D6E866C992891C/video.m3u8",
-        "http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8",
-        "http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8",
-        "http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=59"
-      ]
-    },
-    {
-      "id": "national_geographic_hd",
-      "name": "National Geographic HD",
-      "logo": "national_geographic.png",
-      "terms": [
-        "National Geographic HD",
-        "NATIONAL GEOGRAPHIC HD",
-        "NATIONAL GEOGRAPHIC HD (RU)"
-      ],
-      "urls": [
-        "http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/NatGeoHD/HLS_encr/index.m3u8",
-        "http://46.32.68.167/s/live/922/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/922/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/922/51.51.51.51/1/0.m3u8",
-        "http://37.235.254.189:81/udp/225.50.71.16:1234",
-        "http://188.35.9.11:21031/udp/034x",
-        "http://188.35.9.12:21031/udp/034x",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/230/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/230/index.m3u",
-        "http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/230/ndex.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/230/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/230/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/230/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/230/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/230/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30948.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57308.ts",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_NGCHD/variant.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/116.m3u8",
-        "http://54.38.180.196/play/143/2D6E866C992891C/video.m3u8",
-        "http://iptvnelt.com/kanalas/408/hls/4WT1bzMG/?type=m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNationalGeographicHD&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "nat_geo_wild",
-      "name": "Nat Geo Wild",
-      "logo": "nat_geo_wild.png",
-      "terms": [
-        "Nat Geo Wild",
-        "Nat Geo WILD",
-        "NAT GEO WILD"
-      ],
-      "urls": [
-        "http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8",
-        "http://178.124.183.14:80/hls/ESCMSBZJ8X/variant.m3u8",
-        "http://188.35.9.11:21121/udp/126z",
-        "http://188.35.9.12:21121/udp/126z",
-        "http://46.32.68.167/s/live/915/51.51.51.51/1/0.m3u8",
-        "http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/133/index.m3u8",
-        "http://46.32.68.167/s/live/915/86.169.51.136/8/0.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/133/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/133/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/133/index.m3u",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/133/index.m3u8",
-        "http://212.112.101.69:8081/stream47/output.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/133/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/133/index.m3u8",
-        "http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/133/index.m3u8",
-        "http://iptvnelt.com/kanalas/166/hls/4WT1bzMG/?type=m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57538.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32795.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33544.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33505.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56379.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31946.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32609.ts",
-        "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8",
-        "http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_wild/03.m3u8",
-        "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8"
-      ]
-    },
-    {
-      "id": "nat_geo_wild_hd",
-      "name": "Nat Geo Wild HD",
-      "logo": "nat_geo_wild.png",
-      "terms": [
-        "Nat Geo Wild HD",
-        "Nat Geo Wild HD (720)",
-        "NAT GEO WILD HD"
-      ],
-      "urls": [
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/216/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/216/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/216/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/216/index.m3u",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/216/index.m3u",
-        "http://46.32.68.167/s/live/915/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/915/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/915/86.169.51.136/0/0.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/216/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/216/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_NATGEOWILDHD/variant.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/149.m3u8",
-        "http://iptvnelt.com/kanalas/409/hls/4WT1bzMG/?type=m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30949.ts",
-        "http://54.38.180.196/play/162/2D6E866C992891C/video.m3u8",
-        "http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FNatGeoWildHD&login=Martyn&key=CBxWefH",
-        "http://188.35.9.8:21121/udp/126z"
-      ]
-    },
-    {
-      "id": "docubox_hd",
-      "name": "DocuBox HD",
-      "logo": "docubox.png",
-      "terms": [
-        "DocuBox HD",
-        "DocuBOX HD",
-        "Docubox",
-        "DocuBoxHD",
-        "docubox_hd HD",
-        "Docubox HD",
-        "DocuBox"
-      ],
-      "urls": [
-        "http://84.32.72.60:8080/docubox_hd/index.m3u8",
-        "http://31.41.96.176:81/udp/225.0.56.79:1234",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/968/index.m3u",
-        "http://myott.tv/stream/ANB1ZFMC9N/90.m3u8",
-        "http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/968/index.m3u",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/968/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/968/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/968/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/968/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/968/index.m3u8"
-      ]
-    },
-    {
-      "id": "ochota_i_rybalka",
-      "name": "Охота и Рыбалка",
-      "logo": "ochota_i_rybalka.png",
-      "terms": [
-        "Охота и рыбалка",
-        "ОХОТА И РЫБАЛКА",
-        "Охота и Рыбалка"
-      ],
-      "urls": [
-        "http://178.124.183.13/hls/VF5ELDF8AL/bw1200000/playlist.m3u8",
-        "http://178.163.12.60:4022/udp/234.0.0.230:2000",
-        "http://178.163.109.216:34040/udp/234.0.0.230:2000",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/2019/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2019/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/2019/index.m3u8",
-        "http://178.124.183.5/hls/VF5ELDF8AL/variant.m3u8?version=2",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_OHOTAIRYBALKS/variant.m3u8",
-        "http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd",
-        "http://178.124.183.5/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2",
-        "http://iptvnelt.com/kanalas/67/hls/4WT1bzMG/?type=m3u8",
-        "http://54.38.180.196/play/88/2D6E866C992891C/video.m3u8"
-      ]
-    },
-    {
-      "id": "animal_planet",
-      "name": "Animal Planet",
-      "logo": "animal_planet.png",
-      "terms": [
-        "Animal Planet",
-        "ANIMAL PLANET",
-        "Animal planet"
-      ],
-      "urls": [
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/137/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/137/index.m3u8",
-        "http://178.163.58.72:4022/udp/234.0.0.97:2000",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/137/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/137/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/137/index.m3u8",
-        "http://37.195.247.86:81/udp/239.1.5.3:1234",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_ANIMALPLANET/variant.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/137/index.m3u8",
-        "http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/137/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/137/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56508.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31268.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57089.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58234.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34641.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57559.ts",
-        "http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd",
-        "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8?fluxustv.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58974.ts",
-        "http://iptvnelt.com/kanalas/61/hls/4WT1bzMG/?type=m3u8",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=57"
-      ]
-    },
-    {
-      "id": "animal_planet_hd",
-      "name": "Animal Planet HD",
-      "logo": "animal_planet.png",
-      "terms": [
-        "Animal Planet HD",
-        "ANIMAL PLANET HD"
-      ],
-      "urls": [
-        "http://46.32.68.167/s/live/918/86.169.51.136/1/0.m3u8",
-        "http://46.32.68.167/s/live/918/86.169.51.136/0/0.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_ANIMALPLANETHD/variant.m3u8",
-        "http://46.32.68.167/s/live/918/51.51.51.51/1/0.m3u8",
-        "http://46.32.68.167/s/live/918/86.169.51.136/2/0.m3u8",
-        "http://46.32.68.167/s/live/918/86.169.51.136/8/0.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/218/index.m3u8",
-        "http://217.25.216.4:8085/udp/238.2.16.175:1234",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33522.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55696.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33330.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57189.ts",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/218/index.m3u",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/218/index.m3u",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/218/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/218/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/218/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/218/index.m3u8",
-        "http://iptvnelt.com/kanalas/21/hls/4WT1bzMG/?type=m3u8",
-        "http://54.38.180.196/play/175/2D6E866C992891C/video.m3u8",
-        "http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/114.m3u8",
-        "http://303tv.net:8080/barissen12/24082019adpara/4876",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FAnimalPlanetHD&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "viasat_explore",
-      "name": "Viasat Explore",
-      "logo": "viasat_explore.png",
-      "terms": [
-        "Viasat Explore",
-        "VIASAT EXPLORE",
-        "Viasat Explorer"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8",
-        "http://185.176.117.243/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8",
-        "http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8",
-        "http://213.252.252.17/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8",
-        "http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/163/index.m3u",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/163/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/163/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/163/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/163/index.m3u",
-        "http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8",
-        "http://178.124.183.5/hls/JQQ83OBHTQ/variant.m3u8?version=2",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/163/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/163/index.m3u8",
-        "http://178.124.183.5/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2",
-        "http://cdn1.tvplayhome.lt/live/eds/Viasat_Explorer_SD/HLS_encr/index.m3u8",
-        "http://212.112.101.69:8081/stream52/output.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33734.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33362.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59132.ts",
-        "http://myott.tv/stream/ANB1ZFMC9N/239.m3u8",
-        "http://54.38.180.196/play/79/2D6E866C992891C/video.m3u8",
-        "http://iptvnelt.com/kanalas/98/hls/4WT1bzMG/?type=m3u8",
-        "http://ott-cdn.ucom.am/s72/index.m3u8"
-      ]
-    },
-    {
-      "id": "viasat_explore_hd",
-      "name": "Viasat Explore HD",
-      "logo": "viasat_explore.png",
-      "terms": [
-        "Viasat Explore HD",
-        "Viasat Explorer HD",
-        "Viasat Explore HD (резерв)",
-        "Viasat Explore HD (720)"
-      ],
-      "urls": [
-        "http://88.119.220.3/live/eds/ViasatExploreHD/HLS_encr/index.m3u8",
-        "http://185.176.117.243/live/eds/ViasatExploreHD/HLS_encr/index.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/ViasatExploreHD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/ViasatExploreHD/HLS_encr/index.m3u8",
-        "http://iptvnelt.com/kanalas/100/hls/4WT1bzMG/?type=m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATEXPLOREHD/variant.m3u8"
-      ]
-    },
-    {
-      "id": "viasat_history",
-      "name": "Viasat History",
-      "logo": "viasat_history.png",
-      "terms": [
-        "Viasat History",
-        "VIASAT HISTORY"
-      ],
-      "urls": [
-        "http://178.124.183.14/hls/CH_VIASATHISTORY/variant.m3u8",
-        "http://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8",
-        "http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8",
-        "http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8",
-        "http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8",
-        "http://212.112.101.69:8081/stream54/output.m3u8",
-        "http://158.46.111.177:81/udp/239.255.42.40:1234",
-        "http://158.46.88.95:4022/udp/239.255.42.40:1234",
-        "http://178.124.183.13/hls/CH_VIASATHISTORY/bw1200000/playlist.m3u8",
-        "http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35264.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57517.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59196.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33370.ts",
-        "http://54.38.180.196/play/78/2D6E866C992891C/video.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/101.m3u8",
-        "https://hls-viasat.cdnvideo.ru/hls/relay/1501746731655/index.m3u8?md5=2Dxnjzcr2UxtTABLqdfYTA&e=1541934953&hls_proxy_host=97544926393025ab05ebfb4dc3486095",
-        "http://iptvnelt.com/kanalas/69/hls/4WT1bzMG/?type=m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/162/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/162/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/162/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/162/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/162/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/162/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/162/index.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/162/index.m3u8"
-      ]
-    },
-    {
-      "id": "viasat_history_hd",
-      "name": "Viasat History HD",
-      "logo": "viasat_history.png",
-      "terms": [
-        "Viasat History HD",
-        "Viasat History HD (720)",
-        "VIASAT HISTORY HD"
-      ],
-      "urls": [
-        "http://185.176.117.243/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/index.m3u8",
-        "http://188.35.9.11:21121/udp/137s",
-        "http://hls.trinity-tv.net/stream/35ezf2h3bj9357zqtaq7ct8jk38ukffg6jyn6n36m6pj5wtybv5g4ygdrxmrxcgnr34vvn82nqy8gmwpvpr5nwcfxk8vnwshhny3nxnfk8n8dcmqf57k9ddxe5gu8d6md5fqqfty463494yyxngkq===.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATHISTORYHD/variant.m3u8",
-        "http://54.38.180.196/play/491/2D6E866C992891C/video.m3u8",
-        "http://iptvnelt.com/kanalas/33/hls/4WT1bzMG/?type=m3u8"
-      ]
-    },
-    {
-      "id": "viasat_nature",
-      "name": "Viasat Nature",
-      "logo": "viasat_nature.png",
-      "terms": [
-        "Viasat Nature",
-        "Viasat Nature CEE",
-        "VIASAT Nature East",
-        "VIASAT NATURE"
-      ],
-      "urls": [
-        "http://178.124.183.13/hls/BN3FTDY3T8/bw1200000/playlist.m3u8",
-        "http://88.119.220.2/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8",
-        "http://178.124.183.150/hls/BN3FTDY3T8_HLS/bw1200000/playlist.m3u8",
-        "http://88.119.220.3/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8",
-        "http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8",
-        "http://cdn1.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8",
-        "http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/161/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/161/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/161/index.m3u8",
-        "http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/161/index.m3u",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/161/index.m3u8",
-        "http://ott-cdn.ucom.am/s67/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/161/index.m3u8",
-        "http://212.112.101.69:8081/stream53/output.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57846.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32771.ts",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/161/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58432.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59208.ts",
-        "http://54.38.180.196/play/119/2D6E866C992891C/video.m3u8",
-        "http://iptvnelt.com/kanalas/185/hls/4WT1bzMG/?type=m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8"
-      ]
-    },
-    {
-      "id": "viasat_nature_hd",
-      "name": "Viasat Nature HD",
-      "logo": "viasat_nature.png",
-      "terms": [
-        "Viasat Nature HD",
-        "Viasat Nature/History HD",
-        "VIASAT NATURE HD"
-      ],
-      "urls": [
-        "http://188.35.9.11:21071/udp/078s",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/203/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/203/index.m3u8",
-        "http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/203/i.m3u8",
-        "http://telesfor.kartoshkaka.ru/iptv/WY7ZG2Z6XFDMMQ/203/i.m3u8 ",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/203/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/203/index.m3u8",
-        "http://myott.tv/stream/ANB1ZFMC9N/240.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/203/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/203/index.m3u",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/203/index.m3u"
-      ]
-    },
-    {
-      "id": "discovery_channel",
-      "name": "Discovery Channel",
-      "logo": "discovery_channel.png",
-      "terms": [
-        "Discovery Channel",
-        "DISCOVERY CHANNEL",
-        "Discovery Channel Europe",
-        "Discovery Channel (Россия)",
-        "Discovery channel"
-      ],
-      "urls": [
-        "http://46.32.68.167/s/live/423/86.169.51.136/8/0.m3u8",
-        "http://46.32.68.167/s/live/423/51.51.51.51/1/0.m3u8",
-        "http://213.174.8.7:8000/play/24/index.m3u8",
-        "http://46.32.68.167/s/live/423/86.169.51.136/0/0.m3u8",
-        "http://46.32.68.167/s/live/423/100.0.0.5/1/0.m3u8",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/140/index.m3u8",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/140/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/140/index.m3u8",
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/140/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/140/index.m3u",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/140/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/140/index.m3u8",
-        "http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31265.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34412.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32620.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31968.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35500.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33662.ts",
-        "http://iptvnelt.com/kanalas/46/hls/4WT1bzMG/?type=m3u8",
-        "http://303tv.net:8080/barissen12/24082019adpara/4877",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=56"
-      ]
-    },
-    {
-      "id": "discovery_channel_hd",
-      "name": "Discovery Channel HD",
-      "logo": "discovery_channel.png",
-      "terms": [
-        "Discovery Channel HD",
-        "DISCOVERY CHANNEL HD",
-        "Discovery channel HD"
-      ],
-      "urls": [
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/227/index.m3u8",
-        "http://217.25.216.4:8085/udp/238.2.16.147:1234",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/227/index.m3u",
-        "http://109.171.6.220:81/udp/239.54.7.86:1224",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/227/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/227/index.m3u8",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/227/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/227/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/227/index.m3u",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57195.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/30961.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57356.ts",
-        "http://54.38.180.196/play/147/2D6E866C992891C/video.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FDiscoveryChannelHD&login=Martyn&key=CBxWefH"
-      ]
-    },
-    {
-      "id": "discovery_science",
-      "name": "Discovery Science",
-      "logo": "discovery_science.png",
-      "terms": [
-        "Discovery Science",
-        "DISCOVERY SCIENCE",
-        "Discovery Science Europe",
-        "Discovery science"
-      ],
-      "urls": [
-        "http://188.35.9.12:21151/udp/188k",
-        "http://188.35.9.11:21151/udp/188k",
-        "http://78.129.228.178/iptv/BACU6GGT7XNVQC/136/index.m3u8",
-        "http://94.177.136.29:7478/play/a039",
-        "http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/136/index.m3u",
-        "http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/136/index.m3u8",
-        "http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/136/index.m3u8",
-        "http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/136/index.m3u",
-        "http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/136/index.m3u8",
-        "http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/136/index.m3u8",
-        "http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/136/i.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33591.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31285.ts",
-        "http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/136/index.m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56545.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57544.ts",
-        "http://iptvnelt.com/kanalas/70/hls/4WT1bzMG/?type=m3u8",
-        "http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=61"
-      ]
-    },
-    {
-      "id": "discovery_science_hd",
-      "name": "Discovery Science HD",
-      "logo": "discovery_science.png",
-      "terms": [
-        "Discovery Science HD",
-        "Discovery Science HD (720)",
-        "DISCOVERY SCIENCE HD"
-      ],
-      "urls": [
-        "http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8",
-        "http://5.129.5.72:81/udp/239.1.21.143:1234",
-        "http://myott.tv/stream/ANB1ZFMC9N/146.m3u8",
-        "http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8",
-        "http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8",
-        "http://iptvnelt.com/kanalas/104/hls/4WT1bzMG/?type=m3u8",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts",
-        "http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55671.ts",
-        "http://54.38.180.196/play/391/2D6E866C992891C/video.m3u8",
-        "http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fdiscoverysciencehd&login=Martyn&key=CBxWefH"
+        "https://bl.zxz.su/live/133529/HLS/4614144_3,2883584_1,1153024_2/1565280709/c5712187e9ab87a5700de51a7474c543/playlist.m3u8",
+        "http://ch01.spr24.net/5027/mpegts?token=hiVi8EHiq86NZA",
+        "http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd",
+        "http://dmitry-tv.ru/his/CH_MATCHTV.m3u8",
+        "http://streamer-1.obozrenie.tv/18/3f1d60e571a78f667b5ff7d2/3/stream.m3u8"
       ]
     }
   ]

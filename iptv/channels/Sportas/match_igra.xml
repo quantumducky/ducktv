@@ -7,32 +7,32 @@
         
           <channel>
             <title><![CDATA[Матч! Игра (2)]]></title>
-            <stream_url><![CDATA[http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (3)]]></title>
             <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/529/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Матч! Игра (4)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/529/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (6)]]></title>
+            <title><![CDATA[Матч! Игра (3)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/529/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Матч! Игра (4)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/529/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Игра (5)]]></title>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a06l?auth=blhenko:blhenko]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Игра (6)]]></title>
+            <stream_url><![CDATA[http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Матч! Игра (7)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/529/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -42,22 +42,22 @@
         
           <channel>
             <title><![CDATA[Матч! Игра (9)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/529/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Игра (10)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/507/100.0.0.5/1/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/529/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Игра (11)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/507/86.169.51.136/1/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Игра (12)]]></title>
-            <stream_url><![CDATA[http://46.32.68.167/s/live/507/86.169.51.136/2/0.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://s1.only4.tv/1303/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
 </items>

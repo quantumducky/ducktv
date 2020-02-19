@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ua-pershy-ukraine" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2147.png",UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:0 group-title="Украина",UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:0 tvg-id="ua-krym" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2148.png",UA:Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:0 tvg-id="ua-donbas" group-title="Украина" tvg-logo="http://i.imgur.com/uq7uj2Z.jpg",UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4&app=playlist
+#EXTINF:0 tvg-id="ua-tv" group-title="Украина" tvg-logo="http://i.imgur.com/QSjIdrk.png",UA:TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:0 tvg-id="priamyj" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2212.png",Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/hsiMCQJ.jpg",Аверс HD
+http://avers.pp.ua/hls/efir.m3u8
+#EXTINF:0 tvg-id="sonce-ua" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2210.png",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/ZXr4lNe.png",Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:0 group-title="Украина",Ескулап-TV
+http://46.175.163.130:7000/Eskulap
+#EXTINF:0 tvg-id="tet-ua" group-title="Украина" tvg-logo="https://i.imgur.com/CftMZVr.png",TET (Резерв1)
+https://live-k2303-kbp.1plus1.video/233342/smil:233342.smil/playlist.m3u8
+#EXTINF:0 tvg-id="unian-tv" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2217.png",Унiан (Резерв1)
+https://live-k2310-kbp.1plus1.video/288721/smil:288721.smil/chunklist_b2928000.m3u8
+#EXTINF:0 tvg-id="inter-ua" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2106.png",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:0 tvg-id="ntn-ua" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2105.png",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:0 tvg-id="k1-ua" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2100.png",К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0 group-title="Украина",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:0 tvg-id="chepe-info" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2215.png",ЧП.iнфо
+http://109.68.40.72/life/magnolia.m3u8
+#EXTINF:0 group-title="Украина",Бiгуди (Резерв1)
+https://live-k2301-kbp.1plus1.video/335987/smil:335987.smil/chunklist_b2928000.m3u8
+#EXTINF:0 group-title="Украина",Страна советов
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:0 tvg-id="atr-ua" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2085.png",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:0 tvg-id="z-zapor" group-title="Украина" tvg-logo="http://i.imgur.com/l6upvYt.jpg",Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/I6buO9G.jpg",Мiсто+
+http://93.78.206.172:8080/stream5/stream.m3u8
+#EXTINF:0 group-title="Украина",STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/XLpDaiE.png",Olvia Sat
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/EkWrzrb.jpg",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:0 tvg-id="trk-krug" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2226.png",ТРК Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://epg.it999.ru/img/2112.png",Медиа Информ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:0 tvg-id="raiua" group-title="Украина" tvg-logo="http://i.imgur.com/gHZvNMN.png",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:0 group-title="Украина",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:0 group-title="Украина",Смiла ТВ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/KSFPtji.png",Сварожичи ТВ UA HD
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:0 group-title="Украина",Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:0 tvg-id="yuzhnaya-volna" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2120.png",Южная волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:0 tvg-id="dumskaya" group-title="Украина" tvg-logo="http://i.imgur.com/unVKovB.png",Думская TV HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://epg.it999.ru/img/2218.png",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/3gvZRDm.jpg",Ланет PLAY HD
+http://play.lanet.tv/live/2003.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/3gvZRDm.jpg",Lanet Fighting HD
+http://play.lanet.tv/live/2006.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/s1v6Vct.jpg",Перший Козацький HD
+rtmp://217.20.182.229/live/livestream
+#EXTINF:0 group-title="Украина",G TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:0 group-title="Украина",Первый Городской HD (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:0 tvg-id="vozrozhdenie" group-title="Украина",Возрождение TV HD
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
+#EXTINF:0 tvg-id="sk1" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2123.png",СК1 HD
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:0 tvg-id="sk1" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2123.png",СК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:0 tvg-id="chern-promin" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2146.png",Чернівецький Промінь HD
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/YfPzn2T.jpg",А1 HD
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/sbMovGJ.png",НТА ТВ Львов HD
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/sUcU3ha.jpg",ТРК Рудана HD
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://epg.it999.ru/img/2117.png",Правда ТУТ HD (Киев)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:0 group-title="Украина",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/msDE5a2.jpg",Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:0 tvg-id="treti-cifrovoj" group-title="Украина" tvg-logo="http://i.imgur.com/WB7JSP8.png",Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:0 tvg-id="chernomorskaya" group-title="Украина" tvg-logo="http://i.imgur.com/ayupJdS.jpg",ТРК Черноморская
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
+#EXTINF:0 tvg-id="krt-ua" group-title="Украина",Киевская Русь
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:0 tvg-id="reportior" group-title="Украина" tvg-logo="http://i.imgur.com/kvgXwps.png",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/nzYWZE2.jpg",МТВ
+https://live.mariupolskoe.tv:8888/ramdisk/livestream1.m3u8
+#EXTINF:0 tvg-id="tv5-zaporozhie" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2151.png",TV5 (Запорожье)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="https://i.imgur.com/OGTvGVV.png",Твой Плюс
+http://62.64.92.118:8080/Apple/1/index.m3u8
+#EXTINF:0 tvg-id="pershy-zaxidny" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2088.png",Перший Західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+#EXTINF:0 tvg-id="eko-tv" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2205.png",Еко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/YfPzn2T.jpg",А1 Одесса
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:0 group-title="Украина",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/Z6iIY4S.jpg",Академия
+https://cdn1.live-tv.od.ua:8083/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:0 group-title="Украина",ТК Одесса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:0 tvg-id="xerson-plus" group-title="Украина",TV7+
+http://tv7plus.com/hls/tv7.m3u8
+#EXTINF:0 group-title="Украина",G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:0 group-title="Украина",ТIС
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:0 tvg-id="objektiv-59" group-title="Украина",Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://epg.it999.ru/img/2114.png",Алекс
+rtmp://94.240.131.3/live/liveStream5
+#EXTINF:0 tvg-id="trk-chernivci" group-title="Украина" tvg-logo="http://epg.it999.ru/img/2230.png",ТРК Чернiвцi
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:0 group-title="Украина" tvg-logo="http://i.imgur.com/No2F6DX.jpg",Макси ТВ/НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:0 group-title="Украина",Надия/Новый канал
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:0 group-title="Украина",Орбiта
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:0 group-title="Украина",Пляж Ланжерон – Немо (Вебкамера)
+http://cdn1.live-tv.od.ua:8081/nemo/mor-sub/playlist.m3u8

@@ -1,0 +1,438 @@
+﻿#EXTM3U
+#EXTINF:0,WWE Королевская битва (2013)
+https://hls.kinoplayer.co/hls/Royal.Rumble.2011.HDTVRip./playlist.m3u8
+#EXTINF:0,WWE Расплата (2013)
+https://hls.kinoplayer.co/hls/WWE.Payback.HDTVRip/playlist.m3u8
+#EXTINF:0,WWE Деньги в банке (2013)
+https://hls.kinoplayer.co/hls/WWE.Money.In.The.Bank.2013/playlist.m3u8
+#EXTINF:0,WWE Экстремальные правила (2013)
+https://hls.kinoplayer.co/hls/WWE.Extreme.Rules.2013/playlist.m3u8
+#EXTINF:0,WWE Камера ликвидации (2013)
+https://hls.kinoplayer.co/hls/PPV_WWE_2013.2013/playlist.m3u8
+#EXTINF:0,WWE Королевская битва (2015)
+https://hls.kinoplayer.co/hls/WWE.Korolevskaya.Bitva.2015.HDTVRip/playlist.m3u8
+#EXTINF:0,WWE Летний бросок (2013)
+https://bk2-hls.kinoplayer.co/hls/SummerSlam2013/playlist.m3u8
+#EXTINF:0,WWE РестлМания (2013)
+https://bk2-hls.kinoplayer.co/hls/WWE.Restlmaniya.29/playlist.m3u8
+#EXTM3U
+#EXTINF:-1,Прямой HD
+http://s1.only4.tv/0199/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Матч ТВ HD
+http://s1.only4.tv/2204/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Футбол 1 HD
+http://s1.only4.tv/0155/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Футбол 2 HD
+http://s1.only4.tv/0156/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Футбол 1
+http://s1.only4.tv/5513/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Футбол 2
+http://s1.only4.tv/5514/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Sport 1
+http://s1.only4.tv/0162/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Матч! Премьер HD
+http://s1.only4.tv/1403/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,XSPORT
+http://s1.only4.tv/6189/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Сетанта Спорт
+http://s1.only4.tv/5509/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Сетанта Спорт +
+http://s1.only4.tv/5510/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Сетанта Спорт Украина
+http://s1.only4.tv/5511/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,1+1
+http://s1.only4.tv/0151/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,1+1 Международный
+http://s1.only4.tv/0195/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,ICTV
+http://s1.only4.tv/0159/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Украина
+http://s1.only4.tv/0174/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Новый канал
+http://s1.only4.tv/0194/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,СТБ
+http://s1.only4.tv/0160/video.m3u8?token=LnMt7V6gIB
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinopremiera-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kino-premium-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nashe-krutoe-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0,VIP Premiere
+http://s04.iptvx.tv:8090/s/ebf76248/vip-premiere-hd-orig.m3u8
+#EXTINF:0,VIP Megahit
+http://s04.iptvx.tv:8090/s/ebf76248/vip-megahit-hd-orig.m3u8
+#EXTINF:0,VIP Comedy
+http://s04.iptvx.tv:8090/s/ebf76248/vip-comedy-hd-orig.m3u8
+#EXTINF:0,VIP Serial
+http://s04.iptvx.tv:8090/s/ebf76248/vip-serial-hd-orig.m3u8
+#EXTINF:0,TV1000
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000.m3u8
+#EXTINF:0,TV1000 HD
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-hd.m3u8
+#EXTINF:0,TV1000 Action
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-action.m3u8
+#EXTINF:0,TV1000 Action HD
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-action-hd.m3u8
+#EXTINF:0,TV1000 http://s04.iptvx.tv:8090/s/ebf76248/tv1000-ru-kino.m3u8
+#EXTINF:0,TV1000 http://s04.iptvx.tv:8090/s/ebf76248/tv1000-russkoje-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinopokaz.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/shokiruschee-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/komedijnoe-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/muzhskoe-kino.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/muzhskoe-kino-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/strashnoe-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinouzhas-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/hct.m3u8
+#EXTINF:0,SHOT TV
+http://s04.iptvx.tv:8090/s/ebf76248/egoist-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/pobeda.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/dom-kino-premium-hd.m3u8
+#EXTINF:0,Amedia Premium
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-premium.m3u8
+#EXTINF:0,AMEDIA Premium HD
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-premium-hd.m3u8
+#EXTINF:0,Amedia Hit
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-hit.m3u8
+#EXTINF:0,AMEDIA HIT HD
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-hit-hd.m3u8
+#EXTINF:0,Amedia 1
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-1.m3u8
+#EXTINF:0,AMEDIA 1 HD
+http://s04.iptvx.tv:8090/s/ebf76248/amedia1-hd.m3u8
+#EXTINF:0,Amedia 2
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-2.m3u8
+#EXTINF:0,Amedia 2 HD
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-2-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinohit.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinomix.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinomix-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinosvidanije.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinosemja.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinokomedia.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kinokomedia-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/rodnoje_kino.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kino-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kino-tv-hd.m3u8
+#EXTINF:0,Cinema
+http://s04.iptvx.tv:8090/s/ebf76248/cinema.m3u8
+#EXTINF:0,Fox
+http://s04.iptvx.tv:8090/s/ebf76248/fox.m3u8
+#EXTINF:0,FOX HD
+http://s04.iptvx.tv:8090/s/ebf76248/fox-hd.m3u8
+#EXTINF:0,Fox Life
+http://s04.iptvx.tv:8090/s/ebf76248/fox-life.m3u8
+#EXTINF:0,FOX Life HD
+http://s04.iptvx.tv:8090/s/ebf76248/fox-life-hd.m3u8
+#EXTINF:0,Paramount Channel
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-channel.m3u8
+#EXTINF:0,Paramount Channel HD
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-channel-hd.m3u8
+#EXTINF:0,Paramount Comedy
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-comedy.m3u8
+#EXTINF:0,Paramount Comedy HD
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-comedy-hd.m3u8
+#EXTINF:0,Sony Entertainment Television
+http://s04.iptvx.tv:8090/s/ebf76248/set.m3u8
+#EXTINF:0,Sony Entertainment Television HD
+http://s04.iptvx.tv:8090/s/ebf76248/set-hd.m3u8
+#EXTINF:0,SONY Sci-Fi
+http://s04.iptvx.tv:8090/s/ebf76248/sony-sci-fi.m3u8
+#EXTINF:0,Sony Turbo
+http://s04.iptvx.tv:8090/s/ebf76248/sony-turbo.m3u8
+#EXTINF:0,Spike
+http://s04.iptvx.tv:8090/s/ebf76248/spike.m3u8
+#EXTINF:0,Hollywood HD
+http://s04.iptvx.tv:8090/s/ebf76248/mgm-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/russkij-roman-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/romantichnoe-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/iluzion-plus.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/iluzion-plus-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/lubimoe-kino.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nashe-novoe-kino.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/evrokino.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/evrokino-hd.m3u8
+#EXTINF:0,TV XXI
+http://s04.iptvx.tv:8090/s/ebf76248/tv-xxi.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/mnogo-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nostalgia.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/retro.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/dom-kino.m3u8
+#EXTINF:0,Bollywood HD
+http://s04.iptvx.tv:8090/s/ebf76248/bollywood.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/indija-tv.m3u8
+#EXTINF:0,Zee TV
+http://s04.iptvx.tv:8090/s/ebf76248/zee-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nash-futbol.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-premier-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-1.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-1-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-2.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-2-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-3.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-3-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-tv-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-igra.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-igra-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-arena.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-arena-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-nash-sport.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-planeta.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/khl-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/khl-tv-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/mir-basketbola.m3u8
+#EXTINF:0,Viasat Sport
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-sport.m3u8
+#EXTINF:0,Viasat Sport HD
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-sport-hd-orig.m3u8
+#EXTINF:0,Eurosport
+http://s04.iptvx.tv:8090/s/ebf76248/evrosport.m3u8
+#EXTINF:0,Eurosport HD
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport-hd-orig.m3u8
+#EXTINF:0,Eurosport 2
+http://s04.iptvx.tv:8090/s/ebf76248/evrosport-2.m3u8
+#EXTINF:0,Eurosport 2 HD
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport2-hd-orig.m3u8
+#EXTINF:0,Eurosport Gold HD
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport-gold-hd-orig.m3u8
+#EXTINF:0,Setanta Sports 1 HD
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-hd-orig.m3u8
+#EXTINF:0,Setanta Sports 2 HD
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-plus-hd-orig.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-ua-hd-orig.m3u8
+#EXTINF:0,PL 1 HD
+http://s04.iptvx.tv:8090/s/ebf76248/apl1-hd-orig.m3u8
+#EXTINF:0,PL 2
+http://s04.iptvx.tv:8090/s/ebf76248/apl2.m3u8
+#EXTINF:0,PL 2 HD
+http://s04.iptvx.tv:8090/s/ebf76248/apl2-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol1-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol1-hd-orig.m3u8
+#EXTINF:0,411
+http://s04.iptvx.tv:8090/s/ebf76248/futbol2-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol2-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol3-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/futbol3-ua-hd-orig.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/sport1-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/sport2-ua.m3u8
+#EXTINF:0,XSport
+http://s04.iptvx.tv:8090/s/ebf76248/xsport.m3u8
+#EXTINF:0,UFC HD
+http://s04.iptvx.tv:8090/s/ebf76248/ufc-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/match-boec.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/boks-tv.m3u8
+#EXTINF:0,Super Tennis HD
+http://s04.iptvx.tv:8090/s/ebf76248/super-tennis-hd.m3u8
+#EXTINF:0,24 http://s04.iptvx.tv:8090/s/ebf76248/24tv-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/ntn.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/tet.m3u8
+#EXTINF:0,Ehttp://s04.iptvx.tv:8090/s/ebf76248/plus-plus.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/tonis-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/tonis-hd-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kanal-nash.m3u8
+#EXTINF:0,K1
+http://s04.iptvx.tv:8090/s/ebf76248/k1-ua.m3u8
+#EXTINF:0,K2
+http://s04.iptvx.tv:8090/s/ebf76248/k2-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kvartal-tv-ua.m3u8
+#EXTINF:0,5 http://s04.iptvx.tv:8090/s/ebf76248/5kanal-ukraina.m3u8
+#EXTINF:0,Zik HD
+http://s04.iptvx.tv:8090/s/ebf76248/zik-hd-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/gromadske-tv-ua.m3u8
+#EXTINF:0,Enter-http://s04.iptvx.tv:8090/s/ebf76248/enter-film-ua.m3u8
+#EXTINF:0,ICTV
+http://s04.iptvx.tv:8090/s/ebf76248/ictv.m3u8
+#EXTINF:0,ICTV HD
+http://s04.iptvx.tv:8090/s/ebf76248/ictv-ua-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/stb.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/stb-ua-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/pervyj-national-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/inter.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/inter-plus-ua.m3u8
+#EXTINF:0,1+1
+http://s04.iptvx.tv:8090/s/ebf76248/1-plus-1.m3u8
+#EXTINF:0,1+1 HD
+http://s04.iptvx.tv:8090/s/ebf76248/1-plus-1-hd.m3u8
+#EXTINF:0,2+2
+http://s04.iptvx.tv:8090/s/ebf76248/2-plus-2-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/unian-tv-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/novij-kanal.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/novyj-kanal-ua-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/trk-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/trk-ua-hd.m3u8
+#EXTINF:0,ZOOM
+http://s04.iptvx.tv:8090/s/ebf76248/zoom-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/mega-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nlo-ua.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/belarus5.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/belarus5-by-hd-orig.m3u8
+#EXTINF:-1,BRAZZERS
+http://185.180.12.90:8080/BRAZZERS/index.m3u8?token=test
+#EXTINF:-1,DORCEL
+http://185.180.12.90:8080/DORCEL/index.m3u8?token=test
+#EXTINF:-1,HUSTLER
+http://185.180.12.90:8080/HUSTLER/index.m3u8?token=test
+#EXTINF:-1,PRIVATE
+http://185.180.12.90:8080/PRIVATE/index.m3u8?token=test
+#EXTINF:-1,REDLIGHT
+http://185.180.12.90:8080/REDLIGHT/index.m3u8?token=test
+#EXTINF:0,Extasy 4K
+http://s04.iptvx.tv:8090/s/ebf76248/extasy-4k.m3u8
+#EXTINF:0,Penthouse Gold CZ
+http://s04.iptvx.tv:8090/s/ebf76248/penthouse1-hd.m3u8
+#EXTINF:0,Penthouse Quickies
+http://s04.iptvx.tv:8090/s/ebf76248/penthouse2-hd.m3u8
+#EXTINF:0,Redlight HD
+http://s04.iptvx.tv:8090/s/ebf76248/redlight-hd.m3u8
+#EXTINF:0,Dorcel TV HD
+http://s04.iptvx.tv:8090/s/ebf76248/dorcel-hd.m3u8
+#EXTINF:0,Vivid Red HD
+http://s04.iptvx.tv:8090/s/ebf76248/vivid-red-hd.m3u8
+#EXTINF:0,Private TV
+http://s04.iptvx.tv:8090/s/ebf76248/private-tv.m3u8
+#EXTINF:0,Hustler HD
+http://s04.iptvx.tv:8090/s/ebf76248/hustler-hd.m3u8
+#EXTINF:0,Babes HD
+http://s04.iptvx.tv:8090/s/ebf76248/babes-hd.m3u8
+#EXTINF:0,XXL
+http://s04.iptvx.tv:8090/s/ebf76248/xxl-tv.m3u8
+#EXTINF:0,Pink OTV
+http://s04.iptvx.tv:8090/s/ebf76248/pink-otv-orig.m3u8
+#EXTINF:0,Passion TV
+http://s04.iptvx.tv:8090/s/ebf76248/boyboy.m3u8
+#EXTINF:0,Brazzers TV Europe
+http://s04.iptvx.tv:8090/s/ebf76248/brazzers-tv.m3u8
+#EXTINF:0, PTV (18+)
+http://5.9.84.209:8081/torrenttv/channel/Playboy%20TV.ts
+#EXTINF:0, XSPORT
+http://playlist.hmara.tv:80/4a8a78be/250feb91a84701f0b520ac11902e4b103a62ead6.m3u8
+#EXTINF:0, XXL(18+)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:0, XXLR(18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:0, XXX PLAYBOY
+http://188.35.9.12:21101/udp/127h
+#EXTINF:0, PLAYBOY
+http://78.129.228.178/iptv/AFX8P2MZZZVGV2/527/index.m3u8
+#EXTINF:0, PLAYBOY TV
+http://188.35.9.11:21141/udp/184h
+#EXTINF:0, PLAYBOY TV
+http://188.35.9.12:21141/udp/184h
+#EXTINF:0,Blue Hustler
+http://s04.iptvx.tv:8090/s/ebf76248/blue-hustler.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/ruskaja-noch.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nuart-tv.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/nuart-hd.m3u8
+#EXTINF:0,http://s04.iptvx.tv:8090/s/ebf76248/kino-uhd-4k.m3u8
+#EXTINF:0,Ultra HD Cinema
+http://s04.iptvx.tv:8090/s/ebf76248/ultra-hd-cinema-4k.m3u8
+#EXTINF:-1,НЮ АРТ ТВ
+http://s1.only4.tv/118/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Playboy TV UK
+http://s1.only4.tv/2120/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Hustler HD
+http://s1.only4.tv/5506/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Penthouse HD 1
+http://s1.only4.tv/5507/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Redlight HD
+http://s1.only4.tv/5508/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Dorcel TV HD
+http://s1.only4.tv/5555/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Private TV HD
+http://s1.only4.tv/5556/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Vivid Red HD
+http://s1.only4.tv/5557/video.m3u8?token=LnMt7V6gIB
+#EXTINF:-1,Super One HD (18+)
+http://188.35.9.5:10007/stolen/246r/parasite.install
+#EXTINF:-1,Private TV HD (18+)
+http://188.35.9.5:10005/stolen/153a/imposter.rar
+#EXTINF:-1,Русская ночь (18+)
+http://188.35.9.11:21051/udp/071l
+#EXTINF:-1,Big Ass (18+)
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1,Big Dick (18+)
+http://live.redtraffic.xyz/bigdick.m3u8
+#EXTINF:-1,Big Tits (18+)
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1,Blowjob (18+)
+http://live.redtraffic.xyz/blowjob.m3u8
+#EXTINF:-1,Hard Core (18+)
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1,Three Some (18+)
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1,Lesbian (18+)
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1,Cuckold HD 720 (18+)
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1,Fetish HD 720 (18+)
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1,Interracial HD 720 (18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:-1,Latina HD 720 (18+)
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1,Milf HD 720 (18+)
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1,Pornstar HD 720 (18+)
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1,POV HD 720 (18+)
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1,Teen HD 720 (18+)
+http://live.redtraffic.xyz/teen.m3u8
+#EXTINF:-1,Russian HD 720 (18+)
+http://live.redtraffic.xyz/russian.m3u8
+#EXTM3U
+#EXTINF:-1 ,XXX 2
+http://s1.hdporus.com/content/vod/s1702/480/index.m3u8
+#EXTINF:-1 ,XXX 20
+http://s1.hdporus.com/content/vod/s1720/480/index.m3u8
+#EXTINF:-1 ,XXX 200
+http://s1.hdporus.com/content/vod/s1903/480/index.m3u8
+#EXTINF:-1 ,XXX 201
+http://s1.hdporus.com/content/vod/s1904/480/index.m3u8
+#EXTINF:-1 ,XXX 202
+http://s1.hdporus.com/content/vod/s1905/480/index.m3u8
+#EXTINF:-1 ,XXX 203
+http://s1.hdporus.com/content/vod/s1906/480/index.m3u8
+#EXTINF:-1 ,XXX 204
+http://s1.hdporus.com/content/vod/s1907/480/index.m3u8
+#EXTINF:-1 ,XXX 205
+http://s1.hdporus.com/content/vod/s1908/480/index.m3u8
+#EXTINF:-1 ,XXX 206
+http://s1.hdporus.com/content/vod/s1909/480/index.m3u8
+#EXTINF:-1 ,XXX 206
+http://s1.hdporus.com/content/vod/s1909/480/index.m3u8
+#EXTINF:-1 ,XXX 207
+http://s1.hdporus.com/content/vod/s1910/480/index.m3u8
+#EXTINF:-1 ,XXX 207
+http://s1.hdporus.com/content/vod/s1910/480/index.m3u8
+#EXTINF:-1 ,XXX 208
+http://s1.hdporus.com/content/vod/s1911/480/index.m3u8
+#EXTINF:-1 ,XXX 208
+http://s1.hdporus.com/content/vod/s1911/480/index.m3u8
+#EXTINF:-1 ,XXX 209
+http://s1.hdporus.com/content/vod/s1912/480/index.m3u8
+#EXTINF:-1 ,XXX 21
+http://s1.hdporus.com/content/vod/s1721/480/index.m3u8
+#EXTINF:-1 ,XXX 210
+http://s1.hdporus.com/content/vod/s1913/480/index.m3u8
+#EXTINF:-1 ,XXX 211
+http://s1.hdporus.com/content/vod/s1914/480/index.m3u8
+#EXTINF:-1 ,XXX 212
+http://s1.hdporus.com/content/vod/s1915/480/index.m3u8
+#EXTINF:-1 ,XXX 213
+http://s1.hdporus.com/content/vod/s1916/480/index.m3u8
+#EXTINF:-1 ,XXX 214
+http://s1.hdporus.com/content/vod/s1917/480/index.m3u8
+#EXTINF:-1 ,XXX 215
+http://s1.hdporus.com/content/vod/s1918/480/index.m3u8
+#EXTINF:-1 ,XXX 216
+http://s1.hdporus.com/content/vod/s1919/480/index.m3u8
+#EXTINF:-1 ,XXX 217
+http://s1.hdporus.com/content/vod/s1920/480/index.m3u8
+#EXTINF:-1 ,XXX 218
+http://s1.hdporus.com/content/vod/s1921/480/index.m3u8
+#EXTINF:-1 ,XXX 219
+http://s1.hdporus.com/content/vod/s1922/480/index.m3u8

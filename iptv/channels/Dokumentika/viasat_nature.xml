@@ -2,17 +2,17 @@
 <items>
           <channel>
             <title><![CDATA[Viasat Nature (1)]]></title>
-            <stream_url><![CDATA[http://178.124.183.13/hls/BN3FTDY3T8/bw1200000/playlist.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (2)]]></title>
             <stream_url><![CDATA[http://88.119.220.2/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat Nature (2)]]></title>
+            <stream_url><![CDATA[http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat Nature (3)]]></title>
-            <stream_url><![CDATA[http://178.124.183.150/hls/BN3FTDY3T8_HLS/bw1200000/playlist.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -22,102 +22,122 @@
         
           <channel>
             <title><![CDATA[Viasat Nature (5)]]></title>
-            <stream_url><![CDATA[http://185.176.117.243/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (6)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (7)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (8)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/161/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (9)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/161/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (10)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/161/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (11)]]></title>
-            <stream_url><![CDATA[http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (12)]]></title>
             <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/161/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Nature (13)]]></title>
+            <title><![CDATA[Viasat Nature (6)]]></title>
             <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/161/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Nature (14)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s67/index.m3u8]]></stream_url>
+            <title><![CDATA[Viasat Nature (7)]]></title>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0ac?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Nature (15)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/161/index.m3u8]]></stream_url>
+            <title><![CDATA[Viasat Nature (8)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s67/01.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Nature (16)]]></title>
+            <title><![CDATA[Viasat Nature (9)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s67/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (10)]]></title>
             <stream_url><![CDATA[http://212.112.101.69:8081/stream53/output.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat Nature (11)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s67/03.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (12)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s67/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (13)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (14)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/161/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (15)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/161/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (16)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/161/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat Nature (17)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57846.ts]]></stream_url>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD-avc1_2200000=24-mp4a_96000_rus=16.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Nature (18)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32771.ts]]></stream_url>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57846.ts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Nature (19)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/161/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat Nature (20)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58432.ts]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat Nature (21)]]></title>
+            <title><![CDATA[Viasat Nature (20)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59208.ts]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat Nature (21)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32771.ts]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat Nature (22)]]></title>
-            <stream_url><![CDATA[http://54.38.180.196/play/119/2D6E866C992891C/video.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/161/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Nature (23)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/185/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/161/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat Nature (24)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_VIASATNATURE/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/161/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (25)]]></title>
+            <stream_url><![CDATA[https://cdn7.tvplayhome.lt/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (26)]]></title>
+            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (27)]]></title>
+            <stream_url><![CDATA[http://ch01.spr24.net/20119/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat Nature (28)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/185/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

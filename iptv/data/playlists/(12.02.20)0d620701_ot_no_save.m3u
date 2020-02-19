@@ -1,0 +1,1627 @@
+#EXTM3U url-tvg="http://epg.iptvx.tv/xmltv.xml.gz"
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="https://cbilling.biz/img/streams/pervyj.png" tvg-rec="7",Первый канал
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj-hd-orig" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-orig.png" tvg-rec="7",Первый HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija1" tvg-logo="https://cbilling.biz/img/streams/rossija1.png" tvg-rec="7",Россия 1
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/rossija1.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rossija-hd-orig.png" tvg-rec="7",Россия 1 HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/rossija-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="https://cbilling.biz/img/streams/ntv.png" tvg-rec="7",НТВ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/ntv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/ntv-hd-orig.png" tvg-rec="7",НТВ HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="https://cbilling.biz/img/streams/ntv-mir.png" tvg-rec="7",НТВ Мир
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="https://cbilling.biz/img/streams/TNT.png" tvg-rec="7",ТНТ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/TNT.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-hd-orig" tvg-logo="https://cbilling.biz/img/streams/tnt-hd-orig.png" tvg-rec="7",ТНТ HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/tnt-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt-4" tvg-logo="https://cbilling.biz/img/streams/tnt-4.png" tvg-rec="7",ТНТ4
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/tnt-4.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="https://cbilling.biz/img/streams/CTC.png" tvg-rec="7",СТС
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/CTC.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ctc-hd" tvg-logo="https://cbilling.biz/img/streams/ctc-hd.png" tvg-rec="7",СТС HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/ctc-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="https://cbilling.biz/img/streams/sts-love.png" tvg-rec="7",СТС Love
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/sts-love.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="https://cbilling.biz/img/streams/domashnij.png" tvg-rec="7",Домашний
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/domashnij.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="https://cbilling.biz/img/streams/perec.png" tvg-rec="7",Перец
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/perec.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="https://cbilling.biz/img/streams/ren-tv.png" tvg-rec="7",РЕН ТВ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/ren-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rentv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/rentv-hd-orig.png" tvg-rec="7",РЕН ТВ HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/rentv-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv-3" tvg-logo="https://cbilling.biz/img/streams/tv-3.png" tvg-rec="7",ТВ3
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/tv-3.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv3-hd-orig" tvg-logo="https://cbilling.biz/img/streams/tv3-hd-orig.png" tvg-rec="7",ТВ3 HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/tv3-hd-orig.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="https://cbilling.biz/img/streams/4e.png" tvg-rec="7",Че
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/4e.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="https://cbilling.biz/img/streams/zvezda.png" tvg-rec="7",Звезда
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/zvezda.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="https://cbilling.biz/img/streams/tvc.png" tvg-rec="7",ТВЦ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/tvc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="5kanal" tvg-logo="https://cbilling.biz/img/streams/5kanal.png" tvg-rec="7",5 канал
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/5kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k" tvg-logo="https://cbilling.biz/img/streams/rossija-k.png" tvg-rec="7",Россия Культура
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/rossija-k.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal" tvg-logo="https://cbilling.biz/img/streams/8-kanal.png" tvg-rec="7",8 канал
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/8-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir" tvg-logo="https://cbilling.biz/img/streams/mir.png" tvg-rec="7",Мир
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-hd" tvg-logo="https://cbilling.biz/img/streams/mir-hd.png" tvg-rec="7",Мир HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/mir-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24" tvg-logo="https://cbilling.biz/img/streams/mir-24.png" tvg-rec="7",Мир 24
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/mir-24.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sarafan" tvg-logo="https://cbilling.biz/img/streams/sarafan.png" tvg-rec="7",Сарафан
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/sarafan.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv" tvg-logo="https://cbilling.biz/img/streams/kvn-tv.png" tvg-rec="7",КВН ТВ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/kvn-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super" tvg-logo="https://cbilling.biz/img/streams/super.png" tvg-rec="7",Супер
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/super.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica" tvg-logo="https://cbilling.biz/img/streams/piatnica.png" tvg-rec="7",Пятница
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/piatnica.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica-hd" tvg-logo="https://cbilling.biz/img/streams/piatnica-hd.png" tvg-rec="7",Пятница HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/piatnica-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="teledom-hd" tvg-logo="https://cbilling.biz/img/streams/teledom-hd.png" tvg-rec="7",Теледом HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/teledom-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="podmoskovje" tvg-logo="https://cbilling.biz/img/streams/podmoskovje.png" tvg-rec="7",Подмосковье
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/podmoskovje.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv" tvg-logo="https://cbilling.biz/img/streams/yu-tv.png" tvg-rec="7",Ю ТВ
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/yu-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="vremya" tvg-logo="https://cbilling.biz/img/streams/vremya.png" tvg-rec="7",Время
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/vremya.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal" tvg-logo="https://cbilling.biz/img/streams/9-kanal.png" tvg-rec="7",9 канал (Израиль)
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/9-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rtvi" tvg-logo="https://cbilling.biz/img/streams/rtvi.png" tvg-rec="7",RTVi
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/rtvi.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd" tvg-logo="https://cbilling.biz/img/streams/dozhd.png" tvg-rec="7",Дождь
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/dozhd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd-hd" tvg-logo="https://cbilling.biz/img/streams/dozhd-hd.png" tvg-rec="7",Дождь HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/dozhd-hd.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="nastoyaschee-vremya-hd" tvg-logo="https://cbilling.biz/img/streams/nastoyaschee-vremya-hd.png" tvg-rec="7",Настоящее время HD
+#EXTGRP:Общероссийские
+http://s04.iptvx.tv:8090/s/ebf76248/nastoyaschee-vremya-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rossija24" tvg-logo="https://cbilling.biz/img/streams/rossija24.png" tvg-rec="0",Россия 24
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/rossija24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="evronews" tvg-logo="https://cbilling.biz/img/streams/evronews.png" tvg-rec="0",EuroNews
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/evronews.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija" tvg-logo="https://cbilling.biz/img/streams/izvestija.png" tvg-rec="0",Известия
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/izvestija.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="moskva-24" tvg-logo="https://cbilling.biz/img/streams/moskva-24.png" tvg-rec="0",Москва 24
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/moskva-24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk" tvg-logo="https://cbilling.biz/img/streams/rbk.png" tvg-rec="0",РБК
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/rbk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="https://cbilling.biz/img/streams/bbc-world-news.png" tvg-rec="0",BBC World
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/bbc-world-news.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="https://cbilling.biz/img/streams/cnn.png" tvg-rec="0",CNN
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/cnn.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rt-english" tvg-logo="https://cbilling.biz/img/streams/rt-english.png" tvg-rec="0",RT
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/rt-english.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="russia-today-hd" tvg-logo="https://cbilling.biz/img/streams/russia-today-hd.png" tvg-rec="0",RT HD
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/russia-today-hd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rt-doc" tvg-logo="https://cbilling.biz/img/streams/rt-doc.png" tvg-rec="0",RT Док
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/rt-doc.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="russia-today-doc-hd" tvg-logo="https://cbilling.biz/img/streams/russia-today-doc-hd.png" tvg-rec="0",RT Док HD
+#EXTGRP:Новости
+http://s04.iptvx.tv:8090/s/ebf76248/russia-today-doc-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopremiera-hd-orig" tvg-logo="https://cbilling.biz/img/streams/kinopremiera-hd-orig.png" tvg-rec="7",Кинопремьера HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinopremiera-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-premium-hd-orig" tvg-logo="https://cbilling.biz/img/streams/kino-premium-hd-orig.png" tvg-rec="7",Премиальное HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kino-premium-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ostrosujetnoe-hd-orig" tvg-logo="https://cbilling.biz/img/streams/ostrosujetnoe-hd-orig.png" tvg-rec="7",Остросюжетное HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/ostrosujetnoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nash-kinoroman-hd-orig" tvg-logo="https://cbilling.biz/img/streams/nash-kinoroman-hd-orig.png" tvg-rec="7",Наш Кинороман HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/nash-kinoroman-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-krutoe-hd-orig" tvg-logo="https://cbilling.biz/img/streams/nashe-krutoe-hd-orig.png" tvg-rec="7",Наше Крутое HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/nashe-krutoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-lubimoe-hd-orig" tvg-logo="https://cbilling.biz/img/streams/nashe-lubimoe-hd-orig.png" tvg-rec="7",Любимое HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/nashe-lubimoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-premiere-hd-orig" tvg-logo="https://cbilling.biz/img/streams/vip-premiere-hd-orig.png" tvg-rec="7",VIP Premiere
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/vip-premiere-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-megahit-hd-orig" tvg-logo="https://cbilling.biz/img/streams/vip-megahit-hd-orig.png" tvg-rec="7",VIP Megahit
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/vip-megahit-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-comedy-hd-orig" tvg-logo="https://cbilling.biz/img/streams/vip-comedy-hd-orig.png" tvg-rec="7",VIP Comedy
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/vip-comedy-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="vip-serial-hd-orig" tvg-logo="https://cbilling.biz/img/streams/vip-serial-hd-orig.png" tvg-rec="7",VIP Serial
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/vip-serial-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="https://cbilling.biz/img/streams/tv1000.png" tvg-rec="7",TV1000
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-hd" tvg-logo="https://cbilling.biz/img/streams/tv1000-hd.png" tvg-rec="7",TV1000 HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="https://cbilling.biz/img/streams/tv1000-action.png" tvg-rec="7",TV1000 Action
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-action.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action-hd" tvg-logo="https://cbilling.biz/img/streams/tv1000-action-hd.png" tvg-rec="7",TV1000 Action HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-action-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-ru-kino" tvg-logo="https://cbilling.biz/img/streams/tv1000-ru-kino.png" tvg-rec="7",TV1000 Русское Кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-ru-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje-hd" tvg-logo="https://cbilling.biz/img/streams/tv1000-russkoje-hd.png" tvg-rec="7",TV1000 Русское Кино HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv1000-russkoje-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="https://cbilling.biz/img/streams/kinopokaz.png" tvg-rec="7",Кинопоказ
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="shokiruschee-hd-orig" tvg-logo="https://cbilling.biz/img/streams/shokiruschee-hd-orig.png" tvg-rec="7",Шокирующее HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/shokiruschee-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="komedijnoe-hd-orig" tvg-logo="https://cbilling.biz/img/streams/komedijnoe-hd-orig.png" tvg-rec="7",Комедийное HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/komedijnoe-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="https://cbilling.biz/img/streams/muzhskoe-kino.png" tvg-rec="7",Мужское кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino-hd" tvg-logo="https://cbilling.biz/img/streams/muzhskoe-kino-hd.png" tvg-rec="7",МУЖСКОЕ КИНО HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/muzhskoe-kino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="strashnoe-hd" tvg-logo="https://cbilling.biz/img/streams/strashnoe-hd.png" tvg-rec="7",Страшное HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/strashnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinouzhas-hd-orig" tvg-logo="https://cbilling.biz/img/streams/kinouzhas-hd-orig.png" tvg-rec="7",Киноужас HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinouzhas-hd-orig.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="https://cbilling.biz/img/streams/hct.png" tvg-rec="7",НСТ
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/hct.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="https://cbilling.biz/img/streams/egoist-tv.png" tvg-rec="7",SHOT TV
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="https://cbilling.biz/img/streams/pobeda.png" tvg-rec="7",Победа
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/pobeda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino-premium-hd" tvg-logo="https://cbilling.biz/img/streams/dom-kino-premium-hd.png" tvg-rec="7",Дом Кино Премиум HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/dom-kino-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="https://cbilling.biz/img/streams/amedia-premium.png" tvg-rec="7",Amedia Premium
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-premium.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium-hd" tvg-logo="https://cbilling.biz/img/streams/amedia-premium-hd.png" tvg-rec="7",AMEDIA Premium HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-premium-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit" tvg-logo="https://cbilling.biz/img/streams/amedia-hit.png" tvg-rec="7",Amedia Hit
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit-hd" tvg-logo="https://cbilling.biz/img/streams/amedia-hit-hd.png" tvg-rec="7",AMEDIA HIT HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-hit-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-1" tvg-logo="https://cbilling.biz/img/streams/amedia-1.png" tvg-rec="7",Amedia 1
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia1-hd" tvg-logo="https://cbilling.biz/img/streams/amedia1-hd.png" tvg-rec="7",AMEDIA 1 HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia1-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2" tvg-logo="https://cbilling.biz/img/streams/amedia-2.png" tvg-rec="7",Amedia 2
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2-hd" tvg-logo="https://cbilling.biz/img/streams/amedia-2.png" tvg-rec="7",Amedia 2 HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/amedia-2-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="https://cbilling.biz/img/streams/kinohit.png" tvg-rec="7",Кинохит
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinohit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="https://cbilling.biz/img/streams/kinomix.png" tvg-rec="7",Киномикс
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinomix.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix-hd" tvg-logo="https://cbilling.biz/img/streams/kinomix-hd.png" tvg-rec="7",Киномикс HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinomix-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="https://cbilling.biz/img/streams/kinosvidanije.png" tvg-rec="7",КИНОСВИДАНИЕ
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinosvidanije.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="https://cbilling.biz/img/streams/kinosemja.png" tvg-rec="7",Киносемья
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinosemja.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia" tvg-logo="https://cbilling.biz/img/streams/kinokomedia.png" tvg-rec="7",Кинокомедия
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinokomedia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia-hd" tvg-logo="https://cbilling.biz/img/streams/kinokomedia-hd.png" tvg-rec="7",Кинокомедия HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kinokomedia-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="https://cbilling.biz/img/streams/rodnoje_kino.png" tvg-rec="7",Родное кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/rodnoje_kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="https://cbilling.biz/img/streams/kino-tv.png" tvg-rec="7",Кино ТВ
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kino-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv-hd" tvg-logo="https://cbilling.biz/img/streams/kino-tv-hd.png" tvg-rec="7",Кино ТВ HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/kino-tv-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="https://cbilling.biz/img/streams/cinema.png" tvg-rec="7",Cinema
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/cinema.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox" tvg-logo="https://cbilling.biz/img/streams/fox.png" tvg-rec="7",Fox
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/fox.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-hd" tvg-logo="https://cbilling.biz/img/streams/fox-hd.png" tvg-rec="7",FOX HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/fox-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life" tvg-logo="https://cbilling.biz/img/streams/fox-life.png" tvg-rec="7",Fox Life
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/fox-life.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life-hd" tvg-logo="https://cbilling.biz/img/streams/fox-life-hd.png" tvg-rec="7",FOX Life HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/fox-life-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-channel" tvg-logo="https://cbilling.biz/img/streams/paramount-channel.png" tvg-rec="7",Paramount Channel
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-channel.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-channel-hd" tvg-logo="https://cbilling.biz/img/streams/paramount-channel-hd.png" tvg-rec="7",Paramount Channel HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-channel-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy" tvg-logo="https://cbilling.biz/img/streams/paramount-comedy.png" tvg-rec="7",Paramount Comedy
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-comedy.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="paramount-comedy-hd" tvg-logo="https://cbilling.biz/img/streams/paramount-comedy-hd.png" tvg-rec="7",Paramount Comedy HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/paramount-comedy-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set" tvg-logo="https://cbilling.biz/img/streams/set.png" tvg-rec="7",Sony Entertainment Television
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/set.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set-hd" tvg-logo="https://cbilling.biz/img/streams/set-hd.png" tvg-rec="7",Sony Entertainment Television HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/set-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-sci-fi" tvg-logo="https://cbilling.biz/img/streams/sony-sci-fi.png" tvg-rec="7",SONY Sci-Fi
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/sony-sci-fi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sony-turbo" tvg-logo="https://cbilling.biz/img/streams/sony-turbo.png" tvg-rec="7",Sony Turbo
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/sony-turbo.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="spike" tvg-logo="https://cbilling.biz/img/streams/spike.png" tvg-rec="7",Spike
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/spike.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mgm-hd" tvg-logo="https://cbilling.biz/img/streams/mgm-hd.png" tvg-rec="7",Hollywood HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/mgm-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="https://cbilling.biz/img/streams/russkaja-comedija.png" tvg-rec="7",Русская Комедия
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkaja-comedija.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="https://cbilling.biz/img/streams/russkij-detektiv.png" tvg-rec="7",Русский Детектив
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-detektiv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="https://cbilling.biz/img/streams/russkij-bestseller.png" tvg-rec="7",Русский Бестселлер
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-bestseller.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman" tvg-logo="https://cbilling.biz/img/streams/russkij-roman.png" tvg-rec="7",Русский Роман
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-roman.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman-hd" tvg-logo="https://cbilling.biz/img/streams/russkij-roman-hd.png" tvg-rec="7",Русский Роман HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-roman-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="romantichnoe-hd" tvg-logo="https://cbilling.biz/img/streams/romantichnoe-hd.png" tvg-rec="7",Романтичное HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/romantichnoe-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion" tvg-logo="https://cbilling.biz/img/streams/russkij-iluzion.png" tvg-rec="7",Русский Иллюзион
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-iluzion.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion-hd" tvg-logo="https://cbilling.biz/img/streams/russkij-iluzion-hd.png" tvg-rec="7",Русский Иллюзион HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-iluzion-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus" tvg-logo="https://cbilling.biz/img/streams/iluzion-plus.png" tvg-rec="7",Иллюзион +
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/iluzion-plus.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus-hd" tvg-logo="https://cbilling.biz/img/streams/iluzion-plus-hd.png" tvg-rec="7",Иллюзион + HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/iluzion-plus-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="https://cbilling.biz/img/streams/lubimoe-kino.png" tvg-rec="7",Любимое Кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/lubimoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="https://cbilling.biz/img/streams/nashe-novoe-kino.png" tvg-rec="7",Наше новое кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/nashe-novoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="https://cbilling.biz/img/streams/evrokino.png" tvg-rec="7",Еврокино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/evrokino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino-hd" tvg-logo="https://cbilling.biz/img/streams/evrokino-hd.png" tvg-rec="7",Еврокино HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/evrokino-hd.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="https://cbilling.biz/img/streams/tv-xxi.png" tvg-rec="7",TV XXI
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/tv-xxi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="https://cbilling.biz/img/streams/mnogo-tv.png" tvg-rec="7",Кинoсерия
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/mnogo-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="https://cbilling.biz/img/streams/nostalgia.png" tvg-rec="7",Ностальгия
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/nostalgia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="https://cbilling.biz/img/streams/retro.png" tvg-rec="7",Ретро ТВ
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/retro.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="https://cbilling.biz/img/streams/dom-kino.png" tvg-rec="7",Дом Кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/dom-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="bollywood" tvg-logo="https://cbilling.biz/img/streams/bollywood.png" tvg-rec="7",Bollywood HD
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/bollywood.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="https://cbilling.biz/img/streams/indija-tv.png" tvg-rec="7",Индийское Кино
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/indija-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="https://cbilling.biz/img/streams/zee-tv.png" tvg-rec="7",Zee TV
+#EXTGRP:Кино
+http://s04.iptvx.tv:8090/s/ebf76248/zee-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol" tvg-logo="https://cbilling.biz/img/streams/nash-futbol.png" tvg-rec="7",Матч Премьер
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/nash-futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-premier-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-premier-hd-orig.png" tvg-rec="7",Матч Премьер HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-premier-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol" tvg-logo="https://cbilling.biz/img/streams/futbol.png" tvg-rec="7",Футбол
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1" tvg-logo="https://cbilling.biz/img/streams/match-futbol-1.png" tvg-rec="7",МАТЧ! Футбол 1
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-1.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-futbol-1-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 1 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-1-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2" tvg-logo="https://cbilling.biz/img/streams/match-futbol-2.png" tvg-rec="7",МАТЧ! Футбол 2
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-futbol-2-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 2 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-2-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3" tvg-logo="https://cbilling.biz/img/streams/match-futbol-3.png" tvg-rec="7",МАТЧ! Футбол 3
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-3.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-futbol-3-hd-orig.png" tvg-rec="7",МАТЧ! Футбол 3 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-futbol-3-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match" tvg-logo="https://cbilling.biz/img/streams/match.png" tvg-rec="7",Матч ТВ
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-tv-hd-orig.png" tvg-rec="7",Матч ТВ HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-tv-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="https://cbilling.biz/img/streams/match-igra.png" tvg-rec="7",Матч! Игра
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-igra.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-igra-hd-orig.png" tvg-rec="7",Матч! Игра HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-igra-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="https://cbilling.biz/img/streams/match-arena.png" tvg-rec="7",Матч! Арена
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-arena.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena-hd-orig" tvg-logo="https://cbilling.biz/img/streams/match-arena-hd-orig.png" tvg-rec="7",Матч! Арена HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-arena-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-nash-sport" tvg-logo="https://cbilling.biz/img/streams/match-nash-sport.png" tvg-rec="7",Матч! Страна
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-nash-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-planeta" tvg-logo="https://cbilling.biz/img/streams/match-planeta.png" tvg-rec="7",Матч! Планета
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-planeta.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv" tvg-logo="https://cbilling.biz/img/streams/khl-tv.png" tvg-rec="7",КХЛ
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/khl-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv-hd-orig" tvg-logo="https://cbilling.biz/img/streams/khl-tv-hd-orig.png" tvg-rec="7",КХЛ ТВ HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/khl-tv-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="mir-basketbola" tvg-logo="https://cbilling.biz/img/streams/mir-basketbola.png" tvg-rec="7",Мир Баскетбола
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/mir-basketbola.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="https://cbilling.biz/img/streams/viasat-sport.png" tvg-rec="7",Viasat Sport
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport-hd-orig" tvg-logo="https://cbilling.biz/img/streams/viasat-sport-hd-orig.png" tvg-rec="7",Viasat Sport HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-sport-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport" tvg-logo="https://cbilling.biz/img/streams/evrosport.png" tvg-rec="7",Eurosport
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/evrosport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport-hd-orig" tvg-logo="https://cbilling.biz/img/streams/eurosport-hd-orig.png" tvg-rec="7",Eurosport HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="evrosport-2" tvg-logo="https://cbilling.biz/img/streams/evrosport-2.png" tvg-rec="7",Eurosport 2
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/evrosport-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport2-hd-orig" tvg-logo="https://cbilling.biz/img/streams/eurosport2-hd-orig.png" tvg-rec="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport2-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport-gold-hd-orig" tvg-logo="https://cbilling.biz/img/streams/eurosport-gold-hd-orig.png" tvg-rec="7",Eurosport Gold HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport-gold-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-hd-orig" tvg-logo="https://cbilling.biz/img/streams/setanta-sport-hd-orig.png" tvg-rec="7",Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-plus-hd-orig" tvg-logo="https://cbilling.biz/img/streams/setanta-sport-plus-hd-orig.png" tvg-rec="7",Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-plus-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="setanta-sport-ua-hd-orig" tvg-logo="https://cbilling.biz/img/streams/setanta-sport-ua-hd-orig.png" tvg-rec="7",Setanta Sports Ukraine HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/setanta-sport-ua-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="apl1-hd-orig" tvg-logo="https://cbilling.biz/img/streams/apl1-hd.png" tvg-rec="7",PL 1 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/apl1-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="apl2" tvg-logo="https://cbilling.biz/img/streams/apl2.png" tvg-rec="7",PL 2
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/apl2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="apl2-hd-orig" tvg-logo="https://cbilling.biz/img/streams/apl2-hd-orig.png" tvg-rec="7",PL 2 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/apl2-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol1-ua" tvg-logo="https://cbilling.biz/img/streams/futbol1-ua.png" tvg-rec="7",Футбол 1
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol1-hd-orig" tvg-logo="https://cbilling.biz/img/streams/futbol1-hd-orig.png" tvg-rec="7",Футбол 1 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol1-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol2-ua" tvg-logo="https://cbilling.biz/img/streams/futbol2-ua.png" tvg-rec="7",Футбол 2
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol2-hd-orig" tvg-logo="https://cbilling.biz/img/streams/futbol2-hd-orig.png" tvg-rec="7",Футбол 2 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol2-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol3-ua" tvg-logo="https://cbilling.biz/img/streams/futbol3-ua.png" tvg-rec="7",Футбол 3
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol3-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol3-ua-hd-orig" tvg-logo="https://cbilling.biz/img/streams/futbol3-ua-hd-orig.png" tvg-rec="7",Футбол 3 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/futbol3-ua-hd-orig.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="https://cbilling.biz/img/streams/sport1-ua.png" tvg-rec="7",Спорт 1
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/sport1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="https://cbilling.biz/img/streams/sport2-ua.png" tvg-rec="7",Спорт 2
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/sport2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="xsport" tvg-logo="https://cbilling.biz/img/streams/xsport.png" tvg-rec="7",XSport
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/xsport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-tv" tvg-logo="https://cbilling.biz/img/streams/m1-global-tv.png" tvg-rec="7",M-1 Global
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/m1-global-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global-hd" tvg-logo="https://cbilling.biz/img/streams/m1-global-hd.png" tvg-rec="7",M-1 Global HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/m1-global-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="ufc-hd" tvg-logo="https://cbilling.biz/img/streams/ufc-hd.png" tvg-rec="7",UFC HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/ufc-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec" tvg-logo="https://cbilling.biz/img/streams/match-boec.png" tvg-rec="7",МАТЧ! Боец
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/match-boec.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="boks-tv" tvg-logo="https://cbilling.biz/img/streams/boks-tv.png" tvg-rec="7",Бокс ТВ
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/boks-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="super-tennis-hd" tvg-logo="https://cbilling.biz/img/streams/super-tennis-hd.png" tvg-rec="7",Super Tennis HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/super-tennis-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="https://cbilling.biz/img/streams/tochka-otryva.png" tvg-rec="0",Точка Отрыва
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/tochka-otryva.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva-hd" tvg-logo="https://cbilling.biz/img/streams/tochka-otryva-hd.png" tvg-rec="0",Точка Отрыва HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/tochka-otryva-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="russkij-extrim-hd" tvg-logo="https://cbilling.biz/img/streams/russkij-extrim-hd.png" tvg-rec="7",Русский Экстрим HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-extrim-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="https://cbilling.biz/img/streams/extreme-sports.png" tvg-rec="0",Extreme Sports
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/extreme-sports.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-plus" tvg-logo="https://cbilling.biz/img/streams/avto-plus.png" tvg-rec="7",Авто Плюс
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/avto-plus.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="auto-plus-hd" tvg-logo="https://cbilling.biz/img/streams/auto-plus-hd.png" tvg-rec="7",Авто Плюс HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/auto-plus-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24" tvg-logo="https://cbilling.biz/img/streams/avto-24.png" tvg-rec="7",Авто 24
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/avto-24.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="avto-24-hd" tvg-logo="https://cbilling.biz/img/streams/avto-24-hd.png" tvg-rec="7",Авто 24 HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/avto-24-hd.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="drive" tvg-logo="https://cbilling.biz/img/streams/drive.png" tvg-rec="7",Драйв
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/drive.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-ua" tvg-logo="https://cbilling.biz/img/streams/pervyj-avto-ua.png" tvg-rec="7",Первый Автомобильный
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-avto-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="pervyj-avto-hd-ua" tvg-logo="https://cbilling.biz/img/streams/pervyj-avto-hd-ua.png" tvg-rec="7",Первый Автомобильный HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-avto-hd-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="motorsport-hd" tvg-logo="https://cbilling.biz/img/streams/motorsport-hd.png" tvg-rec="7",Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://s04.iptvx.tv:8090/s/ebf76248/motorsport-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel" tvg-logo="https://cbilling.biz/img/streams/karusel.png" tvg-rec="7",Карусель
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/karusel.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="https://cbilling.biz/img/streams/multimania.png" tvg-rec="7",Мультимания
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/multimania.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="https://cbilling.biz/img/streams/detskij-mir.png" tvg-rec="7",Детский мир
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/detskij-mir.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detksij" tvg-logo="https://cbilling.biz/img/streams/detksij.png" tvg-rec="7",Уникум
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/detksij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-hd" tvg-logo="https://cbilling.biz/img/streams/detskij-hd.png" tvg-rec="7",Уникум HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/detskij-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka" tvg-logo="https://cbilling.biz/img/streams/gosti-skazka.png" tvg-rec="7",В гостях у сказки
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/gosti-skazka.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="mult" tvg-logo="https://cbilling.biz/img/streams/mult.png" tvg-rec="7",Мульт
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/mult.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="strana" tvg-logo="https://cbilling.biz/img/streams/strana.png" tvg-rec="7",Мультимузыка
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/strana.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids" tvg-logo="https://cbilling.biz/img/streams/ctc-kids.png" tvg-rec="7",СТС Kids
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/ctc-kids.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids-hd" tvg-logo="https://cbilling.biz/img/streams/ctc-kids-hd.png" tvg-rec="7",СТС Kids HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/ctc-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij" tvg-logo="https://cbilling.biz/img/streams/ryzhij.png" tvg-rec="7",Рыжий
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/ryzhij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tlum-hd" tvg-logo="https://cbilling.biz/img/streams/tlum-hd.png" tvg-rec="7",Мульт HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/tlum-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="disney" tvg-logo="https://cbilling.biz/img/streams/disney.png" tvg-rec="7",Disney Channel
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/disney.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon" tvg-logo="https://cbilling.biz/img/streams/nickelodeon.png" tvg-rec="7",Nickelodeon
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nickelodeon.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon-hd" tvg-logo="https://cbilling.biz/img/streams/nickelodeon-hd.png" tvg-rec="7",Nickelodeon HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nickelodeon-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="https://cbilling.biz/img/streams/cartoon-network.png" tvg-rec="7",Cartoon Network
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/cartoon-network.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network-hd" tvg-logo="https://cbilling.biz/img/streams/cartoon-network-hd.png" tvg-rec="7",Cartoon Network HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/cartoon-network-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ginger-hd" tvg-logo="https://cbilling.biz/img/streams/ginger-hd.png" tvg-rec="7",Капитан Фантастика HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/ginger-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ani" tvg-logo="https://cbilling.biz/img/streams/ani.png" tvg-rec="7",Ani
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/ani.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr" tvg-logo="https://cbilling.biz/img/streams/nickjr.png" tvg-rec="7",Nick Jr
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nickjr.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr-en" tvg-logo="https://cbilling.biz/img/streams/nickjr-en.png" tvg-rec="7",NickJr Eng
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nickjr-en.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tiji" tvg-logo="https://cbilling.biz/img/streams/tiji.png" tvg-rec="7",TiJi
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/tiji.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="jimjam" tvg-logo="https://cbilling.biz/img/streams/jimjam.png" tvg-rec="7",JimJam
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/jimjam.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gulli" tvg-logo="https://cbilling.biz/img/streams/gulli.png" tvg-rec="7",Gulli
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/gulli.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="boomerang" tvg-logo="https://cbilling.biz/img/streams/boomerang.png" tvg-rec="7",Boomerang
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/boomerang.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="2x2" tvg-logo="https://cbilling.biz/img/streams/2x2.png" tvg-rec="7",2x2
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/2x2.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan" tvg-logo="https://cbilling.biz/img/streams/fan.png" tvg-rec="7",FAN
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/fan.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="fan-hd" tvg-logo="https://cbilling.biz/img/streams/fan-hd.png" tvg-rec="7",FAN HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/fan-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o" tvg-logo="https://cbilling.biz/img/streams/kanal-o.png" tvg-rec="7",О!
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/kanal-o.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-junior-hd" tvg-logo="https://cbilling.biz/img/streams/nikki-junior-hd.png" tvg-rec="7",Niki Junior HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nikki-junior-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nikki-kids-hd" tvg-logo="https://cbilling.biz/img/streams/nikki-kids-hd.png" tvg-rec="7",Niki Kids HD
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/nikki-kids-hd.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="plus-plus2" tvg-logo="https://cbilling.biz/img/streams/plus-plus2.png" tvg-rec="7",ПлюсПлюс
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/plus-plus2.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="pixel-ua" tvg-logo="https://cbilling.biz/img/streams/pixel-ua.png" tvg-rec="7",Піксель
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/pixel-ua.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="malyatko-tv-ua" tvg-logo="https://cbilling.biz/img/streams/malyatko-tv-ua.png" tvg-rec="7",Малятко TV
+#EXTGRP:Мультфильмы
+http://s04.iptvx.tv:8090/s/ebf76248/malyatko-tv-ua.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="https://cbilling.biz/img/streams/national-geographic.png" tvg-rec="7",National Geographic
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/national-geographic.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-hd-orig" tvg-logo="https://cbilling.biz/img/streams/nat-geo-hd-orig.png" tvg-rec="7",National Geographic HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/nat-geo-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery" tvg-logo="https://cbilling.biz/img/streams/discovery.png" tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/discovery.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-hd-orig" tvg-logo="https://cbilling.biz/img/streams/discovery-hd-orig.png" tvg-rec="7",Discovery Channel HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/discovery-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-showcase-hd-orig" tvg-logo="https://cbilling.biz/img/streams/discovery-showcase-hd-orig.png" tvg-rec="7",Discovery HD Showcase
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/discovery-showcase-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science" tvg-logo="https://cbilling.biz/img/streams/discovery-science.png" tvg-rec="7",Discovery Science
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/discovery-science.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery-science-hd-orig" tvg-logo="https://cbilling.biz/img/streams/discovery-science-hd-orig.png" tvg-rec="7",Discovery Science HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/discovery-science-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx" tvg-logo="https://cbilling.biz/img/streams/dtx.png" tvg-rec="7",DTX
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/dtx.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dtx-hd-orig" tvg-logo="https://cbilling.biz/img/streams/dtx-hd-orig.png" tvg-rec="7",DTX HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/dtx-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra" tvg-logo="https://cbilling.biz/img/streams/id-xtra.png" tvg-rec="7",ID Xtra
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/id-xtra.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra-hd-orig" tvg-logo="https://cbilling.biz/img/streams/id-xtra-hd-orig.png" tvg-rec="7",ID Xtra HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/id-xtra-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc" tvg-logo="https://cbilling.biz/img/streams/tlc.png" tvg-rec="7",TLC
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/tlc.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc-hd-orig" tvg-logo="https://cbilling.biz/img/streams/tlc-hd-orig.png" tvg-rec="7",TLC HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/tlc-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="https://cbilling.biz/img/streams/animal-planet.png" tvg-rec="7",Animal planet
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/animal-planet.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet-hd-orig" tvg-logo="https://cbilling.biz/img/streams/animal-planet-hd-orig.png" tvg-rec="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/animal-planet-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="https://cbilling.biz/img/streams/nat-geo-wild.png" tvg-rec="7",Nat Geo Wild
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/nat-geo-wild.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild-hd-orig" tvg-logo="https://cbilling.biz/img/streams/nat-geo-wild-hd-orig.png" tvg-rec="7",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/nat-geo-wild-hd-orig.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-family-hd" tvg-logo="https://cbilling.biz/img/streams/animal-family-hd.png" tvg-rec="7",В мире животных HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/animal-family-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="https://cbilling.biz/img/streams/viasat-nature.png" tvg-rec="7",Viasat Nature
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-nature.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature-hd" tvg-logo="https://cbilling.biz/img/streams/viasat-nature-hd.png" tvg-rec="7",Viasat Nature HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-nature-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd-test" tvg-logo="https://cbilling.biz/img/streams/viasat-history-hd-test.png" tvg-rec="7",Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-history-hd-test.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explorer" tvg-logo="https://cbilling.biz/img/streams/viasat-explorer.png" tvg-rec="7",Viasat Explore
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-explorer.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore-hd" tvg-logo="https://cbilling.biz/img/streams/viasat-explore-hd.png" tvg-rec="7",Viasat Explore HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-explore-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="https://cbilling.biz/img/streams/moya-planeta.png" tvg-rec="7",Моя планета
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/moya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="planeta-hd" tvg-logo="https://cbilling.biz/img/streams/planeta-hd.png" tvg-rec="7",Моя планета HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/planeta-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="https://cbilling.biz/img/streams/zhivaya-planeta.png" tvg-rec="7",Живая Планета
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/zhivaya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaja-priroda-hd" tvg-logo="https://cbilling.biz/img/streams/zhivaja-priroda-hd.png" tvg-rec="7",Живая природа HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/zhivaja-priroda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="https://cbilling.biz/img/streams/travel-channel.png" tvg-rec="7",Travel Channel
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/travel-channel.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel-hd" tvg-logo="https://cbilling.biz/img/streams/travel-channel-hd.png" tvg-rec="7",Travel Channel HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/travel-channel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="https://cbilling.biz/img/streams/travel-adventure.png" tvg-rec="7",Travel+Adventure
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/travel-adventure.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure-hd" tvg-logo="https://cbilling.biz/img/streams/travel-adventure-hd.png" tvg-rec="7",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/travel-adventure-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teletravel-hd" tvg-logo="https://cbilling.biz/img/streams/teletravel-hd.png" tvg-rec="7",Приключения HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/teletravel-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija" tvg-logo="https://cbilling.biz/img/streams/teleputeshestvija.png" tvg-rec="7",Телепутешествия
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/teleputeshestvija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="glazami-turista-hd" tvg-logo="https://cbilling.biz/img/streams/glazami-turista-hd.png" tvg-rec="7",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/glazami-turista-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-tv" tvg-logo="https://cbilling.biz/img/streams/rtg-tv.png" tvg-rec="7",RTG
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/rtg-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="https://cbilling.biz/img/streams/rtg-hd.png" tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/rtg-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hd-media" tvg-logo="https://cbilling.biz/img/streams/hd-media.png" tvg-rec="7",HD Media
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/hd-media.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="hd-life" tvg-logo="https://cbilling.biz/img/streams/hd-life.png" tvg-rec="7",HD Life
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/hd-life.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="https://cbilling.biz/img/streams/ocean-tv.png" tvg-rec="7",Ocean-TV
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/ocean-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="morskoj" tvg-logo="https://cbilling.biz/img/streams/morskoj.png" tvg-rec="7",Морской
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/morskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="https://cbilling.biz/img/streams/zoopark.png" tvg-rec="7",Зоопарк
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/zoopark.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov" tvg-logo="https://cbilling.biz/img/streams/ohotnik-rybolov.png" tvg-rec="7",Охотник и Рыболов
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/ohotnik-rybolov.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov-hd" tvg-logo="https://cbilling.biz/img/streams/ohotnik-rybolov-hd.png" tvg-rec="7",Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/ohotnik-rybolov-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-ohota-hd" tvg-logo="https://cbilling.biz/img/streams/dikaya-ohota-hd.png" tvg-rec="7",Дикая Охота HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/dikaya-ohota-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="https://cbilling.biz/img/streams/dikaya-rybalka-hd.png" tvg-rec="7",Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/dikaya-rybalka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka" tvg-logo="https://cbilling.biz/img/streams/oxota-rybalka.png" tvg-rec="7",Охота и рыбалка
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/oxota-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="https://cbilling.biz/img/streams/dialogi-rybalka.png" tvg-rec="7",Диалоги о Рыбалке
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/dialogi-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="outdoor-channel" tvg-logo="https://cbilling.biz/img/streams/outdoor-channel.png" tvg-rec="7",Outdoor Channel
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/outdoor-channel.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="https://cbilling.biz/img/streams/oruzhie.png" tvg-rec="7",Оружие
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/oruzhie.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="arsenal-hd" tvg-logo="https://cbilling.biz/img/streams/arsenal-hd.png" tvg-rec="7",Арсенал HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/arsenal-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj" tvg-logo="https://cbilling.biz/img/streams/muzhskoj.png" tvg-rec="7",Мужской
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/muzhskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fine-living" tvg-logo="https://cbilling.biz/img/streams/fine-living.png" tvg-rec="7",Fine Living
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/fine-living.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fine-living-hd" tvg-logo="https://cbilling.biz/img/streams/fine-living-hd.png" tvg-rec="7",Fine Living HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/fine-living-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="cbs-reality" tvg-logo="https://cbilling.biz/img/streams/cbs-reality.png" tvg-rec="7",CBS Reality
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/cbs-reality.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="https://cbilling.biz/img/streams/nauka-20.png" tvg-rec="7",Наука
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/nauka-20.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka-hd" tvg-logo="https://cbilling.biz/img/streams/nauka-hd.png" tvg-rec="7",Наука HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/nauka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="t24" tvg-logo="https://cbilling.biz/img/streams/t24.png" tvg-rec="7",24 Техно
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/t24.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="galaxy-hd" tvg-logo="https://cbilling.biz/img/streams/galaxy-hd.png" tvg-rec="7",Galaxy TV
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/galaxy-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="https://cbilling.biz/img/streams/eureka-hd.png" tvg-rec="7",Eureka HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/eureka-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="https://cbilling.biz/img/streams/da-vinci-learning.png" tvg-rec="7",Da Vinci Learning
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/da-vinci-learning.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history" tvg-logo="https://cbilling.biz/img/streams/history.png" tvg-rec="7",History
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="history-hd" tvg-logo="https://cbilling.biz/img/streams/history-hd.png" tvg-rec="7",History HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="h2-hd" tvg-logo="https://cbilling.biz/img/streams/h2-hd.png" tvg-rec="7",H2 HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/h2-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="https://cbilling.biz/img/streams/viasat-history.png" tvg-rec="7",Viasat History
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history-hd" tvg-logo="https://cbilling.biz/img/streams/viasat-history-hd.png" tvg-rec="7",Viasat History HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/viasat-history-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istorija" tvg-logo="https://cbilling.biz/img/streams/istorija.png" tvg-rec="7",История
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/istorija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="https://cbilling.biz/img/streams/365-dnej.png" tvg-rec="7",365 Дней
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/365-dnej.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="https://cbilling.biz/img/streams/kto-est-kto.png" tvg-rec="7",Кто есть кто
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/kto-est-kto.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno" tvg-logo="https://cbilling.biz/img/streams/sovershenno-sekretno.png" tvg-rec="7",Сов. Секретно
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/sovershenno-sekretno.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teatr-tv" tvg-logo="https://cbilling.biz/img/streams/teatr-tv.png" tvg-rec="7",Театр
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/teatr-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="pervyj-obrazovatelnyj" tvg-logo="https://cbilling.biz/img/streams/pervyj-obrazovatelnyj.png" tvg-rec="7",Первый образовательный
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-obrazovatelnyj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="psihologija-21" tvg-logo="https://cbilling.biz/img/streams/psihologija-21.png" tvg-rec="7",Психология21
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/psihologija-21.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="https://cbilling.biz/img/streams/zdorovoe-tv.png" tvg-rec="7",Доктор
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/zdorovoe-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety" tvg-logo="https://cbilling.biz/img/streams/voprosy-otvety.png" tvg-rec="7",Вопросы и ответы
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/voprosy-otvety.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="https://cbilling.biz/img/streams/zhivi.png" tvg-rec="7",Живи
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/zhivi.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="mama" tvg-logo="https://cbilling.biz/img/streams/mama.png" tvg-rec="7",Мама
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/mama.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="https://cbilling.biz/img/streams/usadba.png" tvg-rec="7",Усадьба
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/usadba.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="https://cbilling.biz/img/streams/domashnije-zhivotnye.png" tvg-rec="7",Домашние животные
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/domashnije-zhivotnye.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="https://cbilling.biz/img/streams/bober.png" tvg-rec="7",Бобер
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/bober.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="english-club" tvg-logo="https://cbilling.biz/img/streams/english-club.png" tvg-rec="7",English Club TV
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/english-club.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kanal-e-hd" tvg-logo="https://cbilling.biz/img/streams/kanal-e-hd.png" tvg-rec="7",E HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/kanal-e-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="fashion-tv" tvg-logo="https://cbilling.biz/img/streams/fashion-tv.png" tvg-rec="7",Fashion TV
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/world-fashion.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda" tvg-logo="https://cbilling.biz/img/streams/eda.png" tvg-rec="7",Еда
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/eda.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda-hd" tvg-logo="https://cbilling.biz/img/streams/eda-hd.png" tvg-rec="7",ЕДА HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/eda-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="food-network" tvg-logo="https://cbilling.biz/img/streams/food-network.png" tvg-rec="7",Food Network
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/food-network.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="food-network-hd" tvg-logo="https://cbilling.biz/img/streams/food-network-hd.png" tvg-rec="7",Food Network HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/food-network-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv" tvg-logo="https://cbilling.biz/img/streams/kuxnya-tv.png" tvg-rec="7",Кухня ТВ
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/kuxnya-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kyxnya-hd" tvg-logo="https://cbilling.biz/img/streams/kyxnya-hd.png" tvg-rec="7",Кухня ТВ HD
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/kyxnya-hd.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="telekafe" tvg-logo="https://cbilling.biz/img/streams/telekafe.png" tvg-rec="7",Телекафе
+#EXTGRP:Познавательные
+http://s04.iptvx.tv:8090/s/ebf76248/telekafe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="1hd" tvg-logo="https://cbilling.biz/img/streams/1hd.png" tvg-rec="0",1HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/1hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-russia" tvg-logo="https://cbilling.biz/img/streams/mtv-russia.png" tvg-rec="0",MTV Russia
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-russia.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-russia-hd" tvg-logo="https://cbilling.biz/img/streams/mtv-russia-hd.png" tvg-rec="0",MTV Russia HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-russia-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv" tvg-logo="https://cbilling.biz/img/streams/muz-tv.png" tvg-rec="0",МУЗ
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/muz-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="https://cbilling.biz/img/streams/muzyka-pervogo.png" tvg-rec="0",Музыка Первого
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/muzyka-pervogo.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv" tvg-logo="https://cbilling.biz/img/streams/evropa-plus-tv.png" tvg-rec="0",Europa Plus TV
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/evropa-plus-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-russian" tvg-logo="https://cbilling.biz/img/streams/music-box-russian.png" tvg-rec="0",Music Box
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/music-box-russian.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="https://cbilling.biz/img/streams/tnt-music.png" tvg-rec="0",ТНТ Music
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/tnt-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="https://cbilling.biz/img/streams/ru-tv.png" tvg-rec="0",RU TV
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara" tvg-logo="https://cbilling.biz/img/streams/zhara.png" tvg-rec="0",Жара
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/zhara.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara-hd" tvg-logo="https://cbilling.biz/img/streams/zhara.png" tvg-rec="0",Жара HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/zhara-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="o2-tv-hd" tvg-logo="https://cbilling.biz/img/streams/o2-tv-hd.png" tvg-rec="0",О2 ТВ HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/o2-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="nashe-tv" tvg-logo="https://cbilling.biz/img/streams/nashe-tv.png" tvg-rec="0",Наше ТВ
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/nashe-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="https://cbilling.biz/img/streams/bridge-tv.png" tvg-rec="0",Bridge TV
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/bridge-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hd" tvg-logo="https://cbilling.biz/img/streams/bridge-tv-hd.png" tvg-rec="0",Bridge TV Deluxe HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/bridge-tv-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="rusong-tv" tvg-logo="https://cbilling.biz/img/streams/rusong-tv.png" tvg-rec="0",BRIDGE TV Русский Хит
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/rusong-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic" tvg-logo="https://cbilling.biz/img/streams/bridge-classic.png" tvg-rec="0",Bridge TV Classic
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/bridge-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="dance-tv" tvg-logo="https://cbilling.biz/img/streams/dance-tv.png" tvg-rec="0",Bridge TV Hits
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/dance-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="https://cbilling.biz/img/streams/la-minor.png" tvg-rec="0",Ля-минор
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/la-minor.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="https://cbilling.biz/img/streams/shanson-tv.png" tvg-rec="0",Шансон ТВ
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/shanson-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="c-music-hd" tvg-logo="https://cbilling.biz/img/streams/c-music-hd.png" tvg-rec="0",C Music TV
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/c-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="iconcerts-hd" tvg-logo="https://cbilling.biz/img/streams/iconcerts-hd.png" tvg-rec="0",iConcerts
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/iconcerts-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mezzo-hd" tvg-logo="https://cbilling.biz/img/streams/mezzo-hd.png" tvg-rec="0",Mezzo Live HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mezzo-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-live-hd" tvg-logo="https://cbilling.biz/img/streams/mtv-live-hd.png" tvg-rec="0",MTV Live HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-live-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm" tvg-logo="https://cbilling.biz/img/streams/mcm.png" tvg-rec="0",MCM
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mcm.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-hits" tvg-logo="https://cbilling.biz/img/streams/mtv-hits.png" tvg-rec="0",MTV Hits
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-dance" tvg-logo="https://cbilling.biz/img/streams/mtv-dance.png" tvg-rec="0",MTV Dance
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-dance.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mtv-rocks" tvg-logo="https://cbilling.biz/img/streams/mtv-rocks.png" tvg-rec="0",MTV Rocks
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/mtv-rocks.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="https://cbilling.biz/img/streams/vh1-europe.png" tvg-rec="0",VH1 European
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/vh1-europe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-classic" tvg-logo="https://cbilling.biz/img/streams/vh1-classic.png" tvg-rec="0",VH1 Classic
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/vh1-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="4ever-music-hd" tvg-logo="https://cbilling.biz/img/streams/4ever-music-hd.png" tvg-rec="0",4ever Music HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/4ever-music-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="eu-music-hd" tvg-logo="https://cbilling.biz/img/streams/eu-music-hd.png" tvg-rec="0",EU Music HD
+#EXTGRP:Музыкальные
+http://s04.iptvx.tv:8090/s/ebf76248/eu-music-hd.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="pervyj-plus-2" tvg-logo="https://cbilling.biz/img/streams/pervyj-plus-2.png" tvg-rec="0",Первый канал (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija1-plus-2" tvg-logo="https://cbilling.biz/img/streams/rossija1-plus-2.png" tvg-rec="0",Россия 1 (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/rossija1-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="ntv-plus-2" tvg-logo="https://cbilling.biz/img/streams/ntv-plus-2.png" tvg-rec="0",НТВ (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tnt-plus-2" tvg-logo="https://cbilling.biz/img/streams/tnt-plus-2.png" tvg-rec="0",ТНТ (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/tnt-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="sts-plus-2" tvg-logo="https://cbilling.biz/img/streams/sts-plus-2.png" tvg-rec="0",СТС (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/sts-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rentv-plus-2" tvg-logo="https://cbilling.biz/img/streams/rentv-plus-2.png" tvg-rec="0",РЕН ТВ (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/rentv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="domashnij-plus-2" tvg-logo="https://cbilling.biz/img/streams/domashnij-plus-2.png" tvg-rec="0",Домашний (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/domashnij-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="piatnica-plus-2" tvg-logo="https://cbilling.biz/img/streams/piatnica-plus-2.png" tvg-rec="0",Пятница (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/piatnica-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tvc-plus-2" tvg-logo="https://cbilling.biz/img/streams/tvc-plus-2.png" tvg-rec="0",ТВЦ (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/tvc-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tv3-plus-2" tvg-logo="https://cbilling.biz/img/streams/tv3-plus-2.png" tvg-rec="0",ТВ3 (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/tv3-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="zvezda-plus-2" tvg-logo="https://cbilling.biz/img/streams/zvezda-plus-2.png" tvg-rec="0",Звезда (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/zvezda-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="mir-plus-2" tvg-logo="https://cbilling.biz/img/streams/mir-plus-2.png" tvg-rec="0",Мир (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/mir-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="5kanal-plus-2" tvg-logo="https://cbilling.biz/img/streams/5kanal-plus-2.png" tvg-rec="0",5 канал (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/5kanal-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="otp-plus-2" tvg-logo="https://cbilling.biz/img/streams/otp-plus-2.png" tvg-rec="0",ОТР (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/otp-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija-k-plus-2" tvg-logo="https://cbilling.biz/img/streams/rossija-k-plus-2.png" tvg-rec="0",Россия-Культура (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/rossija-k-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="match-plus-2" tvg-logo="https://cbilling.biz/img/streams/match-plus-2.png" tvg-rec="0",Матч ТВ (+2)
+#EXTGRP:Россия +2ч
+http://s04.iptvx.tv:8090/s/ebf76248/match-plus-2.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-plus-4" tvg-logo="https://cbilling.biz/img/streams/pervyj-plus-4.png" tvg-rec="0",Первый канал (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-hd-plus-4" tvg-logo="https://cbilling.biz/img/streams/pervyj-hd-plus-4.png" tvg-rec="0",Первый канал HD (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-hd-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rossija1-plus-4" tvg-logo="https://cbilling.biz/img/streams/rossija1-plus-4.png" tvg-rec="0",Россия 1 (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/rossija1-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="ntv-plus-4" tvg-logo="https://cbilling.biz/img/streams/ntv-plus-4.png" tvg-rec="0",НТВ (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tnt-plus-4" tvg-logo="https://cbilling.biz/img/streams/tnt-plus-4.png" tvg-rec="0",ТНТ (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/tnt-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rentv-plus-4" tvg-logo="https://cbilling.biz/img/streams/rentv-plus-4.png" tvg-rec="0",РЕН ТВ (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/rentv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="sts-plus-4" tvg-logo="https://cbilling.biz/img/streams/sts-plus-4.png" tvg-rec="0",СТС (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/sts-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="domashnij-plus-4" tvg-logo="https://cbilling.biz/img/streams/domashnij-plus-4.png" tvg-rec="0",Домашний (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/domashnij-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="zvezda-plus-4" tvg-logo="https://cbilling.biz/img/streams/zvezda-plus-4.png" tvg-rec="0",Звезда (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/zvezda-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="mir-plus-4" tvg-logo="https://cbilling.biz/img/streams/mir-plus-4.png" tvg-rec="0",Мир (+4)
+#EXTGRP:Россия +4ч
+http://s04.iptvx.tv:8090/s/ebf76248/mir-plus-4.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="112-ua" tvg-logo="https://cbilling.biz/img/streams/112-ua.png" tvg-rec="7",112 Украина
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/112-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="112-ua-hd" tvg-logo="https://cbilling.biz/img/streams/112-ua-hd.png" tvg-rec="7",112 Украина HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/112-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="news-one-ua" tvg-logo="https://cbilling.biz/img/streams/news-one-ua.png" tvg-rec="7",NewsONE
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/news-one-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="news-one-ua-hd" tvg-logo="https://cbilling.biz/img/streams/news-one-ua-hd.png" tvg-rec="7",NewsOne HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/news-one-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="24tv-ua" tvg-logo="https://cbilling.biz/img/streams/24tv-ua.png" tvg-rec="0",24 Канал
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/24tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="chptv-ua" tvg-logo="https://cbilling.biz/img/streams/chptv-ua.png" tvg-rec="0",ЧП Info
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/chptv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn" tvg-logo="https://cbilling.biz/img/streams/ntn.png" tvg-rec="7",НТН
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/ntn.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet" tvg-logo="https://cbilling.biz/img/streams/tet.png" tvg-rec="7",ТЕТ
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/tet.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="plus-plus" tvg-logo="https://cbilling.biz/img/streams/plus-plus.png" tvg-rec="0",Eспресо TV
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/plus-plus.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-ua" tvg-logo="https://cbilling.biz/img/streams/tonis-ua.png" tvg-rec="0",Прямий
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/tonis-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-hd-ua" tvg-logo="https://cbilling.biz/img/streams/tonis-hd-ua.png" tvg-rec="0",Прямий HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/tonis-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kanal-nash" tvg-logo="https://cbilling.biz/img/streams/kanal-nash.png" tvg-rec="0",Наш
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/kanal-nash.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua" tvg-logo="https://cbilling.biz/img/streams/k1-ua.png" tvg-rec="7",K1
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/k1-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k2-ua" tvg-logo="https://cbilling.biz/img/streams/k2-ua.png" tvg-rec="0",K2
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/k2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kvartal-tv-ua" tvg-logo="https://cbilling.biz/img/streams/kvartal-tv-ua.png" tvg-rec="7",Квартал ТВ
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/kvartal-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina" tvg-logo="https://cbilling.biz/img/streams/5kanal-ukraina.png" tvg-rec="7",5 канал UA
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/5kanal-ukraina.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="zik-hd-ua" tvg-logo="https://cbilling.biz/img/streams/zik-hd-ua.png" tvg-rec="7",Zik HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/zik-hd-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="gromadske-tv-ua" tvg-logo="https://cbilling.biz/img/streams/gromadske-tv-ua.png" tvg-rec="0",Громадське
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/gromadske-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua" tvg-logo="https://cbilling.biz/img/streams/enter-film-ua.png" tvg-rec="7",Enter-фільм
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/enter-film-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bolt-ua" tvg-logo="https://cbilling.biz/img/streams/bolt-ua.png" tvg-rec="7",Болт
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/bolt-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bolt-ua-hd" tvg-logo="https://cbilling.biz/img/streams/bolt-ua-hd.png" tvg-rec="7",Болт HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/bolt-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv" tvg-logo="https://cbilling.biz/img/streams/ictv.png" tvg-rec="7",ICTV
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/ictv.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv-ua-hd" tvg-logo="https://cbilling.biz/img/streams/ictv-ua-hd.png" tvg-rec="7",ICTV HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/ictv-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb" tvg-logo="https://cbilling.biz/img/streams/stb.png" tvg-rec="7",СТБ
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/stb.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb-ua-hd" tvg-logo="https://cbilling.biz/img/streams/stb-ua-hd.png" tvg-rec="7",СТБ HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/stb-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-national-ua" tvg-logo="https://cbilling.biz/img/streams/pervyj-national-ua.png" tvg-rec="7",Перший Національний
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/pervyj-national-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter" tvg-logo="https://cbilling.biz/img/streams/inter.png" tvg-rec="7",Интер
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/inter.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-plus-ua" tvg-logo="https://cbilling.biz/img/streams/inter-plus-ua.png" tvg-rec="7",Интер+
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/inter-plus-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1" tvg-logo="https://cbilling.biz/img/streams/1-plus-1.png" tvg-rec="7",1+1
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/1-plus-1.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1-hd" tvg-logo="https://cbilling.biz/img/streams/1-plus-1-hd.png" tvg-rec="7",1+1 HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/1-plus-1-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua" tvg-logo="https://cbilling.biz/img/streams/2-plus-2-ua.png" tvg-rec="7",2+2
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/2-plus-2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="unian-tv-ua" tvg-logo="https://cbilling.biz/img/streams/unian-tv-ua.png" tvg-rec="0",УНІАН
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/unian-tv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novij-kanal" tvg-logo="https://cbilling.biz/img/streams/novij-kanal.png" tvg-rec="7",Новый Канал
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/novij-kanal.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua-hd" tvg-logo="https://cbilling.biz/img/streams/novyj-kanal-ua-hd.png" tvg-rec="7",Новый Канал HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/novyj-kanal-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="trk-ua" tvg-logo="https://cbilling.biz/img/streams/trk-ua.png" tvg-rec="7",Україна
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/trk-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="trk-ua-hd" tvg-logo="https://cbilling.biz/img/streams/trk-ua-hd.png" tvg-rec="7",Україна HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/trk-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="m1-ua" tvg-logo="https://cbilling.biz/img/streams/m1-ua.png" tvg-rec="7",M1
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/m1-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="m1-ua-hd" tvg-logo="https://cbilling.biz/img/streams/m1-ua-hd.png" tvg-rec="7",M1 HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/m1-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="m2-ua" tvg-logo="https://cbilling.biz/img/streams/m2-ua.png" tvg-rec="0",M2
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/m2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="m2-ua-hd" tvg-logo="https://cbilling.biz/img/streams/m2-ua-hd.png" tvg-rec="7",M2 HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/m2-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oce-ua-hd" tvg-logo="https://cbilling.biz/img/streams/oce-ua-hd.png" tvg-rec="7",ОЦЕ HD
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/oce-ua-hd.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="zoom-ua" tvg-logo="https://cbilling.biz/img/streams/zoom-ua.png" tvg-rec="0",ZOOM
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/zoom-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="mega-ua" tvg-logo="https://cbilling.biz/img/streams/mega-ua.png" tvg-rec="0",Мега
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/mega-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="nlo-ua" tvg-logo="https://cbilling.biz/img/streams/nlo-ua.png" tvg-rec="0",НЛО
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/nlo-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="indigo-ua" tvg-logo="https://cbilling.biz/img/streams/indigo-ua.png" tvg-rec="0",Индиго
+#EXTGRP:Украина
+http://s04.iptvx.tv:8090/s/ebf76248/indigo-ua.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by" tvg-logo="https://cbilling.biz/img/streams/belarus1-by.png" tvg-rec="7",Беларусь 1
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus1-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by-hd" tvg-logo="https://cbilling.biz/img/streams/belarus1-by-hd.png" tvg-rec="7",Беларусь 1 HD
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus1-by-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2" tvg-logo="https://cbilling.biz/img/streams/belarus2.png" tvg-rec="0",Беларусь 2
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus2.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by" tvg-logo="https://cbilling.biz/img/streams/belarus3-by.png" tvg-rec="0",Беларусь 3
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus3-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5" tvg-logo="https://cbilling.biz/img/streams/belarus5.png" tvg-rec="7",Беларусь 5
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus5.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus5-by-hd-orig" tvg-logo="https://cbilling.biz/img/streams/belarus5-by-hd.png" tvg-rec="7",Беларусь 5 HD
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus5-by-hd-orig.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24" tvg-logo="https://cbilling.biz/img/streams/belarus-24.png" tvg-rec="0",Беларусь 24
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus-24.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24-hd" tvg-logo="https://cbilling.biz/img/streams/belarus-24.png" tvg-rec="0",Беларусь 24 HD
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/belarus-24-hd.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by" tvg-logo="https://cbilling.biz/img/streams/ont-by.png" tvg-rec="0",ОНТ BY
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/ont-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="stv-by" tvg-logo="https://cbilling.biz/img/streams/stv-by.png" tvg-rec="0",СТВ Беларусь
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/stv-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="vtv-sts-by" tvg-logo="https://cbilling.biz/img/streams/vtv-sts-by.png" tvg-rec="0",ВТВ
+#EXTGRP:Беларусь
+http://s04.iptvx.tv:8090/s/ebf76248/vtv-sts-by.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="kazahstan" tvg-logo="https://cbilling.biz/img/streams/kazahstan.png" tvg-rec="0",Казахстан
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/kazahstan.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="ktk-kz" tvg-logo="https://cbilling.biz/img/streams/ktk-kz.png" tvg-rec="0",КТК
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/ktk-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="pervyj-evrazija-kz" tvg-logo="https://cbilling.biz/img/streams/pervyj-evrazija-kz.png" tvg-rec="0",Евразия
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/7kanal-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="astana-tv" tvg-logo="https://cbilling.biz/img/streams/astana-tv.png" tvg-rec="0",Astana TV
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/kazakh-tv.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="31kanal-kz" tvg-logo="https://cbilling.biz/img/streams/31kanal-kz.png" tvg-rec="0",31 Канал
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/31kanal-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="ntk-kz" tvg-logo="https://cbilling.biz/img/streams/ntk-kz.png" tvg-rec="0",НТК Казахстан
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/ntk-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="stv-kz" tvg-logo="https://cbilling.biz/img/streams/stv-kz.png" tvg-rec="0",СТВ (Казахстан)
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/stv-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="tan-kz" tvg-logo="https://cbilling.biz/img/streams/tan-kz.png" tvg-rec="0",ON TV kz
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/tan-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="5kanal-kz" tvg-logo="https://cbilling.biz/img/streams/5kanal-kz.png" tvg-rec="0",5 канал kz
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/5kanal-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="kazahstan-karaganda" tvg-logo="https://cbilling.biz/img/streams/kazahstan-karaganda.png" tvg-rec="0",Saryarqa
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/kazahstan-karaganda.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="habar-kz" tvg-logo="https://cbilling.biz/img/streams/habar-kz.png" tvg-rec="0",Хабар
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/habar-kz.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="kazsport" tvg-logo="https://cbilling.biz/img/streams/kazsport.png" tvg-rec="0",KazSport
+#EXTGRP:Казахстан
+http://s04.iptvx.tv:8090/s/ebf76248/kazsport.m3u8
+#EXTINF:0 group-title="Казахстан" tvg-id="asyl-arna-kz" tvg-logo="https://cbilling.biz/img/streams/asyl-arna-kz.png" tvg-rec="0",Асыл Арна
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/ozbekiston.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="yoshlar-uz" tvg-logo="https://cbilling.biz/img/streams/yoshlar-uz.png" tvg-rec="0",Yoshlar UZ
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/yoshlar-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="uzsport-uz" tvg-logo="https://cbilling.biz/img/streams/uzsport-uz.png" tvg-rec="0",UZ SPORT
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/uzsport-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="toskent-uz" tvg-logo="https://cbilling.biz/img/streams/toskent-uz.png" tvg-rec="0",Ташкент
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/toskent-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="medeniyat-va-marafat-uz" tvg-logo="https://cbilling.biz/img/streams/medeniyat-va-marafat-uz.png" tvg-rec="0",Mediniat Va Marafat
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/medeniyat-va-marafat-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="dunyo-uz" tvg-logo="https://cbilling.biz/img/streams/dunyo-uz.png" tvg-rec="0",Dunyo UZ
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/dunyo-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="navo-uz" tvg-logo="https://cbilling.biz/img/streams/navo-uz.png" tvg-rec="0",Navo UZ
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/navo-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="kinoteatr-uz" tvg-logo="https://cbilling.biz/img/streams/kinoteatr-uz.png" tvg-rec="0",Кинотеатр UZ
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/kinoteatr-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="oilaviy-uz" tvg-logo="https://cbilling.biz/img/streams/oilaviy-uz.png" tvg-rec="0",Oilaviy UZ
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/oilaviy-uz.m3u8
+#EXTINF:0 group-title="Узбекистан" tvg-id="mahhala-uz" tvg-logo="https://cbilling.biz/img/streams/mahhala-uz.png" tvg-rec="0",Махала
+#EXTGRP:Узбекистан
+http://s04.iptvx.tv:8090/s/ebf76248/mahhala-uz.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="ar-am" tvg-logo="https://cbilling.biz/img/streams/ar-am.png" tvg-rec="0",AP
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/ar-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="shant-am" tvg-logo="https://cbilling.biz/img/streams/shant-am.png" tvg-rec="0",Shant
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/shant-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="shant-premium-am-hd" tvg-logo="https://cbilling.biz/img/streams/shant-premium-am-hd.png" tvg-rec="0",Shant Premium HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/shant-premium-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="shant-serial-am-hd" tvg-logo="https://cbilling.biz/img/streams/shant-serial-am-hd.png" tvg-rec="0",Shant Serial HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/shant-serial-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="shant-music-am-hd" tvg-logo="https://cbilling.biz/img/streams/shant-music-am-hd.png" tvg-rec="0",Shant Music HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/shant-music-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="arm-news-am-hd" tvg-logo="https://cbilling.biz/img/streams/arm-news-am-hd.png" tvg-rec="0",Armnews
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/arm-news-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="ararat-am" tvg-logo="https://cbilling.biz/img/streams/ararat-am.png" tvg-rec="0",Ararat
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/ararat-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="armenia-tv-am" tvg-logo="https://cbilling.biz/img/streams/armenia-tv-am.png" tvg-rec="0",Armenia TV
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/armenia-tv-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="armenija-hd" tvg-logo="https://cbilling.biz/img/streams/armenija-hd.png" tvg-rec="0",Armenia TV HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/armenija-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="armenija-1" tvg-logo="https://cbilling.biz/img/streams/armenija-1.png" tvg-rec="0",Armenia 1 TV
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/armenija-1.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="h1-am-hd" tvg-logo="https://cbilling.biz/img/streams/h1-am-hd.png" tvg-rec="0",H1 HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/h1-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="h2-am" tvg-logo="https://cbilling.biz/img/streams/h2-am.png" tvg-rec="0",H2
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/h2-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="kentron-am" tvg-logo="https://cbilling.biz/img/streams/kentron-am.png" tvg-rec="0",Kentron TV
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/kentron-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="atv-am-hd" tvg-logo="https://cbilling.biz/img/streams/atv-am-hd.png" tvg-rec="0",ATV HD
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/atv-am-hd.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="erkir-am" tvg-logo="https://cbilling.biz/img/streams/erkir-am.png" tvg-rec="0",Yerkir TV
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/erkir-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="shoghakat-am" tvg-logo="https://cbilling.biz/img/streams/shoghakat-am.png" tvg-rec="0",Shoghakat TV
+#EXTGRP:Армения
+http://s04.iptvx.tv:8090/s/ebf76248/luys-am.m3u8
+#EXTINF:0 group-title="Армения" tvg-id="dar21-am" tvg-logo="https://cbilling.biz/img/streams/dar21-am.png" tvg-rec="0",Dar21
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/cbc-sport-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="real-tv-az" tvg-logo="https://cbilling.biz/img/streams/real-tv-az.png" tvg-rec="0",Real TV AZ
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/real-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="atv-hd-az" tvg-logo="https://cbilling.biz/img/streams/atv-hd-az.png" tvg-rec="0",ATV HD AZ
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/atv-hd-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="aztv-az" tvg-logo="https://cbilling.biz/img/streams/aztv-az.png" tvg-rec="0",AzTV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/aztv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="cbc-az" tvg-logo="https://cbilling.biz/img/streams/cbc-az.png" tvg-rec="0",CBC
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/cbc-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="lider-tv-az" tvg-logo="https://cbilling.biz/img/streams/lider-tv-az.png" tvg-rec="0",Lider TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/lider-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="medeniyyet-az" tvg-logo="https://cbilling.biz/img/streams/medeniyyet-az.png" tvg-rec="0",Medeniyyet TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/medeniyyet-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="space-tv-az" tvg-logo="https://cbilling.biz/img/streams/space-tv-az.png" tvg-rec="0",Space TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/space-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="dalga-az" tvg-logo="https://cbilling.biz/img/streams/dalga-az.png" tvg-rec="0",Dalga
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/dalga-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="dunya-tv-az" tvg-logo="https://cbilling.biz/img/streams/dunya-tv-az.png" tvg-rec="0",Dunya TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/dunya-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="muz-tv-az" tvg-logo="https://cbilling.biz/img/streams/muz-tv-az.png" tvg-rec="0",Muz TV Azerbaycan
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/muz-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="ictimai-tv-az" tvg-logo="https://cbilling.biz/img/streams/ictimai-tv-az.png" tvg-rec="0",Ictimai TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/ictimai-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="xazar-tv-az" tvg-logo="https://cbilling.biz/img/streams/xazar-tv-az.png" tvg-rec="0",Xazar TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/xazar-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="azad-tv-az" tvg-logo="https://cbilling.biz/img/streams/azad-tv-az.png" tvg-rec="0",Azad TV
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/azad-tv-az.m3u8
+#EXTINF:0 group-title="Азербайджан" tvg-id="idman-az" tvg-logo="https://cbilling.biz/img/streams/idman-az.png" tvg-rec="0",Idman Azerbaycan
+#EXTGRP:Азербайджан
+http://s04.iptvx.tv:8090/s/ebf76248/idman-az.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt1-tr" tvg-logo="https://cbilling.biz/img/streams/trt1-tr.png" tvg-rec="0",TRT 1
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt1-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt1-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt1-tr.png" tvg-rec="0",TRT 1 HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt1-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="atv-hd-tr" tvg-logo="https://cbilling.biz/img/streams/atv-hd-tr.png" tvg-rec="0",ATV HD TR
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/atv-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="cnn-hd-tr" tvg-logo="https://cbilling.biz/img/streams/cnn-hd-tr.png" tvg-rec="0",CNN Turk HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/cnn-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-haber-tr" tvg-logo="https://cbilling.biz/img/streams/trt-haber-tr.png" tvg-rec="0",TRT HABER
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-haber-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-haber-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt-haber-tr.png" tvg-rec="0",TRT HABER HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-haber-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="haberturk-hd-tr" tvg-logo="https://cbilling.biz/img/streams/haberturk-hd-tr.png" tvg-rec="0",HaberTurk HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/haberturk-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="tv-tr" tvg-logo="https://cbilling.biz/img/streams/tv-tr.png" tvg-rec="0",24 TV HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/tv-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="ntv-tr" tvg-logo="https://cbilling.biz/img/streams/ntv-tr.png" tvg-rec="0",NTV
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="ntv-hd-tr" tvg-logo="https://cbilling.biz/img/streams/ntv-hd-tr.png" tvg-rec="0",NTV HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/ntv-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="star-tr" tvg-logo="https://cbilling.biz/img/streams/star-tr.png" tvg-rec="0",Star
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/star-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="star-hd-tr" tvg-logo="https://cbilling.biz/img/streams/star-hd-tr.png" tvg-rec="0",Star HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/star-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="show-hd-tr" tvg-logo="https://cbilling.biz/img/streams/show-hd-tr.png" tvg-rec="0",Show HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/show-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="tv8-hd-tr" tvg-logo="https://cbilling.biz/img/streams/tv8-hd-tr.png" tvg-rec="0",TV8 HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/tv8-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="kanald-hd-tr" tvg-logo="https://cbilling.biz/img/streams/kanald-hd-tr.png" tvg-rec="0",Kanal D HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/kanald-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="kanal7-hd-tr" tvg-logo="https://cbilling.biz/img/streams/kanal7-hd-tr.png" tvg-rec="0",Kanal 7 HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/kanal7-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="tlc-hd-tr" tvg-logo="https://cbilling.biz/img/streams/tlc-hd-tr.png" tvg-rec="0",TLC HD TR
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/tlc-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="fox-tr" tvg-logo="https://cbilling.biz/img/streams/fox-tr.png" tvg-rec="0",Fox HD TR
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/fox-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="minika-cocuk-tr" tvg-logo="https://cbilling.biz/img/streams/minika-cocuk-tr.png" tvg-rec="0",Minika Cocuk
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/minika-cocuk-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="dmax-hd-tr" tvg-logo="https://cbilling.biz/img/streams/dmax-hd-tr.png" tvg-rec="0",Dmax HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/dmax-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-cocuk-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt-cocuk-hd-tr.png" tvg-rec="0",TRT Cocuk HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-cocuk-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-muzik-tr" tvg-logo="https://cbilling.biz/img/streams/trt-muzik-tr.png" tvg-rec="0",TRT Muzik
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-muzik-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-muzik-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt-muzik-hd-tr.png" tvg-rec="0",TRT Muzik HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-muzik-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="powerturk-hd-tr" tvg-logo="https://cbilling.biz/img/streams/powerturk-hd-tr.png" tvg-rec="0",PowerTurk HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/powerturk-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-spor-tr" tvg-logo="https://cbilling.biz/img/streams/trt-spor-tr.png" tvg-rec="0",TRT Spor
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-spor-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-spor-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt-spor-hd-tr.png" tvg-rec="0",TRT Spor HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-spor-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="trt-spor2-hd-tr" tvg-logo="https://cbilling.biz/img/streams/trt-spor2-hd-tr.png" tvg-rec="0",TRT Spor 2 HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/trt-spor2-hd-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="a-spor-tr" tvg-logo="https://cbilling.biz/img/streams/a-spor-tr.png" tvg-rec="0",A Spor
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/a-spor-tr.m3u8
+#EXTINF:0 group-title="Турция" tvg-id="a-spor-hd-tr" tvg-logo="https://cbilling.biz/img/streams/a-spor-hd-tr.png" tvg-rec="0",A Spor HD
+#EXTGRP:Турция
+http://s04.iptvx.tv:8090/s/ebf76248/a-spor-hd-tr.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="extasy-4k" tvg-logo="https://cbilling.biz/img/streams/extasy-4k.png" tvg-rec="0",Extasy 4k
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/extasy-4k.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="penthouse1-hd" tvg-logo="https://cbilling.biz/img/streams/penthouse1-hd.png" tvg-rec="0",Penthouse Gold
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/penthouse1-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="penthouse2-hd" tvg-logo="https://cbilling.biz/img/streams/penthouse2-hd.png" tvg-rec="0",Penthouse Quickies
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/penthouse2-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="redlight-hd" tvg-logo="https://cbilling.biz/img/streams/redlight-hd.png" tvg-rec="0",Redlight HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/redlight-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="dorcel-hd" tvg-logo="https://cbilling.biz/img/streams/dorcel-hd.png" tvg-rec="0",Dorcel TV HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/dorcel-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="vivid-red-hd" tvg-logo="https://cbilling.biz/img/streams/vivid-red-hd.png" tvg-rec="0",Vivid Red HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/vivid-red-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="private-tv" tvg-logo="https://cbilling.biz/img/streams/private-tv.png" tvg-rec="0",Private TV
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/private-tv.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="hustler-hd" tvg-logo="https://cbilling.biz/img/streams/hustler-hd.png" tvg-rec="0",Hustler HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/hustler-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="babes-hd" tvg-logo="https://cbilling.biz/img/streams/babes-hd.png" tvg-rec="0",Babes HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/babes-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="xxl-tv" tvg-logo="https://cbilling.biz/img/streams/xxl-tv.png" tvg-rec="0",XXL
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/xxl-tv.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="pink-otv-orig" tvg-logo="https://cbilling.biz/img/streams/pink-otv-orig.png" tvg-rec="0",Pink OTV
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/pink-otv-orig.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="boyboy" tvg-logo="https://cbilling.biz/img/streams/boyboy.png" tvg-rec="0",Passion TV
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/boyboy.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="brazzers-tv" tvg-logo="https://cbilling.biz/img/streams/brazzers-tv.png" tvg-rec="0",Brazzers TV Europe
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/brazzers-tv.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="blue-hustler" tvg-logo="https://cbilling.biz/img/streams/blue-hustler.png" tvg-rec="0",Blue Hustler
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/blue-hustler.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="ruskaja-noch" tvg-logo="https://cbilling.biz/img/streams/ruskaja-noch.png" tvg-rec="0",Русская Ночь
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/ruskaja-noch.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="nuart-tv" tvg-logo="https://cbilling.biz/img/streams/nuart-tv.png" tvg-rec="0",НЮ АРТ ТВ
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/nuart-tv.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="nuart-hd" tvg-logo="https://cbilling.biz/img/streams/nuart-hd.png" tvg-rec="0",Ню Арт ТВ HD
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/nuart-hd.m3u8
+#EXTINF:0 group-title="Взрослые" parent-code="0000" tvg-id="jasmintv-hd" tvg-logo="https://cbilling.biz/img/streams/jasmintv-hd.png" tvg-rec="0",Jasmin TV
+#EXTGRP:Взрослые
+http://s04.iptvx.tv:8090/s/ebf76248/jasmintv-hd.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="kino-uhd-4k" tvg-logo="https://cbilling.biz/img/streams/kino-uhd-4k.png" tvg-rec="7",Кино UHD
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/kino-uhd-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="ultra-hd-cinema-4k" tvg-logo="https://cbilling.biz/img/streams/ultra-hd-cinema-4k.png" tvg-rec="7",Ultra HD Cinema
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/ultra-hd-cinema-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="serial-uhd-4k" tvg-logo="https://cbilling.biz/img/streams/serial-uhd-4k.png" tvg-rec="7",Сериал UHD
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/serial-uhd-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="russkij-extrim-4k" tvg-logo="https://cbilling.biz/img/streams/russkij-extrim-4k.png" tvg-rec="7",Русский Экстрим UHD
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/russkij-extrim-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="eurosport-4k" tvg-logo="https://cbilling.biz/img/streams/eurosport-4k.png" tvg-rec="7",Eurosport 4k
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/eurosport-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="insight-uhd-4k" tvg-logo="https://cbilling.biz/img/streams/insight-uhd-4k.png" tvg-rec="7",Insight UHD
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/insight-uhd-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="love-nature-4k" tvg-logo="https://cbilling.biz/img/streams/love-nature-4k.png" tvg-rec="7",Love Nature 4k
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/love-nature-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="home-4k" tvg-logo="https://cbilling.biz/img/streams/home-4k.png" tvg-rec="7",Home 4k
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/home-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="fashion-one-4k" tvg-logo="https://cbilling.biz/img/streams/fashion-one-4k.png" tvg-rec="7",Fashion One 4k
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/fashion-one-4k.m3u8
+#EXTINF:0 group-title="Ultra HD" tvg-id="stingray-festival-4k" tvg-logo="https://cbilling.biz/img/streams/stingray-festival-4k.png" tvg-rec="7",Stingray Festival 4k
+#EXTGRP:Ultra HD
+http://s04.iptvx.tv:8090/s/ebf76248/stingray-festival-4k.m3u8

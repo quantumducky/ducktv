@@ -17,22 +17,22 @@
         
           <channel>
             <title><![CDATA[Discovery Science (4)]]></title>
-            <stream_url><![CDATA[http://94.177.136.29:7478/play/a039]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (5)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/136/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (6)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/136/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Science (7)]]></title>
+            <title><![CDATA[Discovery Science (5)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/136/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/136/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (7)]]></title>
+            <stream_url><![CDATA[http://94.177.136.29:7478/play/a039]]></stream_url>
           </channel>
         
           <channel>
@@ -42,56 +42,71 @@
         
           <channel>
             <title><![CDATA[Discovery Science (9)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/136/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0ct?auth=blhenko:blhenko]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science (10)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/136/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/136/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science (11)]]></title>
-            <stream_url><![CDATA[http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/136/i.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (12)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33591.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (13)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (14)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31285.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science (15)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/136/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Science (16)]]></title>
+            <title><![CDATA[Discovery Science (12)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/136/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (13)]]></title>
+            <stream_url><![CDATA[http://telesfor.kartoshkaka.ru/iptv/WESVTQAXDA7Q8N/136/i.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (14)]]></title>
             <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56545.ts]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Science (15)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33591.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (16)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/136/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Science (17)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57544.ts]]></stream_url>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57108.ts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science (18)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/70/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31285.ts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science (19)]]></title>
+            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57544.ts]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (20)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/70/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (21)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/1110/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Discovery Science (22)]]></title>
             <stream_url><![CDATA[http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=61]]></stream_url>
           </channel>
         

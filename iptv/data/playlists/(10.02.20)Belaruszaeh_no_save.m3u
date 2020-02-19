@@ -1,0 +1,189 @@
+#EXTM3U
+#EXTINF:-1,2×2
+http://178.124.183.150/hls/EU9VTLDQCN_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,8 канал
+http://178.124.183.150/hls/ZXUZZKCA6P_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,365 дней ТВ
+http://178.124.183.13/hls/CH_365DNEY/bw1200000/playlist.m3u8
+#EXTINF:-1,Blue Hustler
+http://178.124.183.13/hls/CH_BLUEHUSTLER/bw1200000/playlist.m3u8
+#EXTINF:-1,Boomerang
+http://178.124.183.13/hls/JSQ2S6VQTE/bw1200000/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
+#EXTINF:-1,Discovery
+http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Euronews
+http://178.124.183.13/hls/C5P6YOXJZT/bw1200000/playlist.m3u8
+#EXTINF:-1,Europa Plus TV
+http://178.124.183.13/hls/BHH8EKRXPO/bw1200000/playlist.m3u8
+#EXTINF:-1,FOX
+http://178.124.183.13/hls/CH_FOX/bw1200000/playlist.m3u8
+#EXTINF:-1,FOX Life
+http://178.124.183.13/hls/CH_FOXL/bw1200000/playlist.m3u8
+#EXTINF:-1,Galaxy
+http://178.124.183.13/hls/CH_GALAXY/bw1200000/playlist.m3u8
+#EXTINF:-1,Gulli
+http://178.124.183.13/hls/7FFGONY2N8/bw1200000/playlist.m3u8
+#EXTINF:-1,KVARTAL TV
+http://178.124.183.150/hls/CH_KVARTALTV_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://178.124.183.13/hls/ESCMSBZJ8X/bw1200000/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://178.124.183.13/hls/CH_NATGEO/bw1200000/playlist.m3u8
+#EXTINF:-1,RTVI
+http://178.124.183.13/hls/PN9VRQ5DGR/bw1200000/playlist.m3u8
+#EXTINF:-1,RU TV
+http://178.124.183.13/hls/XW6AGFSZJ8/bw1200000/playlist.m3u8
+#EXTINF:-1,Sony SciFi
+http://178.124.183.13/hls/EDVYQYGHF8/bw1200000/playlist.m3u8
+#EXTINF:-1,Star Cinema
+http://178.124.183.13/hls/CH_STARCINEMA/bw1200000/playlist.m3u8
+#EXTINF:-1,Star Family
+http://178.124.183.13/hls/CH_FAMILY/bw1200000/playlist.m3u8
+#EXTINF:-1,Tiji
+http://178.124.183.13/hls/Q0HVVEIKSQ/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000
+http://178.124.183.13/hls/6WMZMUEWGN/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000 Action
+http://178.124.183.13/hls/9X9NUEEKGW/bw1200000/playlist.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://178.124.183.13/hls/PWIKICZUYF/bw1200000/playlist.m3u8
+#EXTINF:-1,TV XXI
+http://178.124.183.150/hls/CH_TV21_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Viasat Explore
+http://178.124.183.13/hls/JQQ83OBHTQ/bw1200000/playlist.m3u8
+#EXTINF:-1,Viasat History
+http://178.124.183.13/hls/CH_VIASATHISTORY/bw1200000/playlist.m3u8
+#EXTINF:-1,Viasat Nature
+http://178.124.183.150/hls/BN3FTDY3T8_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://178.124.183.150/hls/CH_ANEKDOT_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Бел Бизес Ченел
+http://178.124.183.13/hls/MCEQ4XBTHP/bw1200000/playlist.m3u8
+#EXTINF:-1,БелМуз ТВ
+http://178.124.183.150/hls/CH_BELMUZ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 1
+http://178.124.183.150/hls/M52YG9EVYD_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 2
+http://178.124.183.150/hls/GCKYZGGFEJ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 3
+http://178.124.183.150/hls/TSNEW37RPC_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 4 Брест
+http://178.124.183.150/hls/CH_BELARUS4BR_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 4 Витебск
+http://178.124.183.150/hls/CH_BELARUS4VIT_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 4 Гомель
+http://178.124.183.150/hls/CH_BELARUS4GOM_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 4 Гродно
+http://178.124.183.150/hls/CH_BELARUS4GR_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 4 Могилев
+http://178.124.183.150/hls/CH_BELARUS4MOG_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Беларусь 5
+http://178.124.183.150/hls/JRKVSUPCP8_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Болт
+http://178.124.183.13/hls/CH_BOLT/bw1200000/playlist.m3u8
+#EXTINF:-1,ВТВ
+http://178.124.183.150/hls/CRCQFRNUFJ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,В гостях у сказки
+http://178.124.183.150/hls/CH_VGOSTYAH_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Детский Мир/Телеклуб
+http://178.124.183.159/hls/9F67L3DGIF_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Драйв
+http://178.124.183.150/hls/6UTCEG6ATO_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://178.124.183.150/hls/JEDUS3FS7V_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Жара
+http://178.124.183.13/hls/DXBSFZDTDG/bw1200000/playlist.m3u8
+#EXTINF:-1,Иллюзион +
+http://178.124.183.150/hls/V8TRED4CZL_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Индийское кино
+http://178.124.183.13/hls/CH_INDIYATV/bw1200000/playlist.m3u8
+#EXTINF:-1,КВН ТВ
+http://178.124.183.150/hls/CH_KVN_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,КХЛ
+http://178.124.183.150/hls/36H3IDE2WF_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,КиноМикс
+http://178.124.183.150/hls/VVG76MWUGX_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Киносемья
+http://178.124.183.13/hls/FEDXG8XPOR/bw1200000/playlist.m3u8
+#EXTINF:-1,Киносерия
+http://178.124.183.13/hls/CH_KINOSERIA/bw1200000/playlist.m3u8
+#EXTINF:-1,Кинохит
+http://178.124.183.150/hls/HDOHSSZQCP_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Кухня ТВ
+http://178.124.183.150/hls/EPX2UEHLPK_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://178.124.183.13/hls/CH_LYAMINOR/bw1200000/playlist.m3u8
+#EXTINF:-1,МАТЧ! ПЛАНЕТА
+http://178.124.183.13/hls/CH_MATCHPLANETA/bw1200000/playlist.m3u8
+#EXTINF:-1,Минск ТВ
+http://178.124.183.150/hls/CH_MINSKTV2_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Мир
+http://178.124.183.150/hls/M4K3ZYBPWQ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Моя планета 
+http://178.124.183.13/hls/FV47BRVQW4/bw1200000/playlist.m3u8
+#EXTINF:-1,Мужское кино
+http://178.124.183.13/hls/W7LNWHFGTB/bw1200000/playlist.m3u8
+#EXTINF:-1,Мульт
+http://178.124.183.13/hls/5MWF7XUWZI/bw1200000/playlist.m3u8
+#EXTINF:-1,Мультимания
+http://178.124.183.150/hls/FBYQ8KG5HM_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,НСТ
+http://178.124.183.13/hls/NEZVX5TVZX/bw1200000/playlist.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://178.124.183.150/hls/DYJ5GH8HOK_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,НТВ право
+http://178.124.183.150/hls/CH_NTVPRAVO_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,НТВ сериал
+http://178.124.183.150/hls/CH_NTVSERIAL_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,НЮ АРТ ТВ
+http://178.124.183.13/hls/CH_NYARTTV/bw1200000/playlist.m3u8
+#EXTINF:-1,Наука 2.0
+http://178.124.183.13/hls/LWWBCKZAPZ/bw1200000/playlist.m3u8
+#EXTINF:-1,Наше Любимое Кино
+http://178.124.183.150/hls/CH_NASHEKINO_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Наше Новое Кино
+http://178.124.183.150/hls/UVPWPN2KTN_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Наш футбол
+http://178.124.183.13/hls/HNBMWPATWZ/bw1200000/playlist.m3u8
+#EXTINF:-1,Ностальгия
+http://178.124.183.13/hls/SWPQU2UFKD/bw1200000/playlist.m3u8
+#EXTINF:-1,ОНТ
+http://178.124.183.150/hls/NCLEFHVZGR_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Оружие
+http://178.124.183.13/hls/EWEXU8FWAZ/bw1200000/playlist.m3u8
+#EXTINF:-1,Охота и Рыбалка
+http://178.124.183.13/hls/VF5ELDF8AL/bw1200000/playlist.m3u8
+#EXTINF:-1,Поехали!
+http://178.124.183.150/hls/CH_POEHALY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,РТР-Беларусь
+http://178.124.183.150/hls/7MQSYYGHFE_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Россия К
+http://178.124.183.150/hls/9XJGVFFAWZ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Русская Ночь
+http://178.124.183.13/hls/F7UMYQMCGB/bw1200000/playlist.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://178.124.183.13/hls/CMV4SNACFQ/bw1200000/playlist.m3u8
+#EXTINF:-1,СТВ
+http://178.124.183.150/hls/RZEQ3BLSTY_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,СТС Kids
+http://178.124.183.13/hls/CH_CTCKIDS/bw1200000/playlist.m3u8
+#EXTINF:-1,Сарафан
+http://178.124.183.13/hls/Y9GP8UFTZO/bw1200000/playlist.m3u8
+#EXTINF:-1,Союз
+http://178.124.183.13/hls/CH_SOYUZ/bw1200000/playlist.m3u8
+#EXTINF:-1,ТВ 3
+http://178.124.183.150/hls/KLQQ9ECGSQ_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,ТНТ international
+http://178.124.183.150/hls/MVNP5DA4U9_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://178.124.183.13/hls/BCJGRB3KAX/bw1200000/playlist.m3u8
+#EXTINF:-1,Телемагазин
+http://178.124.183.13/hls/CH_TELEMAGAZIN/bw1200000/playlist.m3u8
+#EXTINF:-1,Техно 24
+http://178.124.183.13/hls/ZIVFRAFR2I/bw1200000/playlist.m3u8
+#EXTINF:-1,Усадьба
+http://178.124.183.150/hls/XMC4NSRVN9_HLS/bw1200000/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://178.124.183.150/hls/3K2MEWVSDF_HLS/bw1200000/playlist.m3u8

@@ -1,0 +1,382 @@
+﻿#EXTM3U
+#EXTINF:0,360 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch001/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,A1 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch003/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,A2 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch004/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,AIVA HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch005/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Amedia Premium
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch006/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch007/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Animal Planet HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch008/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,BOLLYWOOD HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch009/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Bolt HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0010/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Bridge TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0011/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,C1 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0012/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Cartoon Network HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0013/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Clubbing TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0014/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,DTX HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0015/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0016/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Discovery Science HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0017/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,English Club TV
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0018/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0019/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Eurosport 2 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0020/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0021/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,FAN HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0022/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,FOX HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0023/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,FOX Life HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0024/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Food Network HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0025/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,France 24 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0026/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Fuel TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0027/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Galaxy TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0028/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,H2 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0029/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,History HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0030/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Hollywood HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0031/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ID Xtra HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0032/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,MTV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0033/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,MTV Live HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0034/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,MUSEUM HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0035/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0036/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Music Box RU HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0037/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,MyZen TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0038/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,NANO HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0039/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0040/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,National Geographic HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0041/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0042/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Paramount Channel HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0043/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Paramount Comedy HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0044/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,RTG HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0045/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,RU TV HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0046/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Russia Today Doc HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0047/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Russia Today HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0048/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Russian Extreme Ultra
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0049/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Shant music HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0050/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Shant news HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0051/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Shant premium HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0052/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Shant serial HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0053/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Sony Channel HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0054/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Spike HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0055/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Star Cinema HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0056/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ch0057
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0057/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,iConcerts HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0058/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,TLC HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0059/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,TV 1000 Action HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0060/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,TV 1000 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0061/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,TV 1000 Русское кино HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0062/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Travel Channel HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0063/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Travel+ Adventure HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0065/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Ultra HD Cinema
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0067/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,VIP Serial HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0068/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ViP Comedy HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0069/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ViP Megahit HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0070/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ViP Premiere HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0071/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Viasat Explore HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0072/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Viasat History HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0073/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0074/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0075/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,World Fashion Channel HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0076/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,АВТО24 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0077/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Большая Азия HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0088/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Всё ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0089/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Глазами туриста HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0090/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Диалоги о рыбалке HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0091/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Дикая охота HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0092/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Дикая рыбалка HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0093/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Дом кино премиум HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0094/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Еда Премиум
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0095/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Жара HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0096/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Живая природа HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0097/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Загородная жизнь HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0098/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Известия HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0099/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Инфо 24 HD", Регионы",Инфо 24 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0100/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,КХЛ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0101/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Кино ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0103/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Кинопремьера HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0104/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Киносвидание HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0105/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Киносемья HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0106/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Киноужас HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0107/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Кинохит HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0108/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Арена HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0109/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Игра HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0110/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Матч Премьер HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0111/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Матч! ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0112/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0113/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0114/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0115/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Морской HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0116/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Моторспорт ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0117/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,НТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0118/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Ноябрьск 24 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0119/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,О2ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0120/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ОТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0121/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Осетия Ирыстон HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0122/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0123/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Первый Вегетарианский HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0124/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Первый Российский Национальный канал HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0125/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Планета HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0126/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Победа HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0127/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Поехали! HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0128/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Рен ТВ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0129/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Россия 1 HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0130/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Русский роман HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0131/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,СТС Kids HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0132/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Сиеста HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0134/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Страшное HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0135/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,ТНТ HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0136/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Театр HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0138/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Тлум HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0139/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Футбол HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0140/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Первый
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0141/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Первый HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0142/video.m3u8?token=1cuD22x5z3
+#EXTINF:0,Первый Full HD
+#EXTGRP:unsorted
+http://23.83.125.12:8080/ch0143/video.m3u8?token=1cuD22x5z3

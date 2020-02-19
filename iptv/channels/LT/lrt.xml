@@ -27,6 +27,16 @@
         
           <channel>
             <title><![CDATA[LRT (6)]]></title>
+            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/LRT/HLS_encr/LRT-avc1_6000000=9-mp4a_96000_lit=11.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT (7)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/31.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[LRT (8)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/106/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
