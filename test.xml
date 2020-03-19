@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <items>
   <channel>
+    <script xmlns="http://www.w3.org/1999/xhtml">
+      <![CDATA[
+        alert('Hello');
+        console.log('Hello');
+      ]]>
+    </script>
     <title><![CDATA[Džuno / Juno (2007)]]></title>
     <logo_30x30><![CDATA[http://filmai.org/uploads/posts/covers/254ef67431b541097c7ba7679f5dd092.jpg]]></logo_30x30>
     <description><![CDATA[
