@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[VIP Comedy (1)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/04.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/01.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy (2)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/01.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s97/04.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -22,7 +22,7 @@
         
           <channel>
             <title><![CDATA[VIP Comedy (5)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/203/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,12 +32,12 @@
         
           <channel>
             <title><![CDATA[VIP Comedy (7)]]></title>
-            <stream_url><![CDATA[http://188.113.190.12/203/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy (8)]]></title>
-            <stream_url><![CDATA[http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8]]></stream_url>
+            <stream_url><![CDATA[https://tinyurl.com/VipComedy-yosso]]></stream_url>
           </channel>
         
 </items>

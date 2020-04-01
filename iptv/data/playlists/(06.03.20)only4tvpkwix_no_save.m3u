@@ -1,0 +1,678 @@
+#EXTM3U url-tvg="http://only4.tv/epg/epg.xml"
+#EXTINF:-1 group-title="Русские" tvg-id="pervy" tvg-logo="http://only4.tv/ch/20105.png" catchup="shift" catchup-days="7" ,Первый канал HD
+http://39dw.only4.tv:82/20105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="pervy" tvg-logo="http://only4.tv/ch/1101.png" catchup="shift" catchup-days="7" ,Первый канал (Россия)
+http://39dw.only4.tv:82/1101/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl2" tvg-logo="http://only4.tv/ch/1801.png" catchup="shift" catchup-days="7" ,Первый канал (+2)
+http://39dw.only4.tv:82/1801/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl4" tvg-logo="http://only4.tv/ch/0356.png" catchup="shift" catchup-days="7" ,Первый канал (+4)
+http://39dw.only4.tv:82/0356/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl6" tvg-logo="http://only4.tv/ch/5520.png" catchup="shift" catchup-days="7" ,Первый канал (+6)
+http://39dw.only4.tv:82/5520/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia1" tvg-logo="http://only4.tv/ch/20106.png" catchup="shift" catchup-days="7" ,Россия 1 HD
+http://39dw.only4.tv:82/20106/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia1" tvg-logo="http://only4.tv/ch/1001.png" catchup="shift" catchup-days="7" ,Россия 1
+http://39dw.only4.tv:82/1001/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl2" tvg-logo="http://only4.tv/ch/1116.png" catchup="shift" catchup-days="7" ,Россия 1 (+2)
+http://39dw.only4.tv:82/1116/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl4" tvg-logo="http://only4.tv/ch/0355.png" catchup="shift" catchup-days="7" ,Россия 1 (+4)
+http://39dw.only4.tv:82/0355/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl6" tvg-logo="http://only4.tv/ch/5521.png" catchup="shift" catchup-days="7" ,Россия 1 (+6)
+http://39dw.only4.tv:82/5521/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="ntv" tvg-logo="http://only4.tv/ch/2201.png" catchup="shift" catchup-days="7" ,НТВ HD
+http://39dw.only4.tv:82/2201/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="ntv" tvg-logo="http://only4.tv/ch/1315.png" catchup="shift" catchup-days="7" ,НТВ
+http://39dw.only4.tv:82/1315/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl2" tvg-logo="http://only4.tv/ch/1802.png" catchup="shift" catchup-days="7" ,НТВ (+2)
+http://39dw.only4.tv:82/1802/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl4" tvg-logo="http://only4.tv/ch/0358.png" catchup="shift" catchup-days="7" ,НТВ (+4)
+http://39dw.only4.tv:82/0358/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl7" tvg-logo="http://only4.tv/ch/5522.png" catchup="shift" catchup-days="7" ,НТВ (+7)
+http://39dw.only4.tv:82/5522/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt" tvg-logo="http://only4.tv/ch/2207.png" catchup="shift" catchup-days="7" ,ТНТ HD
+http://39dw.only4.tv:82/2207/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt" tvg-logo="http://only4.tv/ch/1319.png" catchup="shift" catchup-days="7" ,ТНТ
+http://39dw.only4.tv:82/1319/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl2" tvg-logo="http://only4.tv/ch/1804.png" catchup="shift" catchup-days="7" ,ТНТ (+2)
+http://39dw.only4.tv:82/1804/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl4" tvg-logo="http://only4.tv/ch/5574.png" catchup="shift" catchup-days="7" ,ТНТ (+4)
+http://39dw.only4.tv:82/5574/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl7" tvg-logo="http://only4.tv/ch/5523.png" catchup="shift" catchup-days="7" ,ТНТ (+7)
+http://39dw.only4.tv:82/5523/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tnt4" tvg-logo="http://only4.tv/ch/1820.png" catchup="shift" catchup-days="7" ,ТНТ4
+http://39dw.only4.tv:82/1820/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="5kanal-ru" tvg-logo="http://only4.tv/ch/1003.png" catchup="shift" catchup-days="7" ,Пятый канал
+http://39dw.only4.tv:82/1003/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="5kanal-ru-pl2" tvg-logo="http://only4.tv/ch/413.png" catchup="shift" catchup-days="7" ,Пятый канал (+2)
+http://39dw.only4.tv:82/413/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rentv" tvg-logo="http://only4.tv/ch/1004.png" catchup="shift" catchup-days="7" ,РЕН ТВ
+http://39dw.only4.tv:82/1004/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rentv-pl2" tvg-logo="http://only4.tv/ch/402.png" catchup="shift" catchup-days="7" ,РЕН ТВ (+2)
+http://39dw.only4.tv:82/402/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rentv-pl4" tvg-logo="http://only4.tv/ch/0357.png" catchup="shift" catchup-days="7" ,РЕН ТВ (+4)
+http://39dw.only4.tv:82/0357/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="sts" tvg-logo="http://only4.tv/ch/5580.png" catchup="shift" catchup-days="7" ,СТС HD
+http://39dw.only4.tv:82/5580/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="sts" tvg-logo="http://only4.tv/ch/1105.png" catchup="shift" catchup-days="7" ,СТС
+http://39dw.only4.tv:82/1105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="sts-pl2" tvg-logo="http://only4.tv/ch/0224.png" catchup="shift" catchup-days="7" ,СТС (+2)
+http://39dw.only4.tv:82/0224/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="sts-pl4" tvg-logo="http://only4.tv/ch/0354.png" catchup="shift" catchup-days="7" ,СТС (+4)
+http://39dw.only4.tv:82/0354/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="zvezda" tvg-logo="http://only4.tv/ch/1311.png" catchup="shift" catchup-days="7" ,Звезда
+http://39dw.only4.tv:82/1311/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="zvezda-pl2" tvg-logo="http://only4.tv/ch/410.png" catchup="shift" catchup-days="7" ,Звезда (+2)
+http://39dw.only4.tv:82/410/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tvcentr" tvg-logo="http://only4.tv/ch/2113.png" catchup="shift" catchup-days="7" ,ТВ Центр
+http://39dw.only4.tv:82/2113/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="tvcentr-pl2" tvg-logo="http://only4.tv/ch/1803.png" catchup="shift" catchup-days="7" ,ТВ Центр (+2)
+http://39dw.only4.tv:82/1803/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="domashny" tvg-logo="http://only4.tv/ch/1102.png" catchup="shift" catchup-days="7" ,Домашний
+http://39dw.only4.tv:82/1102/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="che" tvg-logo="http://only4.tv/ch/1109.png" catchup="shift" catchup-days="7" ,Че
+http://39dw.only4.tv:82/1109/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="piatnica" tvg-logo="http://only4.tv/ch/5562.png" catchup="shift" catchup-days="7" ,Пятница HD
+http://39dw.only4.tv:82/5562/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="piatnica" tvg-logo="http://only4.tv/ch/1009.png" catchup="shift" catchup-days="7" ,Пятница
+http://39dw.only4.tv:82/1009/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rbk" tvg-logo="http://only4.tv/ch/1317.png" catchup="shift" catchup-days="7" ,РБК ТВ
+http://39dw.only4.tv:82/1317/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="rossia-24" tvg-logo="http://only4.tv/ch/0302.png" catchup="shift" catchup-days="7" ,Россия 24
+http://39dw.only4.tv:82/0302/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="moskva-24" tvg-logo="http://only4.tv/ch/0295.png" catchup="shift" catchup-days="7" ,Москва-24
+http://39dw.only4.tv:82/0295/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="fashion-tv" tvg-logo="http://only4.tv/ch/0211.png" catchup="shift" catchup-days="7" ,FTV HD
+http://39dw.only4.tv:82/0211/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="eda" tvg-logo="http://only4.tv/ch/0137.png" catchup="shift" catchup-days="7" ,Еда
+http://39dw.only4.tv:82/0137/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="nostalgia" tvg-logo="http://only4.tv/ch/117.png" catchup="shift" catchup-days="7" ,Ностальгия
+http://39dw.only4.tv:82/117/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="dozhd" tvg-logo="http://only4.tv/ch/0266.png" catchup="shift" catchup-days="7" ,Дождь
+http://39dw.only4.tv:82/0266/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="izvestia" tvg-logo="http://only4.tv/ch/705.png" catchup="shift" catchup-days="7" ,Известия
+http://39dw.only4.tv:82/705/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="sarafan" tvg-logo="http://only4.tv/ch/419.png" catchup="shift" catchup-days="7" ,Сарафан
+http://39dw.only4.tv:82/419/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="super" tvg-logo="http://only4.tv/ch/1321.png" catchup="shift" catchup-days="7" ,Супер
+http://39dw.only4.tv:82/1321/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="kvn-tv" tvg-logo="http://only4.tv/ch/124.png" catchup="shift" catchup-days="7" ,КВН ТВ
+http://39dw.only4.tv:82/124/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="krim24" tvg-logo="http://only4.tv/ch/5560.png" catchup="shift" catchup-days="7" ,Крым 24
+http://39dw.only4.tv:82/5560/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Русские" tvg-id="pervy-kr" tvg-logo="http://only4.tv/ch/5561.png" catchup="shift" catchup-days="7" ,Первый крымский
+http://39dw.only4.tv:82/5561/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit" tvg-logo="http://only4.tv/ch/17103.png" catchup="shift" catchup-days="7" ,ViP Megahit HD
+http://39dw.only4.tv:82/17103/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere" tvg-logo="http://only4.tv/ch/17104.png" catchup="shift" catchup-days="7" ,ViP Premiere HD
+http://39dw.only4.tv:82/17104/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy" tvg-logo="http://only4.tv/ch/17102.png" catchup="shift" catchup-days="7" ,ViP Comedy HD
+http://39dw.only4.tv:82/17102/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="vip-serial" tvg-logo="http://only4.tv/ch/0109.png" catchup="shift" catchup-days="7" ,ViP Serial HD
+http://39dw.only4.tv:82/0109/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremium-hd" tvg-logo="http://only4.tv/ch/0121.png" catchup="shift" catchup-days="7" ,Премиальное HD
+http://39dw.only4.tv:82/0121/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="http://only4.tv/ch/0119.png" catchup="shift" catchup-days="7" ,Шокирующее HD
+http://39dw.only4.tv:82/0119/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd2" tvg-logo="http://only4.tv/ch/0120.png" catchup="shift" catchup-days="7" ,Комедийное HD
+http://39dw.only4.tv:82/0120/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="romantichnoe" tvg-logo="http://only4.tv/ch/5537.png" catchup="shift" catchup-days="7" ,Романтичное HD
+http://39dw.only4.tv:82/5537/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" tvg-logo="http://only4.tv/ch/2205.png" catchup="shift" catchup-days="7" ,Дом Кино Премиум HD
+http://39dw.only4.tv:82/2205/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="amedia-premium" tvg-logo="http://only4.tv/ch/2104.png" catchup="shift" catchup-days="7" ,Amedia Premium HD
+http://39dw.only4.tv:82/2104/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="http://only4.tv/ch/12101.png" catchup="shift" catchup-days="7" ,Кинопремьера HD
+http://39dw.only4.tv:82/12101/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://only4.tv/ch/0122.png" catchup="shift" catchup-days="7" ,Остросюжетное HD
+http://39dw.only4.tv:82/0122/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="foxlife" tvg-logo="http://only4.tv/ch/0207.png" catchup="shift" catchup-days="7" ,Fox Life Россия HD
+http://39dw.only4.tv:82/0207/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="amedia1" tvg-logo="http://only4.tv/ch/2102.png" catchup="shift" catchup-days="7" ,A1
+http://39dw.only4.tv:82/2102/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="amedia2" tvg-logo="http://only4.tv/ch/2117.png" catchup="shift" catchup-days="7" ,A2
+http://39dw.only4.tv:82/2117/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://only4.tv/ch/2103.png" catchup="shift" catchup-days="7" ,Amedia Hit
+http://39dw.only4.tv:82/2103/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="sony-enter" tvg-logo="http://only4.tv/ch/710.png" catchup="shift" catchup-days="7" ,Sony Channel HD
+http://39dw.only4.tv:82/710/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" tvg-logo="http://only4.tv/ch/711.png" catchup="shift" catchup-days="7" ,Sony Sci-Fi Россия
+http://39dw.only4.tv:82/711/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" tvg-logo="http://only4.tv/ch/712.png" catchup="shift" catchup-days="7" ,Sony Turbo
+http://39dw.only4.tv:82/712/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit" tvg-logo="http://only4.tv/ch/107.png" catchup="shift" catchup-days="7" ,Кинохит
+http://39dw.only4.tv:82/107/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinomiks" tvg-logo="http://only4.tv/ch/105.png" catchup="shift" catchup-days="7" ,Киномикс
+http://39dw.only4.tv:82/105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" tvg-logo="http://only4.tv/ch/106.png" catchup="shift" catchup-days="7" ,Киносвидание
+http://39dw.only4.tv:82/106/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://only4.tv/ch/108.png" catchup="shift" catchup-days="7" ,Кинокомедия
+http://39dw.only4.tv:82/108/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://only4.tv/ch/5581.png" catchup="shift" catchup-days="7" ,TV1000 HD
+http://39dw.only4.tv:82/5581/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://only4.tv/ch/19102.png" catchup="shift" catchup-days="7" ,TV1000 East
+http://39dw.only4.tv:82/19102/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://only4.tv/ch/19103.png" catchup="shift" catchup-days="7" ,TV1000 Action East
+http://39dw.only4.tv:82/19103/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino" tvg-logo="http://only4.tv/ch/19104.png" catchup="shift" catchup-days="7" ,TV1000 Русское кино
+http://39dw.only4.tv:82/19104/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy" tvg-logo="http://only4.tv/ch/19118.png" catchup="shift" catchup-days="7" ,Paramount Comedy Россия
+http://39dw.only4.tv:82/19118/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="paramount-channel" tvg-logo="http://only4.tv/ch/19121.png" catchup="shift" catchup-days="7" ,Paramount channel Россия
+http://39dw.only4.tv:82/19121/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="nst" tvg-logo="http://only4.tv/ch/804.png" catchup="shift" catchup-days="7" ,НСТ
+http://39dw.only4.tv:82/804/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv3-ru" tvg-logo="http://only4.tv/ch/1008.png" catchup="shift" catchup-days="7" ,ТВ-3 Россия
+http://39dw.only4.tv:82/1008/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-premium" tvg-logo="http://only4.tv/ch/5585.png" catchup="shift" catchup-days="7" ,TV3 Film HD
+http://39dw.only4.tv:82/5585/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://only4.tv/ch/0287.png" catchup="shift" catchup-days="7" ,Мужское кино
+http://39dw.only4.tv:82/0287/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv" tvg-logo="http://only4.tv/ch/0147.png" catchup="shift" catchup-days="7" ,Кино ТВ
+http://39dw.only4.tv:82/0147/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="evrokino" tvg-logo="http://only4.tv/ch/0275.png" catchup="shift" catchup-days="7" ,Еврокино
+http://39dw.only4.tv:82/0275/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion" tvg-logo="http://only4.tv/ch/2111.png" catchup="shift" catchup-days="7" ,Русский иллюзион
+http://39dw.only4.tv:82/2111/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="rodnoe-kino" tvg-logo="http://only4.tv/ch/115.png" catchup="shift" catchup-days="7" ,Родное кино
+http://39dw.only4.tv:82/115/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="http://only4.tv/ch/116.png" catchup="shift" catchup-days="7" ,Наше новое кино
+http://39dw.only4.tv:82/116/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="http://only4.tv/ch/722.png" catchup="shift" catchup-days="7" ,Любимое кино
+http://39dw.only4.tv:82/722/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="komedia" tvg-logo="http://only4.tv/ch/1115.png" catchup="shift" catchup-days="7" ,Комедия (ВГТРК)
+http://39dw.only4.tv:82/1115/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="russky-bestseller" tvg-logo="http://only4.tv/ch/421.png" catchup="shift" catchup-days="7" ,Русский бестселлер
+http://39dw.only4.tv:82/421/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="russky-roman" tvg-logo="http://only4.tv/ch/424.png" catchup="shift" catchup-days="7" ,Русский роман
+http://39dw.only4.tv:82/424/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="nashe-lubimoe" tvg-logo="http://only4.tv/ch/0139.png" catchup="shift" catchup-days="7" ,Любимое HD
+http://39dw.only4.tv:82/0139/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="nash-detektiv" tvg-logo="http://only4.tv/ch/0123.png" catchup="shift" catchup-days="7" ,Наше Крутое HD
+http://39dw.only4.tv:82/0123/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="nash-kinoroman" tvg-logo="http://only4.tv/ch/0107.png" catchup="shift" catchup-days="7" ,Наш Кинороман HD
+http://39dw.only4.tv:82/0107/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya" tvg-logo="http://only4.tv/ch/119.png" catchup="shift" catchup-days="7" ,Киносемья
+http://39dw.only4.tv:82/119/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria" tvg-logo="http://only4.tv/ch/113.png" catchup="shift" catchup-days="7" ,Киносерия
+http://39dw.only4.tv:82/113/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="mir-seriala" tvg-logo="http://only4.tv/ch/719.png" catchup="shift" catchup-days="7" ,Мир сериала
+http://39dw.only4.tv:82/719/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="domkino" tvg-logo="http://only4.tv/ch/820.png" catchup="shift" catchup-days="7" ,Дом кино
+http://39dw.only4.tv:82/820/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial" tvg-logo="http://only4.tv/ch/408.png" catchup="shift" catchup-days="7" ,НТВ Сериал
+http://39dw.only4.tv:82/408/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv" tvg-logo="http://only4.tv/ch/707.png" catchup="shift" catchup-days="7" ,ZeeTV Россия
+http://39dw.only4.tv:82/707/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit" tvg-logo="http://only4.tv/ch/412.png" catchup="shift" catchup-days="7" ,НТВ Хит
+http://39dw.only4.tv:82/412/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus" tvg-logo="http://only4.tv/ch/0293.png" catchup="shift" catchup-days="7" ,Иллюзион+
+http://39dw.only4.tv:82/0293/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino" tvg-logo="http://only4.tv/ch/104.png" catchup="shift" catchup-days="7" ,Индийское кино
+http://39dw.only4.tv:82/104/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="bolt" tvg-logo="http://only4.tv/ch/6188.png" catchup="shift" catchup-days="7" ,Bolt
+http://39dw.only4.tv:82/6188/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="spike" tvg-logo="http://only4.tv/ch/706.png" catchup="shift" catchup-days="7" ,Spike
+http://39dw.only4.tv:82/706/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="dorama" tvg-logo="http://only4.tv/ch/430.png" catchup="shift" catchup-days="7" ,Дорама
+http://39dw.only4.tv:82/430/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="cinema-ru" tvg-logo="http://only4.tv/ch/5533.png" catchup="shift" catchup-days="7" ,Cinema
+http://39dw.only4.tv:82/5533/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="http://only4.tv/ch/5535.png" catchup="shift" catchup-days="7" ,Феникс+Кино
+http://39dw.only4.tv:82/5535/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-ru" tvg-logo="http://only4.tv/ch/5558.png" catchup="shift" catchup-days="7" ,FilmBox
+http://39dw.only4.tv:82/5558/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="filmbox-arthouse" tvg-logo="http://only4.tv/ch/5536.png" catchup="shift" catchup-days="7" ,FilmBox Arthouse
+http://39dw.only4.tv:82/5536/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="russky-detektiv" tvg-logo="http://only4.tv/ch/0277.png" catchup="shift" catchup-days="7" ,Русский Детектив
+http://39dw.only4.tv:82/0277/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas" tvg-logo="http://only4.tv/ch/5570.png" catchup="shift" catchup-days="7" ,Киноужас HD
+http://39dw.only4.tv:82/5570/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="arsenal-TV" tvg-logo="http://only4.tv/ch/0222.png" catchup="shift" catchup-days="7" ,Арсенал HD
+http://39dw.only4.tv:82/0222/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Кино" tvg-id="pobeda" tvg-logo="http://only4.tv/ch/5534.png" catchup="shift" catchup-days="7" ,Победа
+http://39dw.only4.tv:82/5534/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport1" tvg-logo="http://only4.tv/ch/26001.png" catchup="shift" catchup-days="7" ,Eurosport 1 HD
+http://39dw.only4.tv:82/26001/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="eurosport2" tvg-logo="http://only4.tv/ch/17107.png" catchup="shift" catchup-days="7" ,Eurosport 2 HD
+http://39dw.only4.tv:82/17107/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football1" tvg-logo="http://only4.tv/ch/14105.png" catchup="shift" catchup-days="7" ,Матч! Футбол 1 HD
+http://39dw.only4.tv:82/14105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football2" tvg-logo="http://only4.tv/ch/1401.png" catchup="shift" catchup-days="7" ,Матч! Футбол 2 HD
+http://39dw.only4.tv:82/1401/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-football3" tvg-logo="http://only4.tv/ch/1402.png" catchup="shift" catchup-days="7" ,Матч! Футбол 3 HD
+http://39dw.only4.tv:82/1402/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://only4.tv/ch/1303.png" catchup="shift" catchup-days="7" ,Матч! Игра
+http://39dw.only4.tv:82/1303/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://only4.tv/ch/1301.png" catchup="shift" catchup-days="7" ,Матч! Арена
+http://39dw.only4.tv:82/1301/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://only4.tv/ch/2204.png" catchup="shift" catchup-days="7" ,Матч ТВ HD
+http://39dw.only4.tv:82/2204/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football1-ua" tvg-logo="http://only4.tv/ch/0155.png" catchup="shift" catchup-days="7" ,Футбол 1 HD
+http://39dw.only4.tv:82/0155/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football2-ua" tvg-logo="http://only4.tv/ch/0156.png" catchup="shift" catchup-days="7" ,Футбол 2 HD
+http://39dw.only4.tv:82/0156/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football3-ua" tvg-logo="http://only4.tv/ch/5606.png" catchup="shift" catchup-days="7" ,Футбол 3 HD
+http://s1.only4.tv:82/5606/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football1-ua" tvg-logo="http://only4.tv/ch/5513.png" catchup="shift" catchup-days="7" ,Футбол 1
+http://39dw.only4.tv:82/5513/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football2-ua" tvg-logo="http://only4.tv/ch/5514.png" catchup="shift" catchup-days="7" ,Футбол 2
+http://39dw.only4.tv:82/5514/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="football-ru" tvg-logo="http://only4.tv/ch/5567.png" catchup="shift" catchup-days="7" ,Телеканал Футбол
+http://39dw.only4.tv:82/5567/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="http://only4.tv/ch/0162.png" catchup="shift" catchup-days="7" ,Sport 1
+http://39dw.only4.tv:82/0162/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="http://only4.tv/ch/5569.png" catchup="shift" catchup-days="7" ,Sport 2
+http://39dw.only4.tv:82/5569/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-premier" tvg-logo="http://only4.tv/ch/1403.png" catchup="shift" catchup-days="7" ,Матч! Премьер HD
+http://39dw.only4.tv:82/1403/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-boets" tvg-logo="http://only4.tv/ch/1302.png" catchup="shift" catchup-days="7" ,Матч! Боец
+http://39dw.only4.tv:82/1302/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="match-planeta" tvg-logo="http://only4.tv/ch/5528.png" catchup="shift" catchup-days="7" ,Матч! Планета
+http://39dw.only4.tv:82/5528/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="box-tv" tvg-logo="http://only4.tv/ch/422.png" catchup="shift" catchup-days="7" ,Бокс ТВ
+http://39dw.only4.tv:82/422/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="russky-ekstrim" tvg-logo="http://only4.tv/ch/0143.png" catchup="shift" catchup-days="7" ,Русский экстрим
+http://39dw.only4.tv:82/0143/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="http://only4.tv/ch/19109.png" catchup="shift" catchup-days="7" ,Extreme sports
+http://39dw.only4.tv:82/19109/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://only4.tv/ch/5568.png" catchup="shift" catchup-days="7" ,Viasat Sport HD
+http://39dw.only4.tv:82/5568/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://only4.tv/ch/17106.png" catchup="shift" catchup-days="7" ,Viasat Sport
+http://39dw.only4.tv:82/17106/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd" tvg-logo="http://only4.tv/ch/0206.png" catchup="shift" catchup-days="7" ,КХЛ HD
+http://39dw.only4.tv:82/0206/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="konny-mir" tvg-logo="http://only4.tv/ch/0150.png" catchup="shift" catchup-days="7" ,Конный мир
+http://39dw.only4.tv:82/0150/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="http://only4.tv/ch/19110.png" catchup="shift" catchup-days="7" ,Точка отрыва
+http://39dw.only4.tv:82/19110/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="xsport-ua" tvg-logo="http://only4.tv/ch/6189.png" catchup="shift" catchup-days="7" ,XSPORT
+http://39dw.only4.tv:82/6189/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports" tvg-logo="http://only4.tv/ch/5509.png" catchup="shift" catchup-days="7" ,Сетанта Спорт
+http://39dw.only4.tv:82/5509/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-sports-plus" tvg-logo="http://only4.tv/ch/5510.png" catchup="shift" catchup-days="7" ,Сетанта Спорт +
+http://39dw.only4.tv:82/5510/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-ua" tvg-logo="http://only4.tv/ch/5511.png" catchup="shift" catchup-days="7" ,Сетанта Спорт Украина HD
+http://39dw.only4.tv:82/5511/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="setanta-ua" tvg-logo="http://only4.tv/ch/5583.png" catchup="shift" catchup-days="7" ,Сетанта Спорт Украина
+http://39dw.only4.tv:82/5583/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="m1global" tvg-logo="http://only4.tv/ch/1325.png" catchup="shift" catchup-days="7" ,M1 Global TV
+http://39dw.only4.tv:82/1325/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="mir-basketbola" tvg-logo="http://only4.tv/ch/1326.png" catchup="shift" catchup-days="7" ,Мир баскетбола
+http://39dw.only4.tv:82/1326/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="fightbox-hd" tvg-logo="http://only4.tv/ch/5529.png" catchup="shift" catchup-days="7" ,FightBox
+http://39dw.only4.tv:82/5529/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="supertennis" tvg-logo="http://only4.tv/ch/5530.png" catchup="shift" catchup-days="7" ,Super Tennis HD
+http://39dw.only4.tv:82/5530/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="motorsportv-tv" tvg-logo="http://only4.tv/ch/5531.png" catchup="shift" catchup-days="7" ,Моторспорт HD
+http://39dw.only4.tv:82/5531/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="ufc" tvg-logo="http://only4.tv/ch/5532.png" catchup="shift" catchup-days="7" ,UFC HD
+http://39dw.only4.tv:82/5532/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="drive" tvg-logo="http://only4.tv/ch/5563.png" catchup="shift" catchup-days="7" ,Драйв
+http://39dw.only4.tv:82/5563/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="tvplay-sports" tvg-logo="http://only4.tv/ch/5586.png" catchup="shift" catchup-days="7" ,TV3 Sport (Baltics)
+http://39dw.only4.tv:82/5586/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="viasat-hockey-hd" tvg-logo="http://only4.tv/ch/5587.png" catchup="shift" catchup-days="7" ,Hockey HD
+http://39dw.only4.tv:82/5587/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-1" tvg-logo="http://only4.tv/ch/5588.png" catchup="shift" catchup-days="7" ,BeIN Sport 1 HD
+http://39dw.only4.tv:82/5588/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-2" tvg-logo="http://only4.tv/ch/5589.png" catchup="shift" catchup-days="7" ,BeIN Sport 2 HD
+http://39dw.only4.tv:82/5589/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-3" tvg-logo="http://only4.tv/ch/5590.png" catchup="shift" catchup-days="7" ,BeIN Sport 3 HD
+http://39dw.only4.tv:82/5590/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-4" tvg-logo="http://only4.tv/ch/5591.png" catchup="shift" catchup-days="7" ,BeIN Sport 4 HD
+http://39dw.only4.tv:82/5591/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-5" tvg-logo="http://only4.tv/ch/5592.png" catchup="shift" catchup-days="7" ,BeIN Sport 5 HD
+http://39dw.only4.tv:82/5592/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-6" tvg-logo="http://only4.tv/ch/5593.png" catchup="shift" catchup-days="7" ,BeIN Sport 6 HD
+http://39dw.only4.tv:82/5593/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-7" tvg-logo="http://only4.tv/ch/5594.png" catchup="shift" catchup-days="7" ,BeIN Sport 7 HD
+http://39dw.only4.tv:82/5594/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-8" tvg-logo="http://only4.tv/ch/5595.png" catchup="shift" catchup-days="7" ,BeIN Sport 8 HD
+http://39dw.only4.tv:82/5595/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-9" tvg-logo="http://only4.tv/ch/5596.png" catchup="shift" catchup-days="7" ,BeIN Sport 9 HD
+http://39dw.only4.tv:82/5596/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Спорт" tvg-id="bein-sport-10" tvg-logo="http://only4.tv/ch/5597.png" catchup="shift" catchup-days="7" ,BeIN Sport 10 HD
+http://39dw.only4.tv:82/5597/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-hd" tvg-logo="http://only4.tv/ch/14106.png" catchup="shift" catchup-days="7" ,Nickelodeon HD
+http://39dw.only4.tv:82/14106/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="nickelodeon-ru" tvg-logo="http://only4.tv/ch/709.png" catchup="shift" catchup-days="7" ,Nickelodeon Россия
+http://39dw.only4.tv:82/709/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="da-vinci" tvg-logo="http://only4.tv/ch/19101.png" catchup="shift" catchup-days="7" ,Da Vinci Learning Россия
+http://39dw.only4.tv:82/19101/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd" tvg-logo="http://only4.tv/ch/0148.png" catchup="shift" catchup-days="7" ,Капитан фантастика
+http://39dw.only4.tv:82/0148/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki" tvg-logo="http://only4.tv/ch/425.png" catchup="shift" catchup-days="7" ,В гостях у сказки
+http://39dw.only4.tv:82/425/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="mult" tvg-logo="http://only4.tv/ch/0141.png" catchup="shift" catchup-days="7" ,Мульт HD
+http://39dw.only4.tv:82/0141/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="mult" tvg-logo="http://only4.tv/ch/407.png" catchup="shift" catchup-days="7" ,Мульт
+http://39dw.only4.tv:82/407/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="multimania" tvg-logo="http://only4.tv/ch/428.png" catchup="shift" catchup-days="7" ,Мультимания
+http://39dw.only4.tv:82/428/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="multimuzyka" tvg-logo="http://only4.tv/ch/420.png" catchup="shift" catchup-days="7" ,Мультимузыка
+http://39dw.only4.tv:82/420/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="karusel" tvg-logo="http://only4.tv/ch/822.png" catchup="shift" catchup-days="7" ,Карусель
+http://39dw.only4.tv:82/822/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="tiji" tvg-logo="http://only4.tv/ch/2121.png" catchup="shift" catchup-days="7" ,TiJi Россия
+http://39dw.only4.tv:82/2121/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="jimjam" tvg-logo="http://only4.tv/ch/708.png" catchup="shift" catchup-days="7" ,JimJam
+http://39dw.only4.tv:82/708/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="cartoon-network" tvg-logo="http://only4.tv/ch/802.png" catchup="shift" catchup-days="7" ,Cartoon network
+http://39dw.only4.tv:82/802/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="nick-jr" tvg-logo="http://only4.tv/ch/814.png" catchup="shift" catchup-days="7" ,Nick Jr
+http://39dw.only4.tv:82/814/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="o_" tvg-logo="http://only4.tv/ch/808.png" catchup="shift" catchup-days="7" ,О!
+http://39dw.only4.tv:82/808/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="boomerang" tvg-logo="http://only4.tv/ch/821.png" catchup="shift" catchup-days="7" ,Boomerang
+http://39dw.only4.tv:82/821/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="gulli-girl" tvg-logo="http://only4.tv/ch/2122.png" catchup="shift" catchup-days="7" ,Gulli Girl
+http://39dw.only4.tv:82/2122/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="disney" tvg-logo="http://only4.tv/ch/1312.png" catchup="shift" catchup-days="7" ,Канал Disney
+http://39dw.only4.tv:82/1312/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="niki-jr" tvg-logo="http://only4.tv/ch/5515.png" catchup="shift" catchup-days="7" ,Niki Junior HD
+http://39dw.only4.tv:82/5515/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="niki-kids" tvg-logo="http://only4.tv/ch/5516.png" catchup="shift" catchup-days="7" ,Niki Kids HD
+http://39dw.only4.tv:82/5516/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="2na2" tvg-logo="http://only4.tv/ch/1826.png" catchup="shift" catchup-days="7" ,2х2
+http://39dw.only4.tv:82/1826/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Детские" tvg-id="sts-kids-hd" tvg-logo="http://only4.tv/ch/5571.png" catchup="shift" catchup-days="7" ,СТС Kids
+http://39dw.only4.tv:82/5571/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-rybalka-hd" tvg-logo="http://only4.tv/ch/5519.png" catchup="shift" catchup-days="7" ,Дикая рыбалка HD
+http://39dw.only4.tv:82/5519/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dikaya-oxota-hd" tvg-logo="http://only4.tv/ch/5518.png" catchup="shift" catchup-days="7" ,Дикая охота HD
+http://39dw.only4.tv:82/5518/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="history-eu" tvg-logo="http://only4.tv/ch/1808.png" catchup="shift" catchup-days="7" ,History Европа
+http://39dw.only4.tv:82/1808/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="h2" tvg-logo="http://only4.tv/ch/0205.png" catchup="shift" catchup-days="7" ,H2
+http://39dw.only4.tv:82/0205/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-hd-showcase" tvg-logo="http://only4.tv/ch/0216.png" catchup="shift" catchup-days="7" ,Discovery HD Showcase
+http://39dw.only4.tv:82/0216/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="national-geographic" tvg-logo="http://only4.tv/ch/813.png" catchup="shift" catchup-days="7" ,National Geographic Россия
+http://39dw.only4.tv:82/813/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://only4.tv/ch/20101.png" catchup="shift" catchup-days="7" ,Nat Geo Wild HD
+http://39dw.only4.tv:82/20101/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://only4.tv/ch/19116.png" catchup="shift" catchup-days="7" ,Nat Geo Wild Россия
+http://39dw.only4.tv:82/19116/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="http://only4.tv/ch/1813.png" catchup="shift" catchup-days="7" ,Travel channel
+http://39dw.only4.tv:82/1813/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="prikluchenia-hd" tvg-logo="http://only4.tv/ch/0136.png" catchup="shift" catchup-days="7" ,Приключения HD
+http://39dw.only4.tv:82/0136/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="eureka-hd" tvg-logo="http://only4.tv/ch/0145.png" catchup="shift" catchup-days="7" ,Эврика
+http://39dw.only4.tv:82/0145/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="oxotnik-i-rybolov-hd" tvg-logo="http://only4.tv/ch/0144.png" catchup="shift" catchup-days="7" ,Охотник и рыболов HD
+http://39dw.only4.tv:82/0144/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="planeta-hd" tvg-logo="http://only4.tv/ch/0168.png" catchup="shift" catchup-days="7" ,Планета HD
+http://39dw.only4.tv:82/0168/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="rtg-hd" tvg-logo="http://only4.tv/ch/0125.png" catchup="shift" catchup-days="7" ,RTG HD
+http://39dw.only4.tv:82/0125/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="hd-life" tvg-logo="http://only4.tv/ch/12103.png" catchup="shift" catchup-days="7" ,HDL
+http://39dw.only4.tv:82/12103/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="iq" tvg-logo="http://only4.tv/ch/0146.png" catchup="shift" catchup-days="7" ,IQ HD
+http://39dw.only4.tv:82/0146/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science" tvg-logo="http://only4.tv/ch/5564.png" catchup="shift" catchup-days="7" ,Discovery Science HD
+http://39dw.only4.tv:82/5564/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-science" tvg-logo="http://only4.tv/ch/1110.png" catchup="shift" catchup-days="7" ,Discovery Science
+http://39dw.only4.tv:82/1110/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel" tvg-logo="http://only4.tv/ch/12105.png" catchup="shift" catchup-days="7" ,Discovery Channel HD
+http://39dw.only4.tv:82/12105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="discovery-channel" tvg-logo="http://only4.tv/ch/803.png" catchup="shift" catchup-days="7" ,Discovery Россия
+http://39dw.only4.tv:82/803/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="id-xtra-ru" tvg-logo="http://only4.tv/ch/807.png" catchup="shift" catchup-days="7" ,ID Xtra (Россия)
+http://39dw.only4.tv:82/807/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="http://only4.tv/ch/2202.png" catchup="shift" catchup-days="7" ,Animal Planet HD
+http://39dw.only4.tv:82/2202/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="http://only4.tv/ch/801.png" catchup="shift" catchup-days="7" ,Animal planet Россия
+http://39dw.only4.tv:82/801/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="http://only4.tv/ch/713.png" catchup="shift" catchup-days="7" ,Travel+Adventure HD
+http://39dw.only4.tv:82/713/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dtx" tvg-logo="http://only4.tv/ch/0210.png" catchup="shift" catchup-days="7" ,DTX
+http://39dw.only4.tv:82/0210/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="sovsek" tvg-logo="http://only4.tv/ch/2115.png" catchup="shift" catchup-days="7" ,Совершенно секретно
+http://39dw.only4.tv:82/2115/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dialogi-o-rybalke" tvg-logo="http://only4.tv/ch/2105.png" catchup="shift" catchup-days="7" ,Диалоги о рыбалке
+http://39dw.only4.tv:82/2105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="trofey" tvg-logo="http://only4.tv/ch/6181.png" catchup="shift" catchup-days="7" ,Трофей
+http://39dw.only4.tv:82/6181/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="http://only4.tv/ch/1805.png" catchup="shift" catchup-days="7" ,Моя планета
+http://39dw.only4.tv:82/1805/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="fauna" tvg-logo="http://only4.tv/ch/6182.png" catchup="shift" catchup-days="7" ,Фауна
+http://39dw.only4.tv:82/6182/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="http://only4.tv/ch/19122.png" catchup="shift" catchup-days="7" ,Ocean TV
+http://39dw.only4.tv:82/19122/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dikiy" tvg-logo="http://only4.tv/ch/2128.png" catchup="shift" catchup-days="7" ,Дикий
+http://39dw.only4.tv:82/2128/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="zoopark" tvg-logo="http://only4.tv/ch/1113.png" catchup="shift" catchup-days="7" ,ZooПарк
+http://39dw.only4.tv:82/1113/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="zhivaya-priroda" tvg-logo="http://only4.tv/ch/0217.png" catchup="shift" catchup-days="7" ,Живая природа HD
+http://39dw.only4.tv:82/0217/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="zagorodnaya-zhizn" tvg-logo="http://only4.tv/ch/715.png" catchup="shift" catchup-days="7" ,Загородная жизнь
+http://39dw.only4.tv:82/715/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="usadba" tvg-logo="http://only4.tv/ch/19113.png" catchup="shift" catchup-days="7" ,Усадьба
+http://39dw.only4.tv:82/19113/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="http://only4.tv/ch/19107.png" catchup="shift" catchup-days="7" ,Viasat Nature CEE
+http://39dw.only4.tv:82/19107/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="http://only4.tv/ch/19106.png" catchup="shift" catchup-days="7" ,Viasat History
+http://39dw.only4.tv:82/19106/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="http://only4.tv/ch/19105.png" catchup="shift" catchup-days="7" ,Viasat Explore Россия
+http://39dw.only4.tv:82/19105/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="tlc" tvg-logo="http://only4.tv/ch/815.png" catchup="shift" catchup-days="7" ,TLC Россия
+http://39dw.only4.tv:82/815/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="bobior" tvg-logo="http://only4.tv/ch/818.png" catchup="shift" catchup-days="7" ,Бобер
+http://39dw.only4.tv:82/818/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="fine-living" tvg-logo="http://only4.tv/ch/404.png" catchup="shift" catchup-days="7" ,Fine Living
+http://39dw.only4.tv:82/404/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="food-network" tvg-logo="http://only4.tv/ch/416.png" catchup="shift" catchup-days="7" ,Food Network Россия
+http://39dw.only4.tv:82/416/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="http://only4.tv/ch/101.png" catchup="shift" catchup-days="7" ,365 дней ТВ
+http://39dw.only4.tv:82/101/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="hd-media" tvg-logo="http://only4.tv/ch/0262.png" catchup="shift" catchup-days="7" ,HD Медиа
+http://39dw.only4.tv:82/0262/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="dacha" tvg-logo="http://only4.tv/ch/6184.png" catchup="shift" catchup-days="7" ,Дача
+http://39dw.only4.tv:82/6184/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="epoque" tvg-logo="http://only4.tv/ch/6185.png" catchup="shift" catchup-days="7" ,Epoque
+http://39dw.only4.tv:82/6185/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra" tvg-logo="http://only4.tv/ch/6186.png" catchup="shift" catchup-days="7" ,Terra
+http://39dw.only4.tv:82/6186/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="nauka" tvg-logo="http://only4.tv/ch/6187.png" catchup="shift" catchup-days="7" ,Наука
+http://39dw.only4.tv:82/6187/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="nauka-20" tvg-logo="http://only4.tv/ch/5526.png" catchup="shift" catchup-days="7" ,Наука 2.0 HD
+http://39dw.only4.tv:82/5526/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="english-club-tv" tvg-logo="http://only4.tv/ch/5527.png" catchup="shift" catchup-days="7" ,English Club
+http://39dw.only4.tv:82/5527/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="http://only4.tv/ch/5565.png" catchup="shift" catchup-days="7" ,Оружие
+http://39dw.only4.tv:82/5565/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="texno-24" tvg-logo="http://only4.tv/ch/5566.png" catchup="shift" catchup-days="7" ,Т 24
+http://39dw.only4.tv:82/5566/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="glazami-turista" tvg-logo="http://only4.tv/ch/0252.png" catchup="shift" catchup-days="7" ,Глазами туриста
+http://39dw.only4.tv:82/0252/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="avto24" tvg-logo="http://only4.tv/ch/702.png" catchup="shift" catchup-days="7" ,Авто24
+http://39dw.only4.tv:82/702/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="avto-plus" tvg-logo="http://only4.tv/ch/102.png" catchup="shift" catchup-days="7" ,Авто Плюс
+http://39dw.only4.tv:82/102/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="kuxnia-tv" tvg-logo="http://only4.tv/ch/0283.png" catchup="shift" catchup-days="7" ,Кухня ТВ
+http://39dw.only4.tv:82/0283/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="yu" tvg-logo="http://only4.tv/ch/1320.png" catchup="shift" catchup-days="7" ,Ю
+http://39dw.only4.tv:82/1320/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="tayny-galaktiki" tvg-logo="http://only4.tv/ch/5598.png" catchup="shift" catchup-days="7" ,Тайны Галактики HD
+http://39dw.only4.tv:82/5598/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Познавательные" tvg-id="v-mire-zhivotnyx-hd" tvg-logo="http://only4.tv/ch/5599.png" catchup="shift" catchup-days="7" ,В мире животных HD
+http://39dw.only4.tv:82/5599/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="vh1-classic" tvg-logo="http://only4.tv/ch/816.png" catchup="shift" catchup-days="7" ,VH1 Classic Europe
+http://39dw.only4.tv:82/816/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="vh1-european" tvg-logo="http://only4.tv/ch/817.png" catchup="shift" catchup-days="7" ,VH1 Europe
+http://39dw.only4.tv:82/817/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="muzyka-pervogo" tvg-logo="http://only4.tv/ch/823.png" catchup="shift" catchup-days="7" ,Музыка Первого
+http://39dw.only4.tv:82/823/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="europa-plus-tv" tvg-logo="http://only4.tv/ch/103.png" catchup="shift" catchup-days="7" ,Europa Plus TV
+http://39dw.only4.tv:82/103/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd" tvg-logo="http://only4.tv/ch/2206.png" catchup="shift" catchup-days="7" ,Bridge HD
+http://39dw.only4.tv:82/2206/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv" tvg-logo="http://only4.tv/ch/0297.png" catchup="shift" catchup-days="7" ,Bridge TV
+http://39dw.only4.tv:82/0297/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-dance" tvg-logo="http://only4.tv/ch/1818.png" catchup="shift" catchup-days="7" ,Bridge TV Dance
+http://39dw.only4.tv:82/1818/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit" tvg-logo="http://only4.tv/ch/2119.png" catchup="shift" catchup-days="7" ,Bridge TV Русский хит
+http://39dw.only4.tv:82/2119/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-classic" tvg-logo="http://only4.tv/ch/2118.png" catchup="shift" catchup-days="7" ,Bridge TV Classic
+http://39dw.only4.tv:82/2118/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="ru-tv" tvg-logo="http://only4.tv/ch/1812.png" catchup="shift" catchup-days="7" ,RU.TV
+http://39dw.only4.tv:82/1812/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv" tvg-logo="http://only4.tv/ch/1313.png" catchup="shift" catchup-days="7" ,Муз-ТВ
+http://39dw.only4.tv:82/1313/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="tnt-music" tvg-logo="http://only4.tv/ch/1324.png" catchup="shift" catchup-days="7" ,ТНТ-Music
+http://39dw.only4.tv:82/1324/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="mcm-top" tvg-logo="http://only4.tv/ch/1809.png" catchup="shift" catchup-days="7" ,MCM Top
+http://39dw.only4.tv:82/1809/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-russia" tvg-logo="http://only4.tv/ch/809.png" catchup="shift" catchup-days="7" ,MTV Россия
+http://39dw.only4.tv:82/809/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-dance" tvg-logo="http://only4.tv/ch/810.png" catchup="shift" catchup-days="7" ,MTV Dance International
+http://39dw.only4.tv:82/810/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-hits" tvg-logo="http://only4.tv/ch/811.png" catchup="shift" catchup-days="7" ,MTV Hits International
+http://39dw.only4.tv:82/811/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="mtv-rocks" tvg-logo="http://only4.tv/ch/812.png" catchup="shift" catchup-days="7" ,MTV Rocks International
+http://39dw.only4.tv:82/812/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="c-music-tv" tvg-logo="http://only4.tv/ch/0257.png" catchup="shift" catchup-days="7" ,Stingray CMusic
+http://39dw.only4.tv:82/0257/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="iconcerts" tvg-logo="http://only4.tv/ch/5572.png" catchup="shift" catchup-days="7" ,Stingray IConcerts HD
+http://39dw.only4.tv:82/5572/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="m1-ua" tvg-logo="http://only4.tv/ch/0175.png" catchup="shift" catchup-days="7" ,М1
+http://39dw.only4.tv:82/0175/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="m1-ua" tvg-logo="http://only4.tv/ch/5601.png" catchup="shift" catchup-days="7" ,М1 HD
+http://39dw.only4.tv:82/5601/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="m2-ua" tvg-logo="http://only4.tv/ch/5602.png" catchup="shift" catchup-days="7" ,М2 HD
+http://39dw.only4.tv:82/5602/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="m2-ua" tvg-logo="http://only4.tv/ch/0176.png" catchup="shift" catchup-days="7" ,М2
+http://39dw.only4.tv:82/0176/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="la-minor" tvg-logo="http://only4.tv/ch/0284.png" catchup="shift" catchup-days="7" ,Ля-минор
+http://39dw.only4.tv:82/0284/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv" tvg-logo="http://only4.tv/ch/724.png" catchup="shift" catchup-days="7" ,Шансон ТВ (Ямал)
+http://39dw.only4.tv:82/724/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="eu-music" tvg-logo="http://only4.tv/ch/5517.png" catchup="shift" catchup-days="7" ,Eu Music
+http://39dw.only4.tv:82/5517/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="4ever-music" tvg-logo="http://only4.tv/ch/5512.png" catchup="shift" catchup-days="7" ,4ever Music
+http://39dw.only4.tv:82/5512/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Музыка" tvg-id="zhara" tvg-logo="http://only4.tv/ch/123.png" catchup="shift" catchup-days="7" ,Жара
+http://39dw.only4.tv:82/123/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ua-pershy" tvg-logo="http://only4.tv/ch/0196.png" catchup="shift" catchup-days="7" ,UA:Перший (спутник)
+http://39dw.only4.tv:82/0196/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="inter-ua" tvg-logo="http://only4.tv/ch/0153.png" catchup="shift" catchup-days="7" ,Интер
+http://39dw.only4.tv:82/0153/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="1plus1" tvg-logo="http://only4.tv/ch/5582.png" catchup="shift" catchup-days="7" ,1+1 HD
+http://39dw.only4.tv:82/5582/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="1plus1" tvg-logo="http://only4.tv/ch/0151.png" catchup="shift" catchup-days="7" ,1+1
+http://39dw.only4.tv:82/0151/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="1plus1-int" tvg-logo="http://only4.tv/ch/0195.png" catchup="shift" catchup-days="7" ,1+1 Международный
+http://39dw.only4.tv:82/0195/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ictv-ua" tvg-logo="http://only4.tv/ch/5605.png" catchup="shift" catchup-days="7" ,ICTV HD
+http://39dw.only4.tv:82/5605/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ictv-ua" tvg-logo="http://only4.tv/ch/0159.png" catchup="shift" catchup-days="7" ,ICTV
+http://39dw.only4.tv:82/0159/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ukraina" tvg-logo="http://only4.tv/ch/5584.png" catchup="shift" catchup-days="7" ,Украина HD
+http://39dw.only4.tv:82/5584/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ukraina" tvg-logo="http://only4.tv/ch/0174.png" catchup="shift" catchup-days="7" ,Украина
+http://39dw.only4.tv:82/0174/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="novy-kanal-ua" tvg-logo="http://only4.tv/ch/5603.png" catchup="shift" catchup-days="7" ,Новый канал HD
+http://39dw.only4.tv:82/5603/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="novy-kanal-ua" tvg-logo="http://only4.tv/ch/0194.png" catchup="shift" catchup-days="7" ,Новый канал
+http://39dw.only4.tv:82/0194/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="stb-ua" tvg-logo="http://only4.tv/ch/5604.png" catchup="shift" catchup-days="7" ,СТБ HD
+http://39dw.only4.tv:82/5604/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="stb-ua" tvg-logo="http://only4.tv/ch/0160.png" catchup="shift" catchup-days="7" ,СТБ
+http://39dw.only4.tv:82/0160/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="tet-ua" tvg-logo="http://only4.tv/ch/0164.png" catchup="shift" catchup-days="7" ,ТЕТ
+http://39dw.only4.tv:82/0164/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="ntn-ua" tvg-logo="http://only4.tv/ch/0157.png" catchup="shift" catchup-days="7" ,НТН
+http://39dw.only4.tv:82/0157/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="5kanal-ua" tvg-logo="http://only4.tv/ch/0165.png" catchup="shift" catchup-days="7" ,5 канал
+http://39dw.only4.tv:82/0165/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="mega-ua" tvg-logo="http://only4.tv/ch/0171.png" catchup="shift" catchup-days="7" ,Мега
+http://39dw.only4.tv:82/0171/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="k1-ua" tvg-logo="http://only4.tv/ch/0158.png" catchup="shift" catchup-days="7" ,К1
+http://39dw.only4.tv:82/0158/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="k2-ua" tvg-logo="http://only4.tv/ch/0169.png" catchup="shift" catchup-days="7" ,К2
+http://39dw.only4.tv:82/0169/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="2plus2" tvg-logo="http://only4.tv/ch/0152.png" catchup="shift" catchup-days="7" ,2+2
+http://39dw.only4.tv:82/0152/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="112-ua" tvg-logo="http://only4.tv/ch/0161.png" catchup="shift" catchup-days="7" ,112 Украина
+http://39dw.only4.tv:82/0161/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="zoom-ua" tvg-logo="http://only4.tv/ch/0170.png" catchup="shift" catchup-days="7" ,Zoom
+http://39dw.only4.tv:82/0170/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="enter-film" tvg-logo="http://only4.tv/ch/0167.png" catchup="shift" catchup-days="7" ,Enter-фильм
+http://39dw.only4.tv:82/0167/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="plusplus" tvg-logo="http://only4.tv/ch/6140.png" catchup="shift" catchup-days="7" ,ПлюсПлюс
+http://39dw.only4.tv:82/6140/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="bigudi" tvg-logo="http://only4.tv/ch/6145.png" catchup="shift" catchup-days="7" ,Бигуди
+http://39dw.only4.tv:82/6145/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="unian-tv" tvg-logo="http://only4.tv/ch/6160.png" catchup="shift" catchup-days="7" ,Униан ТВ
+http://39dw.only4.tv:82/6160/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="indigo-ua" tvg-logo="http://only4.tv/ch/0177.png" catchup="shift" catchup-days="7" ,Индиго
+http://39dw.only4.tv:82/0177/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="kvartal-tv" tvg-logo="http://only4.tv/ch/6180.png" catchup="shift" catchup-days="7" ,Квартал ТВ
+http://39dw.only4.tv:82/6180/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="nlo-tv-ua" tvg-logo="http://only4.tv/ch/0172.png" catchup="shift" catchup-days="7" ,НЛО TV
+http://39dw.only4.tv:82/0172/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="1auto" tvg-logo="http://only4.tv/ch/6183.png" catchup="shift" catchup-days="7" ,Первый автомобильный
+http://39dw.only4.tv:82/6183/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="newsnetwork" tvg-logo="http://only4.tv/ch/0181.png" catchup="shift" catchup-days="7" ,NewsNetwork
+http://39dw.only4.tv:82/0181/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="lale" tvg-logo="http://only4.tv/ch/0189.png" catchup="shift" catchup-days="7" ,Lale
+http://39dw.only4.tv:82/0189/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="atr-ua" tvg-logo="http://only4.tv/ch/0187.png" catchup="shift" catchup-days="7" ,ATR
+http://39dw.only4.tv:82/0187/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="nadezhda" tvg-logo="http://only4.tv/ch/0182.png" catchup="shift" catchup-days="7" ,Надежда
+http://39dw.only4.tv:82/0182/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="sonce-ua" tvg-logo="http://only4.tv/ch/0183.png" catchup="shift" catchup-days="7" ,Сонце
+http://39dw.only4.tv:82/0183/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="rada-ua" tvg-logo="http://only4.tv/ch/0186.png" catchup="shift" catchup-days="7" ,Рада
+http://39dw.only4.tv:82/0186/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="pixel" tvg-logo="http://only4.tv/ch/0166.png" catchup="shift" catchup-days="7" ,Пиксель
+http://39dw.only4.tv:82/0166/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="zik-ua" tvg-logo="http://only4.tv/ch/0198.png" catchup="shift" catchup-days="7" ,ZIK HD
+http://39dw.only4.tv:82/0198/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="priamyj" tvg-logo="http://only4.tv/ch/0199.png" catchup="shift" catchup-days="7" ,Прямой HD
+http://39dw.only4.tv:82/0199/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="hromadske" tvg-logo="http://only4.tv/ch/0197.png" catchup="shift" catchup-days="7" ,Громадське
+http://39dw.only4.tv:82/0197/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="newsone-ua" tvg-logo="http://only4.tv/ch/0180.png" catchup="shift" catchup-days="7" ,NewsOne
+http://39dw.only4.tv:82/0180/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="24news-ua" tvg-logo="http://only4.tv/ch/5573.png" catchup="shift" catchup-days="7" ,News 24
+http://39dw.only4.tv:82/5573/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="34-dnepr" tvg-logo="http://only4.tv/ch/0178.png" catchup="shift" catchup-days="7" ,34 канал (Днепр)
+http://39dw.only4.tv:82/0178/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="espreso-tv" tvg-logo="http://only4.tv/ch/0154.png" catchup="shift" catchup-days="7" ,Еспресо TV
+http://39dw.only4.tv:82/0154/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="maxxi-tv" tvg-logo="http://only4.tv/ch/6950.png" catchup="shift" catchup-days="7" ,Наш
+http://39dw.only4.tv:82/6950/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="otse" tvg-logo="http://only4.tv/ch/5600.png" catchup="shift" catchup-days="7" ,Оце HD
+http://39dw.only4.tv:82/5600/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Украинские" tvg-id="otse" tvg-logo="http://only4.tv/ch/5538.png" catchup="shift" catchup-days="7" ,Оце
+http://39dw.only4.tv:82/5538/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus1" tvg-logo="http://only4.tv/ch/5539.png" catchup="shift" catchup-days="7" ,Беларусь 1
+http://39dw.only4.tv:82/5539/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus2" tvg-logo="http://only4.tv/ch/5540.png" catchup="shift" catchup-days="7" ,Беларусь 2
+http://39dw.only4.tv:82/5540/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus3" tvg-logo="http://only4.tv/ch/5541.png" catchup="shift" catchup-days="7" ,Беларусь 3
+http://39dw.only4.tv:82/5541/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus5" tvg-logo="http://only4.tv/ch/5542.png" catchup="shift" catchup-days="7" ,Беларусь 5
+http://39dw.only4.tv:82/5542/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus5" tvg-logo="http://only4.tv/ch/5543.png" catchup="shift" catchup-days="7" ,Беларусь 5 HD
+http://39dw.only4.tv:82/5543/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="Белорусские" tvg-id="belarus24" tvg-logo="http://only4.tv/ch/5559.png" catchup="shift" catchup-days="7" ,Беларусь 24 HD
+http://39dw.only4.tv:82/5559/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="nuart-tv" tvg-logo="http://only4.tv/ch/118.png" catchup="shift" catchup-days="7" ,НЮ АРТ ТВ
+http://39dw.only4.tv:82/118/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="playboy-tv" tvg-logo="http://only4.tv/ch/2120.png" catchup="shift" catchup-days="7" ,Playboy TV UK
+http://39dw.only4.tv:82/2120/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="hustler-hd" tvg-logo="http://only4.tv/ch/5506.png" catchup="shift" catchup-days="7" ,Hustler HD
+http://39dw.only4.tv:82/5506/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="penthouse-hd" tvg-logo="http://only4.tv/ch/5507.png" catchup="shift" catchup-days="7" ,Penthouse HD 1
+http://39dw.only4.tv:82/5507/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="redlight-hd" tvg-logo="http://only4.tv/ch/5508.png" catchup="shift" catchup-days="7" ,Redlight HD
+http://39dw.only4.tv:82/5508/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="dorcel" tvg-logo="http://only4.tv/ch/5555.png" catchup="shift" catchup-days="7" ,Dorcel TV HD
+http://39dw.only4.tv:82/5555/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="private-tv" tvg-logo="http://only4.tv/ch/5556.png" catchup="shift" catchup-days="7" ,Private TV HD
+http://39dw.only4.tv:82/5556/video.m3u8?token=M1bxsI3oZw
+#EXTINF:-1 group-title="ХХХ" tvg-id="vivid" tvg-logo="http://only4.tv/ch/5557.png" catchup="shift" catchup-days="7" ,Vivid Red HD
+http://39dw.only4.tv:82/5557/video.m3u8?token=M1bxsI3oZw
+#EXT-X-ENDLIST

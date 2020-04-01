@@ -2,7 +2,7 @@
 <items>
           <channel>
             <title><![CDATA[AMC (1)]]></title>
-            <stream_url><![CDATA[http://c0.cdn.trinity-tv.net/stream/ksxcy7xzz9w32dhtpxqkyh4s9rbznvkxkc8xknger8nzu5247xgqvfwgvfvdie8rfzaqksacbuh4ny24vrnccvntdgvfgx478yjqwy6eg5cjk8q9n9jnkwnt89f7zujshhsivicx8m8833k5665vzzci.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1083/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -12,17 +12,17 @@
         
           <channel>
             <title><![CDATA[AMC (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/1083/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://212.121.249.34:8080/amc/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[AMC (4)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/AMCRU?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://c0.cdn.trinity-tv.net/stream/ksxcy7xzz9w32dhtpxqkyh4s9rbznvkxkc8xknger8nzu5247xgqvfwgvfvdie8rfzaqksacbuh4ny24vrnccvntdgvfgx478yjqwy6eg5cjk8q9n9jnkwnt89f7zujshhsivicx8m8833k5665vzzci.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[AMC (5)]]></title>
-            <stream_url><![CDATA[http://212.121.249.34:8080/amc/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/1083/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,21 +32,11 @@
         
           <channel>
             <title><![CDATA[AMC (7)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/1083/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[AMC (8)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[AMC (9)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/135/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[AMC (10)]]></title>
+            <title><![CDATA[AMC (8)]]></title>
             <stream_url><![CDATA[http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=75]]></stream_url>
           </channel>
         

@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+https://rt-cache1.peers.tv/streaming/interesnoe_tv/16/variable.m3u8
+#EXTINF:-1 ,Кинохит
+https://rt-cache1.peers.tv/streaming/kinohit/16/variable.m3u8
+#EXTINF:-1 ,КИНОМИКС
+https://rt-cache1.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1 ,Новосибирские новости
+https://rt-cache1.peers.tv/streaming/nsknews/16/tvrec/playlist.m3u8
+#EXTINF:-1 ,49 канал (Новосибирск)
+https://rt-cache1.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1 ,Телепутешествия
+https://rt-cache1.peers.tv/streaming/teleputeshestviya/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,DTX
+https://rt-cache1.peers.tv/streaming/discoveryworld/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Авто 24
+https://rt-cache1.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Авто плюс
+https://rt-cache1.peers.tv/streaming/auto_plus/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Мужской
+https://rt-cache1.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1 ,Наша Тема
+https://rt-cache1.peers.tv/streaming/nasha_tema/16/copy/playlist.m3u8
+#EXTINF:-1 ,Охотник и рыболов
+https://rt-cache1.peers.tv/streaming/ohotnik_i_rybolov/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Зоо ТВ
+https://rt-cache1.peers.tv/streaming/zoo_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Матч! Арена
+https://rt-cache1.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Матч! Футбол 1 HD
+https://rt-cache1.peers.tv/streaming/match_football1_hd/16/variable.m3u8
+#EXTINF:-1 ,Матч! Футбол 2 hd
+https://rt-cache1.peers.tv/streaming/match_football2_hd/16/variable.m3u8
+#EXTINF:-1 ,Bridge TV
+https://rt-cache1.peers.tv/streaming/bridge/126/variable.m3u8
+#EXTINF:-1 ,О2ТВ HD
+https://rt-cache1.peers.tv/streaming/o2tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 ,МАТЧ! Арена (FHD)
+https://rt-cache1.peers.tv/streaming/sport_1_hd/16/copy/playlist.m3u8
+#EXTINF:-1 ,ViP Serial
+https://rt-cache1.peers.tv/streaming/viasat_golf_hd/16/copy/playlist.m3u8
+#EXTINF:-1 ,НТВ Право
+https://rt-cache1.peers.tv/streaming/ntv_pravo/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://rt-cache1.peers.tv/streaming/ntv_hit/16/variable.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://rt-cache1.peers.tv/streaming/ntv_serial/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Дом Кино
+https://rt-cache1.peers.tv/streaming/dom_kino/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Наше новое кино
+https://rt-cache1.peers.tv/streaming/nashe_novoe_kino/16/copy/playlist.m3u8
+#EXTINF:-1 ,Русский иллюзион
+https://rt-cache1.peers.tv/streaming/russian_illusion/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Русский роман
+https://rt-cache1.peers.tv/streaming/russian_roman/16/tvrecw/playlist.m3u8
+#EXTINF:-1 ,Победа
+https://rt-cache1.peers.tv/streaming/pobeda/16/variable.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://rt-cache1.peers.tv/streaming/tv_1000_rus_kino/16/gvh1w/playlist.m3u8
+#EXTINF:-1 ,CINEMA
+https://rt-cache1.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8
+#EXTINF:-1 ,KINO 24
+https://rt-cache1.peers.tv/streaming/kino24/126/copy/playlist.m3u8

@@ -2,57 +2,57 @@
 <items>
           <channel>
             <title><![CDATA[Discovery Science HD (1)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://5.129.5.72:81/udp/239.1.21.143:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0dg?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C05_DISCOVERYSCIENCEHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (3)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/146.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://streamer-1.obozrenie.tv/18/3f1d60e571a78f667b5ff7d2/81/stream.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (4)]]></title>
-            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://spacetv.in/stream/DVB2D6AE8CU/146.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (5)]]></title>
-            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/146.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (6)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57427.ts]]></stream_url>
+            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (7)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55671.ts]]></stream_url>
+            <stream_url><![CDATA[http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (8)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/104/hls/4WT1bzMG/?type=m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Science HD (9)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/146.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Science HD (9)]]></title>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/5564/video.m3u8?token=M1bxsI3oZw]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Science HD (10)]]></title>
-            <stream_url><![CDATA[http://tvfun.no-ip.biz:6969/qWFtAYtbzA/PE2V9PiAI1/2919]]></stream_url>
+            <stream_url><![CDATA[http://ch01.spr24.net/303/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Science HD (11)]]></title>
-            <stream_url><![CDATA[http://streamer-1.obozrenie.tv/18/3f1d60e571a78f667b5ff7d2/81/stream.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/104/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

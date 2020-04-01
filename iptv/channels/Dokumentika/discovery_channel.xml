@@ -7,7 +7,7 @@
         
           <channel>
             <title><![CDATA[Discovery Channel (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0di?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://185.22.183.147:8085/media/hls_183_147/discovery/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -17,12 +17,12 @@
         
           <channel>
             <title><![CDATA[Discovery Channel (4)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/140/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -32,97 +32,67 @@
         
           <channel>
             <title><![CDATA[Discovery Channel (7)]]></title>
-            <stream_url><![CDATA[http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_DISCOVERYCHANNEL/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (8)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/140/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/88/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (9)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (10)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/140/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (11)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Discovery Channel (11)]]></title>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/discovery.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Discovery Channel (12)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (13)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58153.ts]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (14)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35500.ts]]></stream_url>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/140/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (15)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32620.ts]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/140/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (16)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31265.ts]]></stream_url>
+            <stream_url><![CDATA[http://streamer-1.obozrenie.tv/18/1f14ec41bd57c312390b43cc/80/stream.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Discovery Channel (17)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/58707.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (18)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/34412.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (19)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33662.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (20)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31968.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (21)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/55831.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (22)]]></title>
             <stream_url><![CDATA[http://ch01.spr24.net/5180/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Channel (23)]]></title>
+            <title><![CDATA[Discovery Channel (18)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/46/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Discovery Channel (24)]]></title>
+            <title><![CDATA[Discovery Channel (19)]]></title>
             <stream_url><![CDATA[http://tvpremiumhd.club/lista-gratuita/215320/tv/live.php?id=56]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Discovery Channel (25)]]></title>
-            <stream_url><![CDATA[http://streamer-1.obozrenie.tv/18/1f14ec41bd57c312390b43cc/80/stream.m3u8]]></stream_url>
           </channel>
         
 </items>

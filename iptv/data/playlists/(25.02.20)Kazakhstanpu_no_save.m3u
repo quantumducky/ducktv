@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1 ,A2
+http://sc.id-tv.kz:80/A2_38_39.m3u8
+#EXTINF:-1 ,СТВ
+http://sc.id-tv.kz:80/STV_38_39.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://sc.id-tv.kz:80/RenTV_38_39.m3u8
+#EXTINF:-1 ,H2
+http://sc.id-tv.kz:80/H2_38_39.m3u8
+#EXTINF:-1 ,dombyra
+https://sc.id-tv.kz/Dombyra.m3u8
+#EXTINF:-1 ,KMA HD
+http://sc.id-tv.kz/KMA_34_35.m3u8
+#EXTINF:-1 ,Твое ТВ
+http://sc.id-tv.kz/TvoeTV_38_39.m3u8
+#EXTINF:-1 ,Astana TV
+http://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 ,Асыл Арна
+http://sc.id-tv.kz/AsylArna_38_39.m3u8
+#EXTINF:-1 ,Dombyra TV
+http://sc.id-tv.kz/Dombyra_38_39.m3u8
+#EXTINF:-1 ,Ел Арна
+http://sc.id-tv.kz/ElArna_38_39.m3u8
+#EXTINF:-1 ,Халык Арна
+http://sc.id-tv.kz/HalykArna_38_39.m3u8
+#EXTINF:-1 ,ID Fashion (KZ)
+http://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 ,Мир +3 (KZ)
+http://sc.id-tv.kz/Mir_38_39.m3u8
+#EXTINF:-1 ,Мир 24
+http://sc.id-tv.kz/Mir24_38_39.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1 ,СТС International
+http://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 ,СТВ Казахстан
+http://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 ,ТДК 42
+http://sc.id-tv.kz/TDK-42_38_39.m3u8
+#EXTINF:-1 ,31 Канал (KZ)
+http://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 ,7 канал (KZ)
+http://sc.id-tv.kz/7_kanal_38_39.m3u8
+#EXTINF:-1 ,Tamasha TV (KZ)
+http://sc.id-tv.kz/Tamasha_38_39.m3u8
+#EXTINF:-1 ,KAZAKH TV
+http://sc.id-tv.kz/KazakhTV_38_39.m3u8
+#EXTINF:-1 ,Khabar24
+http://sc.id-tv.kz/Khabar_24_38_39.m3u8
+#EXTINF:-1 ,Мир 3
+http://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 ,Habar
+http://sc.id-tv.kz/Habar.m3u8
+#EXTINF:-1 ,Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1 ,7 Канал (Казахстан)
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 ,Almaty TV (KZ)
+http://sc.id-tv.kz/Almaty_38_39.m3u8
+#EXTINF:-1 ,Atameken Business TV (KZ)
+http://sc.id-tv.kz/Atameken_38_39.m3u8
+#EXTINF:-1 ,ID Fashion
+http://sc.id-tv.kz/IDFashion_34_35.m3u8
+#EXTINF:-1 ,КТК
+http://sc.id-tv.kz/KTK_38_39.m3u8
+#EXTINF:-1 ,Новое ТВ (KZ)
+http://sc.id-tv.kz/New_Television_38_39.m3u8
+#EXTINF:-1 ,СТС
+http://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 ,СТВ (Казахстан)
+http://sc.id-tv.kz/STV_34_35.m3u8
+#EXTINF:-1 ,Amedia 2
+http://sc.id-tv.kz/amedia_2_38_39.m3u8
+#EXTINF:-1 ,poehali
+http://sc.id-tv.kz/poehali_38_39.m3u8
+#EXTINF:-1 ,Indiiskoe kino
+http://sc.id-tv.kz/Indiiskoe_kino_38_39.m3u8
+#EXTINF:-1 ,Rodnoe kino
+http://sc.id-tv.kz/Rodnoe_kino_38_39.m3u8
+#EXTINF:-1 ,tnt4
+http://sc.id-tv.kz/tnt4_38_39.m3u8
+#EXTINF:-1 ,Gakku
+http://sc.id-tv.kz/Gakku_38_39.m3u8
+#EXTINF:-1 ,Amedia 2
+http://sc.id-tv.kz/amedia_2_34_35.m3u8
+#EXTINF:-1 ,Dombyra
+http://sc.id-tv.kz/Dombyra_34_35.m3u8
+#EXTINF:-1 ,Poehali
+http://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 ,Mir24
+http://sc.id-tv.kz/Mir24_34_35.m3u8
+#EXTINF:-1 ,Rodnoe kino
+http://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 ,Indiiskoe kino
+http://sc.id-tv.kz/Indiiskoe_kino_34_35.m3u8
+#EXTINF:-1 ,tnt4
+http://sc.id-tv.kz/tnt4_34_35.m3u8
+#EXTINF:-1 ,New Television
+http://sc.id-tv.kz/New_Television_34_35.m3u8
+#EXTINF:-1 ,Astana
+http://sc.id-tv.kz/Astana_34_35.m3u8
+#EXTINF:-1 ,Gakku
+http://sc.id-tv.kz/Gakku_34_35.m3u8
+#EXTINF:-1 ,O!
+http://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 ,hdl HD
+http://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 ,Mir premium
+http://sc.id-tv.kz/mir_premium_34_35.m3u8
+#EXTINF:-1 ,Amedia Hit HD
+http://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 ,TDK-42
+http://sc.id-tv.kz/TDK-42_34_35.m3u8
+#EXTINF:-1 ,friday
+http://sc.id-tv.kz/friday_34_35.m3u8
+#EXTINF:-1 ,Khabar
+http://sc.id-tv.kz/Khabar_34_35.m3u8
+#EXTINF:-1 ,khl HD
+http://sc.id-tv.kz/khl_hd_34_35.m3u8
+#EXTINF:-1 ,bober
+http://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1 ,1 HD
+http://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1 ,KTK
+http://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 ,Cinema
+http://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 ,RenTV
+http://sc.id-tv.kz/RenTV_34_35.m3u8
+#EXTINF:-1 ,Mir
+http://sc.id-tv.kz/Mir_34_35.m3u8
+#EXTINF:-1 ,Мир 24
+http://sc.id-tv.kz:80/Mir24_38_39.m3u8
+#EXTINF:-1 ,О!
+http://sc.id-tv.kz:80/o_38_39.m3u8
+#EXTINF:-1 ,Карусель
+http://sc.id-tv.kz:80/Karusel_38_39.m3u8
+#EXTINF:-1 ,Cinema
+http://sc.id-tv.kz:80/Cinema_38_39.m3u8
+#EXTINF:-1 ,TV1000
+http://sc.id-tv.kz:80/TV1000_38_39.m3u8
+#EXTINF:-1 ,Мир
+http://sc.id-tv.kz:80/Mir_38_39.m3u8
+#EXTINF:-1 ,СТС
+http://sc.id-tv.kz:80/STS_38_39.m3u8
+#EXTINF:-1 ,1 HD
+http://sc.id-tv.kz:80/1hd_38_39.m3u8
+#EXTINF:-1 ,ТНТ4
+http://sc.id-tv.kz:80/tnt4_38_39.m3u8
+#EXTINF:-1 ,Аmedia_2
+http://sc.id-tv.kz:80/amedia_2_38_39.m3u8
+#EXTINF:-1 ,Поехали!
+http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:-1 ,Amedia Hit HD
+http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8
+#EXTINF:-1 ,Бобёр!
+http://sc.id-tv.kz:80/bober_38_39.m3u8
+#EXTINF:-1 ,DaVinci
+http://sc.id-tv.kz:80/DaVinci_38_39.m3u8
+#EXTINF:-1 ,Bollywood HD
+http://sc.id-tv.kz:80/bollywood_hd_38_39.m3u8
+#EXTINF:-1 ,7_kanal
+http://sc.id-tv.kz:80/7_kanal_38_39.m3u8
+#EXTINF:-1 ,Hit TV
+http://sc.id-tv.kz:80/HitTV_38_39.m3u8
+#EXTINF:-1 ,AsylArna
+http://sc.id-tv.kz:80/AsylArna_38_39.m3u8
+#EXTINF:-1 ,Almaty
+http://sc.id-tv.kz/Almaty
+#EXTINF:-1 ,Дорама HD
+http://sc.id-tv.kz:80/dorama_hd_38_39.m3u8
+#EXTINF:-1 ,Пятница! International
+http://sc.id-tv.kz:80/friday_38_39.m3u8
+#EXTINF:-1 ,TiJi
+http://sc.id-tv.kz:80/TiJi_38_39.m3u8
+#EXTINF:-1 ,DW
+http://sc.id-tv.kz:80/DW_38_39.m3u8

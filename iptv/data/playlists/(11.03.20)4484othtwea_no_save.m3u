@@ -1,0 +1,977 @@
+#EXTM3U
+#EXTINF:-1 group-title="Українські",Интер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ЧП.INFO
+http://109.68.41.148:1935/live/magnolia_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські",НТА
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Черновицкий Проминь
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 group-title="Українські",ТРК Чернивци
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТРК Надия
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Українські",Simon TV
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="Українські",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Антена
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Українські",Тернополь 1
+http://185.53.79.12/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Українські",Архат ТВ
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="Українські",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Українські",MostVideo
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Українські",Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",А1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Третий цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Olvia
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТРК Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Южная Волна ТВ
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТИС ТВ
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Українські",G TV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТК Одесса
+http://cdn1.live-tv.od.ua:8081/riood/riood/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Odessa Fashion TV
+http://cdn10.live-tv.od.ua:8081/ofod/ofod720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1 group-title="Українські",СК1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",KRATU
+http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
+#EXTINF:-1 group-title="Українські",UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Українські",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="Українські",Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1 group-title="Українські",Киев ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Українські",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Українські",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Українські",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="Українські",Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="Українські",Eco TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Українські",РАИ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Українські",Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Українські",112
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="Українські",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="Українські",Эко-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Українські",Киев
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Українські",Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="Українські",STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Українські",ЧП.INFO
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="Українські",11 канал
+http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Українські",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ІРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="Українські",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="Українські",UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Українські",UA Donbass
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Українські",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Українські",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Рен ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 group-title="Українські",ТНТ
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565870524/f0cf8e2504b8cce059330e81fe414e1e/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565880177/02c722166c67789201c2563e9dad203f/playlist.m3u8
+#EXTINF:-1 group-title="Українські",СУПЕР
+https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Пятница
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1 group-title="Українські",ТРК Луч HD
+http://live.trk-luch.ru/hls/live_hi.m3u8
+#EXTINF:-1 group-title="Українські",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Українські",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Варяг ТВ
+http://87.252.229.252:8081/varag
+#EXTINF:-1 group-title="Українські",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Союз
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Українські",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Українські",OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Українські",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські",КиноЗаказ 1
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1 group-title="Українські",Матч ТВ
+https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Українські",Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Українські",Ocean TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 group-title="Українські",112
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="Українські",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські",Эко-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Українські",Киев
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Українські",Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="Українські",Еспресо TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Українські",ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ІРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="Українські",UA Крым
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Українські",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Українські",Euronews
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТНТ
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1567240084/0c47b57881a5d7a2e572aaef2a89c03f/playlist.m3u8
+#EXTINF:-1 group-title="Українські",ТНТ4
+https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565807528/622748c0329707241dbc49a35548aeab/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 group-title="Українські",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Мир Премиум
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Українські",СУПЕР
+https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565110210/5a3ca6e737ed0c5f7ad9867e6f2bb135/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Музика",OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Музика",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські",Матч ТВ
+https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Українські",Ocean TV
+http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 group-title="Російські",Моя Планета
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Російські",Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="Російські",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="Російські",РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Російські",Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="Російські",Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Російські",World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Російські",Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&amp;p=87e0c783e9b31451
+#EXTINF:-1 group-title="Російські",Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&amp;p=12326fa256d9bf86
+#EXTINF:-1 group-title="Російські",312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Наше ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 group-title="Російські",Классика кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 group-title="Російські",КиноЗаказ 1
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 group-title="Російські",СКАЗКИ ЗАЙКИ
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Disney
+http://178.163.47.26:4022/udp/234.0.0.198:2000
+#EXTINF:-1 group-title="Російські",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:-1 group-title="Російські",ВРКмг 92.7 Новое радио тв
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Російські",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Російські",МИР Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Мир 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Пятница
+http://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Російські",Пятница HD
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Крик ТВ
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Російські",Новый мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Російські",8 Канал
+http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:-1 group-title="Російські",Калейдоскоп ТВ
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Известия ТВ HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Російські",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Російські",Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Українські-МІХ",НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Украина HD
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Прямой
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Украина
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",News 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НаШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 group-title="Українські-МІХ",НАШ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",Медиа Информ
+http://cdn1.live-tv.od.ua:8081/mediainfo/miod-abr/mediainfo/miod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Рада
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Горизонт ТВ UA
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TV5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/1tvod/1tvod/chunks.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВ-Дом (Украина)
+http://78.26.128.21:8082/stream.flv?stream=133
+#EXTINF:-1 group-title="Українські-МІХ",ТРК Черновцы
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Третий Цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Южная Волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/wave/wave-720/chunks.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",RTI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA:КРИМ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA:Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Maxxi TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",OTV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Громадське HD
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Еко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Киев
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Ukraine (Opt-1)
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Ukraine (Opt-3)
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Украина
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",112 Україна HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",24 канал HD
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",7 Kanal
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Academy
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Bambarbia TV HD
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Dumskaya-TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Eko TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",Espreso TV
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",G TV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",G TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ITV
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Kilia Kontakt
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",KRONEHIT HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",KRT
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 group-title="Українські-МІХ",M2
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Maljatko
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 group-title="Українські-МІХ",News 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",O TV Music
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 group-title="Українські-МІХ",Olvia Sat
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",PowerNet
+http://flussonic.powernet.com.ru:8080/telekanal_internet/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8?codec=mpeg4&amp;app=playlist
+#EXTINF:-1 group-title="Українські-МІХ",Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",RT Д  HD
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",STB Odessa
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/stvod/stvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TBN_HD Украина
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Telekanal Prjamij
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",TIS Odessa
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Tretiy Cifrovoy
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TV Dom
+http://78.26.128.21:1234
+#EXTINF:-1 group-title="Українські-МІХ",TV5 (Запоріжжя)
+http://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/chunklist_w898856001.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TV5 (Запорожье)
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TVA
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA TV HD
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA:Donbas
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",UA-TV (Opt-2)
+https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Union
+http://dprtv.phoenix-dnr.ru/union
+#EXTINF:-1 group-title="Українські-МІХ",Vozrozhdenie
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/chunklist_w1303998472.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Zdorove Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",А1 HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",А1 Одесса
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Академия
+https://cdn1.live-tv.od.ua:8083/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Академия (Одесса)
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Архат ТВ HD (Украина)
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Возрождение TV HD
+http://hls.cdn.ua/vo.org.ua_live/_definst_/online-ru-hotbird-high/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",До ТБ
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Думская TV HD
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Київ ТВ
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Новое радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НТА
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НТА (Львов)
+http://95.67.106.10/hls/nta_ua_low/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НТА ТВ Львов HD
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НТК
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Объектив 59
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ОГТРК
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ОНТ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Первый (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Первый (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Первый Городской HD (Одесса)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ПЕРВЫЙ МУЗ РОССИЯ HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Українські-МІХ",Перший Західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Перший Заходний
+http://rtmp.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Правда ТУТ HD (Киев)
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Прямий HD
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",СК1
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",СК1 HD
+http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Сказки Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Смiла ТВ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТIС
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВА Чернівці
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВ-Дом (Одесса)
+http://46.149.48.21:1234
+#EXTINF:-1 group-title="Українські-МІХ",Тиса 1
+http://api.tv.ipnet.ua:80/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Тиса 1
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТК Одесса
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr/riood/riood/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТРК Черноморская
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Херсон плюс
+http://iptv.rubintele.com:8552/play/a001
+#EXTINF:-1 group-title="Українські-МІХ",Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ЧП Инфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ЧП Інфо
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ЧП.iнфо
+http://109.68.40.72/life/magnolia.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Южная волна HD
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",12 Канал (Омск)
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TV Губерния (Воронеж)
+http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",TV5 (Запорожье)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",UA Культура
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",UA Одесса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Українські-МІХ",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Еко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВЦ (Международный)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Киномикс (1)
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1 group-title="Українські-МІХ",КИНОПОКАЗ (Комедийное)
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&amp;p=12326fa256d9bf86
+#EXTINF:-1 group-title="Українські-МІХ",СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",ОНТ.BY
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="Українські-МІХ",One.by
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Українські-МІХ",One.by HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Українські-МІХ",Кинохит
+http://86.57.225.245:7015/play/a00o
+#EXTINF:-1 group-title="Українські-МІХ",Киномикс
+http://86.57.225.245:7015/play/a005
+#EXTINF:-1 group-title="Українські-МІХ",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Мир international
+http://sc.id-tv.kz/Mir.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Интер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Моя Планета
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Неизвестная планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Совершенно секретно
+https://strm.yandex.ru/kal/sovsec_supres/sovsec_supres0.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Discovery Science HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Українські-МІХ",One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:-1 group-title="Дитячі",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Дитячі",Сказки для Зайки
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1 group-title="Дитячі",Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",НАШЕ ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Радио Шансон ТВ HD
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Новое Радио ТВ
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Радио Страна FM ТВ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Илли ТВ HD
+http://cdn.illi.tv/illitv_2000/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",РORTAL FOXMIX TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",IndieWave HD
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",88 FM Stereo
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w986835325.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",8 Канал Беларусь
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 group-title="Українські-МІХ",HTM HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",КиноЗаказ 3 / PznStreams HD
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Naroddip
+http://hls.goodgame.ru/hls/33226.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",STR TV
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",АРИС 24
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Архыз 24 HD
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Астрахань 24 HD
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Українські-МІХ",Красная Линия
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Интер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",К1
+http://109.68.41.148:1935/live/k1_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",ЧП.INFO
+http://109.68.41.148:1935/live/magnolia_3/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Прямый
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",НТА
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Рада
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",ТРК Чернивци
+http://91.205.207.20:1935/live/mtrk.chernivtsi.rvqs-92g8-sg04-6h4t/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",ТРК Надия
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Simon TV
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Антена
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Тернополь 1
+http://185.53.79.12/ternopil1/index.m3u8
+#EXTINF:-1 group-title="Українські резерв2",Архат ТВ
+http://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="Українські",100 automoto.TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 group-title="Українські",100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Українські",112
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1 group-title="Українські",112 Украина HD
+http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-1 group-title="Українські",112 Україна
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_low/index.m3u8
+#EXTINF:-1 group-title="Українські",112 Україна HD
+http://app.live.112.events/hls/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="Спорт",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1 group-title="Спорт",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="MIX",12 Канал
+https://12channel.bonus-tv.ru/stream549837052987/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MIX",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="MIX",24 канал
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="MIX",31 Канал (KZ)
+https://sc.id-tv.kz/31Kanal_38_39.m3u8
+#EXTINF:-1 group-title="MIX",34 канал
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="MIX",360 (Сургут)
+http://video1.in-news.ru/360/index.m3u8
+#EXTINF:-1 group-title="MIX",4 Київ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="MIX",4 канал
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1 group-title="MIX",47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist.m3u8
+#EXTINF:-1 group-title="MIX",47 канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="MIX",47 канал Ленинград
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
+#EXTINF:-1 group-title="MIX",7 канал (Одеса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="MIX",8 канал (Беларусь)
+http://91.215.176.238:8000/8channel
+#EXTINF:-1 group-title="MIX",86 канал (Сургут)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 group-title="MIX",A2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1 group-title="Новини",ABC News (USA)
+https://markenfunk.tv/plive/chunks.php?tenant=brandnite&amp;id=48c8fa3d82fe3afa989c641eca4538c0&amp;variant=2
+#EXTINF:-1 group-title="Новини",ABC News HD
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1 group-title="MIX",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MIX",Almaty TV (KZ)
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Antena 1
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Armenia 1 TV
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="MIX",Astana TV
+https://sc.id-tv.kz/Astana_38_39.m3u8
+#EXTINF:-1 group-title="MIX",Atameken Business TV (KZ)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="MIX",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 group-title="MIX",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 group-title="MIX",Bambarbia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Bambarbia TV [HD]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Bloomberg (EN)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 group-title="MIX",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MIX",Brodilo TV HD
+http://brodilo.tv/channel.php
+#EXTINF:-1 group-title="MIX",BTV
+http://77.89.199.174:8000/play/1024/index.m3u8
+#EXTINF:-1 group-title="MIX",CBC (AZ)
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Новини",CBS News USA
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 group-title="MIX",CBSN HD
+https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
+#EXTINF:-1 group-title="MIX",CGTN Русский
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="MIX",Classic Arts HD
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 group-title="MIX",Classique TV
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?wowzasessionid=1960326122
+#EXTINF:-1 group-title="Музика",Dancestar TV HD
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
+#EXTINF:-1 group-title="Музика",Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1 group-title="Новини",Deutsche Welle
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:-1 group-title="Дитячі",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="MIX",Djing Animation HD
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 group-title="MIX",Djing Avicii HD
+https://djing.com/tv/s-28730-05-avicii.m3u8
+#EXTINF:-1 group-title="MIX",Djing Classic HD
+https://www.djing.com/tv/i-28730-04.m3u8
+#EXTINF:-1 group-title="MIX",Djing Classic HD
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 group-title="MIX",Djing EDM HD
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="MIX",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8
+#EXTINF:-1 group-title="MIX",Djing Hedonist HD
+https://djing.com/tv/s-28730-05-hedonist.m3u8
+#EXTINF:-1 group-title="MIX",Djing Ibiza HD
+https://www.djing.com/tv/d-28670-04.m3u8
+#EXTINF:-1 group-title="MIX",Djing Ibiza HD
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 group-title="MIX",Djing Karaoke HD
+https://www.djing.com/tv/k-28730-05.m3u8
+#EXTINF:-1 group-title="MIX",Djing Karaoke HD
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 group-title="MIX",Djing Summer Vibes HD
+https://www.djing.com/tv/s-28730-05-summer-vibes.m3u8
+#EXTINF:-1 group-title="MIX",Djing Summer Vibes HD
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1 group-title="MIX",Djing TV
+https://www.djing.com/tv/28638-04.m3u8
+#EXTINF:-1 group-title="MIX",Djing TV HD
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1 group-title="MIX",Djing Underground HD
+https://www.djing.com/tv/u-28730-04.m3u8
+#EXTINF:-1 group-title="MIX",Djing Underground HD
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 group-title="MIX",Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8
+#EXTINF:-1 group-title="MIX",Dombyra TV
+https://sc.id-tv.kz/Dombyra_38_39.m3u8
+#EXTINF:-1 group-title="MIX",Dream TV (Турция)
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-1 group-title="MIX",DSports
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 group-title="MIX",DUBAI RACING
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="MIX",Duga Plus TV (Сербия)
+http://78.129.178.5:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1 group-title="MIX",DW TV English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="MIX",Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 group-title="MIX",Enki-Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Fashion TV
+http://strm.yandex.ru/kal/fashiontv/fashiontv0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Новини",France 24 (Arabic)
+http://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="Новини",France 24 (ENG)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Українські",G TV (Одеса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
+#EXTINF:-1 group-title="Українські",G TV (Одесса) [HD]
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 group-title="MIX",HD Fashion &amp; Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="MIX",HD Fashion &amp; Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="MIX",HD Media
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1 group-title="Фільми",HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
+#EXTINF:-1 group-title="MIX",HTV KG
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 group-title="MIX",ID Fashion (KZ)
+https://sc.id-tv.kz/IDFashion_38_39.m3u8
+#EXTINF:-1 group-title="MIX",ID Fashion HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
+#EXTINF:-1 group-title="MIX",ID Fashion TV
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="MIX",Imedi HD (Грузия)
+https://imedi-tv.cdn.xsg.ge/imedihd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="MIX",IZ.RU HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Українські",Iнтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Kazakh TV
+http://serv30.vintera.tv:8081/kazahtv/stream_kz/playlist.m3u8
+#EXTINF:-1 group-title="MIX",Kral HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 group-title="MIX",Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 group-title="MIX",Kral Performans HD
+https://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MIX",Kral POP KONSER TV HD
+http://0ajuu84p.rocketcdn.com/kraldijital-popkonsertv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MIX",KRATU
+http://iptv.rubintele.com:8552/play/a008
+#EXTINF:-1 group-title="Фільми",Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Фільми",Kronehit TV HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Дитячі",LALE
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="MIX",Leomax
+http://tvshops.bonus-tv.ru/cdn/leomax/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="MIX",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="Музика",m2o tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="MIX",Magic TV
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:-1 group-title="MIX",MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",MostVideo TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="Спорт",MostVideo UA HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="MIX",mtb
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музика",MTV (Уфа)
+http://online.mtvmix.ru:18092/ios/live.m3u8
+#EXTINF:-1 group-title="Музика",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музика",MTV HD Enland
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Музика",MTV Mix (Уфа)
+http://81.30.182.82:18092/hls/live.m3u8
+#EXTINF:-1 group-title="Музика",MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="Музика",MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?user-4pda-denms-ru-v1-a1
+#EXTINF:-1 group-title="Музика",MTV USA
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="Музика",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1 group-title="MIX",Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="Новини",News UA Украина
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="Новини",NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8

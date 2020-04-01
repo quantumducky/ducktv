@@ -2,17 +2,17 @@
 <items>
           <channel>
             <title><![CDATA[Filmbox (1)]]></title>
-            <stream_url><![CDATA[http://84.32.72.60:8080/filmbox_baltic/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/948/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Filmbox (2)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/948/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/948/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Filmbox (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/948/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/948/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -22,7 +22,7 @@
         
           <channel>
             <title><![CDATA[Filmbox (5)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a05m?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/948/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -32,12 +32,12 @@
         
           <channel>
             <title><![CDATA[Filmbox (7)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/948/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/307.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Filmbox (8)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/948/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/948/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -47,17 +47,12 @@
         
           <channel>
             <title><![CDATA[Filmbox (10)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/307.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://s1.only4.tv/5558/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Filmbox (11)]]></title>
-            <stream_url><![CDATA[http://ch01.spr24.net/6888/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Filmbox (12)]]></title>
-            <stream_url><![CDATA[http://s1.only4.tv/5558/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/5558/video.m3u8?token=M1bxsI3oZw]]></stream_url>
           </channel>
         
 </items>

@@ -2,12 +2,12 @@
 <items>
           <channel>
             <title><![CDATA[Balticum Platinum HD (1)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/421/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/1/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Balticum Platinum HD (2)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/1/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/421/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

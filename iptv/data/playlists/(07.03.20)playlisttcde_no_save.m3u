@@ -1,0 +1,1762 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="1",РБК-ТВ
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/106/index.m3u
+#EXTINF:0 tvg-rec="1",Пятый канал
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/112/index.m3u
+#EXTINF:0 tvg-rec="1",Россия-24
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/507/index.m3u
+#EXTINF:0 tvg-rec="1",Москва 24
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/523/index.m3u
+#EXTINF:0 tvg-rec="1",BBC World News
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/545/index.m3u
+#EXTINF:0 tvg-rec="1",Мир 24
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/712/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ (+2)
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/713/index.m3u
+#EXTINF:0 tvg-rec="1",Первый канал (+2)
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/714/index.m3u
+#EXTINF:0 tvg-rec="1",Санкт-Петербург
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/715/index.m3u
+#EXTINF:0 tvg-rec="1",Пятый Канал (+2)
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/746/index.m3u
+#EXTINF:0 tvg-rec="0",FRANCE 24 En
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/947/index.m3u
+#EXTINF:0 tvg-rec="0",CNBC
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/962/index.m3u
+#EXTINF:0 tvg-rec="0",Euronews
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/969/index.m3u
+#EXTINF:0 tvg-rec="0",Deutsche Welle DE
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1021/index.m3u
+#EXTINF:0 tvg-rec="1",360°
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/825/index.m3u
+#EXTINF:0 tvg-rec="1",Euronews Россия
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/828/index.m3u
+#EXTINF:0 tvg-rec="1",CGTN
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/830/index.m3u
+#EXTINF:0 tvg-rec="1",CGTN русский
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/831/index.m3u
+#EXTINF:0 tvg-rec="1",RT News
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/840/index.m3u
+#EXTINF:0 tvg-rec="1",CNN International Europe
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/842/index.m3u
+#EXTINF:0 tvg-rec="1",RT Arabic
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/862/index.m3u
+#EXTINF:0 tvg-rec="1",RT Español
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/863/index.m3u
+#EXTINF:0 tvg-rec="0",Известия
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2008/index.m3u
+#EXTINF:0 tvg-rec="0",Дождь
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2030/index.m3u
+#EXTINF:0 tvg-rec="0",Центральное телевидение
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2064/index.m3u
+#EXTINF:0 tvg-rec="0",Вместе-РФ
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2073/index.m3u
+#EXTINF:0 tvg-rec="0",RTVi
+#EXTGRP:новости
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2086/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000 Русское кино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/101/index.m3u
+#EXTINF:0 tvg-rec="1",Ностальгия
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/102/index.m3u
+#EXTINF:0 tvg-rec="1",СТС Love
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/103/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Sci-Fi
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/110/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОМИКС
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/509/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСЕМЬЯ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/125/index.m3u
+#EXTINF:0 tvg-rec="1",РОДНОЕ КИНО
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/126/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000 Action
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/131/index.m3u
+#EXTINF:0 tvg-rec="1",Кинохит
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/516/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia 2
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/510/index.m3u
+#EXTINF:0 tvg-rec="1",Наше новое кино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/517/index.m3u
+#EXTINF:0 tvg-rec="1",TV XXI
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/525/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/145/index.m3u
+#EXTINF:0 tvg-rec="1",ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/146/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСЕРИЯ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/148/index.m3u
+#EXTINF:0 tvg-rec="1",Русский Иллюзион
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/547/index.m3u
+#EXTINF:0 tvg-rec="1",Еврокино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/549/index.m3u
+#EXTINF:0 tvg-rec="1",Fox Russia
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/550/index.m3u
+#EXTINF:0 tvg-rec="1",Fox Life
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/553/index.m3u
+#EXTINF:0 tvg-rec="1",Дом Кино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/154/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia 1
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/554/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia Premium HD (SD)
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/555/index.m3u
+#EXTINF:0 tvg-rec="1",AMEDIA HIT
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/556/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/132/index.m3u
+#EXTINF:0 tvg-rec="1",МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/164/index.m3u
+#EXTINF:0 tvg-rec="1",Hollywood
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/557/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Entertainment Television
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/559/index.m3u
+#EXTINF:0 tvg-rec="1",2X2
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/702/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Turbo
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/708/index.m3u
+#EXTINF:0 tvg-rec="1",Русский бестселлер
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/905/index.m3u
+#EXTINF:0 tvg-rec="1",Русский роман
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/906/index.m3u
+#EXTINF:0 tvg-rec="1",Русский детектив
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/907/index.m3u
+#EXTINF:0 tvg-rec="1",Любимое Кино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/722/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/728/index.m3u
+#EXTINF:0 tvg-rec="1",КИНО ТВ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/732/index.m3u
+#EXTINF:0 tvg-rec="1",Русская Комедия
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/733/index.m3u
+#EXTINF:0 tvg-rec="1",FAN
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/734/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ‑ХИТ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/741/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Сериал
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/744/index.m3u
+#EXTINF:0 tvg-rec="1",НСТ
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/726/index.m3u
+#EXTINF:0 tvg-rec="1",Bollywood
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/719/index.m3u
+#EXTINF:0 tvg-rec="0",ZEE TV
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1001/index.m3u
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1071/index.m3u
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1066/index.m3u
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1065/index.m3u
+#EXTINF:0 tvg-rec="1",Мир Сериала
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/856/index.m3u
+#EXTINF:0 tvg-rec="0",Ретро
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2018/index.m3u
+#EXTINF:0 tvg-rec="0",Иллюзион +
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2038/index.m3u
+#EXTINF:0 tvg-rec="0",Феникс плюс Кино
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2039/index.m3u
+#EXTINF:0 tvg-rec="0",Paramount Channel
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2055/index.m3u
+#EXTINF:0 tvg-rec="0",Sony Channel HD
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2062/index.m3u
+#EXTINF:0 tvg-rec="0",Киносат
+#EXTGRP:кино
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2121/index.m3u
+#EXTINF:0 tvg-rec="1",Europa Plus TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/115/index.m3u
+#EXTINF:0 tvg-rec="1",МУЗ-ТВ
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/116/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE TV Русский Хит
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/120/index.m3u
+#EXTINF:0 tvg-rec="1",Bridge TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/122/index.m3u
+#EXTINF:0 tvg-rec="1",MTV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/142/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Hits
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/153/index.m3u
+#EXTINF:0 tvg-rec="1",Музыка
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/155/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/208/index.m3u
+#EXTINF:0 tvg-rec="1",VH1 European
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/536/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Dance
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/558/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/707/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ MUSIC
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/710/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE TV DANCE
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/711/index.m3u
+#EXTINF:0 tvg-rec="1",Наше ТВ
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/721/index.m3u
+#EXTINF:0 tvg-rec="1",VH1 Classic
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/724/index.m3u
+#EXTINF:0 tvg-rec="0",Vostok TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1054/index.m3u
+#EXTINF:0 tvg-rec="0",MTV Rocks
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1038/index.m3u
+#EXTINF:0 tvg-rec="1",MCM Top Russia
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/836/index.m3u
+#EXTINF:0 tvg-rec="1",RU.TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/838/index.m3u
+#EXTINF:0 tvg-rec="1",Шансон ТВ
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/859/index.m3u
+#EXTINF:0 tvg-rec="0",VIVA TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/301/index.m3u
+#EXTINF:0 tvg-rec="0", Ля-минор ТВ
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2043/index.m3u
+#EXTINF:0 tvg-rec="0",Russian Music Box
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2048/index.m3u
+#EXTINF:0 tvg-rec="0",Курай TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2061/index.m3u
+#EXTINF:0 tvg-rec="0",о2тв
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2068/index.m3u
+#EXTINF:0 tvg-rec="0",МузСоюз
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2137/index.m3u
+#EXTINF:0 tvg-rec="0",Жар Птица
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2142/index.m3u
+#EXTINF:0 tvg-rec="0",AIVA TV
+#EXTGRP:музыка
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2156/index.m3u
+#EXTINF:0 tvg-rec="1",История
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/111/index.m3u
+#EXTINF:0 tvg-rec="1",Моя Планета
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/117/index.m3u
+#EXTINF:0 tvg-rec="1",Outdoor Channel
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/119/index.m3u
+#EXTINF:0 tvg-rec="1",Совершенно секретно
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/121/index.m3u
+#EXTINF:0 tvg-rec="1",Россия-Культура
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/505/index.m3u
+#EXTINF:0 tvg-rec="1",Доктор
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/512/index.m3u
+#EXTINF:0 tvg-rec="1",Авто 24
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/538/index.m3u
+#EXTINF:0 tvg-rec="1",Nat Geo Wild
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/133/index.m3u
+#EXTINF:0 tvg-rec="1",nat geographic
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/134/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Science
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/136/index.m3u
+#EXTINF:0 tvg-rec="1",Animal Planet
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/137/index.m3u
+#EXTINF:0 tvg-rec="1",ID Xtra
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/139/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Channel
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/140/index.m3u
+#EXTINF:0 tvg-rec="1",Авто Плюс
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/151/index.m3u
+#EXTINF:0 tvg-rec="1",Кухня ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/152/index.m3u
+#EXTINF:0 tvg-rec="1",Время
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/552/index.m3u
+#EXTINF:0 tvg-rec="1",Домашние Животные
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/158/index.m3u
+#EXTINF:0 tvg-rec="1",Точка отрыва
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/159/index.m3u
+#EXTINF:0 tvg-rec="0",Надежда
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2153/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Nature
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/161/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat History
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/162/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Explore
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/163/index.m3u
+#EXTINF:0 tvg-rec="1",Travel Channel
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/130/index.m3u
+#EXTINF:0 tvg-rec="1",Первый образовательный
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/701/index.m3u
+#EXTINF:0 tvg-rec="1",OCEAN-TV
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/703/index.m3u
+#EXTINF:0 tvg-rec="1",Бобёр
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/725/index.m3u
+#EXTINF:0 tvg-rec="1",Зоопарк
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/731/index.m3u
+#EXTINF:0 tvg-rec="1",E
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/736/index.m3u
+#EXTINF:0 tvg-rec="1",Морской
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/742/index.m3u
+#EXTINF:0 tvg-rec="1",Усадьба
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/532/index.m3u
+#EXTINF:0 tvg-rec="0",English Club TV
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/993/index.m3u
+#EXTINF:0 tvg-rec="0",H2
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1052/index.m3u
+#EXTINF:0 tvg-rec="0",Travel TV
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1044/index.m3u
+#EXTINF:0 tvg-rec="0",Classical Harmony
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1037/index.m3u
+#EXTINF:0 tvg-rec="0",Travel Channel EN
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1070/index.m3u
+#EXTINF:0 tvg-rec="1",History Russia
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/837/index.m3u
+#EXTINF:0 tvg-rec="1",RTG TV
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/841/index.m3u
+#EXTINF:0 tvg-rec="1",Первый Метео
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/845/index.m3u
+#EXTINF:0 tvg-rec="1",Дикий
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/847/index.m3u
+#EXTINF:0 tvg-rec="1",Spike Russia
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/849/index.m3u
+#EXTINF:0 tvg-rec="1",travel+adventure
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/850/index.m3u
+#EXTINF:0 tvg-rec="1",Поехали!
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/135/index.m3u
+#EXTINF:0 tvg-rec="0",Galaxy
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2010/index.m3u
+#EXTINF:0 tvg-rec="0",Охота и рыбалка
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2019/index.m3u
+#EXTINF:0 tvg-rec="0",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2020/index.m3u
+#EXTINF:0 tvg-rec="0",HD Media
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2037/index.m3u
+#EXTINF:0 tvg-rec="0",365 дней ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2040/index.m3u
+#EXTINF:0 tvg-rec="0",Телепутешествия
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2051/index.m3u
+#EXTINF:0 tvg-rec="0",Здоровье
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2054/index.m3u
+#EXTINF:0 tvg-rec="0",ТАЙНА
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2059/index.m3u
+#EXTINF:0 tvg-rec="0",Синергия ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2067/index.m3u
+#EXTINF:0 tvg-rec="0",Нано ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2081/index.m3u
+#EXTINF:0 tvg-rec="0",Investigation Discovery
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2085/index.m3u
+#EXTINF:0 tvg-rec="0",Оружие
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2087/index.m3u
+#EXTINF:0 tvg-rec="0",Зоо ТВ
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2100/index.m3u
+#EXTINF:0 tvg-rec="0",Живая Планета
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2101/index.m3u
+#EXTINF:0 tvg-rec="0",Наша тема
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2118/index.m3u
+#EXTINF:0 tvg-rec="0",Пёс и Ко
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2123/index.m3u
+#EXTINF:0 tvg-rec="0",Наука HD
+#EXTGRP:познавательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2155/index.m3u
+#EXTINF:0 tvg-rec="1",Tiji TV
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/108/index.m3u
+#EXTINF:0 tvg-rec="1",Gulli
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/109/index.m3u
+#EXTINF:0 tvg-rec="1",Nick Jr
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/114/index.m3u
+#EXTINF:0 tvg-rec="1",Nickelodeon
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/541/index.m3u
+#EXTINF:0 tvg-rec="1",Disney
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/524/index.m3u
+#EXTINF:0 tvg-rec="1",Детский мир
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/543/index.m3u
+#EXTINF:0 tvg-rec="1",Jim Jam
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/138/index.m3u
+#EXTINF:0 tvg-rec="1",Cartoon Network
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/143/index.m3u
+#EXTINF:0 tvg-rec="1",Карусель
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/156/index.m3u
+#EXTINF:0 tvg-rec="1",Ani
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/129/index.m3u
+#EXTINF:0 tvg-rec="1",Мульт
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/909/index.m3u
+#EXTINF:0 tvg-rec="1",Тлум HD
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/240/index.m3u
+#EXTINF:0 tvg-rec="1",Boomerang
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/723/index.m3u
+#EXTINF:0 tvg-rec="1",О!
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/727/index.m3u
+#EXTINF:0 tvg-rec="1",Детский
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/730/index.m3u
+#EXTINF:0 tvg-rec="1",В гостях у сказки
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/737/index.m3u
+#EXTINF:0 tvg-rec="1",Карусель (+3)
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/740/index.m3u
+#EXTINF:0 tvg-rec="1",Мультимузыка
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/749/index.m3u
+#EXTINF:0 tvg-rec="1",Мультик HD
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/921/index.m3u
+#EXTINF:0 tvg-rec="0",Duck TV
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1031/index.m3u
+#EXTINF:0 tvg-rec="0",Baby TV
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2084/index.m3u
+#EXTINF:0 tvg-rec="0",Da Vinci Kids
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1033/index.m3u
+#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1034/index.m3u
+#EXTINF:0 tvg-rec="0",Малыш
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1041/index.m3u
+#EXTINF:0 tvg-rec="0",Nickelodeon EN
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1069/index.m3u
+#EXTINF:0 tvg-rec="1",Радость моя
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/853/index.m3u
+#EXTINF:0 tvg-rec="0",Рыжий
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2052/index.m3u
+#EXTINF:0 tvg-rec="0",Капитан Фантастика
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2098/index.m3u
+#EXTINF:0 tvg-rec="0",UTv
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2103/index.m3u
+#EXTINF:0 tvg-rec="0",Тамыр
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2109/index.m3u
+#EXTINF:0 tvg-rec="0",Пингвин Лоло
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2152/index.m3u
+#EXTINF:0 tvg-rec="0",Смайлик ТВ
+#EXTGRP:детские
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2157/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ4
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/104/index.m3u
+#EXTINF:0 tvg-rec="1",ЖАРА
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/105/index.m3u
+#EXTINF:0 tvg-rec="1",Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/157/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ (+2)
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/717/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Стиль
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/745/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion One
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1010/index.m3u
+#EXTINF:0 tvg-rec="0",World Fashion Channel
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1068/index.m3u
+#EXTINF:0 tvg-rec="1",Супер
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/826/index.m3u
+#EXTINF:0 tvg-rec="0",Драйв
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2021/index.m3u
+#EXTINF:0 tvg-rec="0",Мужской
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2047/index.m3u
+#EXTINF:0 tvg-rec="0",Luxury World
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2072/index.m3u
+#EXTINF:0 tvg-rec="0",Мир Premium
+#EXTGRP:развлекательные
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2105/index.m3u
+#EXTINF:0 tvg-rec="1",Мир
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/113/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/501/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/502/index.m3u
+#EXTINF:0 tvg-rec="1",Пятница!
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/503/index.m3u
+#EXTINF:0 tvg-rec="1",Россия 1
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/504/index.m3u
+#EXTINF:0 tvg-rec="1",СТС
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/506/index.m3u
+#EXTINF:0 tvg-rec="1",ТВ3
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/508/index.m3u
+#EXTINF:0 tvg-rec="1",Первый канал
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/127/index.m3u
+#EXTINF:0 tvg-rec="1",РЕН ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/128/index.m3u
+#EXTINF:0 tvg-rec="1",Че
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/513/index.m3u
+#EXTINF:0 tvg-rec="1",Домашний
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/514/index.m3u
+#EXTINF:0 tvg-rec="1",ТНВ-Планета
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/515/index.m3u
+#EXTINF:0 tvg-rec="1",ТВЦ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/520/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал Да Винчи
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/537/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал Звезда
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/544/index.m3u
+#EXTINF:0 tvg-rec="1",Ю ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/534/index.m3u
+#EXTINF:0 tvg-rec="1",КВН ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/546/index.m3u
+#EXTINF:0 tvg-rec="1",Мама
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/704/index.m3u
+#EXTINF:0 tvg-rec="1",ОТР
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/705/index.m3u
+#EXTINF:0 tvg-rec="1",CBS Reality
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/706/index.m3u
+#EXTINF:0 tvg-rec="1",ТВЦ (+2)
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/716/index.m3u
+#EXTINF:0 tvg-rec="1",NHK World TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/729/index.m3u
+#EXTINF:0 tvg-rec="1",Fine Living
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/735/index.m3u
+#EXTINF:0 tvg-rec="1",ЖИВИ!
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/738/index.m3u
+#EXTINF:0 tvg-rec="1",Звезда (+2)
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/739/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Право
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/743/index.m3u
+#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/747/index.m3u
+#EXTINF:0 tvg-rec="1",Сарафан
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/748/index.m3u
+#EXTINF:0 tvg-rec="0",CNL
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/955/index.m3u
+#EXTINF:0 tvg-rec="0",Al Jazeera
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/960/index.m3u
+#EXTINF:0 tvg-rec="0",TVP Info
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/961/index.m3u
+#EXTINF:0 tvg-rec="0",France 24
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/964/index.m3u
+#EXTINF:0 tvg-rec="0",AzTV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/966/index.m3u
+#EXTINF:0 tvg-rec="0",Life TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/971/index.m3u
+#EXTINF:0 tvg-rec="0",ТБН
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/974/index.m3u
+#EXTINF:0 tvg-rec="0",СПАС
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/983/index.m3u
+#EXTINF:0 tvg-rec="0",WnessTV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/984/index.m3u
+#EXTINF:0 tvg-rec="0",Архыз 24
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1049/index.m3u
+#EXTINF:0 tvg-rec="0",CBC AZ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1050/index.m3u
+#EXTINF:0 tvg-rec="0",GUNAZ TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1051/index.m3u
+#EXTINF:0 tvg-rec="0",Kabbala TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1053/index.m3u
+#EXTINF:0 tvg-rec="0",8 канал
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1057/index.m3u
+#EXTINF:0 tvg-rec="0",Астрахань 24
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1059/index.m3u
+#EXTINF:0 tvg-rec="1",Shop & Show
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/827/index.m3u
+#EXTINF:0 tvg-rec="1",CCTV-4 Europe
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/829/index.m3u
+#EXTINF:0 tvg-rec="1",Башкирское спутниковое телевидение
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/832/index.m3u
+#EXTINF:0 tvg-rec="1",Первый Вегетарианский
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/833/index.m3u
+#EXTINF:0 tvg-rec="1",RT Documentary
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/839/index.m3u
+#EXTINF:0 tvg-rec="1",Просвещение
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/846/index.m3u
+#EXTINF:0 tvg-rec="1",Продвижение
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/851/index.m3u
+#EXTINF:0 tvg-rec="1",Загородная Жизнь
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/852/index.m3u
+#EXTINF:0 tvg-rec="1",Грозный
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/855/index.m3u
+#EXTINF:0 tvg-rec="1",Брянская Губерния
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/857/index.m3u
+#EXTINF:0 tvg-rec="1",Shopping Live
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/860/index.m3u
+#EXTINF:0 tvg-rec="1",Shop 24
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/861/index.m3u
+#EXTINF:0 tvg-rec="1",Твой дом
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/864/index.m3u
+#EXTINF:0 tvg-rec="1",Телекафе
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/865/index.m3u
+#EXTINF:0 tvg-rec="1",Кубань 24 ОРБИТА
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/866/index.m3u
+#EXTINF:0 tvg-rec="1",Губерния
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/867/index.m3u
+#EXTINF:0 tvg-rec="1",ACB TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/868/index.m3u
+#EXTINF:0 tvg-rec="1",Москва Доверие
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/869/index.m3u
+#EXTINF:0 tvg-rec="0",Победа
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2003/index.m3u
+#EXTINF:0 tvg-rec="0",Союз
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2016/index.m3u
+#EXTINF:0 tvg-rec="0",Здоровое ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2022/index.m3u
+#EXTINF:0 tvg-rec="0",Психология 21
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2025/index.m3u
+#EXTINF:0 tvg-rec="0",Вопросы и ответы
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2026/index.m3u
+#EXTINF:0 tvg-rec="0",ТДК
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2034/index.m3u
+#EXTINF:0 tvg-rec="0",Globalstar TV
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2035/index.m3u
+#EXTINF:0 tvg-rec="0",Юрган
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2036/index.m3u
+#EXTINF:0 tvg-rec="0",Успех
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2041/index.m3u
+#EXTINF:0 tvg-rec="0",Кто есть кто
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2042/index.m3u
+#EXTINF:0 tvg-rec="0",Точка ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2053/index.m3u
+#EXTINF:0 tvg-rec="0",Хамдан
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2066/index.m3u
+#EXTINF:0 tvg-rec="0",Раз ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2069/index.m3u
+#EXTINF:0 tvg-rec="0",Arirang
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2071/index.m3u
+#EXTINF:0 tvg-rec="0",Открытый мир
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2078/index.m3u
+#EXTINF:0 tvg-rec="0",Загородный
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2099/index.m3u
+#EXTINF:0 tvg-rec="0",БСТ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2108/index.m3u
+#EXTINF:0 tvg-rec="0",ЛДПР ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2110/index.m3u
+#EXTINF:0 tvg-rec="0",Связист ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2111/index.m3u
+#EXTINF:0 tvg-rec="0",Мир Увлечений
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2112/index.m3u
+#EXTINF:0 tvg-rec="0",Волга
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2113/index.m3u
+#EXTINF:0 tvg-rec="0",Три ангела
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2116/index.m3u
+#EXTINF:0 tvg-rec="0",Ратник
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2119/index.m3u
+#EXTINF:0 tvg-rec="0",РЖД ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2120/index.m3u
+#EXTINF:0 tvg-rec="0",Первый Крымский
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2139/index.m3u
+#EXTINF:0 tvg-rec="0",ТОЛК
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2140/index.m3u
+#EXTINF:0 tvg-rec="0",КРЫМ 24
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2143/index.m3u
+#EXTINF:0 tvg-rec="0",Курай HD
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2144/index.m3u
+#EXTINF:0 tvg-rec="0",Красная линия
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2147/index.m3u
+#EXTINF:0 tvg-rec="0",ТНОМЕР
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2149/index.m3u
+#EXTINF:0 tvg-rec="0",Хузур ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2150/index.m3u
+#EXTINF:0 tvg-rec="0",Эхо ТВ
+#EXTGRP:другие
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2151/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ! СТРАНА
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/107/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Планета
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/123/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 1
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/124/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/531/index.m3u
+#EXTINF:0 tvg-rec="1",KHL
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/519/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 3
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/522/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Арена
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/528/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Игра
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/529/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 2
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/530/index.m3u
+#EXTINF:0 tvg-rec="1",Матч ТВ
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/535/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 1
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/141/index.m3u
+#EXTINF:0 tvg-rec="1",Extreme Sports
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/144/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Боец
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/150/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Sport
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/160/index.m3u
+#EXTINF:0 tvg-rec="1",M-1 Global TV
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/843/index.m3u
+#EXTINF:0 tvg-rec="1",Бокс ТВ
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/870/index.m3u
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2145/index.m3u
+#EXTINF:0 tvg-rec="0",СТАРТ
+#EXTGRP:спорт
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2154/index.m3u
+#EXTINF:0 tvg-rec="1",Первый HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/204/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Premiere
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/202/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Comedy
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/200/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Megahit
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/201/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Nature/History HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/203/index.m3u
+#EXTINF:0 tvg-rec="1",Россия HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/205/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/206/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Арена HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/207/index.m3u
+#EXTINF:0 tvg-rec="1",Hollywood HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/209/index.m3u
+#EXTINF:0 tvg-rec="1",RTG HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/210/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/211/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/212/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/213/index.m3u
+#EXTINF:0 tvg-rec="1",Конный Мир HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/214/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал КХЛ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/215/index.m3u
+#EXTINF:0 tvg-rec="1",Nat Geo Wild HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/216/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/217/index.m3u
+#EXTINF:0 tvg-rec="1",Animal Planet HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/218/index.m3u
+#EXTINF:0 tvg-rec="1",Fox HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/219/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/220/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Live HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/221/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/222/index.m3u
+#EXTINF:0 tvg-rec="1",Nickelodeon HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/223/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/224/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Игра HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/225/index.m3u
+#EXTINF:0 tvg-rec="1",HD Life
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/226/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Channel HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/227/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 1 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/228/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia Premium HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/229/index.m3u
+#EXTINF:0 tvg-rec="1",National Geographic HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/230/index.m3u
+#EXTINF:0 tvg-rec="1",History HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/231/index.m3u
+#EXTINF:0 tvg-rec="1",TLC HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/232/index.m3u
+#EXTINF:0 tvg-rec="1",Travel Channel HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/233/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 2 North-East HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/234/index.m3u
+#EXTINF:0 tvg-rec="1",Остросюжетное HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/904/index.m3u
+#EXTINF:0 tvg-rec="1",Дом Кино Премиум HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/911/index.m3u
+#EXTINF:0 tvg-rec="0",Шокирующее
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/913/index.m3u
+#EXTINF:0 tvg-rec="1",Комедийное HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/912/index.m3u
+#EXTINF:0 tvg-rec="1",Наш Кинороман HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/914/index.m3u
+#EXTINF:0 tvg-rec="1",Наше крутое HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/915/index.m3u
+#EXTINF:0 tvg-rec="1",Охотник и рыболов HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/917/index.m3u
+#EXTINF:0 tvg-rec="1",ЕДА Премиум
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/918/index.m3u
+#EXTINF:0 tvg-rec="1",Мир HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/235/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/236/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/237/index.m3u
+#EXTINF:0 tvg-rec="1",Bollywood HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/239/index.m3u
+#EXTINF:0 tvg-rec="0",Теледом
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/954/index.m3u
+#EXTINF:0 tvg-rec="0",4ever Music
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/970/index.m3u
+#EXTINF:0 tvg-rec="0",Настоящее время
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/986/index.m3u
+#EXTINF:0 tvg-rec="0",Travel HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1043/index.m3u
+#EXTINF:0 tvg-rec="0",XSPORT HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/996/index.m3u
+#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1018/index.m3u
+#EXTINF:0 tvg-rec="0",Epic Drama
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1048/index.m3u
+#EXTINF:0 tvg-rec="1",Эврика HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/908/index.m3u
+#EXTINF:0 tvg-rec="1",Приключения HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/920/index.m3u
+#EXTINF:0 tvg-rec="0",DocuBox HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/968/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/270/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/271/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/272/index.m3u
+#EXTINF:0 tvg-rec="0",UFC ТВ
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2000/index.m3u
+#EXTINF:0 tvg-rec="0",СТС Kids HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2001/index.m3u
+#EXTINF:0 tvg-rec="0",Eurosport Gold HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2002/index.m3u
+#EXTINF:0 tvg-rec="0",Дикая охота HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2004/index.m3u
+#EXTINF:0 tvg-rec="0",Дикая рыбалка HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2005/index.m3u
+#EXTINF:0 tvg-rec="0",DTX HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2006/index.m3u
+#EXTINF:0 tvg-rec="0",Viasat Sport HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2007/index.m3u
+#EXTINF:0 tvg-rec="0",Большая Азия HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2009/index.m3u
+#EXTINF:0 tvg-rec="0",Cartoon Network HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2011/index.m3u
+#EXTINF:0 tvg-rec="0",Рен ТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2024/index.m3u
+#EXTINF:0 tvg-rec="0",Fine living HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2027/index.m3u
+#EXTINF:0 tvg-rec="0",C-Music HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2028/index.m3u
+#EXTINF:0 tvg-rec="0",H2 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2033/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion One HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2044/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion TV HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2045/index.m3u
+#EXTINF:0 tvg-rec="0",A2 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2046/index.m3u
+#EXTINF:0 tvg-rec="0",Киноужас HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2056/index.m3u
+#EXTINF:0 tvg-rec="0",Discovery HD Showcase
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2058/index.m3u
+#EXTINF:0 tvg-rec="0",360° HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2065/index.m3u
+#EXTINF:0 tvg-rec="0",Живая природа HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2074/index.m3u
+#EXTINF:0 tvg-rec="0",Русский роман HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2076/index.m3u
+#EXTINF:0 tvg-rec="0",Russian Extreme HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2077/index.m3u
+#EXTINF:0 tvg-rec="0",В мире животных HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2089/index.m3u
+#EXTINF:0 tvg-rec="0",Планета HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2090/index.m3u
+#EXTINF:0 tvg-rec="0",Anyday HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2091/index.m3u
+#EXTINF:0 tvg-rec="0",Glazella HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2092/index.m3u
+#EXTINF:0 tvg-rec="0",Mute HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2093/index.m3u
+#EXTINF:0 tvg-rec="0",Anyday HD 3D
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2094/index.m3u
+#EXTINF:0 tvg-rec="0",Glazella HD 3D
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2095/index.m3u
+#EXTINF:0 tvg-rec="0",Mute HD 3D
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2096/index.m3u
+#EXTINF:0 tvg-rec="0",КИНО ТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2097/index.m3u
+#EXTINF:0 tvg-rec="0",ID Xtra HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2102/index.m3u
+#EXTINF:0 tvg-rec="0",Глазами туриста HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2104/index.m3u
+#EXTINF:0 tvg-rec="0",Наше любимое HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2106/index.m3u
+#EXTINF:0 tvg-rec="0",Мир 24 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2107/index.m3u
+#EXTINF:0 tvg-rec="0",Русский иллюзион HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2114/index.m3u
+#EXTINF:0 tvg-rec="0",БСТ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2115/index.m3u
+#EXTINF:0 tvg-rec="0",Загородный int HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2124/index.m3u
+#EXTINF:0 tvg-rec="0",Кухня ТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2127/index.m3u
+#EXTINF:0 tvg-rec="0",Точка отрыва HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2128/index.m3u
+#EXTINF:0 tvg-rec="0",Жара HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2129/index.m3u
+#EXTINF:0 tvg-rec="0",MTV Россия HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2130/index.m3u
+#EXTINF:0 tvg-rec="0",Дорама HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2131/index.m3u
+#EXTINF:0 tvg-rec="0",Кинокомедия HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2132/index.m3u
+#EXTINF:0 tvg-rec="0",Наше новое кино HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2133/index.m3u
+#EXTINF:0 tvg-rec="0",Нано ТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2135/index.m3u
+#EXTINF:0 tvg-rec="0",о2тв HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2141/index.m3u
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2146/index.m3u
+#EXTINF:0 tvg-rec="0",Открытый HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2148/index.m3u
+#EXTINF:0 tvg-rec="0",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2394/index.m3u
+#EXTINF:0 tvg-rec="0",Clubbing TV HD RU
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2395/index.m3u
+#EXTINF:0 tvg-rec="0",Fuel TV HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2396/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2399/index.m3u
+#EXTINF:0 tvg-rec="0",Губерния 33 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2400/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 3 HD
+#EXTGRP:HD
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/290/index.m3u
+#EXTINF:0 tvg-rec="1",SHOT TV
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/526/index.m3u
+#EXTINF:0 tvg-rec="1",Playboy
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/527/index.m3u
+#EXTINF:0 tvg-rec="1",Русская Ночь
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/147/index.m3u
+#EXTINF:0 tvg-rec="1",Brazzers TV Europe
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/910/index.m3u
+#EXTINF:0 tvg-rec="1",Шалун
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/922/index.m3u
+#EXTINF:0 tvg-rec="1",Candy
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/923/index.m3u
+#EXTINF:0 tvg-rec="0",Penthouse TV
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1073/index.m3u
+#EXTINF:0 tvg-rec="0",Blue Hustler
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1064/index.m3u
+#EXTINF:0 tvg-rec="1",Barely legal
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/871/index.m3u
+#EXTINF:0 tvg-rec="1",BRAZZERS TV Europe 2
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/872/index.m3u
+#EXTINF:0 tvg-rec="1",Sexto Senso
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/875/index.m3u
+#EXTINF:0 tvg-rec="0",SCT
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/876/index.m3u
+#EXTINF:0 tvg-rec="1",PRIVE
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/877/index.m3u
+#EXTINF:0 tvg-rec="1",Passion XXX
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/878/index.m3u
+#EXTINF:0 tvg-rec="1",Redlight HD
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/242/index.m3u
+#EXTINF:0 tvg-rec="1",Private TV
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/243/index.m3u
+#EXTINF:0 tvg-rec="0",Hustler HD Europe
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/244/index.m3u
+#EXTINF:0 tvg-rec="1",Dorcel TV HD
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/245/index.m3u
+#EXTINF:0 tvg-rec="1",Pink'o TV
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/874/index.m3u
+#EXTINF:0 tvg-rec="0",Ночной клуб
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2017/index.m3u
+#EXTINF:0 tvg-rec="0",Нюарт TV
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2057/index.m3u
+#EXTINF:0 tvg-rec="0",FrenchLover
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2160/index.m3u
+#EXTINF:0 tvg-rec="0",O-la-la
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2161/index.m3u
+#EXTINF:0 tvg-rec="0",Vivid Red HD
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2162/index.m3u
+#EXTINF:0 tvg-rec="0",Exxxotica HD
+#EXTGRP:взрослые
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/2397/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/945/index.m3u
+#EXTINF:0 tvg-rec="0",FilmBox
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/948/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/951/index.m3u
+#EXTINF:0 tvg-rec="0",ATR
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/952/index.m3u
+#EXTINF:0 tvg-rec="0",Lale
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/953/index.m3u
+#EXTINF:0 tvg-rec="0",Надiя ТВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/956/index.m3u
+#EXTINF:0 tvg-rec="0",Перший Захiдний
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/957/index.m3u
+#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/958/index.m3u
+#EXTINF:0 tvg-rec="0",BBB TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/959/index.m3u
+#EXTINF:0 tvg-rec="0",Центральный канал
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/963/index.m3u
+#EXTINF:0 tvg-rec="0",Черноморская ТРК
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/965/index.m3u
+#EXTINF:0 tvg-rec="0",112 Україна
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/924/index.m3u
+#EXTINF:0 tvg-rec="0",EU Music
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/925/index.m3u
+#EXTINF:0 tvg-rec="0",NewsOne
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/926/index.m3u
+#EXTINF:0 tvg-rec="0",Eспресо TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/927/index.m3u
+#EXTINF:0 tvg-rec="0",Мега
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/929/index.m3u
+#EXTINF:0 tvg-rec="0",К2
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/930/index.m3u
+#EXTINF:0 tvg-rec="0",К1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/931/index.m3u
+#EXTINF:0 tvg-rec="0",Квартал ТВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/932/index.m3u
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/933/index.m3u
+#EXTINF:0 tvg-rec="0",Новий Канал
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/935/index.m3u
+#EXTINF:0 tvg-rec="0",НТН
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/936/index.m3u
+#EXTINF:0 tvg-rec="0",Інтер
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/937/index.m3u
+#EXTINF:0 tvg-rec="0",Пiксель ТВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/938/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/939/index.m3u
+#EXTINF:0 tvg-rec="0",ID Fashion
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/940/index.m3u
+#EXTINF:0 tvg-rec="0",Культура
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/941/index.m3u
+#EXTINF:0 tvg-rec="0",Телевсесвiт
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/942/index.m3u
+#EXTINF:0 tvg-rec="0",Медiаiнформ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/943/index.m3u
+#EXTINF:0 tvg-rec="0",Skrypin.UA
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/944/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Алекс
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/967/index.m3u
+#EXTINF:0 tvg-rec="0",Глас
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/972/index.m3u
+#EXTINF:0 tvg-rec="0",Правда Тут
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/973/index.m3u
+#EXTINF:0 tvg-rec="0",Тернопіль 1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/975/index.m3u
+#EXTINF:0 tvg-rec="0",Рада
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/976/index.m3u
+#EXTINF:0 tvg-rec="0",MAXXI TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/977/index.m3u
+#EXTINF:0 tvg-rec="0",News Network
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/978/index.m3u
+#EXTINF:0 tvg-rec="0",Южная волна
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/979/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/981/index.m3u
+#EXTINF:0 tvg-rec="0",СК1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/982/index.m3u
+#EXTINF:0 tvg-rec="0",Перший дiловий
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/985/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 International
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/987/index.m3u
+#EXTINF:0 tvg-rec="0",Громадське
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/988/index.m3u
+#EXTINF:0 tvg-rec="0",BOLT
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/991/index.m3u
+#EXTINF:0 tvg-rec="0",Star Cinema
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/992/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1004/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Перший
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1016/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Крым
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1017/index.m3u
+#EXTINF:0 tvg-rec="0",MostVideo.TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1027/index.m3u
+#EXTINF:0 tvg-rec="0",OBOZ TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1028/index.m3u
+#EXTINF:0 tvg-rec="0",TV5
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1030/index.m3u
+#EXTINF:0 tvg-rec="0",Star Family
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1042/index.m3u
+#EXTINF:0 tvg-rec="0",Интер+
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1047/index.m3u
+#EXTINF:0 tvg-rec="0",O-TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1055/index.m3u
+#EXTINF:0 tvg-rec="0",D1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1058/index.m3u
+#EXTINF:0 tvg-rec="0",1+1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/994/index.m3u
+#EXTINF:0 tvg-rec="0",2+2
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/995/index.m3u
+#EXTINF:0 tvg-rec="0",UKRAINE 1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/997/index.m3u
+#EXTINF:0 tvg-rec="0",Бiгудi
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/989/index.m3u
+#EXTINF:0 tvg-rec="0",НТА
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/990/index.m3u
+#EXTINF:0 tvg-rec="0",ТВА
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/998/index.m3u
+#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/999/index.m3u
+#EXTINF:0 tvg-rec="0",ZOOM
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1000/index.m3u
+#EXTINF:0 tvg-rec="0",ПлюсПлюс
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1002/index.m3u
+#EXTINF:0 tvg-rec="0",Малятко ТВ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1003/index.m3u
+#EXTINF:0 tvg-rec="0",Галичина
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1005/index.m3u
+#EXTINF:0 tvg-rec="0",Еко TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1006/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK HD
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1007/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1008/index.m3u
+#EXTINF:0 tvg-rec="0",ТЕТ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1009/index.m3u
+#EXTINF:0 tvg-rec="0",Україна
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1011/index.m3u
+#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1012/index.m3u
+#EXTINF:0 tvg-rec="0",Сонце
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1013/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV2
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1014/index.m3u
+#EXTINF:0 tvg-rec="0",Прямий HD
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1015/index.m3u
+#EXTINF:0 tvg-rec="0",КРТ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1019/index.m3u
+#EXTINF:0 tvg-rec="0",ЧП.INFO
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1020/index.m3u
+#EXTINF:0 tvg-rec="0",Ескулап TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1022/index.m3u
+#EXTINF:0 tvg-rec="0",УНІАН
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1023/index.m3u
+#EXTINF:0 tvg-rec="0",UA|TV HD
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1024/index.m3u
+#EXTINF:0 tvg-rec="0",36.6 TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1025/index.m3u
+#EXTINF:0 tvg-rec="0",Milady Television
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1026/index.m3u
+#EXTINF:0 tvg-rec="0",BOUTIQUE TV
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1029/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1032/index.m3u
+#EXTINF:0 tvg-rec="0",7 канал
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1035/index.m3u
+#EXTINF:0 tvg-rec="0",Music Box UA HD
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1036/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Круг
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1040/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Київ
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1045/index.m3u
+#EXTINF:0 tvg-rec="0",8 Канал UA
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1046/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвцi
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1072/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал HD
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1063/index.m3u
+#EXTINF:0 tvg-rec="0",4 канал
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1039/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 1
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1109/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 2
+#EXTGRP:українські
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1110/index.m3u
+#EXTINF:0 tvg-rec="0",Food Network
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1107/index.m3u
+#EXTINF:0 tvg-rec="0",Ion Television
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/901/index.m3u
+#EXTINF:0 tvg-rec="0",NYCTV Life
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/902/index.m3u
+#EXTINF:0 tvg-rec="0",CBS New York
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/903/index.m3u
+#EXTINF:0 tvg-rec="0",Hallmark Movies & Mysteries HD
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1075/index.m3u
+#EXTINF:0 tvg-rec="0",Telemundo
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1080/index.m3u
+#EXTINF:0 tvg-rec="0",NBC
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1081/index.m3u
+#EXTINF:0 tvg-rec="0",Disney XD
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1082/index.m3u
+#EXTINF:0 tvg-rec="0",AMC US
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1083/index.m3u
+#EXTINF:0 tvg-rec="0",HGTV HD
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1084/index.m3u
+#EXTINF:0 tvg-rec="0",tru TV
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1085/index.m3u
+#EXTINF:0 tvg-rec="0",MAVTV HD
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1074/index.m3u
+#EXTINF:0 tvg-rec="0",ABC HD
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1087/index.m3u
+#EXTINF:0 tvg-rec="0",Fox 5 WNYW
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1086/index.m3u
+#EXTINF:0 tvg-rec="0",My9NJ
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1088/index.m3u
+#EXTINF:0 tvg-rec="0",Live Well Network
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1089/index.m3u
+#EXTINF:0 tvg-rec="0",MOTORTREND
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1091/index.m3u
+#EXTINF:0 tvg-rec="0",BBC America
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1092/index.m3u
+#EXTINF:0 tvg-rec="0",WPIX-TV
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1090/index.m3u
+#EXTINF:0 tvg-rec="0",THIRTEEN
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1093/index.m3u
+#EXTINF:0 tvg-rec="0",WLIW21
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1094/index.m3u
+#EXTINF:0 tvg-rec="0",NJTV
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1095/index.m3u
+#EXTINF:0 tvg-rec="0",MeTV
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1096/index.m3u
+#EXTINF:0 tvg-rec="0",SBN
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1097/index.m3u
+#EXTINF:0 tvg-rec="0",WMBC Digital Television
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1098/index.m3u
+#EXTINF:0 tvg-rec="0",Univision
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1099/index.m3u
+#EXTINF:0 tvg-rec="0",UniMÁS
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1100/index.m3u
+#EXTINF:0 tvg-rec="0",USA
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1101/index.m3u
+#EXTINF:0 tvg-rec="0",TNT
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1102/index.m3u
+#EXTINF:0 tvg-rec="0",TBS
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1103/index.m3u
+#EXTINF:0 tvg-rec="0",TLC
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1105/index.m3u
+#EXTINF:0 tvg-rec="0",FXM en
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1106/index.m3u
+#EXTINF:0 tvg-rec="0",A&E
+#EXTGRP:USA
+http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/1108/index.m3u

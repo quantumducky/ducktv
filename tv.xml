@@ -43,13 +43,23 @@
 
 <channel>
   <title><![CDATA[Test]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.xml]]></playlist_url>
+  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv#.XML]]></playlist_url>
 </channel>
 
 <channel>
+  <title><![CDATA[Test2]]></title>
+  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Test3]]></title>
+  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv#.xml]]></playlist_url>
+</channel>
+
+<!-- <channel>
   <title><![CDATA[Kita]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.m3u8]]></playlist_url>
-</channel>
+</channel> -->
 
 
 </items></item>

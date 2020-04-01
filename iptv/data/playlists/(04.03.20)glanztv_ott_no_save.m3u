@@ -1,0 +1,1873 @@
+#EXTM3U
+#EXTINF:-1,Первый
+#EXTGRP:Общие
+http://cdn.ottg.tv/9195/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=70&req_host=pkjX3BL
+#EXTINF:-1,Первый HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/2214/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=76&req_host=pkjX3BL
+#EXTINF:-1,Первый +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/8664/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=75&req_host=pkjX3BL
+#EXTINF:-1,Первый +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/9429/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=77&req_host=pkjX3BL
+#EXTINF:-1,Первый +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/9664/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=78&req_host=pkjX3BL
+#EXTINF:-1,Первый +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/7295/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=79&req_host=pkjX3BL
+#EXTINF:-1,Россия 1
+#EXTGRP:Общие
+http://cdn.ottg.tv/9226/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=80&req_host=pkjX3BL
+#EXTINF:-1,Россия HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/5963/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=81&req_host=pkjX3BL
+#EXTINF:-1,Россия 1 +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/4936/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=82&req_host=pkjX3BL
+#EXTINF:-1,Россия 1 +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/5445/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=83&req_host=pkjX3BL
+#EXTINF:-1,Россия 1 +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/5764/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=84&req_host=pkjX3BL
+#EXTINF:-1,Россия 1 +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/1503/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=85&req_host=pkjX3BL
+#EXTINF:-1,НТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/9413/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=86&req_host=pkjX3BL
+#EXTINF:-1,НТВ +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/8004/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=88&req_host=pkjX3BL
+#EXTINF:-1,НТВ HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/8711/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=87&req_host=pkjX3BL
+#EXTINF:-1,НТВ +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/7454/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=89&req_host=pkjX3BL
+#EXTINF:-1,НТВ +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/5040/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=90&req_host=pkjX3BL
+#EXTINF:-1,НТВ +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/4239/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=91&req_host=pkjX3BL
+#EXTINF:-1,НТВ Мир
+#EXTGRP:Общие
+http://cdn.ottg.tv/7870/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=92&req_host=pkjX3BL
+#EXTINF:-1,ТВЦ
+#EXTGRP:Общие
+http://cdn.ottg.tv/7846/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=93&req_host=pkjX3BL
+#EXTINF:-1,ТВЦ +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/5366/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=94&req_host=pkjX3BL
+#EXTINF:-1,ТВЦ +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/8991/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=95&req_host=pkjX3BL
+#EXTINF:-1,ТВЦ +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/6262/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=96&req_host=pkjX3BL
+#EXTINF:-1,Пятый канал
+#EXTGRP:Общие
+http://cdn.ottg.tv/4750/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=97&req_host=pkjX3BL
+#EXTINF:-1,Пятый канал +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/4447/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=98&req_host=pkjX3BL
+#EXTINF:-1,Пятый канал +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/8598/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=99&req_host=pkjX3BL
+#EXTINF:-1,Пятый канал +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/5413/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=100&req_host=pkjX3BL
+#EXTINF:-1,ТНТ
+#EXTGRP:Общие
+http://cdn.ottg.tv/2468/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=101&req_host=pkjX3BL
+#EXTINF:-1,ТНТ HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/1337/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=102&req_host=pkjX3BL
+#EXTINF:-1,ТНТ +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/7754/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=103&req_host=pkjX3BL
+#EXTINF:-1,ТНТ +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/8594/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=104&req_host=pkjX3BL
+#EXTINF:-1,ТНТ +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/8960/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=105&req_host=pkjX3BL
+#EXTINF:-1,СТС
+#EXTGRP:Общие
+http://cdn.ottg.tv/9716/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=106&req_host=pkjX3BL
+#EXTINF:-1,СТС +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/6885/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=107&req_host=pkjX3BL
+#EXTINF:-1,СТС +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/8715/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=108&req_host=pkjX3BL
+#EXTINF:-1,Рен ТВ +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/7175/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=112&req_host=pkjX3BL
+#EXTINF:-1,Рен ТВ +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/2741/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=113&req_host=pkjX3BL
+#EXTINF:-1,Мир ТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/2810/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=114&req_host=pkjX3BL
+#EXTINF:-1,Мир Premium HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/7640/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=115&req_host=pkjX3BL
+#EXTINF:-1,Мир +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/9635/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=116&req_host=pkjX3BL
+#EXTINF:-1,Мир +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/7562/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=117&req_host=pkjX3BL
+#EXTINF:-1,ОТР
+#EXTGRP:Общие
+http://cdn.ottg.tv/2345/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=118&req_host=pkjX3BL
+#EXTINF:-1,Звезда
+#EXTGRP:Общие
+http://cdn.ottg.tv/7796/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=119&req_host=pkjX3BL
+#EXTINF:-1,Звезда +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/8214/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=120&req_host=pkjX3BL
+#EXTINF:-1,СТС +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/9013/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=109&req_host=pkjX3BL
+#EXTINF:-1,СТС Love
+#EXTGRP:Общие
+http://cdn.ottg.tv/6621/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=110&req_host=pkjX3BL
+#EXTINF:-1,Рен ТВ HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/8082/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=111&req_host=pkjX3BL
+#EXTINF:-1,Звезда +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/1766/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=121&req_host=pkjX3BL
+#EXTINF:-1,Звезда +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/5202/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=122&req_host=pkjX3BL
+#EXTINF:-1,Че
+#EXTGRP:Общие
+http://cdn.ottg.tv/8708/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=123&req_host=pkjX3BL
+#EXTINF:-1,Че +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/2519/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=124&req_host=pkjX3BL
+#EXTINF:-1,ТВ3
+#EXTGRP:Общие
+http://cdn.ottg.tv/7473/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=125&req_host=pkjX3BL
+#EXTINF:-1,ТВ 3 +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/1500/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=126&req_host=pkjX3BL
+#EXTINF:-1,ТВ3 +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/4946/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=127&req_host=pkjX3BL
+#EXTINF:-1,ТВ3 +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/9894/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=128&req_host=pkjX3BL
+#EXTINF:-1,Пятница
+#EXTGRP:Общие
+http://cdn.ottg.tv/3755/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=129&req_host=pkjX3BL
+#EXTINF:-1,Пятница HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/9657/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=130&req_host=pkjX3BL
+#EXTINF:-1,Пятница +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/9345/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=131&req_host=pkjX3BL
+#EXTINF:-1,Пятница +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/6808/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=132&req_host=pkjX3BL
+#EXTINF:-1,RTVi
+#EXTGRP:Общие
+http://cdn.ottg.tv/5498/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=133&req_host=pkjX3BL
+#EXTINF:-1,Супер
+#EXTGRP:Общие
+http://cdn.ottg.tv/3573/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=134&req_host=pkjX3BL
+#EXTINF:-1,Супер +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/9051/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=135&req_host=pkjX3BL
+#EXTINF:-1,Домашний
+#EXTGRP:Общие
+http://cdn.ottg.tv/9505/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=138&req_host=pkjX3BL
+#EXTINF:-1,Galaxy HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2753/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=139&req_host=pkjX3BL
+#EXTINF:-1,Домашний +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/6944/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=140&req_host=pkjX3BL
+#EXTINF:-1,Домашний +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/3760/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=141&req_host=pkjX3BL
+#EXTINF:-1,Россия К
+#EXTGRP:Общие
+http://cdn.ottg.tv/4539/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=142&req_host=pkjX3BL
+#EXTINF:-1,Планета РТР
+#EXTGRP:Общие
+http://cdn.ottg.tv/5330/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=146&req_host=pkjX3BL
+#EXTINF:-1,8 канал
+#EXTGRP:Общие
+http://cdn.ottg.tv/2455/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=147&req_host=pkjX3BL
+#EXTINF:-1,Время
+#EXTGRP:Общие
+http://cdn.ottg.tv/3482/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=148&req_host=pkjX3BL
+#EXTINF:-1,Ностальгия
+#EXTGRP:Общие
+http://cdn.ottg.tv/9997/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=149&req_host=pkjX3BL
+#EXTINF:-1,Ю
+#EXTGRP:Общие
+http://cdn.ottg.tv/4785/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=150&req_host=pkjX3BL
+#EXTINF:-1,2х2
+#EXTGRP:Общие
+http://cdn.ottg.tv/2935/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=154&req_host=pkjX3BL
+#EXTINF:-1,2х2 +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/5200/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=155&req_host=pkjX3BL
+#EXTINF:-1,ТНТ4
+#EXTGRP:Общие
+http://cdn.ottg.tv/4848/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=158&req_host=pkjX3BL
+#EXTINF:-1,ТНТ4 +2
+#EXTGRP:Общие
+http://cdn.ottg.tv/5288/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=159&req_host=pkjX3BL
+#EXTINF:-1,ТНТ4 +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/5156/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=160&req_host=pkjX3BL
+#EXTINF:-1,ТНТ4 +6
+#EXTGRP:Общие
+http://cdn.ottg.tv/7270/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=162&req_host=pkjX3BL
+#EXTINF:-1,Сарафан
+#EXTGRP:Общие
+http://cdn.ottg.tv/8267/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=163&req_host=pkjX3BL
+#EXTINF:-1,Вопросы и ответы
+#EXTGRP:Общие
+http://cdn.ottg.tv/8132/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=164&req_host=pkjX3BL
+#EXTINF:-1,1+1
+#EXTGRP:Украина
+http://cdn.ottg.tv/7016/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=165&req_host=pkjX3BL
+#EXTINF:-1,Интер
+#EXTGRP:Украина
+http://cdn.ottg.tv/5928/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=168&req_host=pkjX3BL
+#EXTINF:-1,2+2
+#EXTGRP:Украина
+http://cdn.ottg.tv/7476/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=170&req_host=pkjX3BL
+#EXTINF:-1,К1
+#EXTGRP:Украина
+http://cdn.ottg.tv/4625/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=172&req_host=pkjX3BL
+#EXTINF:-1,К2
+#EXTGRP:Украина
+http://cdn.ottg.tv/4349/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=173&req_host=pkjX3BL
+#EXTINF:-1,ТЕТ
+#EXTGRP:Украина
+http://cdn.ottg.tv/3700/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=174&req_host=pkjX3BL
+#EXTINF:-1,НТН
+#EXTGRP:Украина
+http://cdn.ottg.tv/4544/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=175&req_host=pkjX3BL
+#EXTINF:-1,Channel 9 IL
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/6998/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=176&req_host=pkjX3BL
+#EXTINF:-1,Channel 11 IL
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8247/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=177&req_host=pkjX3BL
+#EXTINF:-1,Channel 12 IL
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5773/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=178&req_host=pkjX3BL
+#EXTINF:-1,Channel 13 IL
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/6635/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=179&req_host=pkjX3BL
+#EXTINF:-1,Discovery Channel HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8979/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=180&req_host=pkjX3BL
+#EXTINF:-1,Discovery Science HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6482/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=181&req_host=pkjX3BL
+#EXTINF:-1,Discovery Turbo Xtra HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7612/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=182&req_host=pkjX3BL
+#EXTINF:-1,Investigation Discovery CEE HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5885/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=185&req_host=pkjX3BL
+#EXTINF:-1,TLC HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9012/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=186&req_host=pkjX3BL
+#EXTINF:-1,Моя планета HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7223/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=187&req_host=pkjX3BL
+#EXTINF:-1,Эврика HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3269/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=188&req_host=pkjX3BL
+#EXTINF:-1,National Geographic HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4998/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=189&req_host=pkjX3BL
+#EXTINF:-1,Наука 2.0
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5138/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=190&req_host=pkjX3BL
+#EXTINF:-1,Нано HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/1215/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=191&req_host=pkjX3BL
+#EXTINF:-1,Galaxy
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6157/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=192&req_host=pkjX3BL
+#EXTINF:-1,Техно 24
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2534/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=193&req_host=pkjX3BL
+#EXTINF:-1,Оружие
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6836/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=194&req_host=pkjX3BL
+#EXTINF:-1,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7501/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=195&req_host=pkjX3BL
+#EXTINF:-1,Animal Planet HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3507/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=196&req_host=pkjX3BL
+#EXTINF:-1,В мире животных HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3907/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=197&req_host=pkjX3BL
+#EXTINF:-1,RTД HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/9349/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=198&req_host=pkjX3BL
+#EXTINF:-1,Мама
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3737/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=199&req_host=pkjX3BL
+#EXTINF:-1,Доктор
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9022/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=200&req_host=pkjX3BL
+#EXTINF:-1,Da Vinci
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9395/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=202&req_host=pkjX3BL
+#EXTINF:-1,Viasat Explore HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3139/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=203&req_host=pkjX3BL
+#EXTINF:-1,Viasat Nature/History HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8772/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=204&req_host=pkjX3BL
+#EXTINF:-1,Viasat History HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4637/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=205&req_host=pkjX3BL
+#EXTINF:-1,История
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8719/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=206&req_host=pkjX3BL
+#EXTINF:-1,365 дней ТВ
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2331/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=207&req_host=pkjX3BL
+#EXTINF:-1,Моя Планета
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5359/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=208&req_host=pkjX3BL
+#EXTINF:-1,RTG HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/1636/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=209&req_host=pkjX3BL
+#EXTINF:-1,Приключения HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3242/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=210&req_host=pkjX3BL
+#EXTINF:-1,Travel Channel HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5730/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=211&req_host=pkjX3BL
+#EXTINF:-1,Travel+Adventure HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4485/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=212&req_host=pkjX3BL
+#EXTINF:-1,Fine Living HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6252/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=213&req_host=pkjX3BL
+#EXTINF:-1,Охота и рыбалка
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4351/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=214&req_host=pkjX3BL
+#EXTINF:-1,Охотник и рыболов HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5955/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=215&req_host=pkjX3BL
+#EXTINF:-1,Диалоги о рыбалке HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5891/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=216&req_host=pkjX3BL
+#EXTINF:-1,Дикая Охота HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9212/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=217&req_host=pkjX3BL
+#EXTINF:-1,Дикая Рыбалка HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9250/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=218&req_host=pkjX3BL
+#EXTINF:-1,Outdoor channel
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/1496/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=219&req_host=pkjX3BL
+#EXTINF:-1,Живая природа HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7063/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=220&req_host=pkjX3BL
+#EXTINF:-1,Живая планета
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/1313/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=221&req_host=pkjX3BL
+#EXTINF:-1,Кухня ТВ HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9708/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=222&req_host=pkjX3BL
+#EXTINF:-1,Еда Премиум HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9940/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=223&req_host=pkjX3BL
+#EXTINF:-1,Food Network HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4922/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=224&req_host=pkjX3BL
+#EXTINF:-1,Авто 24
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8624/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=225&req_host=pkjX3BL
+#EXTINF:-1,Авто плюс HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2339/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=226&req_host=pkjX3BL
+#EXTINF:-1,Морской
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7138/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=227&req_host=pkjX3BL
+#EXTINF:-1,HDL HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6256/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=228&req_host=pkjX3BL
+#EXTINF:-1,Кинопремьера HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7998/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=229&req_host=pkjX3BL
+#EXTINF:-1,Остросюжетное HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/6659/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=230&req_host=pkjX3BL
+#EXTINF:-1,Премиальное HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4505/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=231&req_host=pkjX3BL
+#EXTINF:-1,Наше крутое HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/6359/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=232&req_host=pkjX3BL
+#EXTINF:-1,Наш Кинороман HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4416/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=233&req_host=pkjX3BL
+#EXTINF:-1,Кинокомедия HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1119/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=234&req_host=pkjX3BL
+#EXTINF:-1,Киносемья
+#EXTGRP:Кино
+http://cdn.ottg.tv/9448/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=235&req_host=pkjX3BL
+#EXTINF:-1,Киносвидание
+#EXTGRP:Кино
+http://cdn.ottg.tv/5897/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=236&req_host=pkjX3BL
+#EXTINF:-1,Кинохит
+#EXTGRP:Кино
+http://cdn.ottg.tv/3955/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=237&req_host=pkjX3BL
+#EXTINF:-1,Киномикс
+#EXTGRP:Кино
+http://cdn.ottg.tv/2446/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=238&req_host=pkjX3BL
+#EXTINF:-1,Наше новое кино HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/3259/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=239&req_host=pkjX3BL
+#EXTINF:-1,Родное кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/7965/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=240&req_host=pkjX3BL
+#EXTINF:-1,Индийское кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/6200/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=241&req_host=pkjX3BL
+#EXTINF:-1,TV 1000 HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1411/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=242&req_host=pkjX3BL
+#EXTINF:-1,TV 1000 Action HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/9080/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=243&req_host=pkjX3BL
+#EXTINF:-1,TV 1000 Русское кино HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1502/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=244&req_host=pkjX3BL
+#EXTINF:-1,ViP Premiere HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/8785/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=245&req_host=pkjX3BL
+#EXTINF:-1,ViP Megahit HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/8448/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=246&req_host=pkjX3BL
+#EXTINF:-1,ViP Comedy HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2903/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=247&req_host=pkjX3BL
+#EXTINF:-1,ViP Serial HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1514/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=248&req_host=pkjX3BL
+#EXTINF:-1,Шокирующее HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7023/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=249&req_host=pkjX3BL
+#EXTINF:-1,Комедийное HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4010/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=250&req_host=pkjX3BL
+#EXTINF:-1,Amedia Premium HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/3610/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=251&req_host=pkjX3BL
+#EXTINF:-1,Amedia 1 HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7386/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=252&req_host=pkjX3BL
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4546/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=253&req_host=pkjX3BL
+#EXTINF:-1,Русский роман HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/3574/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=254&req_host=pkjX3BL
+#EXTINF:-1,Русский иллюзион HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/9282/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=255&req_host=pkjX3BL
+#EXTINF:-1,Русский детектив
+#EXTGRP:Кино
+http://cdn.ottg.tv/6590/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=256&req_host=pkjX3BL
+#EXTINF:-1,Русский бестселлер
+#EXTGRP:Кино
+http://cdn.ottg.tv/7525/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=257&req_host=pkjX3BL
+#EXTINF:-1,Русская комедия
+#EXTGRP:Кино
+http://cdn.ottg.tv/4167/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=258&req_host=pkjX3BL
+#EXTINF:-1,Победа HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2988/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=259&req_host=pkjX3BL
+#EXTINF:-1,Fox HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/9764/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=260&req_host=pkjX3BL
+#EXTINF:-1,Fox Life HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/3108/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=261&req_host=pkjX3BL
+#EXTINF:-1,Sony Channel HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4830/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=262&req_host=pkjX3BL
+#EXTINF:-1,Sony Sci-Fi
+#EXTGRP:Кино
+http://cdn.ottg.tv/5009/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=263&req_host=pkjX3BL
+#EXTINF:-1,Sony Turbo
+#EXTGRP:Кино
+http://cdn.ottg.tv/1490/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=264&req_host=pkjX3BL
+#EXTINF:-1,КиноТВ HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/5930/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=265&req_host=pkjX3BL
+#EXTINF:-1,Кинопоказ
+#EXTGRP:Кино
+http://cdn.ottg.tv/9591/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=266&req_host=pkjX3BL
+#EXTINF:-1,Синема
+#EXTGRP:Кино
+http://cdn.ottg.tv/5974/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=267&req_host=pkjX3BL
+#EXTINF:-1,НСТ
+#EXTGRP:Кино
+http://cdn.ottg.tv/9044/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=268&req_host=pkjX3BL
+#EXTINF:-1,Страшное HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1961/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=269&req_host=pkjX3BL
+#EXTINF:-1,TV XXI Век
+#EXTGRP:Кино
+http://cdn.ottg.tv/3043/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=270&req_host=pkjX3BL
+#EXTINF:-1,Paramount Channel HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/9462/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=271&req_host=pkjX3BL
+#EXTINF:-1,Paramount Comedy HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/4957/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=272&req_host=pkjX3BL
+#EXTINF:-1,Мужское кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/5595/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=273&req_host=pkjX3BL
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/2851/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=274&req_host=pkjX3BL
+#EXTINF:-1,Дом кино Премиум HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/6799/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=275&req_host=pkjX3BL
+#EXTINF:-1,Hollywood HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1996/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=276&req_host=pkjX3BL
+#EXTINF:-1,Матч! Игра HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4780/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=277&req_host=pkjX3BL
+#EXTINF:-1,Матч! Страна
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7937/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=278&req_host=pkjX3BL
+#EXTINF:-1,Матч! Арена HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3226/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=279&req_host=pkjX3BL
+#EXTINF:-1,Матч! HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5292/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=280&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 1 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2321/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=282&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 2 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6026/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=283&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 3 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6866/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=284&req_host=pkjX3BL
+#EXTINF:-1,Матч! Премьер HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7517/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=285&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 1 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1515/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=288&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 2 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1525/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=289&req_host=pkjX3BL
+#EXTINF:-1,Eurosport Gold HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8749/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=290&req_host=pkjX3BL
+#EXTINF:-1,Беларусь 5 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5813/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=291&req_host=pkjX3BL
+#EXTINF:-1,Kazsport
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9686/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=292&req_host=pkjX3BL
+#EXTINF:-1,Viasat Sport HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1072/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=293&req_host=pkjX3BL
+#EXTINF:-1,Extreme Sports
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1285/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=294&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports 1 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4652/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=295&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports 2 HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1931/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=296&req_host=pkjX3BL
+#EXTINF:-1,Матч! Боец
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1403/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=297&req_host=pkjX3BL
+#EXTINF:-1,Бокс ТВ
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9550/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=298&req_host=pkjX3BL
+#EXTINF:-1,UFC ТВ HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9546/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=299&req_host=pkjX3BL
+#EXTINF:-1,КХЛ ТВ
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2957/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=300&req_host=pkjX3BL
+#EXTINF:-1,КХЛ HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6328/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=301&req_host=pkjX3BL
+#EXTINF:-1,Russian Extreme HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8809/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=302&req_host=pkjX3BL
+#EXTINF:-1,Уникум HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/5438/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=303&req_host=pkjX3BL
+#EXTINF:-1,Nickelodeon HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/3240/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=304&req_host=pkjX3BL
+#EXTINF:-1,Мульт HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/7952/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=305&req_host=pkjX3BL
+#EXTINF:-1,Канал Disney
+#EXTGRP:Детские
+http://cdn.ottg.tv/7528/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=306&req_host=pkjX3BL
+#EXTINF:-1,Карусель
+#EXTGRP:Детские
+http://cdn.ottg.tv/7419/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=308&req_host=pkjX3BL
+#EXTINF:-1,Карусель +2
+#EXTGRP:Детские
+http://cdn.ottg.tv/5013/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=309&req_host=pkjX3BL
+#EXTINF:-1,Карусель +4
+#EXTGRP:Детские
+http://cdn.ottg.tv/9641/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=310&req_host=pkjX3BL
+#EXTINF:-1,Карусель +6
+#EXTGRP:Детские
+http://cdn.ottg.tv/4123/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=311&req_host=pkjX3BL
+#EXTINF:-1,СТС Kids HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/9954/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=312&req_host=pkjX3BL
+#EXTINF:-1,TiJi
+#EXTGRP:Детские
+http://cdn.ottg.tv/7521/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=313&req_host=pkjX3BL
+#EXTINF:-1,Мульт
+#EXTGRP:Детские
+http://cdn.ottg.tv/9985/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=314&req_host=pkjX3BL
+#EXTINF:-1,Мультимузыка
+#EXTGRP:Детские
+http://cdn.ottg.tv/5321/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=315&req_host=pkjX3BL
+#EXTINF:-1,JimJam
+#EXTGRP:Детские
+http://cdn.ottg.tv/9763/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=316&req_host=pkjX3BL
+#EXTINF:-1,Cartoon Network HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/5635/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=317&req_host=pkjX3BL
+#EXTINF:-1,Nick Jr
+#EXTGRP:Детские
+http://cdn.ottg.tv/3727/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=318&req_host=pkjX3BL
+#EXTINF:-1,В гостях у сказки
+#EXTGRP:Детские
+http://cdn.ottg.tv/9375/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=319&req_host=pkjX3BL
+#EXTINF:-1,Канал О!
+#EXTGRP:Детские
+http://cdn.ottg.tv/4299/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=320&req_host=pkjX3BL
+#EXTINF:-1,Boomerang
+#EXTGRP:Детские
+http://cdn.ottg.tv/2275/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=321&req_host=pkjX3BL
+#EXTINF:-1,Радость Моя
+#EXTGRP:Детские
+http://cdn.ottg.tv/5876/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=322&req_host=pkjX3BL
+#EXTINF:-1,Ani
+#EXTGRP:Детские
+http://cdn.ottg.tv/9170/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=323&req_host=pkjX3BL
+#EXTINF:-1,Детский мир
+#EXTGRP:Детские
+http://cdn.ottg.tv/9295/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=324&req_host=pkjX3BL
+#EXTINF:-1,Gulli Girl
+#EXTGRP:Детские
+http://cdn.ottg.tv/3723/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=325&req_host=pkjX3BL
+#EXTINF:-1,Baby TV
+#EXTGRP:Детские
+http://cdn.ottg.tv/7114/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=326&req_host=pkjX3BL
+#EXTINF:-1,1HD Music
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3533/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=327&req_host=pkjX3BL
+#EXTINF:-1,Муз ТВ
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1806/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=329&req_host=pkjX3BL
+#EXTINF:-1,Bridge TV
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1774/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=330&req_host=pkjX3BL
+#EXTINF:-1,Bridge TV Deluxe HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3413/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=331&req_host=pkjX3BL
+#EXTINF:-1,Bridge TV Classic
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9334/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=332&req_host=pkjX3BL
+#EXTINF:-1,Bridge TV Hits
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3704/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=333&req_host=pkjX3BL
+#EXTINF:-1,Bridge TV Русский хит
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/5747/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=334&req_host=pkjX3BL
+#EXTINF:-1,Europa Plus TV
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9995/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=335&req_host=pkjX3BL
+#EXTINF:-1,RU TV
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/5778/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=336&req_host=pkjX3BL
+#EXTINF:-1,MTV HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9621/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=337&req_host=pkjX3BL
+#EXTINF:-1,MTV Dance
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9197/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=338&req_host=pkjX3BL
+#EXTINF:-1,MTV Rocks
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/2922/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=339&req_host=pkjX3BL
+#EXTINF:-1,VH1 Classic
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1635/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=340&req_host=pkjX3BL
+#EXTINF:-1,VH1 European
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/8870/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=341&req_host=pkjX3BL
+#EXTINF:-1,MCM TOP
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1148/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=342&req_host=pkjX3BL
+#EXTINF:-1,ТНТ Music
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/4885/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=343&req_host=pkjX3BL
+#EXTINF:-1,Mezzo Live HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3203/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=344&req_host=pkjX3BL
+#EXTINF:-1,iConcerts HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/4880/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=345&req_host=pkjX3BL
+#EXTINF:-1,РБК ТВ
+#EXTGRP:Новостные
+http://cdn.ottg.tv/4428/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=346&req_host=pkjX3BL
+#EXTINF:-1,Россия 24
+#EXTGRP:Новостные
+http://cdn.ottg.tv/7146/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=347&req_host=pkjX3BL
+#EXTINF:-1,BBC World News Europe
+#EXTGRP:Новостные
+http://cdn.ottg.tv/4330/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=349&req_host=pkjX3BL
+#EXTINF:-1,CNN
+#EXTGRP:Новостные
+http://cdn.ottg.tv/1797/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=350&req_host=pkjX3BL
+#EXTINF:-1,Москва 24
+#EXTGRP:Новостные
+http://cdn.ottg.tv/7554/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=351&req_host=pkjX3BL
+#EXTINF:-1,112 Украина HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/9340/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=352&req_host=pkjX3BL
+#EXTINF:-1,Русская ночь 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/8930/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=353&req_host=pkjX3BL
+#EXTINF:-1,Ню Арт HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/8917/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=354&req_host=pkjX3BL
+#EXTINF:-1,Шалун HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/7065/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=355&req_host=pkjX3BL
+#EXTINF:-1,Playboy TV 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/6534/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=356&req_host=pkjX3BL
+#EXTINF:-1,Candy HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/3467/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=358&req_host=pkjX3BL
+#EXTINF:-1,Redlight HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/5504/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=359&req_host=pkjX3BL
+#EXTINF:-1,Hustler HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/1971/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=360&req_host=pkjX3BL
+#EXTINF:-1,Brazzers TV 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/1143/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=361&req_host=pkjX3BL
+#EXTINF:-1,Penthouse Black HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/8559/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=362&req_host=pkjX3BL
+#EXTINF:-1,Penthouse HD2 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/6447/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=364&req_host=pkjX3BL
+#EXTINF:-1,Private HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/1265/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=365&req_host=pkjX3BL
+#EXTINF:-1,Vivid Red HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/4639/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=366&req_host=pkjX3BL
+#EXTINF:-1,PINKoTV 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/3567/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=367&req_host=pkjX3BL
+#EXTINF:-1,SEXTOSENSO 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/9259/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=368&req_host=pkjX3BL
+#EXTINF:-1,Barely Legal TV 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/5182/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=369&req_host=pkjX3BL
+#EXTINF:-1,XMUVI 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/3797/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=371&req_host=pkjX3BL
+#EXTINF:-1,PassionXXX 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/6774/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=372&req_host=pkjX3BL
+#EXTINF:-1,FAN HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2006/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=373&req_host=pkjX3BL
+#EXTINF:-1,FUEL TV HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5679/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=374&req_host=pkjX3BL
+#EXTINF:-1,E TV
+#EXTGRP:Общие
+http://cdn.ottg.tv/7865/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=375&req_host=pkjX3BL
+#EXTINF:-1,Футбол HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2647/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=376&req_host=pkjX3BL
+#EXTINF:-1,Усадьба
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8254/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=377&req_host=pkjX3BL
+#EXTINF:-1,Театр
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7310/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=378&req_host=pkjX3BL
+#EXTINF:-1,Шансон TB
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/5260/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=379&req_host=pkjX3BL
+#EXTINF:-1,Феникс+ Кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/6923/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=380&req_host=pkjX3BL
+#EXTINF:-1,Точка отрыва HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2746/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=381&req_host=pkjX3BL
+#EXTINF:-1,Точка ТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/4361/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=382&req_host=pkjX3BL
+#EXTINF:-1,Ретро
+#EXTGRP:Кино
+http://cdn.ottg.tv/4309/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=383&req_host=pkjX3BL
+#EXTINF:-1,Известия
+#EXTGRP:Новостные
+http://cdn.ottg.tv/1751/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=384&req_host=pkjX3BL
+#EXTINF:-1,Мир 24
+#EXTGRP:Новостные
+http://cdn.ottg.tv/1306/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=385&req_host=pkjX3BL
+#EXTINF:-1,Russia Today HD
+#EXTGRP:Новостные
+http://cdn.ottg.tv/6969/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=386&req_host=pkjX3BL
+#EXTINF:-1,Дождь HD
+#EXTGRP:Новостные
+http://cdn.ottg.tv/7702/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=387&req_host=pkjX3BL
+#EXTINF:-1,Кино UHD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/5408/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=388&req_host=pkjX3BL
+#EXTINF:-1,Insight UHD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7004/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=389&req_host=pkjX3BL
+#EXTINF:-1,Investigation Discovery
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7060/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=390&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 4k PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9006/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=391&req_host=pkjX3BL
+#EXTINF:-1,Bolt HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/8597/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=392&req_host=pkjX3BL
+#EXTINF:-1,Amedia 2 HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7515/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=393&req_host=pkjX3BL
+#EXTINF:-1,360 HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/4898/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=394&req_host=pkjX3BL
+#EXTINF:-1,Спас
+#EXTGRP:Общие
+http://cdn.ottg.tv/2291/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=395&req_host=pkjX3BL
+#EXTINF:-1,Союз
+#EXTGRP:Общие
+http://cdn.ottg.tv/8666/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=396&req_host=pkjX3BL
+#EXTINF:-1,Просвещение
+#EXTGRP:Общие
+http://cdn.ottg.tv/7504/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=397&req_host=pkjX3BL
+#EXTINF:-1,Пёс и Ко
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4479/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=398&req_host=pkjX3BL
+#EXTINF:-1,О-ля-ля 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/8942/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=399&req_host=pkjX3BL
+#EXTINF:-1,О!Кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/4140/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=400&req_host=pkjX3BL
+#EXTINF:-1,Наше ТВ
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/8739/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=401&req_host=pkjX3BL
+#EXTINF:-1,Мужской
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9283/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=402&req_host=pkjX3BL
+#EXTINF:-1,Моторспорт ТВ HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2697/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=403&req_host=pkjX3BL
+#EXTINF:-1,Ля-минор
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9843/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=404&req_host=pkjX3BL
+#EXTINF:-1,Любимое кино
+#EXTGRP:Кино
+http://cdn.ottg.tv/8314/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=405&req_host=pkjX3BL
+#EXTINF:-1,Jurnal TV MD
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7631/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=406&req_host=pkjX3BL
+#EXTINF:-1,Bollywood HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7148/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=407&req_host=pkjX3BL
+#EXTINF:-1,M-1 Global
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8036/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=408&req_host=pkjX3BL
+#EXTINF:-1,Museum HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3605/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=410&req_host=pkjX3BL
+#EXTINF:-1,Babes TV HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/4736/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=411&req_host=pkjX3BL
+#EXTINF:-1,Настоящее время HD
+#EXTGRP:Новостные
+http://cdn.ottg.tv/2782/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=412&req_host=pkjX3BL
+#EXTINF:-1,Viasat Nature HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5532/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=415&req_host=pkjX3BL
+#EXTINF:-1,Жара HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/4248/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=416&req_host=pkjX3BL
+#EXTINF:-1,Живи!
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9643/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=417&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports UA HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7662/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=418&req_host=pkjX3BL
+#EXTINF:-1,Жар Птица
+#EXTGRP:Общие
+http://cdn.ottg.tv/4396/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=419&req_host=pkjX3BL
+#EXTINF:-1,360 Новости
+#EXTGRP:Новостные
+http://cdn.ottg.tv/3082/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=420&req_host=pkjX3BL
+#EXTINF:-1,Бобёр
+#EXTGRP:Общие
+http://cdn.ottg.tv/5063/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=422&req_host=pkjX3BL
+#EXTINF:-1,Большая Азия HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6657/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=423&req_host=pkjX3BL
+#EXTINF:-1,Дикий
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2503/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=424&req_host=pkjX3BL
+#EXTINF:-1,Доверие
+#EXTGRP:Общие
+http://cdn.ottg.tv/6289/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=425&req_host=pkjX3BL
+#EXTINF:-1,Дорама HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2233/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=426&req_host=pkjX3BL
+#EXTINF:-1,Драйв
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5603/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=427&req_host=pkjX3BL
+#EXTINF:-1,Еврокино HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/5240/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=428&req_host=pkjX3BL
+#EXTINF:-1,Еда
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2048/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=429&req_host=pkjX3BL
+#EXTINF:-1,Здоровое ТВ
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7715/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=430&req_host=pkjX3BL
+#EXTINF:-1,Иллюзион+ HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/9804/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=431&req_host=pkjX3BL
+#EXTINF:-1,Красная линия
+#EXTGRP:Общие
+http://cdn.ottg.tv/3638/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=432&req_host=pkjX3BL
+#EXTINF:-1,ЛДПР ТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/2211/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=433&req_host=pkjX3BL
+#EXTINF:-1,Матч! ТВ
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2575/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=434&req_host=pkjX3BL
+#EXTINF:-1,Первый образовательный
+#EXTGRP:Общие
+http://cdn.ottg.tv/9677/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=435&req_host=pkjX3BL
+#EXTINF:-1,Тайна
+#EXTGRP:Кино
+http://cdn.ottg.tv/2207/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=436&req_host=pkjX3BL
+#EXTINF:-1,Центральное телевидение
+#EXTGRP:Общие
+http://cdn.ottg.tv/9939/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=437&req_host=pkjX3BL
+#EXTINF:-1,Эхо-ТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/9320/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=438&req_host=pkjX3BL
+#EXTINF:-1,Ювелирочка
+#EXTGRP:Общие
+http://cdn.ottg.tv/9886/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=439&req_host=pkjX3BL
+#EXTINF:-1,Amedia Premium
+#EXTGRP:Кино
+http://cdn.ottg.tv/7564/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=440&req_host=pkjX3BL
+#EXTINF:-1,Animal Planet
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7435/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=441&req_host=pkjX3BL
+#EXTINF:-1,Clubbing TV HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/7053/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=442&req_host=pkjX3BL
+#EXTINF:-1,Discovery Channel
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3721/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=443&req_host=pkjX3BL
+#EXTINF:-1,Discovery Science
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9502/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=444&req_host=pkjX3BL
+#EXTINF:-1,DTX
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5508/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=445&req_host=pkjX3BL
+#EXTINF:-1,DW-TV
+#EXTGRP:Общие
+http://cdn.ottg.tv/7489/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=446&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 1
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6623/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=447&req_host=pkjX3BL
+#EXTINF:-1,Fashion TV HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/1223/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=448&req_host=pkjX3BL
+#EXTINF:-1,France 24 HD
+#EXTGRP:Новостные
+http://cdn.ottg.tv/9153/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=449&req_host=pkjX3BL
+#EXTINF:-1,Home 4K PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7533/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=450&req_host=pkjX3BL
+#EXTINF:-1,MTV Hits
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/5568/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=451&req_host=pkjX3BL
+#EXTINF:-1,MTV Live HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/8299/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=452&req_host=pkjX3BL
+#EXTINF:-1,Nat Geo Wild
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9038/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=453&req_host=pkjX3BL
+#EXTINF:-1,National Geographic
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5938/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=454&req_host=pkjX3BL
+#EXTINF:-1,NHK WORLD-JAPAN
+#EXTGRP:Общие
+http://cdn.ottg.tv/4102/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=455&req_host=pkjX3BL
+#EXTINF:-1,Nickelodeon
+#EXTGRP:Детские
+http://cdn.ottg.tv/2466/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=456&req_host=pkjX3BL
+#EXTINF:-1,O2TV HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/6802/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=457&req_host=pkjX3BL
+#EXTINF:-1,Paramount Channel
+#EXTGRP:Кино
+http://cdn.ottg.tv/6956/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=458&req_host=pkjX3BL
+#EXTINF:-1,Russian Extreme Ultra PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3146/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=459&req_host=pkjX3BL
+#EXTINF:-1,Russian MusicBox HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/8131/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=460&req_host=pkjX3BL
+#EXTINF:-1,Shop&Show
+#EXTGRP:Общие
+http://cdn.ottg.tv/9106/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=461&req_host=pkjX3BL
+#EXTINF:-1,Shot TV
+#EXTGRP:Кино
+http://cdn.ottg.tv/2829/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=462&req_host=pkjX3BL
+#EXTINF:-1,Spike
+#EXTGRP:Кино
+http://cdn.ottg.tv/5914/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=463&req_host=pkjX3BL
+#EXTINF:-1,Star Cinema HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/8803/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=464&req_host=pkjX3BL
+#EXTINF:-1,TLC
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9427/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=465&req_host=pkjX3BL
+#EXTINF:-1,Ultra HD Cinema
+#EXTGRP:Кино
+http://cdn.ottg.tv/6870/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=466&req_host=pkjX3BL
+#EXTINF:-1,Viasat Sport
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2839/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=467&req_host=pkjX3BL
+#EXTINF:-1,Luxury World HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/2387/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=468&req_host=pkjX3BL
+#EXTINF:-1,Zee TV
+#EXTGRP:Кино
+http://cdn.ottg.tv/7669/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=469&req_host=pkjX3BL
+#EXTINF:-1,ОНТ HD BY
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/9363/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=470&req_host=pkjX3BL
+#EXTINF:-1,Беларусь 1 HD BY
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7574/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=471&req_host=pkjX3BL
+#EXTINF:-1,РТР HD BY
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/6512/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=473&req_host=pkjX3BL
+#EXTINF:-1,Беларусь 3 HD BY
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8020/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=474&req_host=pkjX3BL
+#EXTINF:-1,Discovery Showcase HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3258/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=476&req_host=pkjX3BL
+#EXTINF:-1,Рен ТВ
+#EXTGRP:Общие
+http://cdn.ottg.tv/6401/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=477&req_host=pkjX3BL
+#EXTINF:-1,Конный мир HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8609/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=478&req_host=pkjX3BL
+#EXTINF:-1,Романтичное HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7262/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=479&req_host=pkjX3BL
+#EXTINF:-1,Любимое HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/8420/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=480&req_host=pkjX3BL
+#EXTINF:-1,Мир баскетбола
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3271/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=481&req_host=pkjX3BL
+#EXTINF:-1,НТВ Хит
+#EXTGRP:Кино
+http://cdn.ottg.tv/1445/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=482&req_host=pkjX3BL
+#EXTINF:-1,Квартал ТВ
+#EXTGRP:Украина
+http://cdn.ottg.tv/1142/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=483&req_host=pkjX3BL
+#EXTINF:-1,Сварожичи
+#EXTGRP:Украина
+http://cdn.ottg.tv/9567/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=484&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 1 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2065/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=485&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 2 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4286/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=486&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 3 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2773/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=487&req_host=pkjX3BL
+#EXTINF:-1,Матч! Игра HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3570/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=488&req_host=pkjX3BL
+#EXTINF:-1,Матч! Арена HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9517/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=489&req_host=pkjX3BL
+#EXTINF:-1,Матч! Планета
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2616/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=490&req_host=pkjX3BL
+#EXTINF:-1,Матч! HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7962/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=491&req_host=pkjX3BL
+#EXTINF:-1,Матч! Премьер HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3678/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=492&req_host=pkjX3BL
+#EXTINF:-1,КХЛ HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3069/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=493&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 1 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8413/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=494&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 2 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9523/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=495&req_host=pkjX3BL
+#EXTINF:-1,Viasat Sport HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2453/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=496&req_host=pkjX3BL
+#EXTINF:-1,Nat Geo Wild HD PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6822/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=497&req_host=pkjX3BL
+#EXTINF:-1,National Geographic HD PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3999/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=498&req_host=pkjX3BL
+#EXTINF:-1,Discovery Channel HD PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3186/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=499&req_host=pkjX3BL
+#EXTINF:-1,Animal Planet HD PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5474/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=500&req_host=pkjX3BL
+#EXTINF:-1,HD Life PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5446/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=501&req_host=pkjX3BL
+#EXTINF:-1,Discovery Showcase HD PREMIUM+
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3628/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=502&req_host=pkjX3BL
+#EXTINF:-1,Казахстан KZ
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5396/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=503&req_host=pkjX3BL
+#EXTINF:-1,КТК
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7174/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=504&req_host=pkjX3BL
+#EXTINF:-1,Астана ТВ
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7893/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=505&req_host=pkjX3BL
+#EXTINF:-1,7 канал (Казахстан)
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/3206/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=506&req_host=pkjX3BL
+#EXTINF:-1,Armenia TV
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8162/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=507&req_host=pkjX3BL
+#EXTINF:-1,Armenia HD AM
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7658/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=509&req_host=pkjX3BL
+#EXTINF:-1,Atv HD AM
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5659/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=510&req_host=pkjX3BL
+#EXTINF:-1,Kentron AM
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1753/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=512&req_host=pkjX3BL
+#EXTINF:-1,BTV
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/3855/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=513&req_host=pkjX3BL
+#EXTINF:-1,TV3 HD LV
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7524/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=514&req_host=pkjX3BL
+#EXTINF:-1,TV3 LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/2255/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=515&req_host=pkjX3BL
+#EXTINF:-1,LRT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/3733/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=516&req_host=pkjX3BL
+#EXTINF:-1,LTV1
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1144/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=517&req_host=pkjX3BL
+#EXTINF:-1,Первый HD PREMIUM+
+#EXTGRP:Общие
+http://cdn.ottg.tv/2580/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=518&req_host=pkjX3BL
+#EXTINF:-1,Россия 1 HD PREMIUM+
+#EXTGRP:Общие
+http://cdn.ottg.tv/2151/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=519&req_host=pkjX3BL
+#EXTINF:-1,НТВ HD PREMIUM+
+#EXTGRP:Общие
+http://cdn.ottg.tv/2017/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=520&req_host=pkjX3BL
+#EXTINF:-1,Хабар
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7001/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=521&req_host=pkjX3BL
+#EXTINF:-1,Eurosport 2
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6904/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=522&req_host=pkjX3BL
+#EXTINF:-1,Беларусь 24
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5581/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=523&req_host=pkjX3BL
+#EXTINF:-1,БелРос
+#EXTGRP:Кино
+http://cdn.ottg.tv/6198/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=525&req_host=pkjX3BL
+#EXTINF:-1,5 канал
+#EXTGRP:Украина
+http://cdn.ottg.tv/7806/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=526&req_host=pkjX3BL
+#EXTINF:-1,112
+#EXTGRP:Украина
+http://cdn.ottg.tv/8241/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=527&req_host=pkjX3BL
+#EXTINF:-1,34 Канал
+#EXTGRP:Украина
+http://cdn.ottg.tv/4661/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=529&req_host=pkjX3BL
+#EXTINF:-1,8 канал HD
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8335/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=530&req_host=pkjX3BL
+#EXTINF:-1,Enter Film
+#EXTGRP:Украина
+http://cdn.ottg.tv/3420/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=531&req_host=pkjX3BL
+#EXTINF:-1,Fauna
+#EXTGRP:Украина
+http://cdn.ottg.tv/2317/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=532&req_host=pkjX3BL
+#EXTINF:-1,Lale HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/6020/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=533&req_host=pkjX3BL
+#EXTINF:-1,Musicbox UA
+#EXTGRP:Украина
+http://cdn.ottg.tv/9482/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=535&req_host=pkjX3BL
+#EXTINF:-1,News Network
+#EXTGRP:Новостные
+http://cdn.ottg.tv/9142/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=536&req_host=pkjX3BL
+#EXTINF:-1,News One HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/6294/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=537&req_host=pkjX3BL
+#EXTINF:-1,NIKI Junior HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/5077/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=538&req_host=pkjX3BL
+#EXTINF:-1,NIKI Kids HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/8665/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=539&req_host=pkjX3BL
+#EXTINF:-1,OBOZ TV HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/4917/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=540&req_host=pkjX3BL
+#EXTINF:-1,OTV
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/4787/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=541&req_host=pkjX3BL
+#EXTINF:-1,Star Cinema HD UA
+#EXTGRP:Украина
+http://cdn.ottg.tv/5109/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=542&req_host=pkjX3BL
+#EXTINF:-1,Star Family HD UA
+#EXTGRP:Украина
+http://cdn.ottg.tv/8048/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=543&req_host=pkjX3BL
+#EXTINF:-1,Перший HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/9279/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=544&req_host=pkjX3BL
+#EXTINF:-1,Vintage TV
+#EXTGRP:Украина
+http://cdn.ottg.tv/9187/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=545&req_host=pkjX3BL
+#EXTINF:-1,Xsport HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/5019/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=546&req_host=pkjX3BL
+#EXTINF:-1,XSPORT
+#EXTGRP:Украина
+http://cdn.ottg.tv/1385/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=547&req_host=pkjX3BL
+#EXTINF:-1,Zik HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/1297/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=548&req_host=pkjX3BL
+#EXTINF:-1,Zoom
+#EXTGRP:Украина
+http://cdn.ottg.tv/8065/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=549&req_host=pkjX3BL
+#EXTINF:-1,Прямий UA
+#EXTGRP:Украина
+http://cdn.ottg.tv/8658/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=550&req_host=pkjX3BL
+#EXTINF:-1,Бігуді
+#EXTGRP:Украина
+http://cdn.ottg.tv/7141/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=551&req_host=pkjX3BL
+#EXTINF:-1,Громадьске ТВ
+#EXTGRP:Украина
+http://cdn.ottg.tv/4097/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=552&req_host=pkjX3BL
+#EXTINF:-1,Дача
+#EXTGRP:Украина
+http://cdn.ottg.tv/5030/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=553&req_host=pkjX3BL
+#EXTINF:-1,Етно HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/7331/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=554&req_host=pkjX3BL
+#EXTINF:-1,КРТ
+#EXTGRP:Украина
+http://cdn.ottg.tv/2488/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=555&req_host=pkjX3BL
+#EXTINF:-1,Максi ТВ
+#EXTGRP:Украина
+http://cdn.ottg.tv/8190/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=557&req_host=pkjX3BL
+#EXTINF:-1,Малятко TV
+#EXTGRP:Украина
+http://cdn.ottg.tv/5341/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=558&req_host=pkjX3BL
+#EXTINF:-1,Мега
+#EXTGRP:Украина
+http://cdn.ottg.tv/6269/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=559&req_host=pkjX3BL
+#EXTINF:-1,Надия
+#EXTGRP:Украина
+http://cdn.ottg.tv/7990/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=560&req_host=pkjX3BL
+#EXTINF:-1,Наука
+#EXTGRP:Украина
+http://cdn.ottg.tv/1419/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=561&req_host=pkjX3BL
+#EXTINF:-1,Наше HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/2872/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=562&req_host=pkjX3BL
+#EXTINF:-1,Первый Автомобильный
+#EXTGRP:Украина
+http://cdn.ottg.tv/7319/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=563&req_host=pkjX3BL
+#EXTINF:-1,Перший
+#EXTGRP:Украина
+http://cdn.ottg.tv/3990/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=564&req_host=pkjX3BL
+#EXTINF:-1,Пиксель
+#EXTGRP:Украина
+http://cdn.ottg.tv/5692/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=565&req_host=pkjX3BL
+#EXTINF:-1,ПлюсПлюс
+#EXTGRP:Украина
+http://cdn.ottg.tv/8454/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=566&req_host=pkjX3BL
+#EXTINF:-1,Прямий HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/9847/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=567&req_host=pkjX3BL
+#EXTINF:-1,Сонце
+#EXTGRP:Украина
+http://cdn.ottg.tv/9412/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=568&req_host=pkjX3BL
+#EXTINF:-1,Спорт-1
+#EXTGRP:Украина
+http://cdn.ottg.tv/1339/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=569&req_host=pkjX3BL
+#EXTINF:-1,Спорт-2
+#EXTGRP:Украина
+http://cdn.ottg.tv/1427/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=570&req_host=pkjX3BL
+#EXTINF:-1,Болт HD Россия
+#EXTGRP:Кино
+http://cdn.ottg.tv/1382/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=571&req_host=pkjX3BL
+#EXTINF:-1,Тера
+#EXTGRP:Украина
+http://cdn.ottg.tv/2370/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=573&req_host=pkjX3BL
+#EXTINF:-1,Трофей HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/9445/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=574&req_host=pkjX3BL
+#EXTINF:-1,Унiан
+#EXTGRP:Украина
+http://cdn.ottg.tv/6532/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=575&req_host=pkjX3BL
+#EXTINF:-1,ЧП.ТВ
+#EXTGRP:Украина
+http://cdn.ottg.tv/5641/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=576&req_host=pkjX3BL
+#EXTINF:-1,Черноморская
+#EXTGRP:Украина
+http://cdn.ottg.tv/1612/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=577&req_host=pkjX3BL
+#EXTINF:-1,Эспресо TV
+#EXTGRP:Украина
+http://cdn.ottg.tv/9440/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=578&req_host=pkjX3BL
+#EXTINF:-1,Эспресо ТВ HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/4231/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=579&req_host=pkjX3BL
+#EXTINF:-1,Sat.1 HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/9002/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=580&req_host=pkjX3BL
+#EXTINF:-1,ProSieben HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/6594/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=581&req_host=pkjX3BL
+#EXTINF:-1,VOX HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/1000/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=582&req_host=pkjX3BL
+#EXTINF:-1,RTL HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/3456/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=583&req_host=pkjX3BL
+#EXTINF:-1,RTL 2 HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/5948/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=584&req_host=pkjX3BL
+#EXTINF:-1,Kabel Eins HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/9447/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=585&req_host=pkjX3BL
+#EXTINF:-1,Sky Cinema Action HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/6304/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=586&req_host=pkjX3BL
+#EXTINF:-1,Sky Hits HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/8900/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=587&req_host=pkjX3BL
+#EXTINF:-1,Sky Cinema HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/1381/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=588&req_host=pkjX3BL
+#EXTINF:-1,n-tv HD DE
+#EXTGRP:Германия
+http://cdn.ottg.tv/9952/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=590&req_host=pkjX3BL
+#EXTINF:-1,Super Tennis HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6107/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=591&req_host=pkjX3BL
+#EXTINF:-1,CBS Reality
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/4399/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=592&req_host=pkjX3BL
+#EXTINF:-1,8 Канал HD BY
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8447/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=593&req_host=pkjX3BL
+#EXTINF:-1,TV3 Sport HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7729/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=594&req_host=pkjX3BL
+#EXTINF:-1,ТНТ4 HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/2304/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=595&req_host=pkjX3BL
+#EXTINF:-1,НТВ Право
+#EXTGRP:Общие
+http://cdn.ottg.tv/8025/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=596&req_host=pkjX3BL
+#EXTINF:-1,НТВ Стиль
+#EXTGRP:Общие
+http://cdn.ottg.tv/6190/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=597&req_host=pkjX3BL
+#EXTINF:-1,Арсенал HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2273/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=598&req_host=pkjX3BL
+#EXTINF:-1,Музыка первого
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/8805/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=599&req_host=pkjX3BL
+#EXTINF:-1,Кто есть кто
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7182/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=600&req_host=pkjX3BL
+#EXTINF:-1,Малыш
+#EXTGRP:Детские
+http://cdn.ottg.tv/4852/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=601&req_host=pkjX3BL
+#EXTINF:-1,Рыжий
+#EXTGRP:Детские
+http://cdn.ottg.tv/5672/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=602&req_host=pkjX3BL
+#EXTINF:-1,Киносат
+#EXTGRP:Кино
+http://cdn.ottg.tv/6899/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=603&req_host=pkjX3BL
+#EXTINF:-1,НТВ Сериал
+#EXTGRP:Кино
+http://cdn.ottg.tv/3213/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=604&req_host=pkjX3BL
+#EXTINF:-1,TV3 Film HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/3127/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=605&req_host=pkjX3BL
+#EXTINF:-1,Киносерия
+#EXTGRP:Кино
+http://cdn.ottg.tv/9769/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=606&req_host=pkjX3BL
+#EXTINF:-1,TV3 Sport 2 HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4490/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=607&req_host=pkjX3BL
+#EXTINF:-1,Открытый HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1487/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=608&req_host=pkjX3BL
+#EXTINF:-1,Загородный
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5180/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=610&req_host=pkjX3BL
+#EXTINF:-1,Загородная жизнь
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3366/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=611&req_host=pkjX3BL
+#EXTINF:-1,Travel Channel
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9704/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=612&req_host=pkjX3BL
+#EXTINF:-1,Психология
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8819/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=613&req_host=pkjX3BL
+#EXTINF:-1,Домашние животные
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3646/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=614&req_host=pkjX3BL
+#EXTINF:-1,Зоопарк
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6767/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=615&req_host=pkjX3BL
+#EXTINF:-1,Успех
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7840/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=616&req_host=pkjX3BL
+#EXTINF:-1,RTG TV
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/6063/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=617&req_host=pkjX3BL
+#EXTINF:-1,Телекафе
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3719/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=618&req_host=pkjX3BL
+#EXTINF:-1,Cartoon Network
+#EXTGRP:Детские
+http://cdn.ottg.tv/9603/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=620&req_host=pkjX3BL
+#EXTINF:-1,Футбол
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7976/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=621&req_host=pkjX3BL
+#EXTINF:-1,4 Ever music HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9047/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=622&req_host=pkjX3BL
+#EXTINF:-1,Матч! Игра
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1182/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=623&req_host=pkjX3BL
+#EXTINF:-1,Совершенно секретно
+#EXTGRP:Общие
+http://cdn.ottg.tv/6097/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=624&req_host=pkjX3BL
+#EXTINF:-1,Глазами туриста HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7083/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=625&req_host=pkjX3BL
+#EXTINF:-1,Paramount Comedy
+#EXTGRP:Кино
+http://cdn.ottg.tv/8952/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=626&req_host=pkjX3BL
+#EXTINF:-1,TV 1000
+#EXTGRP:Кино
+http://cdn.ottg.tv/9948/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=627&req_host=pkjX3BL
+#EXTINF:-1,Hollywood
+#EXTGRP:Кино
+http://cdn.ottg.tv/2884/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=628&req_host=pkjX3BL
+#EXTINF:-1,Sony
+#EXTGRP:Кино
+http://cdn.ottg.tv/9605/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=629&req_host=pkjX3BL
+#EXTINF:-1,Fox
+#EXTGRP:Кино
+http://cdn.ottg.tv/2166/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=630&req_host=pkjX3BL
+#EXTINF:-1,Fox Life
+#EXTGRP:Кино
+http://cdn.ottg.tv/7353/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=631&req_host=pkjX3BL
+#EXTINF:-1,Перец International
+#EXTGRP:Общие
+http://cdn.ottg.tv/5850/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=632&req_host=pkjX3BL
+#EXTINF:-1,Fightbox
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3336/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=633&req_host=pkjX3BL
+#EXTINF:-1,Мультиландия
+#EXTGRP:Детские
+http://cdn.ottg.tv/2229/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=634&req_host=pkjX3BL
+#EXTINF:-1,Первый канал HD +4
+#EXTGRP:Общие
+http://cdn.ottg.tv/2806/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=635&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 1
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7721/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=638&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 2
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9099/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=639&req_host=pkjX3BL
+#EXTINF:-1,Матч! Футбол 3
+#EXTGRP:Спорт
+http://cdn.ottg.tv/7197/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=640&req_host=pkjX3BL
+#EXTINF:-1,Матч! Премьер
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3863/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=641&req_host=pkjX3BL
+#EXTINF:-1,News One UA
+#EXTGRP:Украина
+http://cdn.ottg.tv/6656/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=642&req_host=pkjX3BL
+#EXTINF:-1,ТНТ HD PREMIUM+
+#EXTGRP:Общие
+http://cdn.ottg.tv/5889/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=644&req_host=pkjX3BL
+#EXTINF:-1,Победа
+#EXTGRP:Кино
+http://cdn.ottg.tv/8934/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=643&req_host=pkjX3BL
+#EXTINF:-1,Мир сериала
+#EXTGRP:Кино
+http://cdn.ottg.tv/9667/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=646&req_host=pkjX3BL
+#EXTINF:-1,Discovery World
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/8568/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=647&req_host=pkjX3BL
+#EXTINF:-1,Zik
+#EXTGRP:Украина
+http://cdn.ottg.tv/5632/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=648&req_host=pkjX3BL
+#EXTINF:-1,ViP Premiere HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/2110/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=649&req_host=pkjX3BL
+#EXTINF:-1,ViP Megahit HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/7787/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=650&req_host=pkjX3BL
+#EXTINF:-1,ViP Comedy HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/9807/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=651&req_host=pkjX3BL
+#EXTINF:-1,Мужское Кино HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/6241/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=652&req_host=pkjX3BL
+#EXTINF:-1,English Club
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7783/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=653&req_host=pkjX3BL
+#EXTINF:-1,Капитан Фантастика HD
+#EXTGRP:Детские
+http://cdn.ottg.tv/9549/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=654&req_host=pkjX3BL
+#EXTINF:-1,RTR Moldova HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9879/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=657&req_host=pkjX3BL
+#EXTINF:-1,1+1 International
+#EXTGRP:Украина
+http://cdn.ottg.tv/7224/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=658&req_host=pkjX3BL
+#EXTINF:-1,1+1 HD
+#EXTGRP:Украина
+http://cdn.ottg.tv/6801/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=659&req_host=pkjX3BL
+#EXTINF:-1,ТВ 3 HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/1540/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=660&req_host=pkjX3BL
+#EXTINF:-1,Супер HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/3894/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=661&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports UA HD PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2290/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=662&req_host=pkjX3BL
+#EXTINF:-1,Кинопремьера HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/2095/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=663&req_host=pkjX3BL
+#EXTINF:-1,KidZone+ HD PREMIUM+
+#EXTGRP:Детские
+http://cdn.ottg.tv/9521/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=664&req_host=pkjX3BL
+#EXTINF:-1,Кино ТВ HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/2733/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=665&req_host=pkjX3BL
+#EXTINF:-1,Наша сибирь 4K
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3521/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=666&req_host=pkjX3BL
+#EXTINF:-1,Fashion TV 4K
+#EXTGRP:Общие
+http://cdn.ottg.tv/5477/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=667&req_host=pkjX3BL
+#EXTINF:-1,Сериал UHD
+#EXTGRP:Кино
+http://cdn.ottg.tv/5312/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=668&req_host=pkjX3BL
+#EXTINF:-1,Stingray Festival 4K
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/9311/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=669&req_host=pkjX3BL
+#EXTINF:-1,Nasa 4k (test)
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7157/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=670&req_host=pkjX3BL
+#EXTINF:-1,One 4k (test)
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/5355/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=671&req_host=pkjX3BL
+#EXTINF:-1,TV8 HD MD
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/6439/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=672&req_host=pkjX3BL
+#EXTINF:-1,Pro TV HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/9548/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=673&req_host=pkjX3BL
+#EXTINF:-1,Pro TV Int. RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1601/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=674&req_host=pkjX3BL
+#EXTINF:-1,Antena 1 HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1712/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=675&req_host=pkjX3BL
+#EXTINF:-1,TVR1 RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/8160/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=676&req_host=pkjX3BL
+#EXTINF:-1,Наука 2.0 HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5656/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=677&req_host=pkjX3BL
+#EXTINF:-1,Первый канал Европа
+#EXTGRP:Общие
+http://cdn.ottg.tv/4795/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=678&req_host=pkjX3BL
+#EXTINF:-1,Music Box GOLD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3147/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=679&req_host=pkjX3BL
+#EXTINF:-1,TV 1000 World Kino
+#EXTGRP:Кино
+http://cdn.ottg.tv/9018/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=680&req_host=pkjX3BL
+#EXTINF:-1,5 канал +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/8110/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=682&req_host=pkjX3BL
+#EXTINF:-1,Россия-К +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/4799/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=681&req_host=pkjX3BL
+#EXTINF:-1,ТВЦ +8
+#EXTGRP:Общие
+http://cdn.ottg.tv/7618/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=683&req_host=pkjX3BL
+#EXTINF:-1,Матч! Арена
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6495/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=686&req_host=pkjX3BL
+#EXTINF:-1,Русский роман
+#EXTGRP:Кино
+http://cdn.ottg.tv/8833/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=685&req_host=pkjX3BL
+#EXTINF:-1,Дождь
+#EXTGRP:Новостные
+http://cdn.ottg.tv/1238/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=684&req_host=pkjX3BL
+#EXTINF:-1,Киноужас HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1755/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=687&req_host=pkjX3BL
+#EXTINF:-1,СТС HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/2990/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=688&req_host=pkjX3BL
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/7385/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=689&req_host=pkjX3BL
+#EXTINF:-1,EU Music HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/2784/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=691&req_host=pkjX3BL
+#EXTINF:-1,Остросюжетное HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/4999/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=692&req_host=pkjX3BL
+#EXTINF:-1,Премиальное HD PREMIUM+
+#EXTGRP:Кино
+http://cdn.ottg.tv/7718/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=693&req_host=pkjX3BL
+#EXTINF:-1,Love Nature 4K
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/1893/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=694&req_host=pkjX3BL
+#EXTINF:-1,Extasy 4K 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/9477/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=695&req_host=pkjX3BL
+#EXTINF:-1,FightBox HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1949/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=696&req_host=pkjX3BL
+#EXTINF:-1,DocuBox HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/5291/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=697&req_host=pkjX3BL
+#EXTINF:-1,Fast&FunBox HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/1647/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=698&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports UA
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5493/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=699&req_host=pkjX3BL
+#EXTINF:-1,UA:Донбас
+#EXTGRP:Украина
+http://cdn.ottg.tv/4816/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=700&req_host=pkjX3BL
+#EXTINF:-1,Мариупольское ТВ
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3385/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=702&req_host=pkjX3BL
+#EXTINF:-1,C-Music HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/3499/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=703&req_host=pkjX3BL
+#EXTINF:-1,AIVA HD
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/1543/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=704&req_host=pkjX3BL
+#EXTINF:-1,СТАРТ HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/8180/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=705&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports 1
+#EXTGRP:Спорт
+http://cdn.ottg.tv/5528/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=706&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sports 2
+#EXTGRP:Спорт
+http://cdn.ottg.tv/6754/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=707&req_host=pkjX3BL
+#EXTINF:-1,Крик ТВ
+#EXTGRP:Новостные
+http://cdn.ottg.tv/7374/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=708&req_host=pkjX3BL
+#EXTINF:-1,Мир Вокруг HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/7164/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=709&req_host=pkjX3BL
+#EXTINF:-1,MyZen 4K
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/9218/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=710&req_host=pkjX3BL
+#EXTINF:-1,Duck TV
+#EXTGRP:Детские
+http://cdn.ottg.tv/2314/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=711&req_host=pkjX3BL
+#EXTINF:-1,Eroxxx HD 18+
+#EXTGRP:Для взрослых
+http://cdn.ottg.tv/2288/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=712&req_host=pkjX3BL
+#EXTINF:-1,Canal + 4K Ultra HD PL
+#EXTGRP:Спорт
+http://cdn.ottg.tv/9163/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=713&req_host=pkjX3BL
+#EXTINF:-1,Загородный int HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/2491/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=714&req_host=pkjX3BL
+#EXTINF:-1,AMC
+#EXTGRP:Кино
+http://cdn.ottg.tv/5792/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=609&req_host=pkjX3BL
+#EXTINF:-1,Киносерия HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2414/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=715&req_host=pkjX3BL
+#EXTINF:-1,Кинохит HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/6140/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=716&req_host=pkjX3BL
+#EXTINF:-1,Киносемья HD
+#EXTGRP:Общие
+http://cdn.ottg.tv/4131/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=718&req_host=pkjX3BL
+#EXTINF:-1,TV1 HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1155/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=719&req_host=pkjX3BL
+#EXTINF:-1,TV3 HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/9102/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=720&req_host=pkjX3BL
+#EXTINF:-1,TV6 HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1309/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=721&req_host=pkjX3BL
+#EXTINF:-1,TV8 HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/3814/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=722&req_host=pkjX3BL
+#EXTINF:-1,LRT HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/9055/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=723&req_host=pkjX3BL
+#EXTINF:-1,LNK HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5900/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=724&req_host=pkjX3BL
+#EXTINF:-1,INFO TV HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/2282/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=725&req_host=pkjX3BL
+#EXTINF:-1,BTV HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/2538/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=726&req_host=pkjX3BL
+#EXTINF:-1,Sport1 HD LT
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4035/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=727&req_host=pkjX3BL
+#EXTINF:-1,LRT Plius HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/6503/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=728&req_host=pkjX3BL
+#EXTINF:-1,Lietuvos Rytas HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/5861/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=729&req_host=pkjX3BL
+#EXTINF:-1,Balticum Platinum HD LT
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/4151/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=730&req_host=pkjX3BL
+#EXTINF:-1,English Club TV HD
+#EXTGRP:Познавательные
+http://cdn.ottg.tv/3279/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=731&req_host=pkjX3BL
+#EXTINF:-1,Epic Drama HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/5415/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=732&req_host=pkjX3BL
+#EXTINF:-1,FilmZone HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/1203/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=733&req_host=pkjX3BL
+#EXTINF:-1,FilmZone+ HD
+#EXTGRP:Кино
+http://cdn.ottg.tv/2423/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=734&req_host=pkjX3BL
+#EXTINF:-1,Mezzo Live HD PREMIUM+
+#EXTGRP:Музыкальные
+http://cdn.ottg.tv/2603/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=735&req_host=pkjX3BL
+#EXTINF:-1,FilmBox
+#EXTGRP:Кино
+http://cdn.ottg.tv/8937/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=736&req_host=pkjX3BL
+#EXTINF:-1,FilmBox ArtHouse
+#EXTGRP:Кино
+http://cdn.ottg.tv/9238/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=737&req_host=pkjX3BL
+#EXTINF:-1,Интер+
+#EXTGRP:Украина
+http://cdn.ottg.tv/6643/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=738&req_host=pkjX3BL
+#EXTINF:-1,Футбол 3 HD UA PREMIUM+
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2515/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=747&req_host=pkjX3BL
+#EXTINF:-1,Футбол 3 HD UA
+#EXTGRP:Спорт
+http://cdn.ottg.tv/3600/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=748&req_host=pkjX3BL
+#EXTINF:-1,Футбол 3
+#EXTGRP:Спорт
+http://cdn.ottg.tv/4275/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=749&req_host=pkjX3BL
+#EXTINF:-1,Kanal D HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/7827/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=750&req_host=pkjX3BL
+#EXTINF:-1,HBO HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/2348/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=751&req_host=pkjX3BL
+#EXTINF:-1,HBO 3 HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/1657/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=752&req_host=pkjX3BL
+#EXTINF:-1,Cinemax HD RO
+#EXTGRP:Зарубежные
+http://cdn.ottg.tv/9737/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=753&req_host=pkjX3BL
+#EXTINF:-1,Матч! HD 50fps
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2094/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=754&req_host=pkjX3BL
+#EXTINF:-1,Setanta Sport + UA HD
+#EXTGRP:Спорт
+http://cdn.ottg.tv/2955/video.m3u8?username=Lerino&password=s63tkwr7&token=66b5f769e99354e21d6617cc517ccd9b&ch_id=755&req_host=pkjX3BL

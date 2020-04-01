@@ -7,62 +7,47 @@
         
           <channel>
             <title><![CDATA[Eurosport 2 HD (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a04b?auth=blhenko:blhenko]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (3)]]></title>
-            <stream_url><![CDATA[http://92.46.127.146:8080/Eurosport2/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (4)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31219.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (5)]]></title>
             <stream_url><![CDATA[http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/234/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Eurosport 2 HD (6)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56578.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (7)]]></title>
+            <title><![CDATA[Eurosport 2 HD (3)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/192.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Eurosport 2 HD (4)]]></title>
+            <stream_url><![CDATA[http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 2 HD (5)]]></title>
+            <stream_url><![CDATA[http://ch01.spr24.net/265/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 2 HD (6)]]></title>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/17107/video.m3u8?token=M1bxsI3oZw]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 2 HD (7)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/17107/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Eurosport 2 HD (8)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/23/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Eurosport 2 HD (9)]]></title>
-            <stream_url><![CDATA[http://157d378f.ottv.biz/iptv/EKHDRYAWWG769E/234/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/23/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Eurosport 2 HD (10)]]></title>
             <stream_url><![CDATA[http://151.80.59.206/TV/FLASH-TV/n/mac/480.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (11)]]></title>
-            <stream_url><![CDATA[http://s1.only4.tv/17107/video.m3u8?token=LnMt7V6gIB]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (12)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport2HD&login=Martyn&key=CBxWefH]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 2 HD (13)]]></title>
-            <stream_url><![CDATA[http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/234/index.m3u8]]></stream_url>
           </channel>
         
 </items>

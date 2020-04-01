@@ -7,12 +7,12 @@
         
           <channel>
             <title><![CDATA[BTV (2)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/81/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/35.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[BTV (3)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/35.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/81/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         
 </items>

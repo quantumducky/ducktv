@@ -2,41 +2,61 @@
 <items>
           <channel>
             <title><![CDATA[Paramount Comedy HD (1)]]></title>
-            <stream_url><![CDATA[http://178.165.68.39:7781/udp/239.2.1.19:1234]]></stream_url>
+            <stream_url><![CDATA[http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a06e?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://91.204.138.87:8888/udp/224.200.241.89:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (3)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a04a?auth=blhenko:blhenko]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Comedy HD (4)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/196.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Comedy HD (5)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Comedy HD (6)]]></title>
             <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Paramount Comedy HD (4)]]></title>
+            <stream_url><![CDATA[http://178.165.68.39:7781/udp/239.2.1.19:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (5)]]></title>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/paramount-comedy.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (6)]]></title>
+            <stream_url><![CDATA[http://82.200.127.58:8080/udp/239.54.5.117:1234]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Paramount Comedy HD (7)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy HD (8)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/196.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (9)]]></title>
+            <stream_url><![CDATA[http://5.2.40.100:1024/udp/239.254.2.126:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (10)]]></title>
+            <stream_url><![CDATA[http://188.113.190.12/127/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (11)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_PARAMOUNTCOMEDYHD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy HD (12)]]></title>
             <stream_url><![CDATA[http://ch01.spr24.net/220/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
           </channel>
         

@@ -2,11 +2,6 @@
 <items>
           <channel>
             <title><![CDATA[TV3 Film HD (1)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/TV1000PremiumHD/HLS_encr/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV3 Film HD (2)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/178/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

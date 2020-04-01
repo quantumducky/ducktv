@@ -2,32 +2,32 @@
 <items>
           <channel>
             <title><![CDATA[Viasat History (1)]]></title>
-            <stream_url><![CDATA[http://88.119.220.3/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.14/hls/CH_VIASATHISTORY/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (2)]]></title>
-            <stream_url><![CDATA[http://185.176.117.243/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://178.124.183.13/hls/CH_VIASATHISTORY/bw1200000/playlist.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (3)]]></title>
-            <stream_url><![CDATA[http://213.252.252.17/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (4)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/VIASATHISTORY?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/162/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (5)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (6)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/162/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -37,121 +37,126 @@
         
           <channel>
             <title><![CDATA[Viasat History (8)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (9)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/162/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (10)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/04.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (11)]]></title>
-            <stream_url><![CDATA[http://cdn1.tvplayhome.lt/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD-avc1_2200000=10-mp4a_96000_rus=1.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (12)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/162/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (13)]]></title>
             <stream_url><![CDATA[http://212.112.101.69:8081/stream54/output.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (14)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/162/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (15)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/162/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (16)]]></title>
-            <stream_url><![CDATA[https://cdn7.tvplayhome.lt/live/eds/ViasatHistoryHD/HLS_encr/ViasatHistoryHD.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (17)]]></title>
+            <title><![CDATA[Viasat History (9)]]></title>
             <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/01.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (18)]]></title>
+            <title><![CDATA[Viasat History (10)]]></title>
             <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/03.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (19)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd]]></stream_url>
+            <title><![CDATA[Viasat History (11)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (20)]]></title>
+            <title><![CDATA[Viasat History (12)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (13)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (14)]]></title>
+            <stream_url><![CDATA[http://158.46.88.95:4022/udp/239.255.42.40:1234]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (15)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (16)]]></title>
+            <stream_url><![CDATA[http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (17)]]></title>
+            <stream_url><![CDATA[http://188.113.190.12/33/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (18)]]></title>
             <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (21)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/162/index.m3u8]]></stream_url>
+            <title><![CDATA[Viasat History (19)]]></title>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/viasat-history.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (22)]]></title>
+            <title><![CDATA[Viasat History (20)]]></title>
             <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/162/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat History (21)]]></title>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/162/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (22)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/162/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat History (23)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/35264.ts]]></stream_url>
+            <stream_url><![CDATA[http://spacetv.in/stream/DVB2D6AE8CU/240.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Viasat History (24)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/57517.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (25)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33370.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (26)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/59196.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (27)]]></title>
-            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/index.m3u8?fluxustv.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Viasat History (28)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/101.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (29)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/69/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <title><![CDATA[Viasat History (25)]]></title>
+            <stream_url><![CDATA[http://ott-cdn.ucom.am/s70/index.m3u8?fluxustv.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Viasat History (30)]]></title>
+            <title><![CDATA[Viasat History (26)]]></title>
+            <stream_url><![CDATA[https://mfe.svc.ott.zala.by/hls/CH_VIASATHISTORY/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (27)]]></title>
+            <stream_url><![CDATA[http://ch01.spr24.net/20078/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (28)]]></title>
+            <stream_url><![CDATA[https://mfe.svc.ott.zala.by/hls/CH_VIASATHISTORY/variant.m3u8?version=2]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (29)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/101.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Viasat History (30)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/69/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Viasat History (31)]]></title>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/19106/video.m3u8?token=M1bxsI3oZw]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Viasat History (32)]]></title>
             <stream_url><![CDATA[http://s1.only4.tv/19106/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         

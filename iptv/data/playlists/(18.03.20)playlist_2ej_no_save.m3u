@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1 channel-id="2" tvg-name="UPD: 24.11.19",UPD: 24.11.19
+http://188.35.9.11:2001
+#EXTINF:-1 tvg-name="1+1",1+1
+http://188.35.9.11:2001
+#EXTINF:-1 tvg-name="1+1",1+1
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 tvg-name="1+1 Int",1+1 Int
+https://live-k2302-kbp.1plus1.video/227022/smil:227022.smil/chunklist_b2928000.m3u8
+#EXTINF:-1 tvg-name="112 Украина",112 Украина
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+#EXTINF:-1 tvg-name="1TV",1TV
+http://188.113.190.12/1/index.m3u8
+#EXTINF:-1 tvg-name="5 канал",5 канал
+http://188.113.190.12/5/index.m3u8
+#EXTINF:-1 tvg-name="A2",A2
+https://sc.id-tv.kz/A2_38_39.m3u8
+#EXTINF:-1 tvg-name="AMC",AMC
+http://212.121.249.34:8080/amc/index.m3u8
+#EXTINF:-1 tvg-name="ATR",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 tvg-name="ECO TV",ECO TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1 tvg-name="Enter-фильм",Enter-фильм
+http://188.35.9.5:10007/stolen/138w/parasite.install
+#EXTINF:-1 tvg-name="Film Box",Film Box
+http://188.35.9.11:21081/udp/154w
+#EXTINF:-1 tvg-name="Film Box Family",Film Box Family
+http://188.35.9.14:21081/udp/154w
+#EXTINF:-1 tvg-name="MTV",MTV
+http://31.177.62.139:8011/play/s28
+#EXTINF:-1 tvg-name="OTV Music",OTV Music
+http://212.26.146.148/hls/otv.m3u8
+#EXTINF:-1 tvg-name="Plus",Plus
+https://nova-live.ssl.cdn.cra.cz/channels/joj_plus/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-name="Russian Music Box",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Turbo",Sony Turbo
+http://158.46.115.68:81/udp/239.255.42.93:1234
+#EXTINF:-1 tvg-name="Spike",Spike
+http://188.35.9.11:21111/udp/174r
+#EXTINF:-1 tvg-name="STR TV",STR TV
+http://s.myowntv.org/hls/str-tv.m3u8
+#EXTINF:-1 tvg-name="TB Дом",TB Дом
+http://46.149.48.21:1234
+#EXTINF:-1 tvg-name="TV XXI",TV XXI
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-name="TV1000",TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1 tvg-name="TV1000",TV1000
+http://188.35.9.5:10020/stolen/484c/hot.dll
+#EXTINF:-1 tvg-name="TV5",TV5
+https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
+#EXTINF:-1 tvg-name="TV7 Plus",TV7 Plus
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-name="UA TV",UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 tvg-name="VIP Megahit HD",VIP Megahit HD
+http://188.35.9.5:10020/stolen/403x/hot.dll
+#EXTINF:-1 tvg-name="ViP Megahit",ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:-1 tvg-name="VIP Premiere",VIP Premiere
+http://78.157.230.19/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1 tvg-name="ViP Premiere",ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:-1 tvg-name="ZIK",ZIK
+http://162.244.81.111:1937/liveTrans/livestream_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="ZOOM",ZOOM
+http://188.35.9.11:11062/f
+#EXTINF:-1 tvg-name="Інтер",Інтер
+http://109.68.41.148:1935/live/inter_3/playlist.m3u8
+#EXTINF:-1 tvg-name="Аверс",Аверс
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1 tvg-name="Академия",Академия
+https://cdn1.live-tv.od.ua:8083/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-name="ВТВ-Плюс",ВТВ-Плюс
+http://iptv.rubintele.com:8552/play/a007
+#EXTINF:-1 tvg-name="ИНТБ",ИНТБ
+http://5.58.64.7:7777/udp/237.0.1.1:1234
+#EXTINF:-1 tvg-name="ИРТ (Днепр)",ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="Квартал ТВ",Квартал ТВ
+http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/932/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ",Кино ТВ
+http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
+#EXTINF:-1 tvg-name="Кино ТВ",Кино ТВ
+http://195.162.90.141:8080/ca11d23839ef9e958ff6a6cd020f6e7d
+#EXTINF:-1 tvg-name="Киносвидание",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-name="Киносвидание",Киносвидание
+http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/728/index.m3u8
+#EXTINF:-1 tvg-name="Классика кино",Классика кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 tvg-name="Классика кино",Классика кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:-1 tvg-name="Классика Кино",Классика Кино
+http://serv25.vintera.tv:8081/klasskino/k_kino/chunks.m3u8
+#EXTINF:-1 tvg-name="Комедийное HD",Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 tvg-name="Комедийное HD",Комедийное HD
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+#EXTINF:-1 tvg-name="Лен ТВ 24",Лен ТВ 24
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/chunklist_w109164134.m3u8
+#EXTINF:-1 tvg-name="М1",М1
+http://live.m2.tv/hls/stream.m3u8
+#EXTINF:-1 tvg-name="М2",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-name="М2",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-name="Матч ТВ",Матч ТВ
+http://188.113.190.12/6/index.m3u8
+#EXTINF:-1 tvg-name="Мега",Мега
+http://188.35.9.5:10007/stolen/140r/parasite.install
+#EXTINF:-1 tvg-name="Мир Premium",Мир Premium
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-name="Мир Сериала",Мир Сериала
+http://188.35.9.5:10007/stolen/125e/parasite.install
+#EXTINF:-1 tvg-name="Мир Сериала",Мир Сериала
+http://188.35.9.5:10007/stolen/125e/parasite.install
+#EXTINF:-1 tvg-name="Мир сериала",Мир сериала
+http://188.35.9.5:10007/stolen/125e/parasite.install
+#EXTINF:-1 tvg-name="Наше ТВ",Наше ТВ
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:-1 tvg-name="Новый Мир",Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 tvg-name="НТА",НТА
+http://95.67.106.10/hls/nta_ua_mid/index.m3u8
+#EXTINF:-1 tvg-name="НТВ",НТВ
+http://188.113.190.12/4/index.m3u8
+#EXTINF:-1 tvg-name="НТН",НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD",Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:-1 tvg-name="Первый Городской (Одесса)",Первый Городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod/playlist.m3u8
+#EXTINF:-1 tvg-name="Пиксель",Пиксель
+http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1 tvg-name="Пиксель ТВ",Пиксель ТВ
+http://188.35.9.5:10007/stolen/139e/parasite.install
+#EXTINF:-1 tvg-name="Правда ТУТ",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 tvg-name="Правда ТУТ",Правда ТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ",РЕН ТВ
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Сонце",Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1 tvg-name="СТБ",СТБ
+http://188.35.9.11:2002
+#EXTINF:-1 tvg-name="СТБ",СТБ
+http://188.35.9.11:2002
+#EXTINF:-1 tvg-name="СТС International",СТС International
+https://sc.id-tv.kz/STS_38_39.m3u8
+#EXTINF:-1 tvg-name="ТВ7",ТВ7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ТВЦ",ТВЦ
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
+#EXTINF:-1 tvg-name="ТВЦ (Международный)",ТВЦ (Международный)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 tvg-name="ТНТ",ТНТ
+http://188.35.9.11:2005
+#EXTINF:-1 tvg-name="Феникс Плюс Кино",Феникс Плюс Кино
+http://uiptv.do.am/1ufc/229011129/playlist.m3u8
+#EXTINF:-1 tvg-name="Шокирующее HD",Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1 tvg-name="Шокирующее HD",Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1 tvg-name="Ю",Ю
+http://uiptv.do.am/1ufc/108549247/playlist.m3u8

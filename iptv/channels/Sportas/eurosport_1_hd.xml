@@ -7,12 +7,12 @@
         
           <channel>
             <title><![CDATA[Eurosport 1 HD (2)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/228/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://188.35.9.9:21081/udp/098t]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Eurosport 1 HD (3)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a02h?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/228/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -22,102 +22,67 @@
         
           <channel>
             <title><![CDATA[Eurosport 1 HD (5)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56776.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (6)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31430.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (7)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/56579.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (8)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (9)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/228/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (10)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/33538.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (11)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/228/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (12)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (13)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (14)]]></title>
-            <stream_url><![CDATA[http://mi4dazjtgfrda.nnqxu3lbpjygc6ron5zgo.cmle.ru/iptv/3XZ376R3C9MC6X/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (15)]]></title>
-            <stream_url><![CDATA[http://mjqtknzshfsdk.nnzgc43omftgqzzooj2q.cmle.ru/iptv/EAEWFFWBXPVVLY/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (16)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (17)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/228/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (18)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/31218.ts]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (19)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/24/hls/4WT1bzMG/?type=m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Eurosport 1 HD (20)]]></title>
             <stream_url><![CDATA[http://nexterr.ottv.info/iptv/F7WWXGUG4PCU8S/228/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Eurosport 1 HD (21)]]></title>
-            <stream_url><![CDATA[http://151.80.59.206/TV/FLASH-TV/n/mac/479.m3u8]]></stream_url>
+            <title><![CDATA[Eurosport 1 HD (6)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/228/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Eurosport 1 HD (22)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2FEurosport1HD&login=Martyn&key=CBxWefH]]></stream_url>
+            <title><![CDATA[Eurosport 1 HD (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/228/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Eurosport 1 HD (23)]]></title>
+            <title><![CDATA[Eurosport 1 HD (8)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/228/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (9)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/228/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (10)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/228/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (11)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/228/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (12)]]></title>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/228/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (13)]]></title>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/228/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (14)]]></title>
             <stream_url><![CDATA[http://s1.only4.tv/26001/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Eurosport 1 HD (24)]]></title>
-            <stream_url><![CDATA[http://188.35.9.9:21081/udp/098t]]></stream_url>
+            <title><![CDATA[Eurosport 1 HD (15)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/24/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (16)]]></title>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/26001/video.m3u8?token=M1bxsI3oZw]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Eurosport 1 HD (17)]]></title>
+            <stream_url><![CDATA[http://151.80.59.206/TV/FLASH-TV/n/mac/479.m3u8]]></stream_url>
           </channel>
         
 </items>

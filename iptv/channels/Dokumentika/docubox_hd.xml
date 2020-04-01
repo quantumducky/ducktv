@@ -2,22 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[DocuBox HD (1)]]></title>
-            <stream_url><![CDATA[http://84.32.72.60:8080/docubox_hd/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a048?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/968/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/968/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (4)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/968/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -27,12 +27,12 @@
         
           <channel>
             <title><![CDATA[DocuBox HD (6)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/968/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (7)]]></title>
-            <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/968/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/968/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -42,32 +42,37 @@
         
           <channel>
             <title><![CDATA[DocuBox HD (9)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/968/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/968/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (10)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/968/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[DocuBox HD (11)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/90.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[DocuBox HD (11)]]></title>
+            <stream_url><![CDATA[http://ch01.spr24.net/332/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[DocuBox HD (12)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/90.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://spacetv.in/stream/DVB2D6AE8CU/90.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (13)]]></title>
-            <stream_url><![CDATA[http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/90.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[DocuBox HD (14)]]></title>
             <stream_url><![CDATA[http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8?fluxustv.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[DocuBox HD (15)]]></title>
+            <stream_url><![CDATA[http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8]]></stream_url>
           </channel>
         
 </items>

@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1, E TV
+https://strm.yandex.ru/kal/etv/etv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, earth TV
+https://strm.yandex.ru/kal/worldlife/worldlife0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Fashion TV
+https://strm.yandex.ru/kal/fashiontv/fashiontv0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Fresh TV
+https://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Russian Music Box
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Univer TV
+https://strm.yandex.ru/kal/univer/univer0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Вместе-РФ
+https://strm.yandex.ru/kal/vmeste_rf/vmeste_rf0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Дождь
+https://strm.yandex.ru/kal/tvrain/tvrain0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Загородный
+https://strm.yandex.ru/kal/zagorod/zagorod0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Надежда
+https://strm.yandex.ru/kal/nadejda_supres/nadejda_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Нано
+https://strm.yandex.ru/kal/nano/nano0_43_480p.json/index-v1-a1.m3u8
+#EXTINF:-1, Наша Сибирь
+https://strm.yandex.ru/kal/sibir/sibir0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Неизвестная Планета
+https://strm.yandex.ru/kal/unknownplanet/unknownplanet0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Новое Радио
+https://strm.yandex.ru/kal/nasheradio/nasheradio0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, О2ТВ
+https://strm.yandex.ru/kal/o2/o20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Осетия-Ирыстон
+https://strm.yandex.ru/kal/osetiya_iryston/osetiya_iryston0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Советские мультфильмы
+https://strm.yandex.ru/kal/sovmult_supres/sovmult_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Советские мультфильмы HD
+https://strm.yandex.ru/kal/sovmult_supres/sovmult_supres0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Советское Кино
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, Советское Кино HD
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_1800p.json/index-v1-a1.m3u8
+#EXTINF:-1, Терра Инкогнита
+https://strm.yandex.ru/kal/terra/terra0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1, ТНТ Music
+https://strm.yandex.ru/kal/tntmusic/tntmusic0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:-1, Успех
+https://strm.yandex.ru/kal/uspehtv_supres/uspehtv_supres0_1511_720p.json/index-v1-a1.m3u8

@@ -7,17 +7,7 @@
         
           <channel>
             <title><![CDATA[Paramount Channel HD (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a0c6?auth=blhenko:blhenko]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Channel HD (3)]]></title>
             <stream_url><![CDATA[http://ch01.spr24.net/221/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Channel HD (4)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Fparamountchannelhd&login=Martyn&key=CBxWefH]]></stream_url>
           </channel>
         
 </items>

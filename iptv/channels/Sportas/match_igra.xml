@@ -12,17 +12,17 @@
         
           <channel>
             <title><![CDATA[Матч! Игра (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/529/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (4)]]></title>
             <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/529/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Матч! Игра (4)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/529/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Матч! Игра (5)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a06l?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -32,32 +32,37 @@
         
           <channel>
             <title><![CDATA[Матч! Игра (7)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/529/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (8)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/529/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (9)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/529/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Матч! Игра (10)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/529/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Матч! Игра (8)]]></title>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/529/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Игра (9)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/529/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Игра (10)]]></title>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/529/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Матч! Игра (11)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/1303/video.m3u8?token=M1bxsI3oZw]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Матч! Игра (12)]]></title>
             <stream_url><![CDATA[http://s1.only4.tv/1303/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Матч! Игра (13)]]></title>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/match-igra.m3u8]]></stream_url>
           </channel>
         
 </items>

@@ -2,72 +2,92 @@
 <items>
           <channel>
             <title><![CDATA[Paramount Comedy (1)]]></title>
-            <stream_url><![CDATA[http://178.165.68.39:7781/udp/239.2.1.19:1234]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Paramount Comedy (2)]]></title>
             <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Paramount Comedy (2)]]></title>
+            <stream_url><![CDATA[http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Paramount Comedy (3)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a06e?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://178.165.68.39:7781/udp/239.2.1.19:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (4)]]></title>
-            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://158.46.88.95:4022/udp/239.255.42.16:1234]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (6)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/paramount-comedy.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (7)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/127/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (8)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/157/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/127/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (9)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/157/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/157/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (10)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/157/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (11)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/157/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (12)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/196.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/157/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (13)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/157/index.m3u]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Paramount Comedy (14)]]></title>
-            <stream_url><![CDATA[http://188.113.190.12/127/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/157/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy (15)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/157/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy (16)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/157/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy (17)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/196.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Paramount Comedy (18)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/196.m3u8]]></stream_url>
           </channel>
         
 </items>

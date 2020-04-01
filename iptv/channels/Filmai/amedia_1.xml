@@ -2,17 +2,17 @@
 <items>
           <channel>
             <title><![CDATA[Amedia 1 (1)]]></title>
-            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/554/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 1 (2)]]></title>
             <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Amedia 1 (2)]]></title>
+            <stream_url><![CDATA[http://92.43.140.249/s45/04.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Amedia 1 (3)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/554/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://188.113.190.12/79/video.m3u8]]></stream_url>
           </channel>
         
           <channel>
@@ -22,42 +22,42 @@
         
           <channel>
             <title><![CDATA[Amedia 1 (5)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/554/index.m3u]]></stream_url>
+            <stream_url><![CDATA[http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Amedia 1 (6)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/554/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 1 (7)]]></title>
-            <stream_url><![CDATA[http://92.43.140.249/s45/04.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 1 (8)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Amedia 1 (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/554/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 1 (8)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/554/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Amedia 1 (9)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/554/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Amedia 1 (10)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/554/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Amedia 1 (11)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a03p?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/554/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Amedia 1 (12)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a03o?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/554/index.m3u]]></stream_url>
           </channel>
         
           <channel>
@@ -67,11 +67,6 @@
         
           <channel>
             <title><![CDATA[Amedia 1 (14)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 1 (15)]]></title>
             <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/117.m3u8]]></stream_url>
           </channel>
         

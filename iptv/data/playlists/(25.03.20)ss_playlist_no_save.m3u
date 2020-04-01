@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", ID Fashion HD
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", HD Fashion &amp; Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", World Fashion Channel Россия HD
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" channelId="3982", Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:0 type="stream" channelId="-1", Ultra HD Cinema FulHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1", ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1633", Остросюжетное HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:0 type="stream" channelId="-1", Кинозал KVN-HD
+http://hls.goodgame.ru:8080/hls/172148.m3u8
+#EXTINF:0 type="stream" channelId="2657", Дом Кино Премиум HD
+http://188.35.9.26:12030/udp/160l
+#EXTINF:0 type="stream" channelId="272", Настоящее страшное ТВ
+http://78.157.230.19/streaming/nstv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0 type="stream" channelId="194", Кинокомедия
+http://78.157.230.19/streaming/comedytv/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0 type="stream" channelId="315", Наше Новое Кино
+http://78.157.230.19/streaming/nashe_novoe_kino/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0 type="stream" channelId="168", Индийское кино
+http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
+#EXTINF:0 type="stream" channelId="79", Еврокино
+http://178.217.72.66:80/225.201.2.198/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="68", Дом кино
+http://178.217.72.66:80/225.201.2.161/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="169", Мужское кино
+http://188.113.190.12/316/video.m3u8
+#EXTINF:0 type="stream" channelId="169", Мужское кино HD
+http://188.35.9.11:2022
+#EXTINF:0 type="stream" channelId="17", Звезда
+http://79.135.71.195:8014
+#EXTINF:0 type="stream" channelId="-1", КINO SAT
+http://37.235.158.42:81/udp/225.50.64.49:1234
+#EXTINF:0 type="stream" channelId="1932", Amedia Hit HD
+http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="2802", Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="568", HD КИНО
+https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u8
+#EXTINF:0 type="stream" channelId="15", Кино UHD
+http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:0 type="stream" channelId="-1", Kino 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:0 type="stream" channelId="568", 312 Кино HD
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1634", 312 Сериал HD
+http://176.126.166.43:1935/live/312serial/playlist.m3u8
+#EXTINF:0 type="stream" channelId="69", Sony Sci-Fi
+http://178.165.68.39:7781/udp/239.2.1.68:1234
+#EXTINF:0 type="stream" channelId="-1", StarFamily
+http://178.165.68.39:7781/udp/239.2.1.45:1234
+#EXTINF:0 type="stream" channelId="1699", Paramount Comedy
+http://51.15.215.116:8081/tv/Paramount-Comedy/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", FILM TV HD
+https://hls.goodgame.ru/hls/165462.m3u8?|User-agent=smartlabs
+#EXTINF:0 type="stream" channelId="1789", СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1748", TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Фантастика
+http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Индийские фильмы
+http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:0 type="stream" channelId="666", Кинозал (Гал ТВ)
+http://clients.apsny.camera/tv_gal_tv_hd_online/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dorama
+http://51.15.215.116:8081/tv/dorama/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3926", FAN HD
+https://hls.goodgame.ru/manifest/157239_master.m3u8
+#EXTINF:0 type="stream" channelId="-1", horror cenema
+http://195.9.195.3:8080/hls/158135.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозаказ 1
+https://v2.catcast.me/content/36277/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 1 (Марс-ТВ)
+https://autopilot.catcast.me/content/37033/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 2 (pznstreams) 720
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 3 (pznstreams) 1080
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 4 (ULTO)
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 5 (STR TV)
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 6 (EVGEN VHS)
+http://v2.catcast.me/content/36251/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 7 (Evgen СССР)
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 8 (DIESELBOY)
+https://hls.goodgame.ru/hls/42599.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 9 (Боль)
+https://hls.goodgame.ru/hls/73474.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 10 (EVGEN Serial)
+http://v2.catcast.me/content/36168/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 11 (Film TV)
+http://195.9.195.3:8080/hls/165462.m3u8
+#EXTINF:0 type="stream" channelId="-1", Кинозал 13 (Zzigfreed)
+http://v2.catcast.me/content/37713/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Канал 1(Гриффины)
+https://5656.ga/ch1.m3u8
+#EXTINF:0 type="stream" channelId="467", Канал 2(Два с Половиной Человека)
+https://5656.ga/ch2.m3u8
+#EXTINF:0 type="stream" channelId="3909", Канал 3(Lexx)
+https://5656.ga/ch3.m3u8
+#EXTINF:0 type="stream" channelId="-1", Канал 4(Секретные Материалы)
+https://5656.ga/ch4.m3u8
+#EXTINF:0 type="stream" channelId="-1", Канал 5(Happy New Year)
+https://5656.ga/ch5.m3u8
+#EXTINF:0 type="stream" channelId="-1", Канал 6(Спанчбоб)
+https://5656.ga/ch6.m3u8
+#EXTINF:0 type="stream" channelId="-1", Сити Эдем TV
+http://v2.catcast.me/content/34246/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sever TV
+https://hls.goodgame.ru/hls/146065.m3u8
+#EXTINF:0 type="stream" channelId="-1", NateRou
+http://hls.goodgame.ru/hls/61358.m3u8
+#EXTINF:0 type="stream" channelId="272", НСТ
+http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0 type="stream" channelId="915", Amedia Premium
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0 type="stream" channelId="913", Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:0 type="stream" channelId="914", Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", U!Premium ATV
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Armenia Comedy ATV
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cineman ATV
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Filmzone ATV
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kinoman ATV
+http://ott-cdn.ucom.am/s94/04.m3u8
+#EXTINF:0 type="stream" channelId="-1", Haykino ATV
+http://ott-cdn.ucom.am/s22/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Классика кино HD
+http://serv25.vintera.tv:8081/klasskino/k_kino/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Disney канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="14", 2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="20", Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="19", Disney
+http://stream3.kuvalda.tv/hls/disney.m3u8
+#EXTINF:0 type="stream" channelId="453", Малятко
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:0 type="stream" channelId="-1", Смайлик ТВ HD
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1114", Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0 type="stream" channelId="182", Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:0 type="stream" channelId="2798", Рыжий
+http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0 type="stream" channelId="245", Мама
+http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", СКАЗКИ ЗАЙКИ
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2518", Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:0 type="stream" channelId="1", Первый канал
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="6", НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="16", ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="77", ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="13", ТВ Центр
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="11", РЕН ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="7", Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="26", Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="12", СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="1571", СТС Love
+http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
+#EXTINF:0 type="stream" channelId="806", СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:0 type="stream" channelId="8", ТВ-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="3876", Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="22", Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="435", 2+2
+http://185.189.184.7:8888/2plus2/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="449", ictv
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:0 type="stream" channelId="1515", Бігуді
+http://185.189.184.7:8888/Bigudi/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="431", Ентер Фільм
+http://185.189.184.7:8888/EnterFilm/index.m3u8?token=test
+#EXTINF:0 type="stream" channelId="1484", MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0 type="stream" channelId="-1", Melody Channel TV
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TV HD" group="MM" tvg-country="MM", MM-TV HD
+http://pri.cdn.bg:2113/fls/mmtv.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Kral HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8

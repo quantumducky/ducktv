@@ -1,0 +1,185 @@
+#EXTM3U
+#EXTINF:0,Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s14/04.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+#EXTINF:0,http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Canal Regional
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:0,http://109.233.192.88:8005/play/49/index.m3u8
+#EXTINF:0,http://31.131.80.12:81/zagorodnyi/index.m3u8
+#EXTINF:0,http://178.124.183.3:80/hls/SWPQU2UFKD_HLS/variant.m3u8
+#EXTINF:0,http://a3569456481-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:0,http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:0,http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:0,http://188.43.116.250:8080/zoo_tv/index.m3u8
+#EXTINF:0,http://188.43.116.250:8080/drive/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s71/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s99/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s98/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s68/index.m3u8
+#EXTINF:0,Discovery
+http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0,Discovery Channel
+http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8
+#EXTINF:0,National Geographic
+http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
+#EXTINF:0,Nat Geo Wild
+http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
+#EXTINF:0,Animal Planet
+http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
+#EXTINF:0,http://178.124.183.5/hls/XMC4NSRVN9_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+#EXTINF:0,Viasat Explore
+http://178.124.183.5/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:0,Viasat History
+http://178.124.183.5/hls/CH_VIASATHISTORY/variant.m3u8
+#EXTINF:0,Viasat Nature
+http://178.124.183.5/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:0,http://ott-cdn.ucom.am/s44/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s40/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s90/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s92/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s76/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s31/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s55/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s47/04.m3u8
+#EXTINF:0,http://158.46.241.40:81/udp/239.255.42.143:1234
+#EXTINF:0,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:0,Ultra HD cinema
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
+#EXTINF:0,http://109.233.192.88:8014/play/178/index.m3u8
+#EXTINF:0,http://109.233.192.88:8009/play/105/index.m3u8
+#EXTINF:0,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:0,ViP Comedy
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+#EXTINF:0,ViP Megahit
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+#EXTINF:0,ViP Premiere
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+#EXTINF:0,TV1000
+http://178.124.183.5/hls/6WMZMUEWGN/variant.m3u8?version=2
+#EXTINF:0,TV1000 Action
+http://178.124.183.5/hls/9X9NUEEKGW/variant.m3u8?version=2
+#EXTINF:0,TV1000 http://178.124.183.5/hls/PWIKICZUYF/variant.m3u8?version=2
+#EXTINF:0,FOX
+http://178.124.183.5/hls/CH_FOX/variant.m3u8?version=2
+#EXTINF:0,FOX Life
+http://178.124.183.5/hls/CH_FOXL/variant.m3u8?version=2
+#EXTINF:0,Sony Sci-Fi
+http://178.124.183.5/hls/EDVYQYGHF8/variant.m3u8?version=2
+#EXTINF:0,https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+#EXTINF:0,http://178.124.183.12/hls/CMV4SNACFQ/bw2000000/playlist.m3u8
+#EXTINF:0,http://178.124.183.5/hls/V8TRED4CZL_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/NEZVX5TVZX/variant.m3u8?version=2
+#EXTINF:0,http://217.25.216.4:8085/udp/238.2.0.26:1234
+#EXTINF:0,http://217.25.216.4:8085/udp/238.2.1.25:1234
+#EXTINF:0,http://217.25.216.4:8085/udp/238.2.1.26:1234
+#EXTINF:0,http://178.124.183.3:80/hls/JEDUS3FS7V_HLS/variant.m3u8
+#EXTINF:0,http://178.124.183.3:80/hls/HDOHSSZQCP_HLS/variant.m3u8
+#EXTINF:0,http://178.124.183.3:80/hls/VVG76MWUGX_HLS/variant.m3u8
+#EXTINF:0,http://178.124.183.5/hls/FEDXG8XPOR/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.3:80/hls/CH_NASHEKINO_HLS/variant.m3u8
+#EXTINF:0,http://178.124.183.3:80/hls/UVPWPN2KTN_HLS/variant.m3u8
+#EXTINF:0,http://109.233.192.88:8011/play/154/index.m3u8
+#EXTINF:0,http://178.124.183.5/hls/W7LNWHFGTB/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:0,http://213.234.9.46:7088/udp/239.1.9.24:1234
+#EXTINF:0,http://178.124.183.5/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:0,http://v2.catcast.me/content/37388/index.m3u8
+#EXTINF:0,http://v2.catcast.me/content/37353/index.m3u8
+#EXTINF:0,http://109.233.192.88:8006/play/67/index.m3u8
+#EXTINF:0,http://109.233.192.88:8014/play/181/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s87/index.m3u8
+#EXTINF:0,Amedia Premium
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0,A HBO
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:0,Amedia 1
+http://ott-cdn.ucom.am/s45/index.m3u8
+#EXTINF:0,Amedia 2
+http://ott-cdn.ucom.am/s33/index.m3u8
+#EXTINF:0,U!Premium ATV
+http://ott-cdn.ucom.am/s83/index.m3u8
+#EXTINF:0,#EXTVLCOPT:http-user-agent=smartlabs
+https://cdn-01.bonus-tv.ru/konnyimir/tracks-v3a1/playlist.m3u8
+#EXTINF:0,http://109.233.192.88:8010/play/116/index.m3u8
+#EXTINF:0,Cartoon Network
+http://178.124.183.5/hls/CNVX7JRQJI/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/5MWF7XUWZI/variant.m3u8?version=2
+#EXTINF:0,Boomerang
+http://178.124.183.5/hls/JSQ2S6VQTE/variant.m3u8?version=2
+#EXTINF:0,Gulli Girl
+http://178.124.183.5/hls/7FFGONY2N8/variant.m3u8?version=2
+#EXTINF:0,Tiji
+http://178.124.183.5/hls/Q0HVVEIKSQ/variant.m3u8?version=2
+#EXTINF:0,Disney http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:0,2x2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/bw2000000/variant.m3u8?version=2
+#EXTINF:0,Disney http://185.176.117.243/live/eds/Disney_Channel/HLS_encr/Disney_Channel.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:0,Tiji
+http://ott-cdn.ucom.am/s59/index.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s57/index.m3u8
+#EXTINF:0,Tuntunik
+http://ott-cdn.ucom.am/s46/index.m3u8
+#EXTINF:0,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:0,http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:0,http://ott-cdn.ucom.am/s77/index.m3u8
+#EXTINF:0,http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+#EXTINF:0,http://dmitry-tv.ru/his/itv_zabava/CH_MOSKVADOVERIE.m3u8
+#EXTINF:0,http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:0,http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+#EXTINF:0,http://213.234.9.46:7088/udp/239.1.8.35:1234
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://185.176.117.243/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
+https://live-302.zxz.su/LIVE/LIVE:317843/HLS/1585403141/Dv55zewhwvsxEKcRCWbYVQ/live/317843_2/chunklist.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://178.124.183.5/hls/CH_CTCKIDS/variant.m3u8?version=2
+#EXTINF:0,http://dmitry-tv.ru/his/itv_zabava/CH_STSLOVE.m3u8
+#EXTINF:0,http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8?version=2
+#EXTINF:0,Accent TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:0,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:0,http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
+#EXTINF:0,8 http://80.65.18.213/perviy_molodeginyi_3100kb.m3u8
+#EXTINF:0,http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:0,http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0,https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8
+#EXTINF:0,Armenia Comedy ATV
+http://ott-cdn.ucom.am/s32/index.m3u8
+#EXTINF:0,http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:0,Deutsche Welle
+http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
+#EXTINF:0,Russian MusicBox
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:0,RU TV
+http://178.124.183.5/hls/XW6AGFSZJ8/variant.m3u8?version=2?seg-user-4pda-denms-ru-v1-a1
+#EXTINF:0,Europa Plus TV
+http://178.124.183.5/hls/BHH8EKRXPO/variant.m3u8?version=2

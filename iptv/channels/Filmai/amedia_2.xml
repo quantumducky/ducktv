@@ -7,82 +7,82 @@
         
           <channel>
             <title><![CDATA[Amedia 2 (2)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a03q?auth=blhenko:blhenko]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (3)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/A2HD?auth=blhenko:blhenko]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (4)]]></title>
             <stream_url><![CDATA[http://2e9acc44.kartoshkaka.ru/iptv/W89SBYVY9AYC4E/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (5)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/510/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (6)]]></title>
-            <stream_url><![CDATA[http://212.112.101.69:8081/stream49/output.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (7)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/510/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (8)]]></title>
+            <title><![CDATA[Amedia 2 (3)]]></title>
             <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/510/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (9)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/510/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia 2 (10)]]></title>
+            <title><![CDATA[Amedia 2 (4)]]></title>
             <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (11)]]></title>
-            <stream_url><![CDATA[http://89.106.234.3/A2_36_37.m3u8]]></stream_url>
+            <title><![CDATA[Amedia 2 (5)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/510/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (12)]]></title>
-            <stream_url><![CDATA[http://xtiptv.xyz:25461/live/PYGj0mbvYI/4fceOZuE1c/32623.ts]]></stream_url>
+            <title><![CDATA[Amedia 2 (6)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (13)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/510/index.m3u8]]></stream_url>
+            <title><![CDATA[Amedia 2 (7)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (14)]]></title>
+            <title><![CDATA[Amedia 2 (8)]]></title>
+            <stream_url><![CDATA[http://212.112.101.69:8081/stream49/output.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 2 (9)]]></title>
             <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia 2 (15)]]></title>
+            <title><![CDATA[Amedia 2 (10)]]></title>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/510/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 2 (11)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/510/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 2 (12)]]></title>
+            <stream_url><![CDATA[http://sc.id-tv.kz/amedia_2_38_39.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 2 (13)]]></title>
+            <stream_url><![CDATA[http://sc.id-tv.kz/amedia_2_34_35.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia 2 (14)]]></title>
             <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/510/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Amedia 2 (15)]]></title>
+            <stream_url><![CDATA[https://sc.id-tv.kz/A2_38_39.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Amedia 2 (16)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd]]></stream_url>
+            <stream_url><![CDATA[https://plbl.m9.lfstrm.tv/amedia_2/normal/1/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[Amedia 2 (17)]]></title>
-            <stream_url><![CDATA[https://sc.id-tv.kz/A2_38_39.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://89.106.234.3/A2_36_37.m3u8]]></stream_url>
           </channel>
         
 </items>

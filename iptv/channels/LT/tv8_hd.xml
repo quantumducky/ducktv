@@ -2,22 +2,22 @@
 <items>
           <channel>
             <title><![CDATA[TV8 HD (1)]]></title>
-            <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV8 HD (2)]]></title>
             <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[TV8 HD (2)]]></title>
+            <stream_url><![CDATA[http://live.cdn.tv8.md/TV7/tracks-v1a1/index.m3u8?token=1]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[TV8 HD (3)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2286/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/2286/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[TV8 HD (4)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/2286/index.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/2286/index.m3u8]]></stream_url>
           </channel>
         
 </items>

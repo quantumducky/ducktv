@@ -2,97 +2,127 @@
 <items>
           <channel>
             <title><![CDATA[Amedia Hit (1)]]></title>
-            <stream_url><![CDATA[http://217.25.216.4:8085/udp/238.2.18.120:1234]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (2)]]></title>
             <stream_url><![CDATA[http://78.129.228.178/iptv/BACU6GGT7XNVQC/556/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Amedia Hit (2)]]></title>
+            <stream_url><![CDATA[http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Amedia Hit (3)]]></title>
-            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/556/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (4)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/556/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (5)]]></title>
-            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/556/index.m3u]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (6)]]></title>
-            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/556/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (7)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/556/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (8)]]></title>
-            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/556/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (9)]]></title>
-            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/556/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (10)]]></title>
             <stream_url><![CDATA[http://178.163.58.72:4022/udp/234.0.0.169:2000]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (11)]]></title>
-            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/556/index.m3u8]]></stream_url>
+            <title><![CDATA[Amedia Hit (4)]]></title>
+            <stream_url><![CDATA[http://178.163.18.154:4022/udp/234.0.0.169:2000]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (12)]]></title>
-            <stream_url><![CDATA[http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd]]></stream_url>
+            <title><![CDATA[Amedia Hit (5)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/AUWAUBYRPMAHLZ/556/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (13)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8]]></stream_url>
+            <title><![CDATA[Amedia Hit (6)]]></title>
+            <stream_url><![CDATA[http://f32e1ec7.ulkakak.pw/iptv/W89SBYVY9AYC4E/556/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (14)]]></title>
-            <stream_url><![CDATA[http://ch01.spr24.net/270/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+            <title><![CDATA[Amedia Hit (7)]]></title>
+            <stream_url><![CDATA[http://37bd394a.kazmazpaz.ru/iptv/SPMWEMNEXQD3BN/556/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (15)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/162.m3u8]]></stream_url>
+            <title><![CDATA[Amedia Hit (8)]]></title>
+            <stream_url><![CDATA[http://0abdaa04.iptvzone.me/iptv/QQRMUPWDGXYN87/556/index.m3u]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (16)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/162.m3u8]]></stream_url>
+            <title><![CDATA[Amedia Hit (9)]]></title>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/2103/video.m3u8?token=M1bxsI3oZw]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[Amedia Hit (17)]]></title>
-            <stream_url><![CDATA[http://tv545.com/stream/PzDAvbQ/channel/200.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[Amedia Hit (18)]]></title>
+            <title><![CDATA[Amedia Hit (10)]]></title>
             <stream_url><![CDATA[http://s1.only4.tv/2103/video.m3u8?token=LnMt7V6gIB]]></stream_url>
           </channel>
         
           <channel>
+            <title><![CDATA[Amedia Hit (11)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/2103/video.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (12)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/6HP9EWLRSAH7CZ/556/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (13)]]></title>
+            <stream_url><![CDATA[http://47c26414.rossteleccom.net/iptv/64AUFGKNBVVRGG/556/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (14)]]></title>
+            <stream_url><![CDATA[http://0b93d5ec.ulkakak.pw/iptv/HE8A4X5ZRU228E/556/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (15)]]></title>
+            <stream_url><![CDATA[http://ocgfkphx.tvclub.xyz/iptv/GWG3WUCMBP3LRX/556/index.m3u]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (16)]]></title>
+            <stream_url><![CDATA[http://gerka75.kazaktelekom.com/iptv/ZTSD93MDMDHXDM/556/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (17)]]></title>
+            <stream_url><![CDATA[http://ch01.spr24.net/270/mpegts?token=hiVi8EHiq86NZA]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (18)]]></title>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_AMEDIAHITSD/variant.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
             <title><![CDATA[Amedia Hit (19)]]></title>
-            <stream_url><![CDATA[http://ott.onlineott.tv/tools/m3u/play.php?play=http%3A%2F%2Fcdn.onlineott.tv%2Famediahithd&login=Martyn&key=CBxWefH]]></stream_url>
+            <stream_url><![CDATA[http://sc.id-tv.kz:80/amedia_hit_hd_38_39.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (20)]]></title>
+            <stream_url><![CDATA[http://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (21)]]></title>
+            <stream_url><![CDATA[http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/amedia-hit.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (22)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/162.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (23)]]></title>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/162.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (24)]]></title>
+            <stream_url><![CDATA[https://plbl.m9.lfstrm.tv/amedia_hit_hd/normal/3/index.m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[Amedia Hit (25)]]></title>
+            <stream_url><![CDATA[http://tv545.com/stream/PzDAvbQ/channel/200.m3u8]]></stream_url>
           </channel>
         
 </items>

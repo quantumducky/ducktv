@@ -2,16 +2,11 @@
 <items>
           <channel>
             <title><![CDATA[TV1 (1)]]></title>
-            <stream_url><![CDATA[http://84.32.72.60:8080/tv1/index.m3u8]]></stream_url>
-          </channel>
-        
-          <channel>
-            <title><![CDATA[TV1 (2)]]></title>
             <stream_url><![CDATA[http://212.52.59.86:8776/play/a02d/index.m3u8]]></stream_url>
           </channel>
         
           <channel>
-            <title><![CDATA[TV1 (3)]]></title>
+            <title><![CDATA[TV1 (2)]]></title>
             <stream_url><![CDATA[http://iptvnelt.com/kanalas/78/hls/4WT1bzMG/?type=m3u8]]></stream_url>
           </channel>
         

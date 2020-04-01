@@ -102,7 +102,12 @@ async function generateM3U8Playlist(channels, filePath, limit) {
 async function findChannels(allChannels, channelsToSearch) {
   console.log('\nStarting the channel search');
 
-  const ignoreCategories = ["LT", "Filmai", "Dokumentika"];
+  const ignoreCategories = [
+    // "LT",
+    // "Filmai",
+    // "Dokumentika",
+    // "Sportas"
+  ];
 
   let foundChannels = {}
   for (let category in channelsToSearch) {

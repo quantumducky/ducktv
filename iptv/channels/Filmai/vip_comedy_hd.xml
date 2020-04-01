@@ -2,36 +2,46 @@
 <items>
           <channel>
             <title><![CDATA[VIP Comedy HD (1)]]></title>
-            <stream_url><![CDATA[http://5.101.7.138:8816/play/a011?auth=blhenko:blhenko]]></stream_url>
+            <stream_url><![CDATA[http://50.7.244.58:8080/vip_comedy_hd/mono.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (2)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/201.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://tviptv.iptv-channel.ru:8000/live/To8zrxllcv/9Mlr1GnqPo/22.ts]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (3)]]></title>
-            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/201.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/ANB1ZFMC9N/201.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (4)]]></title>
-            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8]]></stream_url>
+            <stream_url><![CDATA[http://myott.tv/stream/E4NBLH19Y5/201.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (5)]]></title>
-            <stream_url><![CDATA[http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+            <stream_url><![CDATA[http://39dw.only4.tv:82/17102/video.m3u8?token=M1bxsI3oZw]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (6)]]></title>
-            <stream_url><![CDATA[http://s1.only4.tv/17102/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+            <stream_url><![CDATA[http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_TV1000COMEDYHD/variant.m3u8]]></stream_url>
           </channel>
         
           <channel>
             <title><![CDATA[VIP Comedy HD (7)]]></title>
+            <stream_url><![CDATA[http://s1.only4.tv/17102/video.m3u8?token=LnMt7V6gIB]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (8)]]></title>
+            <stream_url><![CDATA[http://iptvnelt.com/kanalas/402/hls/4WT1bzMG/?type=m3u8]]></stream_url>
+          </channel>
+        
+          <channel>
+            <title><![CDATA[VIP Comedy HD (9)]]></title>
             <stream_url><![CDATA[http://tv545.com/stream/3znj4KV/channel/208.m3u8]]></stream_url>
           </channel>
         

@@ -1,0 +1,321 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Россия", Первый канал
+http://server05.selo.su/tk987645378888203/90001/index.m3u8 
+#EXTINF:-1 group-title="Россия", Россия 1
+http://server05.selo.su/tk987645378888203/90002/index.m3u8
+#EXTINF:-1 group-title="Россия", Россия 24
+http://server05.selo.su/tk987645378888203/90003/index.m3u8
+#EXTINF:-1 group-title="Россия", Россия Культура
+http://server05.selo.su/tk987645378888203/90004/index.m3u8
+#EXTINF:-1 group-title="Россия", СТС
+http://server05.selo.su/tk987645378888203/90006/index.m3u8
+#EXTINF:-1 group-title="Россия", 5 канал
+http://server05.selo.su/tk987645378888203/90027/index.m3u8
+#EXTINF:-1 group-title="Россия", РЕН ТВ
+http://server05.selo.su/tk987645378888203/90031/index.m3u8
+#EXTINF:-1 group-title="Россия", ТВ3
+http://server05.selo.su/tk987645378888203/90049/index.m3u8
+#EXTINF:-1 group-title="Россия", УНИКУМ
+http://server05.selo.su/tk987645378888203/90300/index.m3u8
+#EXTINF:-1 group-title="Россия", Домашний
+http://server05.selo.su/tk987645378888203/90301/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ZOOPARK
+http://server05.selo.su/tk987645378888203/90302/index.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ
+http://server05.selo.su/tk987645378888203/90303/index.m3u8
+#EXTINF:-1 group-title="Кино", Русская Комедия
+http://server05.selo.su/tk987645378888203/90305/index.m3u8
+#EXTINF:-1 group-title="Россия", Че
+http://server05.selo.su/tk987645378888203/90306/index.m3u8
+#EXTINF:-1 group-title="Россия", СТС Love
+http://server05.selo.su/tk987645378888203/90307/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Science
+http://server05.selo.su/tk987645378888203/90308/index.m3u8
+#EXTINF:-1 group-title="Россия", СТС HD
+http://server05.selo.su/tk987645378888203/90571/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ДИКАЯ РЫБАЛКА HD
+http://server05.selo.su/tk987645378888203/90572/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч ТВ
+http://server05.selo.su/tk987645378888203/90171/index.m3u8
+#EXTINF:-1 group-title="Россия", Мир
+http://server05.selo.su/tk987645378888203/90172/index.m3u8
+#EXTINF:-1 group-title="Россия", Пятница
+http://server05.selo.su/tk987645378888203/90173/index.m3u8
+#EXTINF:-1 group-title="Познавательные", History
+http://server05.selo.su/tk987645378888203/90121/index.m3u8
+#EXTINF:-1 group-title="Россия", ТНТ
+http://server05.selo.su/tk987645378888203/90007/index.m3u8
+#EXTINF:-1 group-title="Россия", ТВЦ
+http://server05.selo.su/tk987645378888203/90009/index.m3u8
+#EXTINF:-1 group-title="Кино", Киноужас
+http://server05.selo.su/tk987645378888203/70001/index.m3u8
+#EXTINF:-1 group-title="Россия", НТВ право
+http://server05.selo.su/tk987645378888203/90014/index.m3u8
+#EXTINF:-1 group-title="Россия", НТВ стиль
+http://server05.selo.su/tk987645378888203/90015/index.m3u8
+#EXTINF:-1 group-title="Россия", НТВ хит
+http://server05.selo.su/tk987645378888203/90019/index.m3u8
+#EXTINF:-1 group-title="Россия", Звезда
+http://server05.selo.su/tk987645378888203/90026/index.m3u8
+#EXTINF:-1 group-title="Россия", САНПЕТЕРБУРГ
+http://server05.selo.su/tk987645378888203/90051/index.m3u8
+#EXTINF:-1 group-title="Россия", РБК
+http://server05.selo.su/tk987645378888203/90052/index.m3u8 
+#EXTINF:-1 group-title="Музыка", МУЗ ТВ
+http://server05.selo.su/tk987645378888203/90053/index.m3u8
+#EXTINF:-1 group-title="Познавательные", УСАДЬБА
+http://server05.selo.su/tk987645378888203/90055/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто 24
+http://server05.selo.su/tk987645378888203/90057/index.m3u8
+#EXTINF:-1 group-title="Россия", IZ
+http://server05.selo.su/tk987645378888203/90058/index.m3u8
+#EXTINF:-1 group-title="Россия", Мир 24
+http://server05.selo.su/tk987645378888203/90059/index.m3u8
+#EXTINF:-1 group-title="Россия", ДОКТОР
+http://server05.selo.su/tk987645378888203/90061/index.m3u8
+#EXTINF:-1 group-title="Детские", Disney Channel
+http://server05.selo.su/tk987645378888203/90062/index.m3u8
+#EXTINF:-1 group-title="Музыка", МУЗ
+http://server05.selo.su/tk987645378888203/90063/index.m3u8
+#EXTINF:-1 group-title="Россия", Ю
+http://server05.selo.su/tk987645378888203/90067/index.m3u8
+#EXTINF:-1 group-title="Спорт", М1
+http://server05.selo.su/tk987645378888203/90068/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ДОМАШНИЕ ЖЫВОТНЫЕ
+http://server05.selo.su/tk987645378888203/90070/index.m3u8
+#EXTINF:-1 group-title="Музыка", 1В
+http://server05.selo.su/tk987645378888203/90071/index.m3u8
+#EXTINF:-1 group-title="Россия", ТОЧКА ОТРЫВА
+http://server05.selo.su/tk987645378888203/90073/index.m3u8
+#EXTINF:-1 group-title="Россия", УСАДБА
+http://server05.selo.su/tk987645378888203/90075/index.m3u8
+#EXTINF:-1 group-title="Спорт", Extreme Sports
+http://server05.selo.su/tk987645378888203/90079/index.m3u8
+#EXTINF:-1 group-title="Кино", FOX
+http://server05.selo.su/tk987645378888203/90081/index.m3u8
+#EXTINF:-1 group-title="Познавательные", MEZZO
+http://server05.selo.su/tk987645378888203/90082/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+http://server05.selo.su/tk987645378888203/90085/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Ocean-TV
+http://server05.selo.su/tk987645378888203/90086/index.m3u8
+#EXTINF:-1 group-title="Кино", Paramount Channel
+http://server05.selo.su/tk987645378888203/90091/index.m3u8
+#EXTINF:-1 group-title="Кино", TV1000 Русское Кино HD
+http://server05.selo.su/tk987645378888203/90093/index.m3u8
+#EXTINF:-1 group-title="Кино", TV1000
+http://server05.selo.su/tk987645378888203/90094/index.m3u8 
+#EXTINF:-1 group-title="Познавательные", Viasat History
+http://server05.selo.su/tk987645378888203/90096/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Viasat Nature
+http://server05.selo.su/tk987645378888203/90097/index.m3u8
+#EXTINF:-1 group-title="Россия", Москва 24
+http://server05.selo.su/tk987645378888203/90104/index.m3u8
+#EXTINF:-1 group-title="Россия", Наше тв
+http://server05.selo.su/tk987645378888203/90105/index.m3u8
+#EXTINF:-1 group-title="Россия", Сов сек
+http://server05.selo.su/tk987645378888203/90106/index.m3u8
+#EXTINF:-1 group-title="Музыка", BRIDGE TV Русский
+http://server05.selo.su/tk987645378888203/90112/index.m3u8
+#EXTINF:-1 group-title="Музыка", BRIDGE TV Русский Хит
+http://server05.selo.su/tk987645378888203/90113/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90115/index.m3u8
+#EXTINF:-1 group-title="Кино", MCM
+http://server05.selo.su/tk987645378888203/90122/index.m3u8
+#EXTINF:-1 group-title="Россия", OUTDOOR
+http://server05.selo.su/tk987645378888203/90123/index.m3u8
+#EXTINF:-1 group-title="Музыка", RU TV
+http://server05.selo.su/tk987645378888203/90125/index.m3u8
+#EXTINF:-1 group-title="Россия", ТНТ4
+http://server05.selo.su/tk987645378888203/90126/index.m3u8
+#EXTINF:-1 group-title="Детские", TiJi
+http://server05.selo.su/tk987645378888203/90127/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel Channel
+http://server05.selo.su/tk987645378888203/90128/index.m3u8
+#EXTINF:-1 group-title="Детские", Детский мир
+http://server05.selo.su/tk987645378888203/90131/index.m3u8
+#EXTINF:-1 group-title="Кино", Еврокино
+http://server05.selo.su/tk987645378888203/90132/index.m3u8
+#EXTINF:-1 group-title="Россия", ЖКХ
+http://server05.selo.su/tk987645378888203/90133/index.m3u8
+#EXTINF:-1 group-title="Кино", Иллюзион +
+http://server05.selo.su/tk987645378888203/90134/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ИСТОРИЯ
+http://server05.selo.su/tk987645378888203/90135/index.m3u8
+#EXTINF:-1 group-title="Кино", Любимое Кино
+http://server05.selo.su/tk987645378888203/90138/index.m3u8
+#EXTINF:-1 group-title="Кино", МИР СЕРИАЛОВ
+http://server05.selo.su/tk987645378888203/90140/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя планета
+http://server05.selo.su/tk987645378888203/90141/index.m3u8
+#EXTINF:-1 group-title="Россия", H
+http://server05.selo.su/tk987645378888203/90142/index.m3u8
+#EXTINF:-1 group-title="Россия", ПРОДВИЖЕНИЕ
+http://server05.selo.su/tk987645378888203/90144/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90146/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский Иллюзион
+http://server05.selo.su/tk987645378888203/90147/index.m3u8
+#EXTINF:-1 group-title="Музыка", Шансон ТВ
+http://server05.selo.su/tk987645378888203/90149/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто 24
+http://server05.selo.su/tk987645378888203/90151/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport
+http://server05.selo.su/tk987645378888203/90155/index.m3u8
+#EXTINF:-1 group-title="Детские", JimJam
+http://server05.selo.su/tk987645378888203/90158/index.m3u8
+#EXTINF:-1 group-title="Детские", Nickelodeon
+http://server05.selo.su/tk987645378888203/90160/index.m3u8
+#EXTINF:-1 group-title="Кино", SONY Sci-Fi
+http://server05.selo.su/tk987645378888203/90161/index.m3u8
+#EXTINF:-1 group-title="Кино", Sony Turbo
+http://server05.selo.su/tk987645378888203/90162/index.m3u8
+#EXTINF:-1 group-title="Кино", Spike
+http://server05.selo.su/tk987645378888203/90163/index.m3u8
+#EXTINF:-1 group-title="Кино", TV XXI
+http://server05.selo.su/tk987645378888203/90165/index.m3u8
+#EXTINF:-1 group-title="Россия", Zee TV
+http://server05.selo.su/tk987645378888203/90168/index.m3u8
+#EXTINF:-1 group-title="Россия", Бобер
+http://server05.selo.su/tk987645378888203/90180/index.m3u8
+#EXTINF:-1 group-title="Россия", 1 ВРЕМЯ
+http://server05.selo.su/tk987645378888203/90182/index.m3u8
+#EXTINF:-1 group-title="Россия", Дом Кино
+http://server05.selo.su/tk987645378888203/90183/index.m3u8
+#EXTINF:-1 group-title="Детские", КАРУСЕЛЬ
+http://server05.selo.su/tk987645378888203/90184/index.m3u8
+#EXTINF:-1 group-title="Музыка", МУЗЫКА ПЕРВОГО
+http://server05.selo.su/tk987645378888203/90201/index.m3u8
+#EXTINF:-1 group-title="Россия", НСТ
+http://server05.selo.su/tk987645378888203/90202/index.m3u8
+#EXTINF:-1 group-title="Россия", ПОЕХАЛИ
+http://server05.selo.su/tk987645378888203/90203/index.m3u8
+#EXTINF:-1 group-title="Россия", Телекафе
+http://server05.selo.su/tk987645378888203/90205/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia 1
+http://server05.selo.su/tk987645378888203/90208/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia 2
+http://server05.selo.su/tk987645378888203/90209/index.m3u8
+#EXTINF:-1 group-title="Кино", AMEDIA HIT
+http://server05.selo.su/tk987645378888203/90211/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia
+http://server05.selo.su/tk987645378888203/90212/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal planet
+http://server05.selo.su/tk987645378888203/90213/index.m3u8
+#EXTINF:-1 group-title="Кино", БОЛТ
+http://server05.selo.su/tk987645378888203/90215/index.m3u8
+#EXTINF:-1 group-title="Детские", Boomerang
+http://server05.selo.su/tk987645378888203/90216/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Cartoon Network
+http://server05.selo.su/tk987645378888203/90218/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Channel
+http://server05.selo.su/tk987645378888203/90219/index.m3u8
+#EXTINF:-1 group-title="Кино", Fox Life
+http://server05.selo.su/tk987645378888203/90221/index.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood
+http://server05.selo.su/tk987645378888203/90222/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ID Xtra
+http://server05.selo.su/tk987645378888203/90225/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Russia
+http://server05.selo.su/tk987645378888203/90226/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Dance
+http://server05.selo.su/tk987645378888203/90230/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Hits
+http://server05.selo.su/tk987645378888203/90231/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV Rocks
+http://server05.selo.su/tk987645378888203/90232/index.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic
+http://server05.selo.su/tk987645378888203/90235/index.m3u8
+#EXTINF:-1 group-title="Детские", Nick Jr
+http://server05.selo.su/tk987645378888203/90236/index.m3u8
+#EXTINF:-1 group-title="Россия", О!
+http://server05.selo.su/tk987645378888203/90237/index.m3u8
+#EXTINF:-1 group-title="Кино", STAR C
+http://server05.selo.su/tk987645378888203/90240/index.m3u8
+#EXTINF:-1 group-title="Познавательные", TLC
+http://server05.selo.su/tk987645378888203/90242/index.m3u8
+#EXTINF:-1 group-title="Музыка", 1 CLASSIK
+http://server05.selo.su/tk987645378888203/90243/index.m3u8
+#EXTINF:-1 group-title="Музыка", VH 1
+http://server05.selo.su/tk987645378888203/90245/index.m3u8
+#EXTINF:-1 group-title="Россия", 365
+http://server05.selo.su/tk987645378888203/90250/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Авто Плюс
+http://server05.selo.su/tk987645378888203/90251/index.m3u8
+#EXTINF:-1 group-title="Кино", ДИКИЙ
+http://server05.selo.su/tk987645378888203/90253/index.m3u8
+#EXTINF:-1 group-title="Музыка", ЕВРОПА ПЛЮС
+http://server05.selo.su/tk987645378888203/90254/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жара
+http://server05.selo.su/tk987645378888203/90256/index.m3u8
+#EXTINF:-1 group-title="Кино", Индийское Кино
+http://server05.selo.su/tk987645378888203/90257/index.m3u8
+#EXTINF:-1 group-title="Украина", КВН
+http://server05.selo.su/tk987645378888203/90259/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия
+http://server05.selo.su/tk987645378888203/90260/index.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс
+http://server05.selo.su/tk987645378888203/90261/index.m3u8
+#EXTINF:-1 group-title="Кино", КИНОСВИДАНИЕ
+http://server05.selo.su/tk987645378888203/90262/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносемья
+http://server05.selo.su/tk987645378888203/90263/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинoсерия
+http://server05.selo.su/tk987645378888203/90266/index.m3u8
+#EXTINF:-1 group-title="Кино", Кинохит
+http://server05.selo.su/tk987645378888203/90267/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90268/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90270/index.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино
+http://server05.selo.su/tk987645378888203/90271/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше новое кино
+http://server05.selo.su/tk987645378888203/90272/index.m3u8
+#EXTINF:-1 group-title="Россия", НОСТАЛЬГИЯ
+http://server05.selo.su/tk987645378888203/90274/index.m3u8
+#EXTINF:-1 group-title="Кино", Родное кино
+http://server05.selo.su/tk987645378888203/90276/index.m3u8
+#EXTINF:-1 group-title="Спорт", БОКС ТВ
+http://server05.selo.su/tk987645378888203/90310/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90312/index.m3u8
+#EXTINF:-1 group-title="Познавательные", ДИКАЯ РЫБАЛКА
+http://server05.selo.su/tk987645378888203/90313/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Кухня ТВ
+http://server05.selo.su/tk987645378888203/90314/index.m3u8
+#EXTINF:-1 group-title="Россия", Звезда
+http://server05.selo.su/tk987645378888203/90315/index.m3u8
+#EXTINF:-1 group-title="Россия", N/A
+http://server05.selo.su/tk987645378888203/90317/index.m3u8
+#EXTINF:-1 group-title="Детские", МУЛЬТ
+http://server05.selo.su/tk987645378888203/90321/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Морской
+http://server05.selo.su/tk987645378888203/90324/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский Бестселлер
+http://server05.selo.su/tk987645378888203/90341/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский Роман
+http://server05.selo.su/tk987645378888203/90342/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://server05.selo.su/tk987645378888203/90401/index.m3u8
+#EXTINF:-1 group-title="Спорт", БОЕЦ
+http://server05.selo.su/tk987645378888203/90404/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Игра
+http://server05.selo.su/tk987645378888203/90405/index.m3u8
+#EXTINF:-1 group-title="Спорт", МАТЧ СТРАНА
+http://server05.selo.su/tk987645378888203/90406/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч Премьер
+http://server05.selo.su/tk987645378888203/90408/index.m3u8
+#EXTINF:-1 group-title="Спорт", МАТЧ! Футбол 1
+http://server05.selo.su/tk987645378888203/90411/index.m3u8
+#EXTINF:-1 group-title="Спорт", МАТЧ! Футбол 2
+http://server05.selo.su/tk987645378888203/90412/index.m3u8
+#EXTINF:-1 group-title="Спорт", МАТЧ! Футбол 3
+http://server05.selo.su/tk987645378888203/90417/index.m3u8
+#EXTINF:-1 group-title="Спорт", Мир Баскетбола
+http://server05.selo.su/tk987645378888203/90421/index.m3u8
+#EXTINF:-1 group-title="Спорт", КХЛ ТВ
+http://server05.selo.su/tk987645378888203/90422/index.m3u8
+#EXTINF:-1 group-title="Россия", НТВ
+http://server05.selo.su/tk987645378888203/900013/index.m3u8

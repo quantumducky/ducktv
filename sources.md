@@ -37,19 +37,17 @@ http://onser.info
 
 Movie sources working lengths:
 filmix.co:
-http://nl3.cdnlast.com/s/8a922923d0e7b87c17b94cbd53370384/hd_30/The.lavender.scare.2017.P.HDTV.72Op_720.mp4
+https://nl3.cdnlast.com/s/f29b988d7c466bcdfbb273c07fc95f4b/uhd_mc/Knives.Out.2019.BDRip.2160p_720.mp4
 
-http://nl3.cdnlast.com/s/8a922923d0e7b87c17b94cbd53370384/hd_30/Joker.2019.D.LINE.OnlineKinoteatr.BDRip.1080p_720.mp4
-http://nl3.cdnlast.com/s/f14c1777db7987f86be2d359bce65ff8/hd_30/Joker.2019.D.LINE.OnlineKinoteatr.BDRip.1080p_480.mp4
 
-http://am1.cdnlast.com/s/8a922923d0e7b87c17b94cbd53370384/uhd/El.Camino.A.Breaking.Bad.Movie.2019.WEB-DL.2160p.x264.8bit.SDR_480.mp4
+https://github.com/valverde-marcelo/kodi2webos
+https://github.com/raphamorim/react-tv
 
 sanity.io
 
-,
-    {
-      "id": "",
-      "name": "",
-      "logo": ".png",
-      "terms": [""]
-    }
+
+
+https://srv1.filmux.me/video/3f40c91cb885899c49461e396d8a19ad/film/Knives.Out.2019.BDRip.mp4
+
+https://srv1.filmux.me/video/1a40b6bc7809a4a043c14bcaa0d12be6/serial/House.M.D./8/house.m.d.s08e21.mp4
+https://srv1.ziuri.net/serial/hausas/8/E21_lt.mp4
