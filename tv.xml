@@ -42,18 +42,8 @@
 </channel>
 
 <channel>
-  <title><![CDATA[Test]]></title>
-  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv#.XML]]></playlist_url>
-</channel>
-
-<channel>
-  <title><![CDATA[Test2]]></title>
-  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv]]></playlist_url>
-</channel>
-
-<channel>
-  <title><![CDATA[Test3]]></title>
-  <playlist_url><![CDATA[http://quantumducky.pythonanywhere.com/tv#.xml]]></playlist_url>
+  <title><![CDATA[OTTV]]></title>
+  <playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ott#.XML]]></playlist_url>
 </channel>
 
 <!-- <channel>
