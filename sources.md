@@ -16,18 +16,12 @@ http://ottv.tk/public/plst/plstfb/playlist.php
 http://1korol.at.ua/
 http://tvpremiumhd.club/
 
+http://hdtv.pp.ua/?code=40
+https://pastebin.ulvis.net/rSwTQWP9
 
-TV1
-http://e01.plius.tv:64144/n134/index.m3u8
-
-BTV
-http://e01.plius.tv:64144/n133/index.m3u8
-
-Info TV
-http://e01.plius.tv:64144/n135/index.m3u8
-
-TV Polonia
-http://e02.plius.tv:64144/n38/index.m3u8
+Apps:
+https://homeiptv.com/
+https://www.duplexiptv.com/index.html
 
 
 API:
@@ -41,19 +35,7 @@ http://ottv.tk/public/plst/plstfb/playlist.php?ott
 ottv.tk#.XML
 
 
-Dr Q:
-https://serialage.tv
-http://onser.info
 
-
-
-Movie sources working lengths:
-filmix.co:
-https://nl3.cdnlast.com/s/f29b988d7c466bcdfbb273c07fc95f4b/uhd_mc/Knives.Out.2019.BDRip.2160p_720.mp4
-
-
-https://github.com/valverde-marcelo/kodi2webos
-https://github.com/raphamorim/react-tv
-
-sanity.io
+linguistics LT
+https://benjamins.com/catalog/cilt.254
 

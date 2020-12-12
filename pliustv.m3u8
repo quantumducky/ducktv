@@ -49,3 +49,5 @@ http://e01.plius.tv:64144/n59/index.m3u8
 http://e01.plius.tv:64144/n40/index.m3u8
 #EXTINF:-1,TV3 Sport (test)
 http://e01.plius.tv:64144/n131/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TS test
+http://e01.plius.tv:64144/n128/tracks-v1a1/2020/12/12/17/08/30-08160.ts
