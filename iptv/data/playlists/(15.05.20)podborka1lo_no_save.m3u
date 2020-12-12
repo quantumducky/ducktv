@@ -1,0 +1,92 @@
+#EXTM3U
+#EXTINF:-1,Первый Канал HD
+#EXTGRP:Новости
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_2.m3u8
+#EXTINF:-1,Россия 24 HD
+#EXTGRP:Новости
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1,НТВ HD
+#EXTGRP:Развлекательные
+https://bl.zxz.su/live/317843/HLS/4614144_3,2883584_1,1153024_2/1565365354/7f8af41900de19bdc17d60ec3cc113ca/playlist.m3u8
+#EXTINF:-1,РЕН ТВ HD
+#EXTGRP:Развлекательные
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1,CTC HD
+#EXTGRP:Развлекательные
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565141337/3e73f36499c45a98dd5663038a8701fa/playlist.m3u8
+#EXTINF:-1,ТВ3 HD
+#EXTGRP:Развлекательные
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Мир HD
+#EXTGRP:Развлекательные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,8 канал HD
+#EXTGRP:Развлекательные
+http://dmitry-tv.my1.ru/his/yatv/CH_8CHANNEL_KRSK.m3u8
+#EXTINF:-1,Русский Роман HD
+#EXTGRP:Кино
+http://iptvstreamfinder.akadatel.com/iptv/RNBHSNR7XURQPP/2076/index.m3u8
+#EXTINF:-1,ННТВ HD
+#EXTGRP:Кино
+http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1,HD КИНО
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/12949_720.m3u8
+#EXTINF:-1,Ultra HD Cinema FulHD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,VIP Comedy HD
+#EXTGRP:Кино
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1,Russian Extreme HD
+#EXTGRP:Кино
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,Дом кино Premium HD
+#EXTGRP:Кино
+http://iptvstreamfinder.akadatel.com/iptv/RNBHSNR7XURQPP/2133/index.m3u8
+#EXTINF:-1,Наше любимое кино HD
+#EXTGRP:Кино
+http://serv25.vintera.tv:8081/hdmedia/kinomenu/playlist.m3u8
+#EXTINF:-1,Киномикс HD
+#EXTGRP:Кино
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1,Кинопремьера HD
+#EXTGRP:Кино
+http://178.217.72.66:80/225.201.2.46/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Киносвидание HD
+#EXTGRP:Кино
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Киносемья HD
+#EXTGRP:Кино
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Кинохит HD
+#EXTGRP:Кино
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1,Мужское кино HD
+#EXTGRP:Кино
+https://plbl.m9.lfstrm.tv/amedia_premium_hd/normal/3/index.m3u8?origin=m9-dvr2
+#EXTINF:-1,Amedia Hit HD
+#EXTGRP:Музыкальные
+http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,1 HD
+#EXTGRP:Музыкальные
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1,RUSSIAN MUSICBOX HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2300
+#EXTINF:0,Страна FM HD
+#EXTGRP:Музыкальные
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1,Радио Шансон ТВ HD
+#EXTGRP:Музыкальные
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1,Maтч! HD
+#EXTGRP:Спортивные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1,КХЛ HD
+#EXTGRP:Спортивные
+http://iptvstreamfinder.akadatel.com/iptv/RNBHSNR7XURQPP/215/index.m3u8
+#EXTINF:-1, Моя планета HD
+#EXTGRP:Познавательные
+https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8
+#EXTINF:-1,Дикая рыбалка HD

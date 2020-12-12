@@ -17,6 +17,18 @@ http://1korol.at.ua/
 http://tvpremiumhd.club/
 
 
+TV1
+http://e01.plius.tv:64144/n134/index.m3u8
+
+BTV
+http://e01.plius.tv:64144/n133/index.m3u8
+
+Info TV
+http://e01.plius.tv:64144/n135/index.m3u8
+
+TV Polonia
+http://e02.plius.tv:64144/n38/index.m3u8
+
 
 API:
 https://github.com/ramusus/kinopoiskpy
@@ -45,9 +57,3 @@ https://github.com/raphamorim/react-tv
 
 sanity.io
 
-
-
-https://srv1.filmux.me/video/3f40c91cb885899c49461e396d8a19ad/film/Knives.Out.2019.BDRip.mp4
-
-https://srv1.filmux.me/video/1a40b6bc7809a4a043c14bcaa0d12be6/serial/House.M.D./8/house.m.d.s08e21.mp4
-https://srv1.ziuri.net/serial/hausas/8/E21_lt.mp4

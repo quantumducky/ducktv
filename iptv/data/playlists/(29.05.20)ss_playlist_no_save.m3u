@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", 1+1 HD
+http://176.98.26.37:8000/live/tivi/best/83.m3u8
+#EXTINF:0 type="stream" channelId="424", 1+1
+http://188.35.9.11:11011/a
+#EXTINF:0 type="stream" channelId="421", IНТЕР
+http://176.98.26.37:8000/live/tivi/best/80.m3u8
+#EXTINF:0 type="stream" channelId="421", Интер
+http://109.68.41.148:1935/live/inter_2/playlist.m3u8
+#EXTINF:0 type="stream" channelId="426", НТН
+http://176.98.26.37:8000/live/tivi/best/70.m3u8
+#EXTINF:0 type="stream" channelId="426", НТН
+http://109.68.41.148:1935/live/ntn_3/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ICTV HD
+http://176.98.26.37:8000/live/tivi/best/26.m3u8
+#EXTINF:0 type="stream" channelId="449", ictv
+http://188.35.9.26:2051/udp/238.0.2.1:69000
+#EXTINF:0 type="stream" channelId="-1", STB HD
+http://176.98.26.37:8000/live/tivi/best/86.m3u8
+#EXTINF:0 type="stream" channelId="-1", Новый Канал HD
+http://176.98.26.37:8000/live/tivi/best/25.m3u8
+#EXTINF:0 type="stream" channelId="125", Первый Канал HD
+http://185.22.183.157:8085/media/hls_183_157/1tv_hd/index.m3u8
+#EXTINF:0 type="stream" channelId="203", Россия 1 HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0 type="stream" channelId="13", ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="498", НТВ HD
+http://185.22.183.158:8085/media/hls_183_158/ntv_hd/index.m3u8
+#EXTINF:0 type="stream" channelId="17", Звезда
+http://79.135.71.195:8014
+#EXTINF:0 type="stream" channelId="16", ТНТ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="77", ТНТ4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="12", СТС
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="120", РЕН ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:0 type="stream" channelId="3876", Супер
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="26", Пятница!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="22", Че
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
+#EXTINF:0 type="stream" channelId="2909", Перец international
+http://178.124.182.25:7004/play/a00c
+#EXTINF:0 type="stream" channelId="1727", Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-country="ua", ОДЕСА
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr/odtrkod/odtrkod-sub/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ultra HD Cinema 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ultra REX 4K UHD
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ultra HD Cinema FulHD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
+#EXTINF:0 type="stream" channelId="-1", Фильмы СССР
+https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
+#EXTINF:0 type="stream" channelId="606", VIP Megahit HD
+http://188.35.9.11:2016
+#EXTINF:0 type="stream" channelId="607", ViP Comedy HD
+http://176.98.26.37:8000/live/tivi/best/24.m3u8
+#EXTINF:0 type="stream" channelId="606", ViP Megahit HD
+http://176.98.26.37:8000/live/tivi/best/22.m3u8
+#EXTINF:0 type="stream" channelId="605", ViP Premiere HD
+http://176.98.26.37:8000/live/tivi/best/23.m3u8
+#EXTINF:0 type="stream" channelId="214", TV1000 Action HD
+http://176.98.26.37:8000/live/tivi/best/64.m3u8
+#EXTINF:0 type="stream" channelId="66", TV1000 HD
+http://195.191.208.78:8080/tv1000hd/index.m3u8
+#EXTINF:0 type="stream" channelId="1633", Остросюжетное HD
+http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+#EXTINF:0 type="stream" channelId="1633", Остросюжетное HD
+http://188.35.9.11:2015
+#EXTINF:0 type="stream" channelId="1637", КиноПремиум HD
+http://188.35.9.11:2017
+#EXTINF:0 type="stream" channelId="1939", Paramount Comedy HD
+http://95.47.243.141:80/paramountcomedyhd/mono.m3u8
+#EXTINF:0 type="stream" channelId="3920", Hollywood HD
+http://185.22.183.154:8085/media/hls_183_154/hollywood_hd/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ентер Фiльм
+http://176.98.26.37:8000/live/tivi/best/60.m3u8
+#EXTINF:0 type="stream" channelId="194", Кинокомедия HD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="409", Кинохит HD
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="410", Кинопремьера HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:0 type="stream" channelId="169", Мужское кино HD
+http://188.35.9.11:2022

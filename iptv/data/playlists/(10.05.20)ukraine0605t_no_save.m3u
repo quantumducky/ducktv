@@ -1,0 +1,89 @@
+﻿#EXTM3U
+#EXTINF:-1,5 kanal
+http://54.36.109.228/11000/mono.m3u8
+#EXTINF:-1,inter
+http://54.36.109.228/11100/mono.m3u8
+#EXTINF:-1,inter+
+http://54.36.109.228/11300/mono.m3u8
+#EXTINF:-1,hromadske HD
+http://54.36.109.228/11800/mono.m3u8
+#EXTINF:-1,espreso HD
+http://54.36.109.228/11900/mono.m3u8
+#EXTINF:-1,pravda tut HD
+http://54.36.109.228/12200/mono.m3u8
+#EXTINF:-1,mega
+http://54.36.109.228/12300/mono.m3u8
+#EXTINF:-1,maliatko
+http://54.36.109.228/12500/mono.m3u8
+#EXTINF:-1,24 HD
+http://54.36.109.228/12600/mono.m3u8
+#EXTINF:-1,M1 HD
+http://54.36.109.228/12900/mono.m3u8
+#EXTINF:-1,piksel
+http://54.36.109.228/13100/mono.m3u8
+#EXTINF:-1,pershiy zahidniy
+http://54.36.109.228/13200/mono.m3u8
+#EXTINF:-1,X SPORT HD
+http://54.36.109.228/13300/mono.m3u8
+#EXTINF:-1,Fashion
+http://54.36.109.228/13900/mono.m3u8
+#EXTINF:-1,music box
+http://54.36.109.228/14000/mono.m3u8
+#EXTINF:-1,K1
+http://54.36.109.228/14200/mono.m3u8
+#EXTINF:-1,FIRST business
+http://54.36.109.228/14400/mono.m3u8
+#EXTINF:-1,k2
+http://54.36.109.228/14500/mono.m3u8
+#EXTINF:-1,OTV
+http://54.36.109.228/14600/mono.m3u8
+#EXTINF:-1,OTSE HD
+http://54.36.109.228/14700/mono.m3u8
+#EXTINF:-1,SKRYPIN HD
+http://54.36.109.228/14800/mono.m3u8
+#EXTINF:-1,UKRAINE1 HD
+http://54.36.109.228/17100/mono.m3u8
+#EXTINF:-1,UKRAINE2 HD
+http://54.36.109.228/17200/mono.m3u8
+#EXTINF:-1,NLO1 HD
+http://54.36.109.228/17300/mono.m3u8
+#EXTINF:-1,NLO2 HD
+http://54.36.109.228/17400/mono.m3u8
+#EXTINF:-1,nast vremia
+http://54.36.109.228/17500/mono.m3u8
+#EXTINF:-1,M2 HD
+http://54.36.109.228/17600/mono.m3u8
+#EXTINF:-1,ESPRESO HD
+http://54.36.109.228/17700/mono.m3u8
+#EXTINF:-1,PRIAMIY HD
+http://54.36.109.228/17800/mono.m3u8
+#EXTINF:-1,MostVideo HD
+http://54.36.109.228/17900/mono.m3u8
+#EXTINF:-1,N/A
+http://54.36.109.228/18000/mono.m3u8
+#EXTINF:-1,nadia
+http://54.36.109.228/18100/mono.m3u8
+#EXTINF:-1,kvartal
+http://54.36.109.228/18200/mono.m3u8
+#EXTINF:-1,ATR HD
+http://54.36.109.228/18300/mono.m3u8
+#EXTINF:-1,N/A HD
+http://54.36.109.228/18600/mono.m3u8
+#EXTINF:-1,N/A
+http://54.36.109.228/18700/mono.m3u8
+#EXTINF:-1,LALE HD
+http://54.36.109.228/18800/mono.m3u8
+#EXTINF:-1,ZOOM
+http://54.36.109.228/18900/mono.m3u8
+#EXTINF:-1,N/A
+http://54.36.109.228/19100/mono.m3u8
+#EXTINF:-1,NTN
+http://54.36.109.228/19200/mono.m3u8
+#EXTINF:-1,ECOTV
+http://54.36.109.228/19300/mono.m3u8
+#EXTINF:-1,TELEVSESVIT HD
+http://54.36.109.228/19500/mono.m3u8
+#EXTINF:-1,4EVER
+http://54.36.109.228/21000/mono.m3u8
+#EXTINF:-1,EU music
+http://54.36.109.228/21100/mono.m3u8

@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Info TV HD
+http://e01.plius.tv:64144/n135/index.m3u8
+#EXTINF:-1,TV1 HD
+http://e01.plius.tv:64144/n134/index.m3u8
+#EXTINF:-1,BTV HD
+http://e01.plius.tv:64144/n133/index.m3u8
+#EXTINF:-1,TV3 Sport
+http://e01.plius.tv:64144/n131/index.m3u8
+#EXTINF:-1,TV8 HD
+http://e01.plius.tv:64144/n130/index.m3u8
+#EXTINF:-1,TVK
+http://e01.plius.tv:64144/n129/index.m3u8
+#EXTINF:-1,TV6 HD
+http://e01.plius.tv:64144/n128/index.m3u8
+#EXTINF:-1,TV3 HD
+http://e01.plius.tv:64144/n127/index.m3u8
+#EXTINF:-1,MTV
+http://e01.plius.tv:64144/n126/index.m3u8
+#EXTINF:-1,TV3 Sport 2
+http://e01.plius.tv:64144/n125/index.m3u8
+#EXTINF:-1,LNK HD
+http://e01.plius.tv:64144/n120/index.m3u8
+#EXTINF:-1,Dom Kino HD
+http://e01.plius.tv:64144/n109/index.m3u8
+#EXTINF:-1,Dom Kino
+http://e01.plius.tv:64144/n108/index.m3u8
+#EXTINF:-1,Arena HD
+http://e01.plius.tv:64144/n103/index.m3u8
+#EXTINF:-1,Kinokomedia
+http://e01.plius.tv:64144/n91/index.m3u8
+#EXTINF:-1,Filmzone LT HD
+http://e01.plius.tv:64144/n75/index.m3u8
+#EXTINF:-1,Filmzone+ LT HD
+http://e01.plius.tv:64144/n74/index.m3u8
+#EXTINF:-1,TV XXI
+http://e01.plius.tv:64144/n72/index.m3u8
+#EXTINF:-1,FightBox HD
+http://e01.plius.tv:64144/n69/index.m3u8
+#EXTINF:-1,Fox
+http://e01.plius.tv:64144/n67/index.m3u8
+#EXTINF:-1,Kuchnia TV
+http://e01.plius.tv:64144/n66/index.m3u8
+#EXTINF:-1,LRT Lituanica
+http://e01.plius.tv:64144/n61/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://e01.plius.tv:64144/n59/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://e01.plius.tv:64144/n40/index.m3u8

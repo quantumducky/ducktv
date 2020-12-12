@@ -21,7 +21,7 @@
   </description>
 </channel> -->
 
-<channel>
+<!-- <channel>
   <title><![CDATA[TV Kanalai]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/main.xml]]></playlist_url>
 </channel>
@@ -34,11 +34,11 @@
 <channel>
   <title><![CDATA[Filmai]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/main.xml]]></playlist_url>
-</channel>
+</channel> -->
 
 <channel>
-  <title><![CDATA[AMTV]]></title>
-  <playlist_url><![CDATA[http://androidmanija.lt/amtv.m3u]]></playlist_url>
+  <title><![CDATA[Plius TV]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/pliustv.m3u8]]></playlist_url>
 </channel>
 
 <channel>
