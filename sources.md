@@ -19,9 +19,16 @@ http://tvpremiumhd.club/
 http://hdtv.pp.ua/?code=40
 https://pastebin.ulvis.net/rSwTQWP9
 
-Apps:
-https://homeiptv.com/
-https://www.duplexiptv.com/index.html
+https://vk.com/iptvlistok
+
+
+
+http://51.75.112.123:85/lt-lnk/mono.m3u8?token=home
+http://51.75.112.123:85/lt-tv3/mono.m3u8?token=home
+http://51.75.112.123:85/lt-lrt/mono.m3u8?token=home
+http://51.75.112.123:85/lt-tv6/mono.m3u8?token=home
+http://51.75.112.123:85/lt-tv8/mono.m3u8?token=home
+
 
 
 API:
