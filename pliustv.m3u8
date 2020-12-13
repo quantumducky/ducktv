@@ -35,22 +35,20 @@ http://e01.plius.tv:64144/n156/index.m3u8
 http://e01.plius.tv:64144/l14/index.m3u8
 #EXTINF:-1,Balticum Auksinis
 http://e01.plius.tv:64144/l107/index.m3u8
-#EXTINF:-1,Sony Turbo Baltic HD
-http://e01.plius.tv:64144/n111/index.m3u8
-#EXTINF:-1,Epic Drama LT HD
-http://e01.plius.tv:64144/n157/index.m3u8
-#EXTINF:-1,Sony Turbo Baltic HD
-http://e01.plius.tv:64144/n35/index.m3u8
-#EXTINF:-1,Sony Channel Baltic HD
-http://e01.plius.tv:64144/n43/index.m3u8
-#EXTINF:-1,FilmBox
-http://e01.plius.tv:64144/l206/index.m3u8
 #EXTINF:-1,Filmzone LT HD
 http://e01.plius.tv:64144/n75/index.m3u8
 #EXTINF:-1,Filmzone Plus HD
 http://e01.plius.tv:64144/n74/index.m3u8
 #EXTINF:-1,Filmzone Plus
 http://e01.plius.tv:64144/l74/index.m3u8
+#EXTINF:-1,Sony Turbo Baltic HD
+http://e01.plius.tv:64144/n111/index.m3u8
+#EXTINF:-1,Epic Drama LT HD
+http://e01.plius.tv:64144/n157/index.m3u8
+#EXTINF:-1,Sony Channel Baltic HD
+http://e01.plius.tv:64144/n43/index.m3u8
+#EXTINF:-1,FilmBox
+http://e01.plius.tv:64144/l206/index.m3u8
 #EXTINF:-1,TV XXI
 http://e01.plius.tv:64144/n72/index.m3u8
 #EXTINF:-1,TV3 Sport HD
@@ -157,4 +155,3 @@ http://e01.plius.tv:64144/l154/index.m3u8
 http://e01.plius.tv:64144/l203/index.m3u8
 #EXTINF:-1,Arirang
 http://e01.plius.tv:64144/l211/index.m3u8
-

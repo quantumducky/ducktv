@@ -1,123 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<item>
+
+<title><![CDATA[Duck TV]]></title>
+
 <items>
-  <channel>
-    <script xmlns="http://www.w3.org/1999/xhtml">
-      <![CDATA[
-        alert('Hello');
-        console.log('Hello');
-      ]]>
-    </script>
-    <title><![CDATA[Džuno / Juno (2007)]]></title>
-    <logo_30x30><![CDATA[http://filmai.org/uploads/posts/covers/254ef67431b541097c7ba7679f5dd092.jpg]]></logo_30x30>
-    <description><![CDATA[
-      <div style="display: table; width: 100%; vertical-align:top;">
 
-        <div style="display: table-cell; width: 40%;">
-          <center>
-            <div>
-              <img src="http://filmai.org/uploads/posts/covers/254ef67431b541097c7ba7679f5dd092.jpg" style="border-radius: 25px; width: 100%"></img>
-            </div>
-          </center>
-          <div style="font-size: 1.4em;">
-            <div>
-              <span style="color: #ffaf59;"><b>Šalis: </b></span><span style="color: #C0C0C0">USA</span>
-            </div>
-            <div>
-              <span style="color: #ffaf59;"><b>Aktoriai: </b></span><span style="color: #C0C0C0">Ellen Page, Michael Cera, Jennifer Garner</span>
-            </div>
-          </div>
-        </div>
+<channel>
+  <title><![CDATA[Plius TV]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlist.m3u8]]></playlist_url>
+</channel>
 
-        <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; padding-right:8px; font-size: 1.4em;">
-          <center>
-            <div style="color: #ffaf59; font-size: 1.6em; margin-bottom:8px;">Džuno / Juno (2007)</div>
-          </center>
-          <div>
-            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_24.png" style="border-radius: 5px;" height="24px"></img>&nbsp;<span style="color: #C0C0C0">7,6 (351,554 balsai)</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Kalba: </b></span><span style="color: #C0C0C0">Lietuvių</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Metai: </b></span><span style="color: #C0C0C0">2007</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Žanrai: </b></span><span style="color: #C0C0C0">Komedija, Drama, Romantinis</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Trukmė: </b></span><span style="color: #C0C0C0">96 min</span>
-          </div>
-          <div>
-            <p>
-              <span style="color: #ffaf59;"><b>Aprašymas:</b></span><br>
-              <span style="color: #C0C0C0">		Šešiolikmetė Džuno ir jos draugas prisižaidė – po pasilinksminimo mergina tapo nėščia. Visi rūpesčiai yra užkraunami būsimai mamytei, kuriai abortas nėra priimtinas. Vienintėlis racionalus sprendimas - perleisti kažkam savo kūdikį...
-		          </span>
-            </p>
-          </div>
-        </div>
-        <script type="text/javascript">
-          console.log('JUNO');
-        </script>
-      </div>
-    ]]></description>
-    <stream_url><![CDATA[https://srv3.ziuri.net/LTPro_Juno_2007_BDRip.mp4]]></stream_url>
-  </channel>
-  
-    <channel>
-    <title><![CDATA[Džonui Takeriui - mirtis! / John Tucker Must Die (2006)]]></title>
-    <logo_30x30><![CDATA[http://filmai.org/uploads/posts/covers/fde45dccc1e362c5b9e8e5997186de20.jpg]]></logo_30x30>
-    <description><![CDATA[
-      <div style="display: table; width: 100%; vertical-align:top;">
+<channel>
+  <title><![CDATA[OTTV]]></title>
+  <playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ott#.XML]]></playlist_url>
+</channel>
 
-        <div style="display: table-cell; width: 40%;">
-          <center>
-            <div>
-              <img src="http://filmai.org/uploads/posts/covers/fde45dccc1e362c5b9e8e5997186de20.jpg" style="border-radius: 25px; width: 100%"></img>
-            </div>
-          </center>
-          <div style="font-size: 1.4em;">
-            <div>
-              <span style="color: #ffaf59;"><b>Šalis: </b></span><span style="color: #C0C0C0">USA, Canada</span>
-            </div>
-            <div>
-              <span style="color: #ffaf59;"><b>Aktoriai: </b></span><span style="color: #C0C0C0">Jesse Metcalfe, Ashanti, Arielle Kebbel</span>
-            </div>
-          </div>
-        </div>
-
-        <div style="display: table-cell; width: 60%; vertical-align:top; padding-left:8px; padding-right:8px; font-size: 1.4em;">
-          <center>
-            <div style="color: #ffaf59; font-size: 1.6em; margin-bottom:8px;">Džonui Takeriui - mirtis! / John Tucker Must Die (2006)</div>
-          </center>
-          <div>
-            <img src="https://raw.githubusercontent.com/quantumducky/ducktv/master/img/imdb_24.png" style="border-radius: 5px;" height="24px"></img>&nbsp;<span style="color: #C0C0C0">5,7 (55,987 balsai)</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Kalba: </b></span><span style="color: #C0C0C0">Lietuvių</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Metai: </b></span><span style="color: #C0C0C0">2006</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Žanrai: </b></span><span style="color: #C0C0C0">Komedija, Romantinis</span>
-          </div>
-          <div>
-            <span style="color: #ffaf59;"><b>Trukmė: </b></span><span style="color: #C0C0C0">89 min</span>
-          </div>
-          <div>
-            <p>
-              <span style="color: #ffaf59;"><b>Aprašymas:</b></span><br>
-              <span style="color: #C0C0C0">		Džonas Takeris – išvaizdus, populiarus, turtingas, maža to – mokyklos krepšinio komandos kapitonas. Nenuostabu, jog kone visos vyresniųjų klasių merginos svajoja su juo susitikinėti. Tačiau trys iš jų trokšta... Džono mirties.  
- 
-		</span>
-            </p>
-          </div>
-        </div>
-        <script>
-          console.log('JOHN TUCKER');
-        </script>
-      </div>
-    ]]></description>
-    <stream_url><![CDATA[https://srv3.ziuri.net/seni/25435_LT_John_Tucker_Must_Die_2006_DVDRip.mp4]]></stream_url>
-  </channel>
-</items>
+</items></item>
