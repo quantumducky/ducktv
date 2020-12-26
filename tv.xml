@@ -37,8 +37,23 @@
 </channel> -->
 
 <channel>
-  <title><![CDATA[Plius TV]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/pliustv.m3u8]]></playlist_url>
+  <title><![CDATA[LT-RU 1]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/lt_ru.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[LT-RU 2]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/playlist_547.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Edem (LT-RU)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/edem12_26.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Ott Club (LT-RU)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/ott_club.m3u8]]></playlist_url>
 </channel>
 
 <channel>
