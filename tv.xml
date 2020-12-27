@@ -37,6 +37,11 @@
 </channel> -->
 
 <channel>
+  <title><![CDATA[OTT Blue (LT-RU)]]></title>
+  <playlist_url><![CDATA[http://portal.ott.pink/playlist.m3u?token=C04057280A26508812ED7245AD524DC6]]></playlist_url>
+</channel>
+
+<channel>
   <title><![CDATA[LT-RU 1]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/lt_ru.m3u8]]></playlist_url>
 </channel>

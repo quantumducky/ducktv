@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1, iš Katedros aikštės Vilniuje 
+https://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
+#EXTINF:-1, iš Geležinio vilko g. Vilniuje
+https://s1.dcdn.lt/live/smil:vilnius.smil/chunklist_b2097152.m3u8
+#EXTINF:-1, prie Balto tilto Vilniuje
+https://s1.dcdn.lt/livecam/vl132.stream/chunklist.m3u8
+#EXTINF:-1, iš Goštauto g. Vilniuje 
+https://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
+#EXTINF:-1, išvažiuojant iš Vilniaus į Panevėžį 
+https://s1.dcdn.lt/livecam/vl517.stream/chunklist.m3u8
+#EXTINF:-1, iš Klaipėdos jūrų muziejaus
+https://s1.dcdn.lt/livecam/kljm1.stream/chunklist.m3u8
+#EXTINF:-1, iš Klaipėdos jūrų muziejaus2
+https://s1.dcdn.lt/livecam/kljm2.stream/chunklist.m3u8
+#EXTINF:-1, išvažiuojant iš Klaipėdos į Kauną
+https://s1.dcdn.lt/livecam/kl026.stream/chunklist.m3u8
+#EXTINF:-1, Laisvės al. Kaune
+https://s1.dcdn.lt/livecam/kn025.stream/chunklist.m3u8
+#EXTINF:-1, Karaliaus Mindaugo pr. Kaune
+https://s1.dcdn.lt/livecam/kn085.stream/chunklist.m3u8
+#EXTINF:-1, Prietilčio g. Kaune 
+https://s1.dcdn.lt/livecam/kn090.stream/chunklist.m3u8
+#EXTINF:-1, Parnidžio kopos
+https://s1.dcdn.lt/livecam/ner01.stream/chunklist.m3u8
+#EXTINF:-1, Šilalės apylinkių vėjo jėgainių
+https://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
+#EXTINF:-1, Nemuno kilpos ties Raudone
+https://s1.dcdn.lt/livecam/sak03.stream/chunklist.m3u8
+#EXTINF:-1, Milvydų kaimo elnyno   
+https://s1.dcdn.lt/livecam/si508.stream/chunklist.m3u8
+#EXTINF:-1, Naisių gandralizdžio 
+https://s1.dcdn.lt/livecam/si511.stream/chunklist.m3u8
+#EXTINF:-1, Druskininkų senųjų gydyklų parko
+https://s1.dcdn.lt/livecam/dru11.stream/chunklist.m3u8
+#EXTINF:-1, Liepkalnio pramogų parko Vilniuje
+https://s1.dcdn.lt/live/liepkalnis2.stream/chunklist.m3u8
+#EXTINF:-1, Liepkalnio pramogų parko Vilniuje2
+https://s1.dcdn.lt/live/liepkalnis3.stream/chunklist.m3u8
+#EXTINF:-1, Kauno Uostas
+http://78.58.155.62:1936/live/camera.stream/chunklist_w2002588303.m3u8
+#EXTINF:-1, Šilalės vėjo jėgainių parkas
+https://s1.dcdn.lt/livecam/sll50.stream/chunklist.m3u8
+#EXTINF:-1, Gandro lizdas
+https://s1.dcdn.lt/livecam/si511.stream/chunklist.m3u8
+#EXTINF:-1, Žvejų g. Klaipėdoje
+https://s1.dcdn.lt/livecam/kl016.stream/chunklist.m3u8
+#EXTINF:-1, Goštauto g. Vilniuje
+https://s1.dcdn.lt/livecam/vl108.stream/chunklist.m3u8
+#EXTINF:-1, Baltasis tiltas
+https://s1.dcdn.lt/livecam/vl132.stream/chunklist.m3u8
+#EXTINF:-1, Prieglaudos "Beglobis"
+https://edge01.balticlivecam.com/anim/Beglobis/tracks-v1/mono.m3u8?token=44699e9a8be6a9ff57b66c6051799fd2%3A1581362653700
+#EXTINF:-1, Televizijas bokštas
+http://89.117.128.169/Tvtower/tvtower.stream/chunklist_w2045844388.m3u8
+#EXTINF:-1, Lietuvos žiemos sporto centras
+https://frn.rtsp.me/xzM6iRdNXXecGtjd38RyUA/1581453120/hls/Hfrzd6a2.m3u8
+#EXTINF:-1, Druskininkai
+https://s1.dcdn.lt/livecam/dru11.stream/chunklist.m3u8
+#EXTINF:-1, Kalitos kalnas
+https://s1.ipcamlive.com/streams/015e40ad24cb5b12e/stream.m3u8
+#EXTINF:-1, Vilnius
+https://s1.dcdn.lt/live/smil:vilnius.smil/chunklist_b2097152.m3u8
+#EXTINF:-1, Nidos prieplauka
+http://89.117.128.169/Nida/nida.stream/chunklist_w1269907619.m3u8
+#EXTINF:-1, Taurusis elnias
+https://s1.dcdn.lt/livecam/si508.stream/chunklist.m3u8
+#EXTINF:-1, Raudonės pilis
+https://s1.dcdn.lt/livecam/sak03.stream/chunklist.m3u8
+#EXTINF:-1, Parnidžio kopa
+https://s1.dcdn.lt/livecam/ner01.stream/chunklist.m3u8
+#EXTINF:-1, Trakų pilis
+https://s1.dcdn.lt/livecam/tra04.stream/chunklist.m3u8
+#EXTINF:-1, Klaipėdos uostas
+https://s1.dcdn.lt/livecam/kl011.stream/chunklist.m3u8
+#EXTINF:-1, Kauno Rotušės aikštė
+https://s1.dcdn.lt/livecam/kn039.stream/chunklist.m3u8
+#EXTINF:-1, Katedros aikštės Vilniuje
+https://s1.dcdn.lt/livecam/vl147.stream/chunklist.m3u8
