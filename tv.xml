@@ -21,20 +21,10 @@
   </description>
 </channel> -->
 
-<!-- <channel>
-  <title><![CDATA[TV Kanalai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/iptv/main.xml]]></playlist_url>
-</channel>
-
 <channel>
-  <title><![CDATA[Serialai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/main.xml]]></playlist_url>
+  <title><![CDATA[Lietuviski]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/lietuviski.m3u8]]></playlist_url>
 </channel>
-
-<channel>
-  <title><![CDATA[Filmai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/movies/main.xml]]></playlist_url>
-</channel> -->
 
 <channel>
   <title><![CDATA[OTT Blue (LT-RU)]]></title>

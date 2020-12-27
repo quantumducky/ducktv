@@ -1,0 +1,31 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 tvg-id="lnk" tvg-logo="http://lzs.lt/images/12358/36427/aaaalnk%20logo.jpg",LNK
+http://45.145.32.15:20004/lnk/video.m3u8
+#EXTINF:-1 tvg-id="tv8-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/TV8_logo_for_Sweden_and_Lithuania.png/150px-TV8_logo_for_Sweden_and_Lithuania.png",TV8
+http://45.145.32.15:20004/tv8/video.m3u8
+#EXTINF:-1 tvg-id="btv" tvg-logo="http://www.lrta.eu/images/article/btv_logo.jpg",BTV
+http://45.145.32.15:20004/btv/video.m3u8
+#EXTINF:-1 tvg-id="info-tv" tvg-logo="http://unet.lt/wp-content/uploads/init-66x66.png",Info TV
+http://45.145.32.15:20004/info_tv/video.m3u8
+#EXTINF:-1 tvg-id="lietuvos-ryto-televizija" tvg-logo="http://www.kaunozurnalistai.lt/imgs/691/LRYTAS_TV_LOGOTIPAS_II.png",Lietuvos Rytas TV
+http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
+#EXTINF:-1 tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
+#EXTINF:-1 tvg-id="lrt-kultura" tvg-logo="http://res.lt/wp-content/uploads/2015/11/LRT_PLIUS_sviesiame-fone-300x300.png",LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
+#EXTINF:-1 tvg-id="tv1-lt" tvg-logo="https://www.cgates.lt/wp-content/uploads/2017/10/logo-tv1.png",TV1
+http://45.145.32.15:20004/tv1/video.m3u8
+#EXTINF:-1 tvg-id="delfi-tv" tvg-logo="https://www.kvartalas.lt/wp-content/uploads/2020/04/delfitv-og.png",Delfi.TV
+http://45.145.32.15:20004/delfi_tv/video.m3u8
+#EXTINF:-1 tvg-id="liuks" tvg-logo="https://lnk.lt/all-images/20200305/2TV_logo_09754b7d-8ae2-40c4-8769-17b49a402208.png",2TV
+http://45.145.32.15:20004/2tv/video.m3u8
+#EXTINF:-1 tvg-id"current-time",Current Time
+http://45.145.32.15:20004/current_time/video.m3u8
+#EXTINF:-1 tvg-id="lrt-tv" tvg-logo="https://www.lrt.lt/images/lrt_lt_logo.jpg",LRT
+http://45.145.32.15:20005/lrt_televizija/video.m3u8
+#EXTINF:-1 tvg-id="lrt-kultura" tvg-logo="http://res.lt/wp-content/uploads/2015/11/LRT_PLIUS_sviesiame-fone-300x300.png",LRT Plius
+http://45.145.32.15:20005/lrt_plius/video.m3u8
+#EXTINF:-1 tvg-id="tv3-lt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png",TV3
+http://45.145.32.15:20004/tv3/video.m3u8
+#EXTINF:-1 tvg-id="tv6-lt" tvg-logo="http://res.lt/wp-content/uploads/2019/02/tv6_logo_hd-150x150.png",TV6
+http://45.145.32.15:20004/tv6/video.m3u8
