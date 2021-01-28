@@ -5,8 +5,19 @@ https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 
 Shows:
 http://fanserials.bz
+
 Movies:
 https://filmix.co
+
+LT:
+https://serialai.live/
+https://45.87.43.43/
+https://185.238.0.238/
+
+
+video links:
+https://srv7.ziurek.live/videos/serial/mrrobot/s01e01.mp4
+https://srv7.ziurek.live/videos/serial/modernfamily/modern.family.s01e01.mp4
 
 
 IPTV sources:
@@ -19,8 +30,11 @@ http://tvpremiumhd.club/
 http://hdtv.pp.ua/?code=40
 https://pastebin.ulvis.net/rSwTQWP9
 
-https://vk.com/iptvlistok
 
+ottk.tv:
+http://widget.ottplayer.es/
+http://ottv.tk/public/plst/plstfb/playlist.php?ott
+ottv.tk#.XML
 
 
 http://51.75.112.123:85/lt-tv3/mono.m3u8?token=home
@@ -35,10 +49,7 @@ http://51.75.112.123:85/lt-info/mono.m3u8?token=home
 http://51.75.112.123:85/lt-sport1/mono.m3u8?token=home
 http://51.75.112.123:85/lt-rytas/mono.m3u8?token=home
 
-
-
 http://51.75.112.123:85/lv-lnt/mono.m3u8?token=home
-
 
 http://51.75.112.123:85/en-ITV/mono.m3u8?token=home
 http://51.75.112.123:85/en-BBCOneHD/mono.m3u8?token=home
@@ -50,23 +61,4 @@ http://51.75.112.123:85/ru-tv1000/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport2/mono.m3u8?token=home
 
-
-
-http://212.52.59.86:8776/play/a013/index.m3u8
-
-
-API:
-https://github.com/ramusus/kinopoiskpy
-
-
-Other:
-http://widget.ottplayer.es/
-
-http://ottv.tk/public/plst/plstfb/playlist.php?ott
-ottv.tk#.XML
-
-
-
-linguistics LT
-https://benjamins.com/catalog/cilt.254
 
