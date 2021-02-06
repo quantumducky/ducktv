@@ -66,6 +66,11 @@
   <playlist_url><![CDATA[http://ottv.tk/public/plst/plstfb/playlist.php?ott#.XML]]></playlist_url>
 </channel>
 
+<channel>
+  <title><![CDATA[Во все тяжкие]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/bb.m3u8]]></playlist_url>
+</channel>
+
 <!-- <channel>
   <title><![CDATA[Kita]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.m3u8]]></playlist_url>
