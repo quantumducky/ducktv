@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 
 Shows:
 http://fanserials.bz
+https://vseriale.co
 
 Movies:
 https://filmix.co
