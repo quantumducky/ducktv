@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const fsPromise = require('fs').promises;
 // const cheerio = require('cheerio');
+// const parserFactory = require('ts-exif-parser').ExifParserFactory;
 
 const INTERVAL =  5000;
 const LIMIT = 250;
@@ -12,7 +13,16 @@ let i = 1;
 
 
 (async () => {
-  mainInterval = setInterval(fetchUrls, INTERVAL);
+  const rootUrl = 'http://78.158.0.93';
+  const token = '0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f';
+  let playlistData = '#EXTM3U\n';
+  [...Array(255).keys()].forEach(id => {
+    playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
+    playlistData += `${rootUrl}/239.255.252.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
+  });
+  await writeToFile(playlistData, `fastlink.m3u8`);
+
+  // mainInterval = setInterval(fetchUrls, INTERVAL);
 })();
 
 async function fetchUrls() {

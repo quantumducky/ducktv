@@ -63,3 +63,5 @@ http://51.75.112.123:85/ru-eurosport/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport2/mono.m3u8?token=home
 
 
+
+http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f

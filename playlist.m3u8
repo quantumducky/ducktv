@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1,test1
-http://51.75.112.123:85/lt-lrtplus/mono.m3u8?token=home
-#EXTINF:-1,test1
-http://51.75.112.123:85/lt-lrtplius/mono.m3u8?token=home
