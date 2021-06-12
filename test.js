@@ -18,7 +18,7 @@ let i = 1;
   let playlistData = '#EXTM3U\n';
   [...Array(255).keys()].forEach(id => {
     playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
-    playlistData += `${rootUrl}/239.255.252.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
+    playlistData += `${rootUrl}/239.255.255.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
   });
   await writeToFile(playlistData, `fastlink.m3u8`);
 
