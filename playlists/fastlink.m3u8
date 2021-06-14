@@ -1,262 +1,361 @@
 #EXTM3U
-#EXTINF:20,LRT
+#EXTINF:-1 group-title="Lietuviški",LRT
 http://78.158.0.93/239.255.250.1/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LRT HD
+#EXTINF:-1 group-title="Lietuviški",LRT HD
 http://78.158.0.93/239.255.250.12/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LRT Plius
+#EXTINF:-1 group-title="Lietuviški",LRT Plius
 http://78.158.0.93/239.255.250.7/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LRT Plius HD
+#EXTINF:-1 group-title="Lietuviški",LRT Plius HD
 http://78.158.0.93/239.255.250.64/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LNK
+#EXTINF:-1 group-title="Lietuviški",LNK
 http://78.158.0.93/239.255.250.2/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LNK HD
+#EXTINF:-1 group-title="Lietuviški",LNK HD
 http://78.158.0.93/239.255.250.115/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1,TV3 HD
+#EXTINF:-1 group-title="Lietuviški",TV3 HD
 http://e01.plius.tv:64144/n127/index.m3u8
-#EXTINF:-1,TV6 HD
+#EXTINF:-1 group-title="Lietuviški",TV6 HD
 http://e01.plius.tv:64144/n128/index.m3u8
-#EXTINF:-1,TV8 HD
+#EXTINF:-1 group-title="Lietuviški",TV8 HD
 http://e01.plius.tv:64144/n130/index.m3u8
-#EXTINF:20,BTV
+#EXTINF:-1 group-title="Lietuviški",BTV
 http://78.158.0.93/239.255.250.4/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,BTV HD
+#EXTINF:-1 group-title="Lietuviški",BTV HD
 http://78.158.0.93/239.255.250.117/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TV1
+#EXTINF:-1 group-title="Lietuviški",TV1
 http://78.158.0.93/239.255.250.13/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TV1 HD
+#EXTINF:-1 group-title="Lietuviški",TV1 HD
 http://78.158.0.93/239.255.250.119/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Lietuvos Rytas
+#EXTINF:-1 group-title="Lietuviški",Lietuvos Rytas
 http://78.158.0.93/239.255.250.5/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Lietuvos Rytas HD
+#EXTINF:-1 group-title="Lietuviški",Lietuvos Rytas HD
 http://78.158.0.93/239.255.250.44/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Info TV
+#EXTINF:-1 group-title="Lietuviški",Info TV
 http://78.158.0.93/239.255.250.9/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Info TV HD
+#EXTINF:-1 group-title="Lietuviški",Info TV HD
 http://78.158.0.93/239.255.250.116/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,LRT Lithuanica
+#EXTINF:-1 group-title="Lietuviški",LRT Lithuanica
 http://78.158.0.93/239.255.250.243/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Delfi.tv
+#EXTINF:-1 group-title="Lietuviški",Delfi.tv
 http://78.158.0.93/239.255.250.80/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,2TV HD
+#EXTINF:-1 group-title="Lietuviški",2TV HD
 http://78.158.0.93/239.255.250.10/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Pukas TV HD
+#EXTINF:-1 group-title="Lietuviški",Pūkas TV HD
 http://78.158.0.93/239.255.250.29/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Siauliu TV HD
+#EXTINF:-1 group-title="Lietuviški",Šiauliu TV HD
 http://78.158.0.93/239.255.250.11/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Marijampoles TV
+#EXTINF:-1 group-title="Lietuviški",Marijampolės TV
 http://78.158.0.93/239.255.250.102/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-
-#EXTINF:20,TV3 Film
+#EXTINF:-1 group-title="Lietuviški",GNTV
+http://78.158.0.93/239.255.250.244/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Lietuviški",TV3 Film
 http://78.158.0.93/239.255.250.57/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Balticum
+#EXTINF:-1 group-title="Lietuviški",Balticum
 http://78.158.0.93/239.255.250.186/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Balticum Auksinis
+#EXTINF:-1 group-title="Lietuviški",Balticum Auksinis
 http://78.158.0.93/239.255.250.190/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Filmzone+ HD
+#EXTINF:-1 group-title="Lietuviški",Filmzone+ HD
 http://78.158.0.93/239.255.250.247/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-
-#EXTINF:20,TV3 Sport
+#EXTINF:-1 group-title="Lietuviški",TV3 Sport
 http://78.158.0.93/239.255.250.56/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:80,TV3 Sport HD
+#EXTINF:-1 group-title="Lietuviški",TV3 Sport HD
 http://78.158.0.93/239.255.250.48/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TV3 Sport 2 HD
+#EXTINF:-1 group-title="Lietuviški",TV3 Sport 2 HD
 http://78.158.0.93/239.255.250.112/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Sport 1
+#EXTINF:-1 group-title="Lietuviški",Sport 1
 http://78.158.0.93/239.255.250.14/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Sport1 HD
+#EXTINF:-1 group-title="Lietuviški",Sport1 HD
 http://78.158.0.93/239.255.250.241/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 
-#EXTINF:20,Kidzone
-http://78.158.0.93/239.255.250.242/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Pingviniukas
-http://78.158.0.93/239.255.250.189/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 
-#EXTINF:12,Perviy Baltiysky Kanal
+#EXTINF:-1 group-title="Rusiški",Perviy Baltiysky Kanal
 http://78.158.0.93/239.255.250.16/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,REN-TV Lietuva
+#EXTINF:-1 group-title="Rusiški",REN-TV Lietuva
 http://78.158.0.93/239.255.250.19/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,FAST&FUN Box HD
-http://78.158.0.93/239.255.250.84/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,FilmBox
-http://78.158.0.93/239.255.250.85/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,FilmBox Arthause
-http://78.158.0.93/239.255.250.86/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:12,Perviy Baltiysky Kanal
-http://78.158.0.93/239.255.250.16/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Ohota i Rybalka
-http://78.158.0.93/239.255.250.17/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,RTVi
+#EXTINF:-1 group-title="Rusiški",Perviy kanal HD
+http://78.158.0.93/239.255.251.12/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",Rossiya 1
+http://78.158.0.93/239.255.251.162/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",Rossiya 1 HD
+http://78.158.0.93/239.255.251.13/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",Rossiya 24
+http://78.158.0.93/239.255.251.167/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",NTV HD
+http://78.158.0.93/239.255.251.36/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",MIR
+http://78.158.0.93/239.255.251.171/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",MIR 24
+http://78.158.0.93/239.255.251.109/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",TV-3
+http://78.158.0.93/239.255.251.169/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",RTVi
 http://78.158.0.93/239.255.250.21/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Nastojasee Vremia HD
+#EXTINF:-1 group-title="Rusiški",Nastojasee Vremia HD
 http://78.158.0.93/239.255.250.22/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:6,Discovery Science HD
-http://78.158.0.93/239.255.250.25/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Viasat History HD
-http://78.158.0.93/239.255.250.26/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Nashe Liubimoe Kino
-http://78.158.0.93/239.255.250.27/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Discovery
-http://78.158.0.93/239.255.250.28/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Illuzion+
-http://78.158.0.93/239.255.250.30/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Shokirujusee HD
-http://78.158.0.93/239.255.250.31/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Komedijnoe HD
-http://78.158.0.93/239.255.250.32/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,DW Europe
-http://78.158.0.93/239.255.250.33/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Ostrosiuzhetnoe HD
-http://78.158.0.93/239.255.250.35/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Mult
-http://78.158.0.93/239.255.250.36/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,RTR Planeta
+#EXTINF:-1 group-title="Rusiški",RTR Planeta
 http://78.158.0.93/239.255.250.37/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,MTV Europe
-http://78.158.0.93/239.255.250.40/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Belarus24
+#EXTINF:-1 group-title="Rusiški",Belarus24
 http://78.158.0.93/239.255.250.41/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,DocuBox HD
-http://78.158.0.93/239.255.250.46/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Futbol
-http://78.158.0.93/239.255.250.51/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TVC International
-http://78.158.0.93/239.255.250.62/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:0, Channel 63
-http://78.158.0.93/239.255.250.63/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,MCM TOP HD
-http://78.158.0.93/239.255.250.65/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:22,Perviy kanal (+2)
+#EXTINF:-1 group-title="Rusiški",Perviy kanal (+2)
 http://78.158.0.93/239.255.250.67/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Viasat Explore HD
-http://78.158.0.93/239.255.250.69/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,tvgr
-http://78.158.0.93/239.255.250.77/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Telekanal E HD
-http://78.158.0.93/239.255.250.79/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,EuroNews English
-http://78.158.0.93/239.255.250.82/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,NTV Mir Lithuania
+#EXTINF:-1 group-title="Rusiški",STS Baltic
+http://78.158.0.93/239.255.250.81/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",NTV Mir Lithuania
 http://78.158.0.93/239.255.250.88/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:23,Travel + Adventure
-http://78.158.0.93/239.255.250.90/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,FightBox HD
-http://78.158.0.93/239.255.250.91/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Arirang
-http://78.158.0.93/239.255.250.92/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,1MUZ SD
-http://78.158.0.93/239.255.250.96/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:21,NASA TV UHD
-http://78.158.0.93/239.255.250.100/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TOCHKA TV
-http://78.158.0.93/239.255.250.105/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Rossiya 1 (+2h)
+#EXTINF:-1 group-title="Rusiški",Rossiya 1 (+2h)
 http://78.158.0.93/239.255.250.106/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,CINEMA
-http://78.158.0.93/239.255.250.107/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,tvgr
-http://78.158.0.93/239.255.250.108/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:21,STS Kids HD
-http://78.158.0.93/239.255.250.111/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Nastojasee Vremia HD
-http://78.158.0.93/239.255.250.114/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:24,Russian Extreme UHD
-http://78.158.0.93/239.255.250.120/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:21,FlixSnip
-http://78.158.0.93/239.255.250.123/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааОб ббаИбаИб
-http://78.158.0.93/239.255.250.125/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Mult i muzyka
-http://78.158.0.93/239.255.250.126/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааДаА
-http://78.158.0.93/239.255.250.127/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,FAN HD
-http://78.158.0.93/239.255.250.130/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,1TV.GE
-http://78.158.0.93/239.255.250.132/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,GDS TV
-http://78.158.0.93/239.255.250.133/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Maestro GE
-http://78.158.0.93/239.255.250.134/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,IMEDI TV
-http://78.158.0.93/239.255.250.135/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Pirveli TV
-http://78.158.0.93/239.255.250.136/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Obieqtivi TV
-http://78.158.0.93/239.255.250.137/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Ajara TV
-http://78.158.0.93/239.255.250.138/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Trialeti TV
-http://78.158.0.93/239.255.250.139/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:7,SONY CHANNEL HD
-http://78.158.0.93/239.255.250.172/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,9 Kanal
-http://78.158.0.93/239.255.250.173/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,BRIDGE TV CLASSIC
-http://78.158.0.93/239.255.250.174/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааИаВаАб ааЛаАаНаЕбаА
-http://78.158.0.93/239.255.250.175/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЂаЕбаНаО 24
-http://78.158.0.93/239.255.250.176/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Russkij Detektiv
-http://78.158.0.93/239.255.250.177/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Nano TV
-http://78.158.0.93/239.255.250.178/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аІаЕаНббаАаЛбаНаОаЕ баЕаЛаЕаВаИаДаЕаНаИаЕ
-http://78.158.0.93/239.255.250.179/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,TV 5 Monde Europe
-http://78.158.0.93/239.255.250.180/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Premialnoje HD
-http://78.158.0.93/239.255.250.181/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аааЂаЇ! аЁаЂа ааа
-http://78.158.0.93/239.255.250.182/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,France 24 HD
-http://78.158.0.93/239.255.250.183/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЂаАаЙаНб ааАаЛаАаКбаИаКаИ HD
-http://78.158.0.93/239.255.250.185/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааОбаОббаПаОбб аЂа HD
-http://78.158.0.93/239.255.250.187/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,а аОаМаАаНбаИбаНаОаЕ HD
-http://78.158.0.93/239.255.250.188/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Love Nature 4k
-http://78.158.0.93/239.255.250.191/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,UFC аЂа HD
-http://78.158.0.93/239.255.250.192/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЁаЂаа аЂ HD
-http://78.158.0.93/239.255.250.193/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Kinouzas
-http://78.158.0.93/239.255.250.194/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааИб ааАбаКаЕбаБаОаЛаА
-http://78.158.0.93/239.255.250.195/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЂаОбаКаА аОбббаВаА
-http://78.158.0.93/239.255.250.196/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,History HD
-http://78.158.0.93/239.255.250.197/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааАаМаЕаДаИ
-http://78.158.0.93/239.255.250.198/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааАб аКаИаНаОаПаОаКаАаЗ HD
-http://78.158.0.93/239.255.250.199/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааЛаОаКаБаАббаЕб HD
-http://78.158.0.93/239.255.250.200/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааАбаЕ аМбаЖбаКаОаЕ HD
-http://78.158.0.93/239.255.250.201/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЅаИб HD
-http://78.158.0.93/239.255.250.202/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аббаЕаНаАаЛ HD
-http://78.158.0.93/239.255.250.203/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааЕаНб ааОаБаЕаДб HD
-http://78.158.0.93/239.255.250.205/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааАбаА аЂаЕаМаА
+#EXTINF:-1 group-title="Rusiški",Nasha Tema
 http://78.158.0.93/239.255.250.206/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,H2
-http://78.158.0.93/239.255.250.208/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,ааИаНаО аЂа HD
-http://78.158.0.93/239.255.250.209/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,а2аЂа
-http://78.158.0.93/239.255.250.210/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,Moya Planeta HD
-http://78.158.0.93/239.255.250.212/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,аЁаИаЕббаА
-http://78.158.0.93/239.255.250.213/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:20,а аМаИбаЕ аЖаИаВаОбаНбб
-http://78.158.0.93/239.255.250.214/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",TNT HD
+http://78.158.0.93/239.255.251.42/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",Moskva 24
+http://78.158.0.93/239.255.251.125/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",Vremya
+http://78.158.0.93/239.255.251.190/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Rusiški",STS Moskva
+http://78.158.0.93/239.255.251.200/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 
+
+#EXTINF:-1 group-title="Filmai",TV3 Film
+http://78.158.0.93/239.255.250.57/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Balticum
+http://78.158.0.93/239.255.250.186/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Balticum Auksinis
+http://78.158.0.93/239.255.250.190/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Filmzone+ HD
+http://78.158.0.93/239.255.250.247/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",FilmBox
+http://78.158.0.93/239.255.250.85/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",FilmBox Arthause
+http://78.158.0.93/239.255.250.86/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",VIP Comedy HD
+http://78.158.0.93/239.255.251.30/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",VIP Megahit HD
+http://78.158.0.93/239.255.251.31/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",VIP Premiere HD
+http://78.158.0.93/239.255.251.32/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Amedia 1
+http://78.158.0.93/239.255.251.16/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Amedia 2
+http://78.158.0.93/239.255.251.17/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Amedia Hit HD
+http://78.158.0.93/239.255.251.19/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Amedia Premium
+http://78.158.0.93/239.255.251.20/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Blokbaster HD
+http://78.158.0.93/239.255.250.200/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Hit HD
+http://78.158.0.93/239.255.250.202/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",TV 1000
+http://78.158.0.93/239.255.251.66/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",TV 1000 Action
+http://78.158.0.93/239.255.251.67/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinomiks
+http://78.158.0.93/239.255.251.143/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinosvidanie
+http://78.158.0.93/239.255.251.144/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",KinoHit
+http://78.158.0.93/239.255.251.145/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinokomedija
+http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinosemja
+http://78.158.0.93/239.255.251.157/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinouzas
+http://78.158.0.93/239.255.251.7/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinoserija
+http://78.158.0.93/239.255.251.151/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",CINEMA
+http://78.158.0.93/239.255.250.107/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",SONY CHANNEL HD
+http://78.158.0.93/239.255.250.172/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Premialnoje HD
+http://78.158.0.93/239.255.250.181/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinouzas
+http://78.158.0.93/239.255.250.194/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Komedija
+http://78.158.0.93/239.255.250.198/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Arsenal HD
+http://78.158.0.93/239.255.250.203/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Dien Pobed HD
+http://78.158.0.93/239.255.250.205/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Amedia Premium HD
+http://78.158.0.93/239.255.251.134/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kino TV HD
+http://78.158.0.93/239.255.250.209/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Kinopremjera HD
+http://78.158.0.93/239.255.251.1/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Duo 3 HD
+http://78.158.0.93/239.255.251.219/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Sony Sci-Fi
+http://78.158.0.93/239.255.251.220/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Sony Turbo
+http://78.158.0.93/239.255.251.221/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",FOX HD
+http://78.158.0.93/239.255.251.29/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Fox Russia
+http://78.158.0.93/239.255.251.79/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Fox Life
+http://78.158.0.93/239.255.251.177/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",KINO TV
+http://78.158.0.93/239.255.251.209/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Paramount Channel
+http://78.158.0.93/239.255.251.85/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Paramount Comedy Russia
+http://78.158.0.93/239.255.251.82/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",TV XXI
+http://78.158.0.93/239.255.251.121/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",TV 1000 Russkoe Kino
+http://78.158.0.93/239.255.251.68/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",HDL
+http://78.158.0.93/239.255.251.3/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Hollywood
+http://78.158.0.93/239.255.251.18/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Hollywood HD
+http://78.158.0.93/239.255.251.11/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Illuzion+
+http://78.158.0.93/239.255.250.30/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Nashe Liubimoe Kino
+http://78.158.0.93/239.255.250.27/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Shokirujusee HD
+http://78.158.0.93/239.255.250.31/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Komedijnoe HD
+http://78.158.0.93/239.255.250.32/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Ostrosiuzhetnoe HD
+http://78.158.0.93/239.255.250.35/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Dom Kino Premium HD
+http://78.158.0.93/239.255.251.40/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Subota
+http://78.158.0.93/239.255.251.83/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Evrokino
+http://78.158.0.93/239.255.251.122/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Muzskoe Kino
+http://78.158.0.93/239.255.251.152/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Rodnoje Kino
+http://78.158.0.93/239.255.251.153/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Nashe Novoe Kino
+http://78.158.0.93/239.255.251.154/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Nostalgia
+http://78.158.0.93/239.255.251.155/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Dom Kino
+http://78.158.0.93/239.255.251.191/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Komedija
+http://78.158.0.93/239.255.251.210/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Russkij Bestseller
+http://78.158.0.93/239.255.251.237/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Filmai",Russkij Roman
+http://78.158.0.93/239.255.251.238/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+
+
+#EXTINF:-1 group-title="Sportas",TV3 Sport
+http://78.158.0.93/239.255.250.56/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",TV3 Sport HD
+http://78.158.0.93/239.255.250.48/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",TV3 Sport 2 HD
+http://78.158.0.93/239.255.250.112/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Sport 1
+http://78.158.0.93/239.255.250.14/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Sport1 HD
+http://78.158.0.93/239.255.250.241/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Eurosport 1
+http://78.158.0.93/239.255.251.214/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Eurosport 1 HD
+http://78.158.0.93/239.255.251.132/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Eurosport 2 HD
+http://78.158.0.93/239.255.251.35/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match HD
+http://78.158.0.93/239.255.251.39/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Igra HD
+http://78.158.0.93/239.255.251.2/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Arena HD
+http://78.158.0.93/239.255.251.4/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Futbol 1 HD
+http://78.158.0.93/239.255.251.27/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Futbol 2 HD
+http://78.158.0.93/239.255.251.22/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Futbol 3 HD
+http://78.158.0.93/239.255.251.23/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Match Premier  HD
+http://78.158.0.93/239.255.251.24/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",FightBox HD
+http://78.158.0.93/239.255.250.91/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Mir Basketbola
+http://78.158.0.93/239.255.250.195/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",KHL HD
+http://78.158.0.93/239.255.251.6/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Viasat Sport
+http://78.158.0.93/239.255.251.72/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Sportas",Extreme Sports Channel
+http://78.158.0.93/239.255.251.73/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+
+
+#EXTINF:-1 group-title="Pažintiniai",Animal Planet
+http://78.158.0.93/239.255.251.172/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",National Geographic Channel
+http://78.158.0.93/239.255.251.184/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Discovery
+http://78.158.0.93/239.255.250.28/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Discovery Science Channel
+http://78.158.0.93/239.255.251.205/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Discovery Channel Russia
+http://78.158.0.93/239.255.251.174/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Discovery Science HD
+http://78.158.0.93/239.255.250.25/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Discovery Channel Russia HD
+http://78.158.0.93/239.255.251.5/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Nat Geo Wild HD
+http://78.158.0.93/239.255.251.8/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Nat Geo Wild Russia
+http://78.158.0.93/239.255.251.80/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Ohota i Rybalka
+http://78.158.0.93/239.255.250.17/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Dialogi o Rybalke
+http://78.158.0.93/239.255.251.74/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Viasat History HD
+http://78.158.0.93/239.255.250.26/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",DocuBox HD
+http://78.158.0.93/239.255.250.46/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Viasat Explore HD
+http://78.158.0.93/239.255.250.69/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",FAST&FUN Box HD
+http://78.158.0.93/239.255.250.84/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Travel + Adventure
+http://78.158.0.93/239.255.250.90/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Moya Stichia
+http://78.158.0.93/239.255.250.125/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Moya Planeta HD
+http://78.158.0.93/239.255.250.212/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",History HD
+http://78.158.0.93/239.255.250.197/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",H2
+http://78.158.0.93/239.255.250.208/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",V Mire Zhivotnich
+http://78.158.0.93/239.255.250.214/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",RTG HD
+http://78.158.0.93/239.255.251.9/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Animal Planet HD
+http://78.158.0.93/239.255.251.37/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Viasat Explore
+http://78.158.0.93/239.255.251.69/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Viasat History
+http://78.158.0.93/239.255.251.70/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Viasat Nature
+http://78.158.0.93/239.255.251.71/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Ocean TV
+http://78.158.0.93/239.255.251.86/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Moya Planeta
+http://78.158.0.93/239.255.251.91/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Nauka 2.0
+http://78.158.0.93/239.255.251.92/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",History
+http://78.158.0.93/239.255.251.94/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Outdoor Channel
+http://78.158.0.93/239.255.251.97/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",National Geographic Channel HD Russia & Turkey
+http://78.158.0.93/239.255.251.133/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Kto est kto
+http://78.158.0.93/239.255.251.147/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",DTX
+http://78.158.0.93/239.255.251.176/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",ID
+http://78.158.0.93/239.255.251.178/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
+#EXTINF:-1 group-title="Pažintiniai",Zoo TV
+http://78.158.0.93/239.255.251.208/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f

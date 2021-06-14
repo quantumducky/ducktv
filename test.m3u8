@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lietuviški" tvg-name="LRT HD (LT)",LRT
+#EXTINF:-1 group-title="Lietuviški",LRT
 http://78.158.0.93/239.255.250.1/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-name="LRT HD (LT)",LRT HD
+#EXTINF:-1 group-title="Lietuviški",LRT HD
 http://78.158.0.93/239.255.250.12/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura",LRT Plius
+#EXTINF:-1 group-title="Lietuviški",LRT Plius
 http://78.158.0.93/239.255.250.7/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura",LRT Plius HD
+#EXTINF:-1 group-title="Lietuviški",LRT Plius HD
 http://78.158.0.93/239.255.250.64/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk",LNK
+#EXTINF:-1 group-title="Lietuviški",LNK
 http://78.158.0.93/239.255.250.2/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lnk-lt",LNK HD
+#EXTINF:-1 group-title="Lietuviški",LNK HD
 http://78.158.0.93/239.255.250.115/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 #EXTINF:-1 group-title="Lietuviški",TV3 HD
 http://e01.plius.tv:64144/n127/index.m3u8
@@ -31,7 +31,7 @@ http://78.158.0.93/239.255.250.5/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a2
 http://78.158.0.93/239.255.250.44/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 #EXTINF:-1 group-title="Lietuviški",Info TV
 http://78.158.0.93/239.255.250.9/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-logo="http://ottpink.network/picons/infotv.png" tvg-name="Info TV HD (LT)",Info TV HD
+#EXTINF:-1 group-title="Lietuviški",Info TV HD
 http://78.158.0.93/239.255.250.116/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 #EXTINF:-1 group-title="Lietuviški",LRT Lithuanica
 http://78.158.0.93/239.255.250.243/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
