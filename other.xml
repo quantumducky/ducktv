@@ -45,4 +45,9 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/bb.m3u8]]></playlist_url>
 </channel>
 
+<channel>
+  <title><![CDATA[Во все тяжкие]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/test.m3u8]]></playlist_url>
+</channel>
+
 </items></item>
