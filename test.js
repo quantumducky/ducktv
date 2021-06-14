@@ -13,14 +13,22 @@ let i = 1;
 
 
 (async () => {
-  const rootUrl = 'http://78.158.0.93';
-  const token = '0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f';
+  const rootUrl = 'http://e01.plius.tv:64144';
   let playlistData = '#EXTM3U\n';
-  [...Array(255).keys()].forEach(id => {
+  [...Array(250).keys()].forEach(id => {
     playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
-    playlistData += `${rootUrl}/239.255.255.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
+    playlistData += `${rootUrl}/n${id+1}/index.m3u8\n`;
   });
-  await writeToFile(playlistData, `fastlink.m3u8`);
+  await writeToFile(playlistData, `pliustv_test.m3u8`);
+
+  // const rootUrl = 'http://78.158.0.93';
+  // const token = '0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f';
+  // let playlistData = '#EXTM3U\n';
+  // [...Array(255).keys()].forEach(id => {
+  //   playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
+  //   playlistData += `${rootUrl}/239.255.255.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
+  // });
+  // await writeToFile(playlistData, `fastlink.m3u8`);
 
   // mainInterval = setInterval(fetchUrls, INTERVAL);
 })();
