@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv",LRT
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LRT HD (LT)",LRT
 http://78.158.0.93/239.255.250.1/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
-#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv",LRT HD
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LRT HD (LT)",LRT HD
 http://78.158.0.93/239.255.250.12/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
 #EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-kultura",LRT Plius
 http://78.158.0.93/239.255.250.7/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f
