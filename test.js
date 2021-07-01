@@ -4,22 +4,23 @@ const fsPromise = require('fs').promises;
 // const parserFactory = require('ts-exif-parser').ExifParserFactory;
 
 const INTERVAL =  5000;
-const LIMIT = 250;
-const SERVER = 'e01';
+const LIMIT = 1000;
 
 let mainInterval;
 let urlList = [];
-let i = 1;
+let i = 750;
 
 
 (async () => {
-  const rootUrl = 'http://e01.plius.tv:64144';
-  let playlistData = '#EXTM3U\n';
-  [...Array(250).keys()].forEach(id => {
-    playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
-    playlistData += `${rootUrl}/n${id+1}/index.m3u8\n`;
-  });
-  await writeToFile(playlistData, `pliustv_test.m3u8`);
+
+  // const rootUrl = 'http://213.226.137.133:81/tl2';
+  // let playlistData = '#EXTM3U\n';
+  // [...Array(999).keys()].forEach(id => {
+  //   playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
+  //   playlistData += `${rootUrl}/l${id+1}/index.m3u8\n`;
+  // });
+  // await writeToFile(playlistData, `playlist_133_tl2.m3u8`);
+
 
   // const rootUrl = 'http://78.158.0.93';
   // const token = '0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f';
@@ -30,15 +31,26 @@ let i = 1;
   // });
   // await writeToFile(playlistData, `fastlink.m3u8`);
 
-  // mainInterval = setInterval(fetchUrls, INTERVAL);
+  // checked:
+  // 130 | tl | l1-999 - 1
+  // 130 | tl1 | l1-250 - done|nothing
+  // 130 | tl2 | l1-999 - done
+
+  // 130 | tl2 | n1-250 - done|nothing
+
+  // 133 | tl | l1-999 done
+  // 133 | tl2 | l1-999 done|nothing
+
+
+  mainInterval = setInterval(fetchUrls, INTERVAL);
 })();
 
 async function fetchUrls() {
-  const URL = `http://${SERVER}.plius.tv:64144/l${i}/index.m3u8`;
+  const URL = `http://213.226.137.133:81/tl2/l${i}/index.m3u8`;
 
   await fetch(URL).then(res => {
     if (res.ok) {
-      urlList.push({url: URL, id: `n${i}`});
+      urlList.push({url: URL, id: `Channel ${i}`});
       console.log(`Fetching url: '${URL}': OK`);
     } else {
       console.log(`Fetching url: '${URL}': NOT FOUND`);
@@ -60,7 +72,7 @@ async function writePlaylist() {
   urlList.forEach(urlObj => {
     playlistData += `#EXTINF:-1,${urlObj.id}\n${urlObj.url}\n`;
   });
-  await writeToFile(playlistData, `pliustv_${SERVER}_${date}.m3u8`);
+  await writeToFile(playlistData, `playlist_${date}.m3u8`);
   console.log('Playlist has been saved to the file.');
 }
 

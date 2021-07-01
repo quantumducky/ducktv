@@ -11,12 +11,18 @@ http://78.158.0.93/239.255.250.64/video.m3u8?token=0
 http://78.158.0.93/239.255.250.2/video.m3u8?token=0
 #EXTINF:-1 group-title="Lietuviški",LNK HD
 http://78.158.0.93/239.255.250.115/video.m3u8?token=0
+#EXTINF:-1 group-title="Lietuviški",TV3
+http://213.226.137.133:81/tl/l6/index.m3u8
 #EXTINF:-1 group-title="Lietuviški",TV3 HD
-http://e01.plius.tv:64144/n127/index.m3u8
+http://213.226.137.130:81/tl2/l701/index.m3u8
+#EXTINF:-1 group-title="Lietuviški",TV6
+http://213.226.137.133:81/tl/l4/index.m3u8
 #EXTINF:-1 group-title="Lietuviški",TV6 HD
-http://e01.plius.tv:64144/n128/index.m3u8
+http://213.226.137.130:81/tl2/l702/index.m3u8
+#EXTINF:-1 group-title="Lietuviški",TV8
+http://213.226.137.133:81/tl/l10/index.m3u8
 #EXTINF:-1 group-title="Lietuviški",TV8 HD
-http://e01.plius.tv:64144/n130/index.m3u8
+http://213.226.137.133:81/tl/l714/index.m3u8
 #EXTINF:-1 group-title="Lietuviški",BTV
 http://78.158.0.93/239.255.250.4/video.m3u8?token=0
 #EXTINF:-1 group-title="Lietuviški",BTV HD
