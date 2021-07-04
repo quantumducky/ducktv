@@ -38,6 +38,7 @@ http://ottv.tk/public/plst/plstfb/playlist.php?ott
 ottv.tk#.XML
 
 
+https://liux.tv/
 http://51.75.112.123:85/lt-tv3/mono.m3u8?token=home
 http://51.75.112.123:85/lt-lnk/mono.m3u8?token=home
 http://51.75.112.123:85/lt-lrt/mono.m3u8?token=home
@@ -49,6 +50,8 @@ http://51.75.112.123:85/lt-liuks/mono.m3u8?token=home
 http://51.75.112.123:85/lt-info/mono.m3u8?token=home
 http://51.75.112.123:85/lt-sport1/mono.m3u8?token=home
 http://51.75.112.123:85/lt-rytas/mono.m3u8?token=home
+http://51.75.112.123:85/lt-balticum/mono.m3u8?token=home
+http://51.75.112.123:85/lt-balt-auks/mono.m3u8?token=home
 
 http://51.75.112.123:85/lv-lnt/mono.m3u8?token=home
 
@@ -61,6 +64,9 @@ http://51.75.112.123:85/en-RTEOne/mono.m3u8?token=home
 http://51.75.112.123:85/ru-tv1000/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport2/mono.m3u8?token=home
+http://51.75.112.123:85/ru-pervyj-hd/mono.m3u8?token=home
+http://51.75.112.123:85/ru-rentv-balt/mono.m3u8?token=home
+http://51.75.112.123:85/ru-pervyj-balt/mono.m3u8?token=home
 
 
 
@@ -69,4 +75,14 @@ http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723
 https://github.com/erkexzcx/lietuviska-tv
 https://sites.google.com/site/gintarmixas/home
 
-tl 650 stop
+
+http://88.216.84.52:64144/n1/index.m3u8
+http://88.216.84.51:64144/n1/index.m3u8
+http://88.216.84.42:64144/n1/index.m3u8
+http://88.216.84.41:64144/n1/index.m3u8
+http://88.216.84.39:64144/n1/index.m3u8
+http://88.216.84.34:64144/n1/index.m3u8
+http://88.216.84.33:64144/n1/index.m3u8
+http://88.216.84.28:64144/n1/index.m3u8
+http://88.216.84.18:64144/n1/index.m3u8
+http://88.216.84.17:64144/n1/index.m3u8

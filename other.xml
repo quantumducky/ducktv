@@ -11,6 +11,11 @@
 </channel>
 
 <channel>
+  <title><![CDATA[UK]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/UK.m3u8]]></playlist_url>
+</channel>
+
+<channel>
   <title><![CDATA[LT-RU 1]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/lt_ru.m3u8]]></playlist_url>
 </channel>

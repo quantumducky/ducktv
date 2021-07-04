@@ -1,0 +1,10 @@
+#EXTINF:-1,Channel 1021
+http://213.226.137.130:81/tl2/l1021/index.m3u8
+#EXTINF:-1,Channel 1044
+http://213.226.137.130:81/tl2/l1044/index.m3u8
+#EXTINF:-1,Channel 1006
+http://213.226.137.133:81/tl/l1006/index.m3u8
+#EXTINF:-1,Channel 1043
+http://213.226.137.133:81/tl/l1043/index.m3u8
+#EXTINF:-1,Channel 1045
+http://213.226.137.133:81/tl/l1045/index.m3u8

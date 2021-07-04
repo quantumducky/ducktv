@@ -4,11 +4,11 @@ const fsPromise = require('fs').promises;
 // const parserFactory = require('ts-exif-parser').ExifParserFactory;
 
 const INTERVAL =  5000;
-const LIMIT = 1000;
+const LIMIT = 1500;
 
 let mainInterval;
 let urlList = [];
-let i = 750;
+let i = 1250;
 
 
 (async () => {
@@ -34,19 +34,21 @@ let i = 750;
   // checked:
   // 130 | tl | l1-999 - 1
   // 130 | tl1 | l1-250 - done|nothing
-  // 130 | tl2 | l1-999 - done
+  // 130 | tl2 | l1-1250 - done
+  // 130 | tl3 | l1-250 done|nothing
 
   // 130 | tl2 | n1-250 - done|nothing
 
-  // 133 | tl | l1-999 done
+  // 133 | tl | l1-1250 done
   // 133 | tl2 | l1-999 done|nothing
+  // 133 | tl3 | l1-250 done|nothing
 
 
   mainInterval = setInterval(fetchUrls, INTERVAL);
 })();
 
 async function fetchUrls() {
-  const URL = `http://213.226.137.133:81/tl2/l${i}/index.m3u8`;
+  const URL = `http://213.226.137.133:81/tl/l${i}/index.m3u8`;
 
   await fetch(URL).then(res => {
     if (res.ok) {

@@ -1,0 +1,1857 @@
+#EXTM3U
+#EXTINF:-1,TV LAND
+http://199.66.95.242:80/1/1002/index.m3u8?token=test
+#EXTINF:-1,HBO2
+http://199.66.95.242:80/1/1006/index.m3u8?token=test
+#EXTINF:-1,HBO1
+http://199.66.95.242:80/1/1004/index.m3u8?token=test
+#EXTINF:-1,TBS
+http://199.66.95.242:80/1/1003/index.m3u8?token=test
+#EXTINF:-1,BRAVO HD
+http://199.66.95.242:80/1/1005/index.m3u8?token=test
+#EXTINF:-1,TRAVEL HD
+http://199.66.95.242:80/1/1009/index.m3u8?token=test
+#EXTINF:-1,APTN
+http://199.66.95.242:80/1/1007/index.m3u8?token=test
+#EXTINF:-1,OXYGEN HD
+http://199.66.95.242:80/1/1010/index.m3u8?token=test
+#EXTINF:-1,CMT HD
+http://199.66.95.242:80/1/1011/index.m3u8?token=test
+#EXTINF:-1,WGN HD
+http://199.66.95.242:80/1/1013/index.m3u8?token=test
+#EXTINF:-1,CTV 2 OTTAWA
+http://199.66.95.242:80/1/1012/index.m3u8?token=test
+#EXTINF:-1,TCM HD
+http://199.66.95.242:80/1/1015/index.m3u8?token=test
+#EXTINF:-1,CBC HALIFAX
+http://199.66.95.242:80/1/1014/index.m3u8?token=test
+#EXTINF:-1,MOVIETIME HD
+http://199.66.95.242:80/1/1017/index.m3u8?token=test
+#EXTINF:-1,AMC HD
+http://199.66.95.242:80/1/1018/index.m3u8?token=test
+#EXTINF:-1,ADULT SWIM HD
+http://199.66.95.242:80/1/1019/index.m3u8?token=test
+#EXTINF:-1,SMITHSONIAN HD
+http://199.66.95.242:80/1/1020/index.m3u8?token=test
+#EXTINF:-1,LIFE HD
+http://199.66.95.242:80/1/1022/index.m3u8?token=test
+#EXTINF:-1,BC 1 HD
+http://199.66.95.242:80/1/1021/index.m3u8?token=test
+#EXTINF:-1,CTV NEWS HD
+http://199.66.95.242:80/1/1027/index.m3u8?token=test
+#EXTINF:-1,HGTV USA
+http://199.66.95.242:80/1/1023/index.m3u8?token=test
+#EXTINF:-1,ABC HD EAST
+http://199.66.95.242:80/1/1024/index.m3u8?token=test
+#EXTINF:-1,HISTORY HD
+http://199.66.95.242:80/1/1029/index.m3u8?token=test
+#EXTINF:-1,HGTV HD (CDN)
+http://199.66.95.242:80/1/1030/index.m3u8?token=test
+#EXTINF:-1,WE TV HD
+http://199.66.95.242:80/1/1025/index.m3u8?token=test
+#EXTINF:-1,MUCH MUSIC HD
+http://199.66.95.242:80/1/1026/index.m3u8?token=test
+#EXTINF:-1,CRAVE 2
+http://199.66.95.242:80/1/1028/index.m3u8?token=test
+#EXTINF:-1,FOX NEWS HD
+http://199.66.95.242:80/1/1032/index.m3u8?token=test
+#EXTINF:-1,LOVE NATURE HD
+http://199.66.95.242:80/1/1031/index.m3u8?token=test
+#EXTINF:-1,ION HD
+http://199.66.95.242:80/1/1033/index.m3u8?token=test
+#EXTINF:-1,FOOD HD
+http://199.66.95.242:80/1/1034/index.m3u8?token=test
+#EXTINF:-1,GLOBAL EDMONTON
+http://199.66.95.242:80/1/1035/index.m3u8?token=test
+#EXTINF:-1,CTV EDMONTON
+http://199.66.95.242:80/1/1036/index.m3u8?token=test
+#EXTINF:-1,CBC EDMONTON
+http://199.66.95.242:80/1/1037/index.m3u8?token=test
+#EXTINF:-1,CBC OTTAWA
+http://199.66.95.242:80/1/1038/index.m3u8?token=test
+#EXTINF:-1,CNN HD
+http://199.66.95.242:80/1/1040/index.m3u8?token=test
+#EXTINF:-1,CTV OTTAWA
+http://199.66.95.242:80/1/1039/index.m3u8?token=test
+#EXTINF:-1,NBC EAST
+http://199.66.95.242:80/1/1041/index.m3u8?token=test
+#EXTINF:-1,W NETWORK HD
+http://199.66.95.242:80/1/1042/index.m3u8?token=test
+#EXTINF:-1,CNBC HD
+http://199.66.95.242:80/1/1043/index.m3u8?token=test
+#EXTINF:-1,VICELAND
+http://199.66.95.242:80/1/1045/index.m3u8?token=test
+#EXTINF:-1,CTV WINNIPEG
+http://199.66.95.242:80/1/1046/index.m3u8?token=test
+#EXTINF:-1,MTV HD
+http://199.66.95.242:80/1/1044/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HD USA
+http://199.66.95.242:80/1/1001/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HD (CDN)
+http://199.66.95.242:80/1/1048/index.m3u8?token=test
+#EXTINF:-1,CBC WINNIPEG
+http://199.66.95.242:80/1/1047/index.m3u8?token=test
+#EXTINF:-1,FXX HD
+http://199.66.95.242:80/1/1049/index.m3u8?token=test
+#EXTINF:-1,HLN
+http://199.66.95.242:80/1/1051/index.m3u8?token=test
+#EXTINF:-1,DIY HD
+http://199.66.95.242:80/1/1050/index.m3u8?token=test
+#EXTINF:-1,SYFY HD
+http://199.66.95.242:80/1/1052/index.m3u8?token=test
+#EXTINF:-1,CITY TV
+http://199.66.95.242:80/1/1054/index.m3u8?token=test
+#EXTINF:-1,CW11 HD WEST
+http://199.66.95.242:80/1/1053/index.m3u8?token=test
+#EXTINF:-1,CHCH
+http://199.66.95.242:80/1/1055/index.m3u8?token=test
+#EXTINF:-1,TNT HD
+http://199.66.95.242:80/1/1008/index.m3u8?token=test
+#EXTINF:-1,CBC HD EAST
+http://199.66.95.242:80/1/1056/index.m3u8?token=test
+#EXTINF:-1,OMNI 1
+http://199.66.95.242:80/1/1057/index.m3u8?token=test
+#EXTINF:-1,CTV EAST HD
+http://199.66.95.242:80/1/1058/index.m3u8?token=test
+#EXTINF:-1,GLOBAL HD EAST
+http://199.66.95.242:80/1/1059/index.m3u8?token=test
+#EXTINF:-1,YES TV
+http://199.66.95.242:80/1/1062/index.m3u8?token=test
+#EXTINF:-1,OMNI 2
+http://199.66.95.242:80/1/1060/index.m3u8?token=test
+#EXTINF:-1,PBS HD
+http://199.66.95.242:80/1/1063/index.m3u8?token=test
+#EXTINF:-1,METV
+http://199.66.95.242:80/1/1065/index.m3u8?token=test
+#EXTINF:-1,CITY MTL
+http://199.66.95.242:80/1/1066/index.m3u8?token=test
+#EXTINF:-1,CBC MTL
+http://199.66.95.242:80/1/1068/index.m3u8?token=test
+#EXTINF:-1,GLOBAL MTL
+http://199.66.95.242:80/1/1067/index.m3u8?token=test
+#EXTINF:-1,CTV MTL
+http://199.66.95.242:80/1/1069/index.m3u8?token=test
+#EXTINF:-1,CP24
+http://199.66.95.242:80/1/1071/index.m3u8?token=test
+#EXTINF:-1,FRANCE 24
+http://199.66.95.242:80/1/1070/index.m3u8?token=test
+#EXTINF:-1,CP24 (H264)
+http://199.66.95.242:80/1/1072/index.m3u8?token=test
+#EXTINF:-1,CBS EAST
+http://199.66.95.242:80/1/1073/index.m3u8?token=test
+#EXTINF:-1,IFC
+http://199.66.95.242:80/1/1075/index.m3u8?token=test
+#EXTINF:-1,CTV HALIFAX
+http://199.66.95.242:80/1/1074/index.m3u8?token=test
+#EXTINF:-1,TLC
+http://199.66.95.242:80/1/1076/index.m3u8?token=test
+#EXTINF:-1,PEACHTREE
+http://199.66.95.242:80/1/1077/index.m3u8?token=test
+#EXTINF:-1,TRU TV EAST
+http://199.66.95.242:80/1/1078/index.m3u8?token=test
+#EXTINF:-1,SHOWCASE
+http://199.66.95.242:80/1/1079/index.m3u8?token=test
+#EXTINF:-1,VH1 US
+http://199.66.95.242:80/1/1080/index.m3u8?token=test
+#EXTINF:-1,DESTINATION AMERICA
+http://199.66.95.242:80/1/1081/index.m3u8?token=test
+#EXTINF:-1,E!
+http://199.66.95.242:80/1/1082/index.m3u8?token=test
+#EXTINF:-1,SLICE
+http://199.66.95.242:80/1/1083/index.m3u8?token=test
+#EXTINF:-1,A&E
+http://199.66.95.242:80/1/1084/index.m3u8?token=test
+#EXTINF:-1,BET
+http://199.66.95.242:80/1/1085/index.m3u8?token=test
+#EXTINF:-1,COTTAGE LIFE
+http://199.66.95.242:80/1/1086/index.m3u8?token=test
+#EXTINF:-1,SUNDANCE
+http://199.66.95.242:80/1/1088/index.m3u8?token=test
+#EXTINF:-1,EL REY
+http://199.66.95.242:80/1/1087/index.m3u8?token=test
+#EXTINF:-1,STARZ BLACK
+http://199.66.95.242:80/1/1089/index.m3u8?token=test
+#EXTINF:-1,STARZ COMEDY
+http://199.66.95.242:80/1/1090/index.m3u8?token=test
+#EXTINF:-1,STARZ EDGE
+http://199.66.95.242:80/1/1091/index.m3u8?token=test
+#EXTINF:-1,STARZ EAST US
+http://199.66.95.242:80/1/1092/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME EAST
+http://199.66.95.242:80/1/1093/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME EXTREME
+http://199.66.95.242:80/1/1097/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME 2
+http://199.66.95.242:80/1/1094/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME WOMEN
+http://199.66.95.242:80/1/1096/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME NEXT
+http://199.66.95.242:80/1/1098/index.m3u8?token=test
+#EXTINF:-1,SHOWTIME BEYOND
+http://199.66.95.242:80/1/1095/index.m3u8?token=test
+#EXTINF:-1,FX EAST US
+http://199.66.95.242:80/1/1099/index.m3u8?token=test
+#EXTINF:-1,PARAMOUNT NETWORK US
+http://199.66.95.242:80/1/1101/index.m3u8?token=test
+#EXTINF:-1,FXM US
+http://199.66.95.242:80/1/1100/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY ID EAST US
+http://199.66.95.242:80/1/1102/index.m3u8?token=test
+#EXTINF:-1,MSNBC
+http://199.66.95.242:80/1/1103/index.m3u8?token=test
+#EXTINF:-1,ENCORE WESTERN
+http://199.66.95.242:80/1/1104/index.m3u8?token=test
+#EXTINF:-1,USA NETWORK EAST
+http://199.66.95.242:80/1/1105/index.m3u8?token=test
+#EXTINF:-1,LIFETIME MOVIES
+http://199.66.95.242:80/1/1107/index.m3u8?token=test
+#EXTINF:-1,ANIMAL PLANET CA
+http://199.66.95.242:80/1/1106/index.m3u8?token=test
+#EXTINF:-1,HBO EAST US
+http://199.66.95.242:80/1/1108/index.m3u8?token=test
+#EXTINF:-1,GSN CA
+http://199.66.95.242:80/1/1109/index.m3u8?token=test
+#EXTINF:-1,HBO SIGNATURE
+http://199.66.95.242:80/1/1111/index.m3u8?token=test
+#EXTINF:-1,REVOLT US
+http://199.66.95.242:80/1/1110/index.m3u8?token=test
+#EXTINF:-1,HBO FAMILY
+http://199.66.95.242:80/1/1112/index.m3u8?token=test
+#EXTINF:-1,BBC WORLD NEWS
+http://199.66.95.242:80/1/1114/index.m3u8?token=test
+#EXTINF:-1,BBC CANADA
+http://199.66.95.242:80/1/1113/index.m3u8?token=test
+#EXTINF:-1,BBC AMERICA
+http://199.66.95.242:80/1/1115/index.m3u8?token=test
+#EXTINF:-1,CBC NEWS NETWORK
+http://199.66.95.242:80/1/1117/index.m3u8?token=test
+#EXTINF:-1,OWN US
+http://199.66.95.242:80/1/1116/index.m3u8?token=test
+#EXTINF:-1,HALLMARK MOVIES MYSTERY
+http://199.66.95.242:80/1/1119/index.m3u8?token=test
+#EXTINF:-1,HALLMARK
+http://199.66.95.242:80/1/1118/index.m3u8?token=test
+#EXTINF:-1,BNN CA
+http://199.66.95.242:80/1/1121/index.m3u8?token=test
+#EXTINF:-1,NAT GEO EAST US
+http://199.66.95.242:80/1/1120/index.m3u8?token=test
+#EXTINF:-1,FOX WEST US
+http://199.66.95.242:80/1/1122/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY SCIENCE US
+http://199.66.95.242:80/1/1124/index.m3u8?token=test
+#EXTINF:-1,FOX EAST US
+http://199.66.95.242:80/1/1123/index.m3u8?token=test
+#EXTINF:-1,DEJAVIEW CA
+http://199.66.95.242:80/1/1126/index.m3u8?token=test
+#EXTINF:-1,VISION CA
+http://199.66.95.242:80/1/1125/index.m3u8?token=test
+#EXTINF:-1,ABC WEST
+http://199.66.95.242:80/1/1128/index.m3u8?token=test
+#EXTINF:-1,CBS WEST
+http://199.66.95.242:80/1/1129/index.m3u8?token=test
+#EXTINF:-1,NBC WEST
+http://199.66.95.242:80/1/1127/index.m3u8?token=test
+#EXTINF:-1,POP US
+http://199.66.95.242:80/1/1130/index.m3u8?token=test
+#EXTINF:-1,FYI US
+http://199.66.95.242:80/1/1131/index.m3u8?token=test
+#EXTINF:-1,COOKING CHANNEL US
+http://199.66.95.242:80/1/1134/index.m3u8?token=test
+#EXTINF:-1,OLN
+http://199.66.95.242:80/1/1132/index.m3u8?token=test
+#EXTINF:-1,MAKEFUL
+http://199.66.95.242:80/1/1133/index.m3u8?token=test
+#EXTINF:-1,FOOD EAST US
+http://199.66.95.242:80/1/1135/index.m3u8?token=test
+#EXTINF:-1,AMERICAN HEROES
+http://199.66.95.242:80/1/1136/index.m3u8?token=test
+#EXTINF:-1,MOTOR TREND
+http://199.66.95.242:80/1/1137/index.m3u8?token=test
+#EXTINF:-1,CBS NEWS
+http://199.66.95.242:80/1/1139/index.m3u8?token=test
+#EXTINF:-1,TRAVEL XP
+http://199.66.95.242:80/1/1138/index.m3u8?token=test
+#EXTINF:-1,AL JAZEERA UK
+http://199.66.95.242:80/1/1141/index.m3u8?token=test
+#EXTINF:-1,ABC NEWS
+http://199.66.95.242:80/1/1140/index.m3u8?token=test
+#EXTINF:-1,EPIX 2
+http://199.66.95.242:80/1/1143/index.m3u8?token=test
+#EXTINF:-1,EPIX US
+http://199.66.95.242:80/1/1142/index.m3u8?token=test
+#EXTINF:-1,EPIX DRIVE-IN'S
+http://199.66.95.242:80/1/1144/index.m3u8?token=test
+#EXTINF:-1,EPIX HITS
+http://199.66.95.242:80/1/1145/index.m3u8?token=test
+#EXTINF:-1,CRAVE 1
+http://199.66.95.242:80/1/1147/index.m3u8?token=test
+#EXTINF:-1,SUPER CHANNEL FUSE
+http://199.66.95.242:80/1/1146/index.m3u8?token=test
+#EXTINF:-1,CRAVE 3
+http://199.66.95.242:80/1/1148/index.m3u8?token=test
+#EXTINF:-1,RT NEWS US
+http://199.66.95.242:80/1/1149/index.m3u8?token=test
+#EXTINF:-1,THE WEATHER NETWORK CA
+http://199.66.95.242:80/1/1151/index.m3u8?token=test
+#EXTINF:-1,THE WEATHER CHANNEL US
+http://199.66.95.242:80/1/1150/index.m3u8?token=test
+#EXTINF:-1,BLOOMBERG US
+http://199.66.95.242:80/1/1153/index.m3u8?token=test
+#EXTINF:-1,EURONEWS
+http://199.66.95.242:80/1/1152/index.m3u8?token=test
+#EXTINF:-1,TRT WORLD
+http://199.66.95.242:80/1/1154/index.m3u8?token=test
+#EXTINF:-1,TSC
+http://199.66.95.242:80/1/1155/index.m3u8?token=test
+#EXTINF:-1,QVC
+http://199.66.95.242:80/1/1156/index.m3u8?token=test
+#EXTINF:-1,MTV 2 US
+http://199.66.95.242:80/1/1157/index.m3u8?token=test
+#EXTINF:-1,BET HER
+http://199.66.95.242:80/1/1159/index.m3u8?token=test
+#EXTINF:-1,MIRACLE
+http://199.66.95.242:80/1/1158/index.m3u8?token=test
+#EXTINF:-1,CTV CALGARY
+http://199.66.95.242:80/1/1160/index.m3u8?token=test
+#EXTINF:-1,CBC CALGARY
+http://199.66.95.242:80/1/1161/index.m3u8?token=test
+#EXTINF:-1,COMEDY CHANNEL
+http://199.66.95.242:80/1/1163/index.m3u8?token=test
+#EXTINF:-1,CCTV NEWS
+http://199.66.95.242:80/1/1162/index.m3u8?token=test
+#EXTINF:-1,ACTION MAX
+http://199.66.95.242:80/1/1165/index.m3u8?token=test
+#EXTINF:-1,CINEMAX EAST
+http://199.66.95.242:80/1/1164/index.m3u8?token=test
+#EXTINF:-1,THRILLER MAX
+http://199.66.95.242:80/1/1166/index.m3u8?token=test
+#EXTINF:-1,5STAR MAX
+http://199.66.95.242:80/1/1167/index.m3u8?token=test
+#EXTINF:-1,MORE MAX
+http://199.66.95.242:80/1/1168/index.m3u8?token=test
+#EXTINF:-1,HBO ZONE
+http://199.66.95.242:80/1/1169/index.m3u8?token=test
+#EXTINF:-1,HBO COMEDY
+http://199.66.95.242:80/1/1170/index.m3u8?token=test
+#EXTINF:-1,NAT GEO WILD US
+http://199.66.95.242:80/1/1171/index.m3u8?token=test
+#EXTINF:-1,FOX BUSINESS
+http://199.66.95.242:80/1/1172/index.m3u8?token=test
+#EXTINF:-1,CBC VANCOUVER
+http://199.66.95.242:80/1/1175/index.m3u8?token=test
+#EXTINF:-1,CITY CALGARY
+http://199.66.95.242:80/1/1174/index.m3u8?token=test
+#EXTINF:-1,DW NEWS
+http://199.66.95.242:80/1/1173/index.m3u8?token=test
+#EXTINF:-1,CTV 2 VANCOUVER
+http://199.66.95.242:80/1/1177/index.m3u8?token=test
+#EXTINF:-1,CITY VANCOUVER
+http://199.66.95.242:80/1/1178/index.m3u8?token=test
+#EXTINF:-1,VAULT
+http://199.66.95.242:80/1/1180/index.m3u8?token=test
+#EXTINF:-1,BOOK TV
+http://199.66.95.242:80/1/1179/index.m3u8?token=test
+#EXTINF:-1,GUSTO
+http://199.66.95.242:80/1/1182/index.m3u8?token=test
+#EXTINF:-1,LOCAL NOW
+http://199.66.95.242:80/1/1212/index.m3u8?token=test
+#EXTINF:-1,OUT TV
+http://199.66.95.242:80/1/1183/index.m3u8?token=test
+#EXTINF:-1,CITY WINNIPEG
+http://199.66.95.242:80/1/1186/index.m3u8?token=test
+#EXTINF:-1,CBC CHARLOTTETOWN
+http://199.66.95.242:80/1/1184/index.m3u8?token=test
+#EXTINF:-1,CBC WINDSOR
+http://199.66.95.242:80/1/1185/index.m3u8?token=test
+#EXTINF:-1,HSN 2
+http://199.66.95.242:80/1/1215/index.m3u8?token=test
+#EXTINF:-1,CTV2 ATLANTIC
+http://199.66.95.242:80/1/1187/index.m3u8?token=test
+#EXTINF:-1,CTV MONCTON
+http://199.66.95.242:80/1/1188/index.m3u8?token=test
+#EXTINF:-1,CTV NEW BRUNSWICK
+http://199.66.95.242:80/1/1189/index.m3u8?token=test
+#EXTINF:-1,GINX CA
+http://199.66.95.242:80/1/1190/index.m3u8?token=test
+#EXTINF:-1,GLOBAL LETHBRIDGE
+http://199.66.95.242:80/1/1191/index.m3u8?token=test
+#EXTINF:-1,NTV NEWFOUNDLAND
+http://199.66.95.242:80/1/1192/index.m3u8?token=test
+#EXTINF:-1,OMNI BC
+http://199.66.95.242:80/1/1193/index.m3u8?token=test
+#EXTINF:-1,OMNI CALGARY
+http://199.66.95.242:80/1/1194/index.m3u8?token=test
+#EXTINF:-1,OMNI PRARIES
+http://199.66.95.242:80/1/1195/index.m3u8?token=test
+#EXTINF:-1,HALLMARK DRAMA
+http://199.66.95.242:80/1/1197/index.m3u8?token=test
+#EXTINF:-1,WSBK
+http://199.66.95.242:80/1/1196/index.m3u8?token=test
+#EXTINF:-1,m2o music
+http://199.66.95.242:80/1/1198/index.m3u8?token=test
+#EXTINF:-1,RT DOC
+http://199.66.95.242:80/1/1199/index.m3u8?token=test
+#EXTINF:-1,CTV SCI-FI (SPACE)
+http://199.66.95.242:80/1/1201/index.m3u8?token=test
+#EXTINF:-1,GLOBAL BC/WEST
+http://199.66.95.242:80/1/1200/index.m3u8?token=test
+#EXTINF:-1,GLOBAL DURHAM
+http://199.66.95.242:80/1/1203/index.m3u8?token=test
+#EXTINF:-1,CW11 HD EAST
+http://199.66.95.242:80/1/1202/index.m3u8?token=test
+#EXTINF:-1,JOY TV
+http://199.66.95.242:80/1/1205/index.m3u8?token=test
+#EXTINF:-1,TASTEMADE
+http://199.66.95.242:80/1/1206/index.m3u8?token=test
+#EXTINF:-1,FOLK TV
+http://199.66.95.242:80/1/1207/index.m3u8?token=test
+#EXTINF:-1,HIFI HD
+http://199.66.95.242:80/1/1208/index.m3u8?token=test
+#EXTINF:-1,CABLE 14 HAMILTON
+http://199.66.95.242:80/1/1209/index.m3u8?token=test
+#EXTINF:-1,TASTY TRADE
+http://199.66.95.242:80/1/1210/index.m3u8?token=test
+#EXTINF:-1,ONE AMERICAN NEWS NETWORK
+http://199.66.95.242:80/1/1211/index.m3u8?token=test
+#EXTINF:-1,CHEDDAR NEWS
+http://199.66.95.242:80/1/1213/index.m3u8?token=test
+#EXTINF:-1,HSN
+http://199.66.95.242:80/1/1214/index.m3u8?token=test
+#EXTINF:-1,MOVIEMAX HD
+http://199.66.95.242:80/1/1216/index.m3u8?token=test
+#EXTINF:-1,COVID-19 UPDATE 1
+http://199.66.95.242:80/1/1217/index.m3u8?token=test
+#EXTINF:-1,COVID-19 UPDATE 2
+http://199.66.95.242:80/1/1218/index.m3u8?token=test
+#EXTINF:-1,SKY 2
+http://199.66.95.242:80/1/1300/index.m3u8?token=test
+#EXTINF:-1,SKY 5STAR
+http://199.66.95.242:80/1/1301/index.m3u8?token=test
+#EXTINF:-1,SKY ALIBI
+http://199.66.95.242:80/1/1302/index.m3u8?token=test
+#EXTINF:-1,SKY ANIMAL PLANET
+http://199.66.95.242:80/1/1303/index.m3u8?token=test
+#EXTINF:-1,SKY ARTS
+http://199.66.95.242:80/1/1304/index.m3u8?token=test
+#EXTINF:-1,SKY AT THE RACES
+http://199.66.95.242:80/1/1306/index.m3u8?token=test
+#EXTINF:-1,SKY ATLANTIC
+http://199.66.95.242:80/1/1305/index.m3u8?token=test
+#EXTINF:-1,SKY BBC 2
+http://199.66.95.242:80/1/1308/index.m3u8?token=test
+#EXTINF:-1,SKY BBC 1
+http://199.66.95.242:80/1/1307/index.m3u8?token=test
+#EXTINF:-1,SKY BBC 4
+http://199.66.95.242:80/1/1309/index.m3u8?token=test
+#EXTINF:-1,SKY BT SPORTS 1
+http://199.66.95.242:80/1/1312/index.m3u8?token=test
+#EXTINF:-1,SKY BT SPORTS 2
+http://199.66.95.242:80/1/1313/index.m3u8?token=test
+#EXTINF:-1,SKY BT SPORTS ESPN
+http://199.66.95.242:80/1/1315/index.m3u8?token=test
+#EXTINF:-1,SKY BOX NATION
+http://199.66.95.242:80/1/1311/index.m3u8?token=test
+#EXTINF:-1,SKY BOOMERANG
+http://199.66.95.242:80/1/1310/index.m3u8?token=test
+#EXTINF:-1,SKY BT SPORTS 3
+http://199.66.95.242:80/1/1314/index.m3u8?token=test
+#EXTINF:-1,SKY CARTOON NETWORK
+http://199.66.95.242:80/1/1316/index.m3u8?token=test
+#EXTINF:-1,SKY CBS ACTION
+http://199.66.95.242:80/1/1317/index.m3u8?token=test
+#EXTINF:-1,SKY CBS DRAMA
+http://199.66.95.242:80/1/1318/index.m3u8?token=test
+#EXTINF:-1,SKY CBS REALITY
+http://199.66.95.242:80/1/1319/index.m3u8?token=test
+#EXTINF:-1,SKY CHANNEL 4
+http://199.66.95.242:80/1/1320/index.m3u8?token=test
+#EXTINF:-1,SKY CHANNEL 5
+http://199.66.95.242:80/1/1321/index.m3u8?token=test
+#EXTINF:-1,SKY COMEDY CENTRAL
+http://199.66.95.242:80/1/1322/index.m3u8?token=test
+#EXTINF:-1,SKY DAVE
+http://199.66.95.242:80/1/1324/index.m3u8?token=test
+#EXTINF:-1,SKY CRIME AND INVESTIGATION
+http://199.66.95.242:80/1/1323/index.m3u8?token=test
+#EXTINF:-1,SKY DISCOVERY
+http://199.66.95.242:80/1/1325/index.m3u8?token=test
+#EXTINF:-1,SKY DISCOVERY SCIENCE
+http://199.66.95.242:80/1/1327/index.m3u8?token=test
+#EXTINF:-1,SKY DISCOVERY HISTORY
+http://199.66.95.242:80/1/1326/index.m3u8?token=test
+#EXTINF:-1,SKY DISCOVERY SHED
+http://199.66.95.242:80/1/1328/index.m3u8?token=test
+#EXTINF:-1,SKY DISCOVERY TURBO
+http://199.66.95.242:80/1/1329/index.m3u8?token=test
+#EXTINF:-1,SKY DISNEY JR
+http://199.66.95.242:80/1/1331/index.m3u8?token=test
+#EXTINF:-1,SKY EDEN
+http://199.66.95.242:80/1/1335/index.m3u8?token=test
+#EXTINF:-1,SKY EURO SPORT 1
+http://199.66.95.242:80/1/1337/index.m3u8?token=test
+#EXTINF:-1,SKY DISNEY XD
+http://199.66.95.242:80/1/1332/index.m3u8?token=test
+#EXTINF:-1,SKY E! UK
+http://199.66.95.242:80/1/1333/index.m3u8?token=test
+#EXTINF:-1,SKY E4
+http://199.66.95.242:80/1/1334/index.m3u8?token=test
+#EXTINF:-1,SKY EURO SPORT 2
+http://199.66.95.242:80/1/1338/index.m3u8?token=test
+#EXTINF:-1,SKY FILM 4
+http://199.66.95.242:80/1/1339/index.m3u8?token=test
+#EXTINF:-1,SKY FOOD NETWORK
+http://199.66.95.242:80/1/1340/index.m3u8?token=test
+#EXTINF:-1,SKY FOX
+http://199.66.95.242:80/1/1341/index.m3u8?token=test
+#EXTINF:-1,SKY GOOD FOOD
+http://199.66.95.242:80/1/1342/index.m3u8?token=test
+#EXTINF:-1,SKY HISTORY
+http://199.66.95.242:80/1/1344/index.m3u8?token=test
+#EXTINF:-1,SKY H2
+http://199.66.95.242:80/1/1343/index.m3u8?token=test
+#EXTINF:-1,SKY HOME
+http://199.66.95.242:80/1/1345/index.m3u8?token=test
+#EXTINF:-1,SKY HORROR CHANNEL
+http://199.66.95.242:80/1/1346/index.m3u8?token=test
+#EXTINF:-1,SKY ITV1
+http://199.66.95.242:80/1/1347/index.m3u8?token=test
+#EXTINF:-1,SKY ITV3
+http://199.66.95.242:80/1/1349/index.m3u8?token=test
+#EXTINF:-1,SKY ITV2
+http://199.66.95.242:80/1/1348/index.m3u8?token=test
+#EXTINF:-1,SKY ITV4
+http://199.66.95.242:80/1/1350/index.m3u8?token=test
+#EXTINF:-1,SKY ITVBE
+http://199.66.95.242:80/1/1351/index.m3u8?token=test
+#EXTINF:-1,SKY LIVING
+http://199.66.95.242:80/1/1352/index.m3u8?token=test
+#EXTINF:-1,SKY MORE 4
+http://199.66.95.242:80/1/1353/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES ACTION
+http://199.66.95.242:80/1/1354/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES CRIME THRILLER
+http://199.66.95.242:80/1/1360/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES COMEDY
+http://199.66.95.242:80/1/1355/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES DISNEY
+http://199.66.95.242:80/1/1356/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES DRAMA ROMANCE
+http://199.66.95.242:80/1/1357/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES FAMILY
+http://199.66.95.242:80/1/1358/index.m3u8?token=test
+#EXTINF:-1,SKY NAT GEO WILD
+http://199.66.95.242:80/1/1362/index.m3u8?token=test
+#EXTINF:-1,SKY NAT GEO
+http://199.66.95.242:80/1/1361/index.m3u8?token=test
+#EXTINF:-1,SKY NEWS
+http://199.66.95.242:80/1/1363/index.m3u8?token=test
+#EXTINF:-1,SKY NICK JR
+http://199.66.95.242:80/1/1364/index.m3u8?token=test
+#EXTINF:-1,SKY NICKTOONS
+http://199.66.95.242:80/1/1365/index.m3u8?token=test
+#EXTINF:-1,SKY QUEST
+http://199.66.95.242:80/1/1366/index.m3u8?token=test
+#EXTINF:-1,SKY MOVIES PREMIERE
+http://199.66.95.242:80/1/1359/index.m3u8?token=test
+#EXTINF:-1,SKY REALLY
+http://199.66.95.242:80/1/1367/index.m3u8?token=test
+#EXTINF:-1,SKY SONY MOVIES
+http://199.66.95.242:80/1/1372/index.m3u8?token=test
+#EXTINF:-1,SKY RTE1
+http://199.66.95.242:80/1/1368/index.m3u8?token=test
+#EXTINF:-1,SKY RTE2
+http://199.66.95.242:80/1/1369/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS F1
+http://199.66.95.242:80/1/1373/index.m3u8?token=test
+#EXTINF:-1,SKY RTE JR
+http://199.66.95.242:80/1/1370/index.m3u8?token=test
+#EXTINF:-1,SKY RTE NEWS NOW
+http://199.66.95.242:80/1/1371/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS ACTION
+http://199.66.95.242:80/1/1374/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://199.66.95.242:80/1/1378/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS CRICKET
+http://199.66.95.242:80/1/1376/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS ARENA
+http://199.66.95.242:80/1/1375/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS GOLF
+http://199.66.95.242:80/1/1377/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS NEWS
+http://199.66.95.242:80/1/1380/index.m3u8?token=test
+#EXTINF:-1,SKY TCM
+http://199.66.95.242:80/1/1384/index.m3u8?token=test
+#EXTINF:-1,SKY SYFY
+http://199.66.95.242:80/1/1382/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://199.66.95.242:80/1/1381/index.m3u8?token=test
+#EXTINF:-1,SKY TLC
+http://199.66.95.242:80/1/1385/index.m3u8?token=test
+#EXTINF:-1,SKY TBN
+http://199.66.95.242:80/1/1383/index.m3u8?token=test
+#EXTINF:-1,SKY TRUE MOVIES
+http://199.66.95.242:80/1/1386/index.m3u8?token=test
+#EXTINF:-1,SKY TRUTV
+http://199.66.95.242:80/1/1387/index.m3u8?token=test
+#EXTINF:-1,3ABN (XTIAN)
+http://199.66.95.242:80/1/1401/index.m3u8?token=test
+#EXTINF:-1,3ABN KIDS (XTIAN)
+http://199.66.95.242:80/1/1402/index.m3u8?token=test
+#EXTINF:-1,AMAZING DISCOVERIES (XTIAN)
+http://199.66.95.242:80/1/1403/index.m3u8?token=test
+#EXTINF:-1,BEACON TV (XTIAN)
+http://199.66.95.242:80/1/1404/index.m3u8?token=test
+#EXTINF:-1,BIBLE EXPLORATIONS (XTIAN)
+http://199.66.95.242:80/1/1406/index.m3u8?token=test
+#EXTINF:-1,CBN NEWS (XTIAN)
+http://199.66.95.242:80/1/1407/index.m3u8?token=test
+#EXTINF:-1,CBN TV (XTIAN)
+http://199.66.95.242:80/1/1408/index.m3u8?token=test
+#EXTINF:-1,CHURCH CHANNEL
+http://199.66.95.242:80/1/1409/index.m3u8?token=test
+#EXTINF:-1,CTN (XTIAN)
+http://199.66.95.242:80/1/1410/index.m3u8?token=test
+#EXTINF:-1,DAYSTAR (XTIAN)
+http://199.66.95.242:80/1/1411/index.m3u8?token=test
+#EXTINF:-1,GCN (XTIAN)
+http://199.66.95.242:80/1/1412/index.m3u8?token=test
+#EXTINF:-1,GOD TV USA (XTIAN)
+http://199.66.95.242:80/1/1413/index.m3u8?token=test
+#EXTINF:-1,INSPIRATION TV (XTIAN)
+http://199.66.95.242:80/1/1415/index.m3u8?token=test
+#EXTINF:-1,LOVE WORLD USA (XTIAN)
+http://199.66.95.242:80/1/1416/index.m3u8?token=test
+#EXTINF:-1,MIRACLE CHANNEL (XTIAN)
+http://199.66.95.242:80/1/1417/index.m3u8?token=test
+#EXTINF:-1,SMILE OF A CHILD (XTIAN)
+http://199.66.95.242:80/1/1418/index.m3u8?token=test
+#EXTINF:-1,SON LIFE BROADCASTING NETWORK (XTIAN)
+http://199.66.95.242:80/1/1419/index.m3u8?token=test
+#EXTINF:-1,TCT HD (XTIAN)
+http://199.66.95.242:80/1/1420/index.m3u8?token=test
+#EXTINF:-1,TCT KIDS (XTIAN)
+http://199.66.95.242:80/1/1421/index.m3u8?token=test
+#EXTINF:-1,SPIRIT TV MUSIC (XTIAN)
+http://199.66.95.242:80/1/1423/index.m3u8?token=test
+#EXTINF:-1,HIS WORD (XTIAN)
+http://199.66.95.242:80/1/1424/index.m3u8?token=test
+#EXTINF:-1,KINGDOMIMPACT (XTIAN)
+http://199.66.95.242:80/1/1426/index.m3u8?token=test
+#EXTINF:-1,MIRACE (XIAN)
+http://199.66.95.242:80/1/1428/index.m3u8?token=test
+#EXTINF:-1,3ABN PRAISE HIM (XTIAN)
+http://199.66.95.242:80/1/1429/index.m3u8?token=test
+#EXTINF:-1,FOX SPORT NEWS AU
+http://199.66.95.242:80/1/1500/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 501 AU
+http://199.66.95.242:80/1/1501/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 502 AU
+http://199.66.95.242:80/1/1502/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 503 AU
+http://199.66.95.242:80/1/1503/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 504 AU
+http://199.66.95.242:80/1/1504/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 506 AU
+http://199.66.95.242:80/1/1506/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 507 AU
+http://199.66.95.242:80/1/1507/index.m3u8?token=test
+#EXTINF:-1,BEIN 1 AU
+http://199.66.95.242:80/1/1510/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 505 AU
+http://199.66.95.242:80/1/1505/index.m3u8?token=test
+#EXTINF:-1,
+http://199.66.95.242:80/1/1508/index.m3u8?token=test
+#EXTINF:-1,ESPN 2 AU
+http://199.66.95.242:80/1/1509/index.m3u8?token=test
+#EXTINF:-1,BEIN 2 AU
+http://199.66.95.242:80/1/1511/index.m3u8?token=test
+#EXTINF:-1,BEIN 3 AU
+http://199.66.95.242:80/1/1512/index.m3u8?token=test
+#EXTINF:-1,RACING AU
+http://199.66.95.242:80/1/1513/index.m3u8?token=test
+#EXTINF:-1,CHEK VANCOUVER
+http://199.66.95.242:80/1/1514/index.m3u8?token=test
+#EXTINF:-1,CBS SPORTS
+http://199.66.95.242:80/3/3001/index.m3u8?token=test
+#EXTINF:-1,TSN 3 HD
+http://199.66.95.242:80/3/3005/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET PACIFIC
+http://199.66.95.242:80/3/3004/index.m3u8?token=test
+#EXTINF:-1,BIG 10 HD
+http://199.66.95.242:80/3/3003/index.m3u8?token=test
+#EXTINF:-1,TSN 5 HD
+http://199.66.95.242:80/3/3006/index.m3u8?token=test
+#EXTINF:-1,BEIN SPORTS HD
+http://199.66.95.242:80/3/3002/index.m3u8?token=test
+#EXTINF:-1,MLB NETWORK HD
+http://199.66.95.242:80/3/3007/index.m3u8?token=test
+#EXTINF:-1,NBC SPORTS
+http://199.66.95.242:80/3/3009/index.m3u8?token=test
+#EXTINF:-1,REDZONE HD
+http://199.66.95.242:80/3/3008/index.m3u8?token=test
+#EXTINF:-1,WILLOW CRICKET HD
+http://199.66.95.242:80/3/3010/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET 360
+http://199.66.95.242:80/3/3019/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET ONE
+http://199.66.95.242:80/3/3020/index.m3u8?token=test
+#EXTINF:-1,WILLOW XTRA HD
+http://199.66.95.242:80/3/3024/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET ONT
+http://199.66.95.242:80/3/3021/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 1
+http://199.66.95.242:80/3/3022/index.m3u8?token=test
+#EXTINF:-1,WWE HD
+http://199.66.95.242:80/3/3026/index.m3u8?token=test
+#EXTINF:-1,FIGHT NETWORK
+http://199.66.95.242:80/3/3023/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET WEST
+http://199.66.95.242:80/3/3025/index.m3u8?token=test
+#EXTINF:-1,PPV 1
+http://199.66.95.242:80/3/3028/index.m3u8?token=test
+#EXTINF:-1,PPV 2
+http://199.66.95.242:80/3/3029/index.m3u8?token=test
+#EXTINF:-1,TVG
+http://199.66.95.242:80/3/3030/index.m3u8?token=test
+#EXTINF:-1,TENNIS HD
+http://199.66.95.242:80/3/3027/index.m3u8?token=test
+#EXTINF:-1,ESPN 2 HD
+http://199.66.95.242:80/3/3031/index.m3u8?token=test
+#EXTINF:-1,ESPN NEWS HD
+http://199.66.95.242:80/3/3032/index.m3u8?token=test
+#EXTINF:-1,ESPN U
+http://199.66.95.242:80/3/3033/index.m3u8?token=test
+#EXTINF:-1,FOX COLLEGE ATLANTIC
+http://199.66.95.242:80/3/3034/index.m3u8?token=test
+#EXTINF:-1,NFL NETWORK
+http://199.66.95.242:80/3/3036/index.m3u8?token=test
+#EXTINF:-1,FOX COLLEGE PACIFIC
+http://199.66.95.242:80/3/3035/index.m3u8?token=test
+#EXTINF:-1,NHL NETWORK
+http://199.66.95.242:80/3/3037/index.m3u8?token=test
+#EXTINF:-1,NBA HD
+http://199.66.95.242:80/3/3038/index.m3u8?token=test
+#EXTINF:-1,MSG HD
+http://199.66.95.242:80/3/3039/index.m3u8?token=test
+#EXTINF:-1,GOLF HD
+http://199.66.95.242:80/3/3040/index.m3u8?token=test
+#EXTINF:-1,TSN 1 HD
+http://199.66.95.242:80/3/3042/index.m3u8?token=test
+#EXTINF:-1,WFN
+http://199.66.95.242:80/3/3041/index.m3u8?token=test
+#EXTINF:-1,TSN 4 HD
+http://199.66.95.242:80/3/3044/index.m3u8?token=test
+#EXTINF:-1,TSN 2 HD
+http://199.66.95.242:80/3/3043/index.m3u8?token=test
+#EXTINF:-1,ESPN HD
+http://199.66.95.242:80/3/3046/index.m3u8?token=test
+#EXTINF:-1,FOX SPORTS 2
+http://199.66.95.242:80/3/3045/index.m3u8?token=test
+#EXTINF:-1,PAC 12 ARIZONA
+http://199.66.95.242:80/3/3047/index.m3u8?token=test
+#EXTINF:-1,PAC 12 BAY AREA
+http://199.66.95.242:80/3/3048/index.m3u8?token=test
+#EXTINF:-1,PAC 12 LOS ANGELES
+http://199.66.95.242:80/3/3049/index.m3u8?token=test
+#EXTINF:-1,PAC 12 MOUNTAIN
+http://199.66.95.242:80/3/3050/index.m3u8?token=test
+#EXTINF:-1,PAC 12 OREGON
+http://199.66.95.242:80/3/3051/index.m3u8?token=test
+#EXTINF:-1,SPORTSNET WORLD
+http://199.66.95.242:80/3/3053/index.m3u8?token=test
+#EXTINF:-1,PAC 12 NETWORK
+http://199.66.95.242:80/3/3052/index.m3u8?token=test
+#EXTINF:-1,YES TV HD
+http://199.66.95.242:80/3/3054/index.m3u8?token=test
+#EXTINF:-1,LEAFS TV
+http://199.66.95.242:80/3/3055/index.m3u8?token=test
+#EXTINF:-1,ESPN ACC
+http://199.66.95.242:80/3/3057/index.m3u8?token=test
+#EXTINF:-1,OUTDOOR NET
+http://199.66.95.242:80/3/3061/index.m3u8?token=test
+#EXTINF:-1,TVG 2
+http://199.66.95.242:80/3/3060/index.m3u8?token=test
+#EXTINF:-1,SPORTSMAN NET
+http://199.66.95.242:80/3/3062/index.m3u8?token=test
+#EXTINF:-1,SIS ONE
+http://199.66.95.242:80/3/3066/index.m3u8?token=test
+#EXTINF:-1,SIS TWO
+http://199.66.95.242:80/3/3067/index.m3u8?token=test
+#EXTINF:-1,SIS RACING
+http://199.66.95.242:80/3/3068/index.m3u8?token=test
+#EXTINF:-1,bein 1
+http://199.66.95.242:80/3/3080/index.m3u8?token=test
+#EXTINF:-1,bein 2
+http://199.66.95.242:80/3/3081/index.m3u8?token=test
+#EXTINF:-1,bein 3
+http://199.66.95.242:80/3/3082/index.m3u8?token=test
+#EXTINF:-1,bein 4
+http://199.66.95.242:80/3/3083/index.m3u8?token=test
+#EXTINF:-1,bein 5
+http://199.66.95.242:80/3/3084/index.m3u8?token=test
+#EXTINF:-1,bein 6
+http://199.66.95.242:80/3/3085/index.m3u8?token=test
+#EXTINF:-1,bein 9
+http://199.66.95.242:80/3/3088/index.m3u8?token=test
+#EXTINF:-1,bein 7
+http://199.66.95.242:80/3/3086/index.m3u8?token=test
+#EXTINF:-1,bein 8
+http://199.66.95.242:80/3/3087/index.m3u8?token=test
+#EXTINF:-1,bein 10
+http://199.66.95.242:80/3/3089/index.m3u8?token=test
+#EXTINF:-1,bein 12
+http://199.66.95.242:80/3/3091/index.m3u8?token=test
+#EXTINF:-1,bein 11
+http://199.66.95.242:80/3/3090/index.m3u8?token=test
+#EXTINF:-1,bein 13
+http://199.66.95.242:80/3/3092/index.m3u8?token=test
+#EXTINF:-1,TEN 1
+http://199.66.95.242:80/3/3093/index.m3u8?token=test
+#EXTINF:-1,TEN 2
+http://199.66.95.242:80/3/3094/index.m3u8?token=test
+#EXTINF:-1,TEN 3
+http://199.66.95.242:80/3/3095/index.m3u8?token=test
+#EXTINF:-1,SONY SIX
+http://199.66.95.242:80/3/3096/index.m3u8?token=test
+#EXTINF:-1,STAR SPORTS 1 HD
+http://199.66.95.242:80/3/3098/index.m3u8?token=test
+#EXTINF:-1,STAR SPORTS 2 HD
+http://199.66.95.242:80/3/3099/index.m3u8?token=test
+#EXTINF:-1,UFC CHANNEL
+http://199.66.95.242:80/3/3105/index.m3u8?token=test
+#EXTINF:-1,MAVTV
+http://199.66.95.242:80/3/3106/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL FILMS PRESENTS
+http://199.66.95.242:80/3/3107/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL MIC'D UP
+http://199.66.95.242:80/3/3108/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL SUPERBOWL
+http://199.66.95.242:80/3/3109/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL TOP 100 PLAYERS ALL TIME
+http://199.66.95.242:80/3/3110/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL THOROWBACK
+http://199.66.95.242:80/3/3111/index.m3u8?token=test
+#EXTINF:-1,24X7 NFL TOP 10 LISTS
+http://199.66.95.242:80/3/3112/index.m3u8?token=test
+#EXTINF:-1,NFL 10
+http://199.66.95.242:80/3/3344/index.m3u8?token=test
+#EXTINF:-1,CARIB FLOW 1 EPL
+http://199.66.95.242:80/3/3350/index.m3u8?token=test
+#EXTINF:-1,CARIB FLOW 1 EPL SD
+http://199.66.95.242:80/3/3351/index.m3u8?token=test
+#EXTINF:-1,NFL 9
+http://199.66.95.242:80/3/3343/index.m3u8?token=test
+#EXTINF:-1,NFL 1
+http://199.66.95.242:80/3/3335/index.m3u8?token=test
+#EXTINF:-1,NFL 8
+http://199.66.95.242:80/3/3342/index.m3u8?token=test
+#EXTINF:-1,DISNEY HD EAST
+http://199.66.95.242:80/4/4001/index.m3u8?token=test
+#EXTINF:-1,TVO
+http://199.66.95.242:80/4/4003/index.m3u8?token=test
+#EXTINF:-1,PBS KIDS
+http://199.66.95.242:80/4/4004/index.m3u8?token=test
+#EXTINF:-1,YTV HD
+http://199.66.95.242:80/4/4002/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY FAMILY HD
+http://199.66.95.242:80/4/4005/index.m3u8?token=test
+#EXTINF:-1,TREEHOUSE
+http://199.66.95.242:80/4/4007/index.m3u8?token=test
+#EXTINF:-1,ABC SPARK HD
+http://199.66.95.242:80/4/4006/index.m3u8?token=test
+#EXTINF:-1,NICKELODEON
+http://199.66.95.242:80/4/4008/index.m3u8?token=test
+#EXTINF:-1,FAMILY
+http://199.66.95.242:80/4/4010/index.m3u8?token=test
+#EXTINF:-1,CARTOON NETWORK
+http://199.66.95.242:80/4/4009/index.m3u8?token=test
+#EXTINF:-1,DISNEY XD
+http://199.66.95.242:80/4/4011/index.m3u8?token=test
+#EXTINF:-1,TELETOON
+http://199.66.95.242:80/4/4012/index.m3u8?token=test
+#EXTINF:-1,ALL IN THE FAMILY
+http://199.66.95.242:80/7/7003/index.m3u8?token=test
+#EXTINF:-1,21 JUMP STREET
+http://199.66.95.242:80/7/7001/index.m3u8?token=test
+#EXTINF:-1,THAT 70'S SHOW
+http://199.66.95.242:80/7/7002/index.m3u8?token=test
+#EXTINF:-1,BATMAN
+http://199.66.95.242:80/7/7005/index.m3u8?token=test
+#EXTINF:-1,BEVERLY HILLS 90210
+http://199.66.95.242:80/7/7007/index.m3u8?token=test
+#EXTINF:-1,BEWITCHED
+http://199.66.95.242:80/7/7008/index.m3u8?token=test
+#EXTINF:-1,ANIMANIACS
+http://199.66.95.242:80/7/7004/index.m3u8?token=test
+#EXTINF:-1,BEAVIS AND BUTTHEAD
+http://199.66.95.242:80/7/7006/index.m3u8?token=test
+#EXTINF:-1,CHEERS
+http://199.66.95.242:80/7/7009/index.m3u8?token=test
+#EXTINF:-1,DEADLIEST CATCH
+http://199.66.95.242:80/7/7011/index.m3u8?token=test
+#EXTINF:-1,DARKWING DUCK
+http://199.66.95.242:80/7/7010/index.m3u8?token=test
+#EXTINF:-1,DEXTER'S LABORATORY
+http://199.66.95.242:80/7/7012/index.m3u8?token=test
+#EXTINF:-1,DRAGONBALL Z
+http://199.66.95.242:80/7/7014/index.m3u8?token=test
+#EXTINF:-1,DISNEY SHORTS
+http://199.66.95.242:80/7/7013/index.m3u8?token=test
+#EXTINF:-1,DUKES OF HAZARD
+http://199.66.95.242:80/7/7017/index.m3u8?token=test
+#EXTINF:-1,DRAGONBALL Z (II)
+http://199.66.95.242:80/7/7015/index.m3u8?token=test
+#EXTINF:-1,DUCKTALES
+http://199.66.95.242:80/7/7016/index.m3u8?token=test
+#EXTINF:-1,FAMILY MATTERS
+http://199.66.95.242:80/7/7018/index.m3u8?token=test
+#EXTINF:-1,FAMILY TIES
+http://199.66.95.242:80/7/7019/index.m3u8?token=test
+#EXTINF:-1,FLINTSTONES
+http://199.66.95.242:80/7/7020/index.m3u8?token=test
+#EXTINF:-1,FRESH PRINCE
+http://199.66.95.242:80/7/7022/index.m3u8?token=test
+#EXTINF:-1,FRASIER
+http://199.66.95.242:80/7/7021/index.m3u8?token=test
+#EXTINF:-1,FRIENDS
+http://199.66.95.242:80/7/7023/index.m3u8?token=test
+#EXTINF:-1,GILLIGAN'S ISLAND
+http://199.66.95.242:80/7/7025/index.m3u8?token=test
+#EXTINF:-1,GET SMART
+http://199.66.95.242:80/7/7024/index.m3u8?token=test
+#EXTINF:-1,GOLDEN GIRLS
+http://199.66.95.242:80/7/7026/index.m3u8?token=test
+#EXTINF:-1,HAPPY DAYS
+http://199.66.95.242:80/7/7027/index.m3u8?token=test
+#EXTINF:-1,HOME IMPROVEMENT
+http://199.66.95.242:80/7/7029/index.m3u8?token=test
+#EXTINF:-1,HE MAN
+http://199.66.95.242:80/7/7028/index.m3u8?token=test
+#EXTINF:-1,I DREAM OF GENIE
+http://199.66.95.242:80/7/7030/index.m3u8?token=test
+#EXTINF:-1,I LOVE LUCY
+http://199.66.95.242:80/7/7031/index.m3u8?token=test
+#EXTINF:-1,KNIGHT RIDER
+http://199.66.95.242:80/7/7033/index.m3u8?token=test
+#EXTINF:-1,LOONEY TUNES
+http://199.66.95.242:80/7/7034/index.m3u8?token=test
+#EXTINF:-1,JEFFERSONS
+http://199.66.95.242:80/7/7032/index.m3u8?token=test
+#EXTINF:-1,M*A*S*H
+http://199.66.95.242:80/7/7035/index.m3u8?token=test
+#EXTINF:-1,MELROSE PLACE
+http://199.66.95.242:80/7/7036/index.m3u8?token=test
+#EXTINF:-1,MORK AND MINDY
+http://199.66.95.242:80/7/7037/index.m3u8?token=test
+#EXTINF:-1,PEPPA PIG
+http://199.66.95.242:80/7/7041/index.m3u8?token=test
+#EXTINF:-1,MURPHY BROWN
+http://199.66.95.242:80/7/7038/index.m3u8?token=test
+#EXTINF:-1,PAW PATROL
+http://199.66.95.242:80/7/7040/index.m3u8?token=test
+#EXTINF:-1,POPEYE
+http://199.66.95.242:80/7/7043/index.m3u8?token=test
+#EXTINF:-1,NIGHT COURT
+http://199.66.95.242:80/7/7039/index.m3u8?token=test
+#EXTINF:-1,ROSANNE
+http://199.66.95.242:80/7/7045/index.m3u8?token=test
+#EXTINF:-1,POKEMON
+http://199.66.95.242:80/7/7042/index.m3u8?token=test
+#EXTINF:-1,ROCKY AND BULLWINKLE
+http://199.66.95.242:80/7/7044/index.m3u8?token=test
+#EXTINF:-1,SCOOBY DOO
+http://199.66.95.242:80/7/7047/index.m3u8?token=test
+#EXTINF:-1,RUGRATS
+http://199.66.95.242:80/7/7046/index.m3u8?token=test
+#EXTINF:-1,SEINFELD
+http://199.66.95.242:80/7/7049/index.m3u8?token=test
+#EXTINF:-1,SCRUBS
+http://199.66.95.242:80/7/7048/index.m3u8?token=test
+#EXTINF:-1,SPIDERMAN
+http://199.66.95.242:80/7/7050/index.m3u8?token=test
+#EXTINF:-1,SPONGEBOB
+http://199.66.95.242:80/7/7051/index.m3u8?token=test
+#EXTINF:-1,STAND UP COMEDY
+http://199.66.95.242:80/7/7052/index.m3u8?token=test
+#EXTINF:-1,STAR TREK ORIGINAL
+http://199.66.95.242:80/7/7053/index.m3u8?token=test
+#EXTINF:-1,THE A TEAM
+http://199.66.95.242:80/7/7054/index.m3u8?token=test
+#EXTINF:-1,THE JETSONS
+http://199.66.95.242:80/7/7055/index.m3u8?token=test
+#EXTINF:-1,THE SIX MILLION DOLLAR MAN
+http://199.66.95.242:80/7/7056/index.m3u8?token=test
+#EXTINF:-1,WKRP
+http://199.66.95.242:80/7/7058/index.m3u8?token=test
+#EXTINF:-1,TMNT
+http://199.66.95.242:80/7/7057/index.m3u8?token=test
+#EXTINF:-1,BEVERLY HILLBILLIES
+http://199.66.95.242:80/7/7060/index.m3u8?token=test
+#EXTINF:-1,WONDER WOMAN
+http://199.66.95.242:80/7/7059/index.m3u8?token=test
+#EXTINF:-1,BAKUGAN BATTLE BRAWLERS
+http://199.66.95.242:80/7/7061/index.m3u8?token=test
+#EXTINF:-1,JAMES BOND 007
+http://199.66.95.242:80/7/7062/index.m3u8?token=test
+#EXTINF:-1,80'S MOVIES ACTION
+http://199.66.95.242:80/7/7063/index.m3u8?token=test
+#EXTINF:-1,80'S MOVIES DRAMA
+http://199.66.95.242:80/7/7065/index.m3u8?token=test
+#EXTINF:-1,80'S MOVIES COMEDY
+http://199.66.95.242:80/7/7064/index.m3u8?token=test
+#EXTINF:-1,80'S MOVIES HORROR
+http://199.66.95.242:80/7/7066/index.m3u8?token=test
+#EXTINF:-1,BABY EINSTEIN
+http://199.66.95.242:80/7/7068/index.m3u8?token=test
+#EXTINF:-1,ANNA AKANA
+http://199.66.95.242:80/7/7067/index.m3u8?token=test
+#EXTINF:-1,BRO SCIENCE LIFE
+http://199.66.95.242:80/7/7069/index.m3u8?token=test
+#EXTINF:-1,BRUCE LEE
+http://199.66.95.242:80/7/7070/index.m3u8?token=test
+#EXTINF:-1,BATMAN ANIMATED SERIES
+http://199.66.95.242:80/7/7071/index.m3u8?token=test
+#EXTINF:-1,CLINT EASTWOOD
+http://199.66.95.242:80/7/7072/index.m3u8?token=test
+#EXTINF:-1,CRAZY RUSSIAN
+http://199.66.95.242:80/7/7073/index.m3u8?token=test
+#EXTINF:-1,CT FLETCHER
+http://199.66.95.242:80/7/7074/index.m3u8?token=test
+#EXTINF:-1,DISNEY MOVIES
+http://199.66.95.242:80/7/7076/index.m3u8?token=test
+#EXTINF:-1,DUDE PERFECT
+http://199.66.95.242:80/7/7075/index.m3u8?token=test
+#EXTINF:-1,ELECTROBOOM
+http://199.66.95.242:80/7/7077/index.m3u8?token=test
+#EXTINF:-1,FPS RUSSIA
+http://199.66.95.242:80/7/7078/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S1
+http://199.66.95.242:80/7/7079/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S2
+http://199.66.95.242:80/7/7080/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S3
+http://199.66.95.242:80/7/7081/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S4
+http://199.66.95.242:80/7/7082/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S5
+http://199.66.95.242:80/7/7083/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S6
+http://199.66.95.242:80/7/7084/index.m3u8?token=test
+#EXTINF:-1,GAME OF THRONES S7
+http://199.66.95.242:80/7/7085/index.m3u8?token=test
+#EXTINF:-1,HOLA SOY GERMAN
+http://199.66.95.242:80/7/7086/index.m3u8?token=test
+#EXTINF:-1,JACKIE CHAN
+http://199.66.95.242:80/7/7087/index.m3u8?token=test
+#EXTINF:-1,JCVD
+http://199.66.95.242:80/7/7088/index.m3u8?token=test
+#EXTINF:-1,JET LI
+http://199.66.95.242:80/7/7089/index.m3u8?token=test
+#EXTINF:-1,JUS REIGN
+http://199.66.95.242:80/7/7090/index.m3u8?token=test
+#EXTINF:-1,MAGIC SCHOOL BUS
+http://199.66.95.242:80/7/7092/index.m3u8?token=test
+#EXTINF:-1,JUST FOR LAUGHS
+http://199.66.95.242:80/7/7091/index.m3u8?token=test
+#EXTINF:-1,MAN VS WILD
+http://199.66.95.242:80/7/7093/index.m3u8?token=test
+#EXTINF:-1,PJ MASKS
+http://199.66.95.242:80/7/7096/index.m3u8?token=test
+#EXTINF:-1,MEAL TIME
+http://199.66.95.242:80/7/7094/index.m3u8?token=test
+#EXTINF:-1,PPV MOVIES
+http://199.66.95.242:80/7/7097/index.m3u8?token=test
+#EXTINF:-1,MY HARTO
+http://199.66.95.242:80/7/7095/index.m3u8?token=test
+#EXTINF:-1,PETER CHAO
+http://199.66.95.242:80/7/7098/index.m3u8?token=test
+#EXTINF:-1,REMI GAILLARD
+http://199.66.95.242:80/7/7099/index.m3u8?token=test
+#EXTINF:-1,SCIENCE FICTION
+http://199.66.95.242:80/7/7101/index.m3u8?token=test
+#EXTINF:-1,ROMAN ATWOOD
+http://199.66.95.242:80/7/7100/index.m3u8?token=test
+#EXTINF:-1,SHARK TANK
+http://199.66.95.242:80/7/7102/index.m3u8?token=test
+#EXTINF:-1,SONIC BOOM
+http://199.66.95.242:80/7/7103/index.m3u8?token=test
+#EXTINF:-1,SUPER WINGS
+http://199.66.95.242:80/7/7105/index.m3u8?token=test
+#EXTINF:-1,SPECTACULAR SPIDERMAN
+http://199.66.95.242:80/7/7104/index.m3u8?token=test
+#EXTINF:-1,SUPERWOMAN
+http://199.66.95.242:80/7/7106/index.m3u8?token=test
+#EXTINF:-1,STAR WARS REBELS
+http://199.66.95.242:80/7/7107/index.m3u8?token=test
+#EXTINF:-1,TRANSFORMERS ORIGINAL
+http://199.66.95.242:80/7/7109/index.m3u8?token=test
+#EXTINF:-1,STAR WARS CLONE WARS
+http://199.66.95.242:80/7/7108/index.m3u8?token=test
+#EXTINF:-1,TROLLHUNTERS
+http://199.66.95.242:80/7/7110/index.m3u8?token=test
+#EXTINF:-1,FAIL ARMY
+http://199.66.95.242:80/7/7112/index.m3u8?token=test
+#EXTINF:-1,AND1 BASKETBALL
+http://199.66.95.242:80/7/7111/index.m3u8?token=test
+#EXTINF:-1,PROFESSOR LIVE
+http://199.66.95.242:80/7/7113/index.m3u8?token=test
+#EXTINF:-1,UMF TV
+http://199.66.95.242:80/7/7114/index.m3u8?token=test
+#EXTINF:-1,VITALYZD TV
+http://199.66.95.242:80/7/7115/index.m3u8?token=test
+#EXTINF:-1,MARRIED WITH CHILDREN
+http://199.66.95.242:80/7/7116/index.m3u8?token=test
+#EXTINF:-1,MUSICA 1
+http://199.66.95.242:80/7/7117/index.m3u8?token=test
+#EXTINF:-1,MUSICA 2
+http://199.66.95.242:80/7/7118/index.m3u8?token=test
+#EXTINF:-1,MUSICA 3
+http://199.66.95.242:80/7/7119/index.m3u8?token=test
+#EXTINF:-1,MUSICA 4
+http://199.66.95.242:80/7/7120/index.m3u8?token=test
+#EXTINF:-1,OLD HINDI SONGS
+http://199.66.95.242:80/7/7121/index.m3u8?token=test
+#EXTINF:-1,BOLLYWOOD HIT SONGS
+http://199.66.95.242:80/7/7122/index.m3u8?token=test
+#EXTINF:-1,SAI BABA
+http://199.66.95.242:80/7/7123/index.m3u8?token=test
+#EXTINF:-1,JAI MAA DURGA
+http://199.66.95.242:80/7/7124/index.m3u8?token=test
+#EXTINF:-1,CANAL+ (PL)
+http://199.66.95.242:80/8/8001/index.m3u8?token=test
+#EXTINF:-1,CANAL FAMILY (PL)
+http://199.66.95.242:80/8/8002/index.m3u8?token=test
+#EXTINF:-1,DISCOVERY HISTORIA (PL)
+http://199.66.95.242:80/8/8007/index.m3u8?token=test
+#EXTINF:-1,CINEMAX 2 (PL)
+http://199.66.95.242:80/8/8006/index.m3u8?token=test
+#EXTINF:-1,FOOD NETWORK (PL)
+http://199.66.95.242:80/8/8008/index.m3u8?token=test
+#EXTINF:-1,CANAL SERIALE (PL)
+http://199.66.95.242:80/8/8004/index.m3u8?token=test
+#EXTINF:-1,CANAL FILM (PL)
+http://199.66.95.242:80/8/8003/index.m3u8?token=test
+#EXTINF:-1,POLSAT (PL)
+http://199.66.95.242:80/8/8010/index.m3u8?token=test
+#EXTINF:-1,CANAL SPORT (PL)
+http://199.66.95.242:80/8/8005/index.m3u8?token=test
+#EXTINF:-1,KUCHNIA (PL)
+http://199.66.95.242:80/8/8009/index.m3u8?token=test
+#EXTINF:-1,POLSAT CAFE (PL)
+http://199.66.95.242:80/8/8012/index.m3u8?token=test
+#EXTINF:-1,POLSAT 2 (PL)
+http://199.66.95.242:80/8/8011/index.m3u8?token=test
+#EXTINF:-1,POLSAT NEWS (PL)
+http://199.66.95.242:80/8/8013/index.m3u8?token=test
+#EXTINF:-1,POLSAT PLAY (PL)
+http://199.66.95.242:80/8/8014/index.m3u8?token=test
+#EXTINF:-1,POLSAT SPORT (PL)
+http://199.66.95.242:80/8/8015/index.m3u8?token=test
+#EXTINF:-1,POLSAT SPORT EXTRA (PL)
+http://199.66.95.242:80/8/8016/index.m3u8?token=test
+#EXTINF:-1,TVN (PL)
+http://199.66.95.242:80/8/8017/index.m3u8?token=test
+#EXTINF:-1,TVN 24 (PL)
+http://199.66.95.242:80/8/8018/index.m3u8?token=test
+#EXTINF:-1,TVN 7 (PL)
+http://199.66.95.242:80/8/8019/index.m3u8?token=test
+#EXTINF:-1,TVN FABULA (PL)
+http://199.66.95.242:80/8/8020/index.m3u8?token=test
+#EXTINF:-1,TVN TURBO (PL)
+http://199.66.95.242:80/8/8022/index.m3u8?token=test
+#EXTINF:-1,TVP 1 (PL)
+http://199.66.95.242:80/8/8023/index.m3u8?token=test
+#EXTINF:-1,TVP 2 (PL)
+http://199.66.95.242:80/8/8024/index.m3u8?token=test
+#EXTINF:-1,TVP ABC (PL)
+http://199.66.95.242:80/8/8025/index.m3u8?token=test
+#EXTINF:-1,TVP SERIALE (PL)
+http://199.66.95.242:80/8/8028/index.m3u8?token=test
+#EXTINF:-1,TVP INFO (PL)
+http://199.66.95.242:80/8/8026/index.m3u8?token=test
+#EXTINF:-1,TVP ROZRYWKA (PL)
+http://199.66.95.242:80/8/8027/index.m3u8?token=test
+#EXTINF:-1,TV REPUBLIKA (PL)
+http://199.66.95.242:80/8/8029/index.m3u8?token=test
+#EXTINF:-1,iTVN (PL) (NA)
+http://199.66.95.242:80/8/8030/index.m3u8?token=test
+#EXTINF:-1,POLSAT (PL) (NA)
+http://199.66.95.242:80/8/8031/index.m3u8?token=test
+#EXTINF:-1,iTVN EXTA (PL) (NA)
+http://199.66.95.242:80/8/8032/index.m3u8?token=test
+#EXTINF:-1,KINO POLSKA INT (PL) (NA)
+http://199.66.95.242:80/8/8033/index.m3u8?token=test
+#EXTINF:-1,CHANNEL 13 (PL) (NA)
+http://199.66.95.242:80/8/8035/index.m3u8?token=test
+#EXTINF:-1,BOING
+http://199.66.95.242:80/9/9001/index.m3u8?token=test
+#EXTINF:-1,CANAL 5
+http://199.66.95.242:80/9/9002/index.m3u8?token=test
+#EXTINF:-1,CARTOONITO
+http://199.66.95.242:80/9/9003/index.m3u8?token=test
+#EXTINF:-1,EMOTION
+http://199.66.95.242:80/9/9004/index.m3u8?token=test
+#EXTINF:-1,FOX LIFE HD
+http://199.66.95.242:80/9/9005/index.m3u8?token=test
+#EXTINF:-1,IRIS 1
+http://199.66.95.242:80/9/9006/index.m3u8?token=test
+#EXTINF:-1,ITALIA 2
+http://199.66.95.242:80/9/9008/index.m3u8?token=test
+#EXTINF:-1,ITALIA 1
+http://199.66.95.242:80/9/9007/index.m3u8?token=test
+#EXTINF:-1,LA7D
+http://199.66.95.242:80/9/9010/index.m3u8?token=test
+#EXTINF:-1,LA5
+http://199.66.95.242:80/9/9009/index.m3u8?token=test
+#EXTINF:-1,MEDIASET EXTRA
+http://199.66.95.242:80/9/9012/index.m3u8?token=test
+#EXTINF:-1,MEDIASET 20
+http://199.66.95.242:80/9/9011/index.m3u8?token=test
+#EXTINF:-1,NAT GEO HD
+http://199.66.95.242:80/9/9013/index.m3u8?token=test
+#EXTINF:-1,PREMIUM ACTION HD
+http://199.66.95.242:80/9/9014/index.m3u8?token=test
+#EXTINF:-1,PREMIUM CINEMA HD
+http://199.66.95.242:80/9/9015/index.m3u8?token=test
+#EXTINF:-1,PREMIUM COMEDY HD
+http://199.66.95.242:80/9/9016/index.m3u8?token=test
+#EXTINF:-1,RAI 1
+http://199.66.95.242:80/9/9018/index.m3u8?token=test
+#EXTINF:-1,PREMIUM STORIES HD
+http://199.66.95.242:80/9/9017/index.m3u8?token=test
+#EXTINF:-1,RAI 2
+http://199.66.95.242:80/9/9019/index.m3u8?token=test
+#EXTINF:-1,RAI 3
+http://199.66.95.242:80/9/9020/index.m3u8?token=test
+#EXTINF:-1,RAI 4
+http://199.66.95.242:80/9/9021/index.m3u8?token=test
+#EXTINF:-1,RAI MOVIE 1
+http://199.66.95.242:80/9/9023/index.m3u8?token=test
+#EXTINF:-1,RAI 5
+http://199.66.95.242:80/9/9022/index.m3u8?token=test
+#EXTINF:-1,RAI NEWS 24
+http://199.66.95.242:80/9/9024/index.m3u8?token=test
+#EXTINF:-1,RAI SCUOLA
+http://199.66.95.242:80/9/9026/index.m3u8?token=test
+#EXTINF:-1,RAI SPORT 1
+http://199.66.95.242:80/9/9027/index.m3u8?token=test
+#EXTINF:-1,RAI YOYO
+http://199.66.95.242:80/9/9028/index.m3u8?token=test
+#EXTINF:-1,SKY CINEMA 1
+http://199.66.95.242:80/9/9030/index.m3u8?token=test
+#EXTINF:-1,RETE 4 HD
+http://199.66.95.242:80/9/9029/index.m3u8?token=test
+#EXTINF:-1,SKY CINEMA COMEDY
+http://199.66.95.242:80/9/9031/index.m3u8?token=test
+#EXTINF:-1,SKY CINEMA FAMILY
+http://199.66.95.242:80/9/9032/index.m3u8?token=test
+#EXTINF:-1,SKY SPORT 1
+http://199.66.95.242:80/9/9033/index.m3u8?token=test
+#EXTINF:-1,SKY SPORT 2
+http://199.66.95.242:80/9/9034/index.m3u8?token=test
+#EXTINF:-1,SKY SPORT 3
+http://199.66.95.242:80/9/9035/index.m3u8?token=test
+#EXTINF:-1,SKY TG24
+http://199.66.95.242:80/9/9036/index.m3u8?token=test
+#EXTINF:-1,SPORT 24
+http://199.66.95.242:80/9/9037/index.m3u8?token=test
+#EXTINF:-1,SPORT ITALIA
+http://199.66.95.242:80/9/9038/index.m3u8?token=test
+#EXTINF:-1,TGCOM 24
+http://199.66.95.242:80/9/9040/index.m3u8?token=test
+#EXTINF:-1,SUPER TENNIS
+http://199.66.95.242:80/9/9039/index.m3u8?token=test
+#EXTINF:-1,RAI (CDN)
+http://199.66.95.242:80/9/9041/index.m3u8?token=test
+#EXTINF:-1,MEDIASET CND
+http://199.66.95.242:80/9/9043/index.m3u8?token=test
+#EXTINF:-1,TLN (NA)
+http://199.66.95.242:80/9/9042/index.m3u8?token=test
+#EXTINF:-1,SKY SPORTS F1
+http://199.66.95.242:80/9/9044/index.m3u8?token=test
+#EXTINF:-1,FOOD NETWORK (IL)
+http://199.66.95.242:80/10/10004/index.m3u8?token=test
+#EXTINF:-1,HIDABROOT (IL)
+http://199.66.95.242:80/10/10007/index.m3u8?token=test
+#EXTINF:-1,HOME PLUS (IL)
+http://199.66.95.242:80/10/10008/index.m3u8?token=test
+#EXTINF:-1,HOT ACTION (IL)
+http://199.66.95.242:80/10/10011/index.m3u8?token=test
+#EXTINF:-1,HOP YALDUT (IL)
+http://199.66.95.242:80/10/10009/index.m3u8?token=test
+#EXTINF:-1,HOT DRAMA (IL)
+http://199.66.95.242:80/10/10012/index.m3u8?token=test
+#EXTINF:-1,HOT ENTERTAINMENT (IL)
+http://199.66.95.242:80/10/10013/index.m3u8?token=test
+#EXTINF:-1,HOT FUN (IL)
+http://199.66.95.242:80/10/10014/index.m3u8?token=test
+#EXTINF:-1,HOT GOLD (IL)
+http://199.66.95.242:80/10/10015/index.m3u8?token=test
+#EXTINF:-1,NICK JR (IL)
+http://199.66.95.242:80/10/10022/index.m3u8?token=test
+#EXTINF:-1,SPORT 1 (IL)
+http://199.66.95.242:80/10/10024/index.m3u8?token=test
+#EXTINF:-1,SPORT 2 (IL)
+http://199.66.95.242:80/10/10025/index.m3u8?token=test
+#EXTINF:-1,SPORT 5 GOLD (IL)
+http://199.66.95.242:80/10/10027/index.m3u8?token=test
+#EXTINF:-1,SPORT 4 (IL)
+http://199.66.95.242:80/10/10026/index.m3u8?token=test
+#EXTINF:-1,SPORT 5 PLUS (IL)
+http://199.66.95.242:80/10/10029/index.m3u8?token=test
+#EXTINF:-1,SPORT 5 LIVE (IL)
+http://199.66.95.242:80/10/10028/index.m3u8?token=test
+#EXTINF:-1,SPORT 5 STARS (IL)
+http://199.66.95.242:80/10/10030/index.m3u8?token=test
+#EXTINF:-1,VIVA PLUS (IL)
+http://199.66.95.242:80/10/10033/index.m3u8?token=test
+#EXTINF:-1,TRAVEL CHANNEL (IL)
+http://199.66.95.242:80/10/10031/index.m3u8?token=test
+#EXTINF:-1,VIVA (IL)
+http://199.66.95.242:80/10/10032/index.m3u8?token=test
+#EXTINF:-1,YAM TICHONI (IL)
+http://199.66.95.242:80/10/10034/index.m3u8?token=test
+#EXTINF:-1,YES 3 (IL)
+http://199.66.95.242:80/10/10038/index.m3u8?token=test
+#EXTINF:-1,YES ACTION (IL)
+http://199.66.95.242:80/10/10040/index.m3u8?token=test
+#EXTINF:-1,YES HOP (IL)
+http://199.66.95.242:80/10/10041/index.m3u8?token=test
+#EXTINF:-1,XTSY HD
+http://199.66.95.242:80/19/19002/index.m3u8?token=test
+#EXTINF:-1,HUSTLER HD
+http://199.66.95.242:80/19/19004/index.m3u8?token=test
+#EXTINF:-1,PLAYBOY TV
+http://199.66.95.242:80/19/19003/index.m3u8?token=test
+#EXTINF:-1,TEN
+http://199.66.95.242:80/19/19001/index.m3u8?token=test
+#EXTINF:-1,NAUGHTY AMERICA
+http://199.66.95.242:80/19/19006/index.m3u8?token=test
+#EXTINF:-1,X ART
+http://199.66.95.242:80/19/19005/index.m3u8?token=test
+#EXTINF:-1,BRAZZERS
+http://199.66.95.242:80/19/19007/index.m3u8?token=test
+#EXTINF:-1,BRAZZERS LIVE
+http://199.66.95.242:80/19/19008/index.m3u8?token=test
+#EXTINF:-1,TINY4K
+http://199.66.95.242:80/19/19009/index.m3u8?token=test
+#EXTINF:-1,EVIL ANGEL 1
+http://199.66.95.242:80/19/19010/index.m3u8?token=test
+#EXTINF:-1,BANG BROS
+http://199.66.95.242:80/19/19011/index.m3u8?token=test
+#EXTINF:-1,IPZ
+http://199.66.95.242:80/19/19012/index.m3u8?token=test
+#EXTINF:-1,JAV 1 UNCENSORED
+http://199.66.95.242:80/19/19016/index.m3u8?token=test
+#EXTINF:-1,JAV 2 UNCENSORED
+http://199.66.95.242:80/19/19017/index.m3u8?token=test
+#EXTINF:-1,JAV 3 UNCENSORED
+http://199.66.95.242:80/19/19018/index.m3u8?token=test
+#EXTINF:-1,TOKYO HOT
+http://199.66.95.242:80/19/19019/index.m3u8?token=test
+#EXTINF:-1,TUSHY
+http://199.66.95.242:80/19/19021/index.m3u8?token=test
+#EXTINF:-1,WANZ
+http://199.66.95.242:80/19/19020/index.m3u8?token=test
+#EXTINF:-1,LEGAL PORNO
+http://199.66.95.242:80/19/19022/index.m3u8?token=test
+#EXTINF:-1,PENTHOUSE
+http://199.66.95.242:80/19/19023/index.m3u8?token=test
+#EXTINF:-1,2 HD XXX
+http://199.66.95.242:80/19/19025/index.m3u8?token=test
+#EXTINF:-1,1 HD XXX
+http://199.66.95.242:80/19/19024/index.m3u8?token=test
+#EXTINF:-1,4 HD XXX
+http://199.66.95.242:80/19/19027/index.m3u8?token=test
+#EXTINF:-1,3 HD XXX
+http://199.66.95.242:80/19/19026/index.m3u8?token=test
+#EXTINF:-1,5 HD XXX
+http://199.66.95.242:80/19/19028/index.m3u8?token=test
+#EXTINF:-1,
+http://199.66.95.242:80/19/19030/index.m3u8?token=test
+#EXTINF:-1,8 HD XXX
+http://199.66.95.242:80/19/19031/index.m3u8?token=test
+#EXTINF:-1,6 HD XXX
+http://199.66.95.242:80/19/19029/index.m3u8?token=test
+#EXTINF:-1,O-LA-LA
+http://199.66.95.242:80/19/19033/index.m3u8?token=test
+#EXTINF:-1,DUSK
+http://199.66.95.242:80/19/19032/index.m3u8?token=test
+#EXTINF:-1,FAP TV TEENS
+http://199.66.95.242:80/19/19034/index.m3u8?token=test
+#EXTINF:-1,SESTO SENSO
+http://199.66.95.242:80/19/19036/index.m3u8?token=test
+#EXTINF:-1,OH-AH
+http://199.66.95.242:80/19/19037/index.m3u8?token=test
+#EXTINF:-1,CANDY
+http://199.66.95.242:80/19/19035/index.m3u8?token=test
+#EXTINF:-1,CAPETOWN (AF)
+http://199.66.95.242:80/22/22001/index.m3u8?token=test
+#EXTINF:-1,CNBC AFRICA (AF)
+http://199.66.95.242:80/22/22002/index.m3u8?token=test
+#EXTINF:-1,EMOVIES AFRICA (AF)
+http://199.66.95.242:80/22/22006/index.m3u8?token=test
+#EXTINF:-1,DUMISA (AF)
+http://199.66.95.242:80/22/22004/index.m3u8?token=test
+#EXTINF:-1,EMOVIES XTRA (AF)
+http://199.66.95.242:80/22/22007/index.m3u8?token=test
+#EXTINF:-1,E TOONZ (AF)
+http://199.66.95.242:80/22/22008/index.m3u8?token=test
+#EXTINF:-1,LESOTHO TV (AF)
+http://199.66.95.242:80/22/22011/index.m3u8?token=test
+#EXTINF:-1,GAU TV AF (AF)
+http://199.66.95.242:80/22/22010/index.m3u8?token=test
+#EXTINF:-1,FAITH AFRICA (AF)
+http://199.66.95.242:80/22/22009/index.m3u8?token=test
+#EXTINF:-1,ITV NETWORKS (AF)
+http://199.66.95.242:80/22/22012/index.m3u8?token=test
+#EXTINF:-1,MTV BASE (AF)
+http://199.66.95.242:80/22/22013/index.m3u8?token=test
+#EXTINF:-1,NEWZROOM AFRIKA (AF)
+http://199.66.95.242:80/22/22014/index.m3u8?token=test
+#EXTINF:-1,SABC 2 (AF)
+http://199.66.95.242:80/22/22018/index.m3u8?token=test
+#EXTINF:-1,SABC 3 (AF)
+http://199.66.95.242:80/22/22019/index.m3u8?token=test
+#EXTINF:-1,SABC 1 (AF)
+http://199.66.95.242:80/22/22017/index.m3u8?token=test
+#EXTINF:-1,PEOPLES WEATHER (AF)
+http://199.66.95.242:80/22/22016/index.m3u8?token=test
+#EXTINF:-1,PARLIAMENTARY (AF)
+http://199.66.95.242:80/22/22015/index.m3u8?token=test
+#EXTINF:-1,SOUND CITY (AF)
+http://199.66.95.242:80/22/22021/index.m3u8?token=test
+#EXTINF:-1,SABC NEWS (AF)
+http://199.66.95.242:80/22/22020/index.m3u8?token=test
+#EXTINF:-1,SOWETO (AF)
+http://199.66.95.242:80/22/22022/index.m3u8?token=test
+#EXTINF:-1,TELLY TRACK (AF)
+http://199.66.95.242:80/22/22023/index.m3u8?token=test
+#EXTINF:-1,TSHWANE TV (AF)
+http://199.66.95.242:80/22/22024/index.m3u8?token=test
+#EXTINF:-1,AFRICA MAGIC FAMILY (AF)
+http://199.66.95.242:80/22/22028/index.m3u8?token=test
+#EXTINF:-1,TV5 MONDE (AF)
+http://199.66.95.242:80/22/22025/index.m3u8?token=test
+#EXTINF:-1,1 KZN AFRICA (AF)
+http://199.66.95.242:80/22/22026/index.m3u8?token=test
+#EXTINF:-1,AFRICA MAGIC URBAN (AF)
+http://199.66.95.242:80/22/22029/index.m3u8?token=test
+#EXTINF:-1,1 MAGIC (AF)
+http://199.66.95.242:80/22/22027/index.m3u8?token=test
+#EXTINF:-1,AFRICA MAGIC EPIC (AF)
+http://199.66.95.242:80/22/22030/index.m3u8?token=test
+#EXTINF:-1,BAY TV (AF)
+http://199.66.95.242:80/22/22031/index.m3u8?token=test
+#EXTINF:-1,BET AFRICA (AF)
+http://199.66.95.242:80/22/22032/index.m3u8?token=test
+#EXTINF:-1,CHANNEL 0 (AF)
+http://199.66.95.242:80/22/22034/index.m3u8?token=test
+#EXTINF:-1,BUSINESS DAY TV (AF)
+http://199.66.95.242:80/22/22033/index.m3u8?token=test
+#EXTINF:-1,ETV XTRA (AF)
+http://199.66.95.242:80/22/22036/index.m3u8?token=test
+#EXTINF:-1,ENCA (AF)
+http://199.66.95.242:80/22/22037/index.m3u8?token=test
+#EXTINF:-1,KYK NET (AF)
+http://199.66.95.242:80/22/22038/index.m3u8?token=test
+#EXTINF:-1,MNET CITY (AF)
+http://199.66.95.242:80/22/22042/index.m3u8?token=test
+#EXTINF:-1,KYK NET NOU (AF)
+http://199.66.95.242:80/22/22040/index.m3u8?token=test
+#EXTINF:-1,MNET (AF)
+http://199.66.95.242:80/22/22041/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES ACTION (AF)
+http://199.66.95.242:80/22/22043/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES PREMIER (AF)
+http://199.66.95.242:80/22/22046/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES ACTION PLUS (AF)
+http://199.66.95.242:80/22/22044/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES ALLSTARS (AF)
+http://199.66.95.242:80/22/22045/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES SMILE (AF)
+http://199.66.95.242:80/22/22047/index.m3u8?token=test
+#EXTINF:-1,MOJALOVE (AF)
+http://199.66.95.242:80/22/22051/index.m3u8?token=test
+#EXTINF:-1,MNET MOVIES ZONE (AF)
+http://199.66.95.242:80/22/22048/index.m3u8?token=test
+#EXTINF:-1,MINDSET (AF)
+http://199.66.95.242:80/22/22049/index.m3u8?token=test
+#EXTINF:-1,MNET PLUS 1 (AF)
+http://199.66.95.242:80/22/22050/index.m3u8?token=test
+#EXTINF:-1,MZANSI BIOSKOP (AF)
+http://199.66.95.242:80/22/22052/index.m3u8?token=test
+#EXTINF:-1,MZANSI MAGIC MUSIC (AF)
+http://199.66.95.242:80/22/22054/index.m3u8?token=test
+#EXTINF:-1,MZANSI MAGIC (AF)
+http://199.66.95.242:80/22/22053/index.m3u8?token=test
+#EXTINF:-1,MZANSI WETHU (AF)
+http://199.66.95.242:80/22/22055/index.m3u8?token=test
+#EXTINF:-1,ROK (AF)
+http://199.66.95.242:80/22/22057/index.m3u8?token=test
+#EXTINF:-1,ONE GOSPEL (AF)
+http://199.66.95.242:80/22/22056/index.m3u8?token=test
+#EXTINF:-1,SPICE TV (AF)
+http://199.66.95.242:80/22/22058/index.m3u8?token=test
+#EXTINF:-1,TRACE AFRICA (AF)
+http://199.66.95.242:80/22/22059/index.m3u8?token=test
+#EXTINF:-1,TRACE URBAN (AF)
+http://199.66.95.242:80/22/22060/index.m3u8?token=test
+#EXTINF:-1,SSPORT 1 (AF)
+http://199.66.95.242:80/22/22062/index.m3u8?token=test
+#EXTINF:-1,VUZU (AF)
+http://199.66.95.242:80/22/22061/index.m3u8?token=test
+#EXTINF:-1,SSPORT 3 (AF)
+http://199.66.95.242:80/22/22064/index.m3u8?token=test
+#EXTINF:-1,SSPORT 2 (AF)
+http://199.66.95.242:80/22/22063/index.m3u8?token=test
+#EXTINF:-1,SSPORT 4 (AF)
+http://199.66.95.242:80/22/22065/index.m3u8?token=test
+#EXTINF:-1,SSPORT 5 (AF)
+http://199.66.95.242:80/22/22066/index.m3u8?token=test
+#EXTINF:-1,SSPORT 6 (AF)
+http://199.66.95.242:80/22/22067/index.m3u8?token=test
+#EXTINF:-1,SSPORT 7 (AF)
+http://199.66.95.242:80/22/22068/index.m3u8?token=test
+#EXTINF:-1,SSPORT 8 (AF)
+http://199.66.95.242:80/22/22069/index.m3u8?token=test
+#EXTINF:-1,SSPORT 11 (AF)
+http://199.66.95.242:80/22/22072/index.m3u8?token=test
+#EXTINF:-1,SSPORT 10 (AF)
+http://199.66.95.242:80/22/22071/index.m3u8?token=test
+#EXTINF:-1,SSPORT 12 (AF)
+http://199.66.95.242:80/22/22073/index.m3u8?token=test
+#EXTINF:-1,SSPORT BLITZ (AF)
+http://199.66.95.242:80/22/22074/index.m3u8?token=test
+#EXTINF:-1,SSPORT MAXIMO (AF)
+http://199.66.95.242:80/22/22075/index.m3u8?token=test
+#EXTINF:-1,SSPORT EVENTS 1 (AF)
+http://199.66.95.242:80/22/22076/index.m3u8?token=test
+#EXTINF:-1,AIT NIGERIA (AF)
+http://199.66.95.242:80/22/22079/index.m3u8?token=test
+#EXTINF:-1,SSPORT PLAY (AF)
+http://199.66.95.242:80/22/22078/index.m3u8?token=test
+#EXTINF:-1,CHANNELS NIGERIA (AF)
+http://199.66.95.242:80/22/22081/index.m3u8?token=test
+#EXTINF:-1,AREWA 24 NIGERIA (AF)
+http://199.66.95.242:80/22/22080/index.m3u8?token=test
+#EXTINF:-1,
+http://199.66.95.242:80/22/22082/index.m3u8?token=test
+#EXTINF:-1,GALAXY NIGERIA (AF)
+http://199.66.95.242:80/22/22083/index.m3u8?token=test
+#EXTINF:-1,LUMEN CHRISTI NIGERIA (AF)
+http://199.66.95.242:80/22/22084/index.m3u8?token=test
+#EXTINF:-1,TVC NEWS NIGERIA (AF)
+http://199.66.95.242:80/22/22087/index.m3u8?token=test
+#EXTINF:-1,M-NET EAST NIGERIA (AF)
+http://199.66.95.242:80/22/22085/index.m3u8?token=test
+#EXTINF:-1,M-NET WEST NIGERIA (AF)
+http://199.66.95.242:80/22/22086/index.m3u8?token=test
+#EXTINF:-1,URBAN TV NIGERIA (AF)
+http://199.66.95.242:80/22/22088/index.m3u8?token=test
+#EXTINF:-1,WAPTV NIGERIA (AF)
+http://199.66.95.242:80/22/22089/index.m3u8?token=test
+#EXTINF:-1,ADOM TV GHANA (AF)
+http://199.66.95.242:80/22/22091/index.m3u8?token=test
+#EXTINF:-1,CLOUDS PLUS GHANA (AF)
+http://199.66.95.242:80/22/22092/index.m3u8?token=test
+#EXTINF:-1,DOVE TV GHANA (AF)
+http://199.66.95.242:80/22/22093/index.m3u8?token=test
+#EXTINF:-1,EWTN GHANA (AF)
+http://199.66.95.242:80/22/22094/index.m3u8?token=test
+#EXTINF:-1,K24 GHANA (AF)
+http://199.66.95.242:80/22/22097/index.m3u8?token=test
+#EXTINF:-1,JOY NEWS GHANA (AF)
+http://199.66.95.242:80/22/22096/index.m3u8?token=test
+#EXTINF:-1,TELEVISTA GHANA (AF)
+http://199.66.95.242:80/22/22098/index.m3u8?token=test
+#EXTINF:-1,TRYBE TV GHANA (AF)
+http://199.66.95.242:80/22/22099/index.m3u8?token=test
+#EXTINF:-1,INOORO KENYA (AF)
+http://199.66.95.242:80/22/22101/index.m3u8?token=test
+#EXTINF:-1,KASS KENYA (AF)
+http://199.66.95.242:80/22/22103/index.m3u8?token=test
+#EXTINF:-1,NBS KENYA (AF)
+http://199.66.95.242:80/22/22105/index.m3u8?token=test
+#EXTINF:-1,KAMEME KENYA (AF)
+http://199.66.95.242:80/22/22102/index.m3u8?token=test
+#EXTINF:-1,KTN KENYA (AF)
+http://199.66.95.242:80/22/22104/index.m3u8?token=test
+#EXTINF:-1,NTV KENYA (AF)
+http://199.66.95.242:80/22/22106/index.m3u8?token=test
+#EXTINF:-1,TV1 TANZANA KENYA (AF)
+http://199.66.95.242:80/22/22109/index.m3u8?token=test
+#EXTINF:-1,PEARL MAGIC KENYA (AF)
+http://199.66.95.242:80/22/22108/index.m3u8?token=test
+#EXTINF:-1,NTVU KENYA (AF)
+http://199.66.95.242:80/22/22107/index.m3u8?token=test
+#EXTINF:-1,ZANZIBAR TV KENYA (AF)
+http://199.66.95.242:80/22/22110/index.m3u8?token=test
+#EXTINF:-1,BBS TV UGANDA (AF)
+http://199.66.95.242:80/22/22111/index.m3u8?token=test
+#EXTINF:-1,SPARK TV UGANDA (AF)
+http://199.66.95.242:80/22/22112/index.m3u8?token=test
+#EXTINF:-1,TV WEST UGANDA (AF)
+http://199.66.95.242:80/22/22113/index.m3u8?token=test
+#EXTINF:-1,UBC UGANDA (AF)
+http://199.66.95.242:80/22/22114/index.m3u8?token=test
+#EXTINF:-1,URBAN TV UGANDA (AF)
+http://199.66.95.242:80/22/22115/index.m3u8?token=test
+#EXTINF:-1,RWANDA TV (AF)
+http://199.66.95.242:80/22/22116/index.m3u8?token=test
+#EXTINF:-1,BUKEDDE TV TANZANIA (AF)
+http://199.66.95.242:80/22/22117/index.m3u8?token=test
+#EXTINF:-1,TV3 GHANA (AF)
+http://199.66.95.242:80/22/22119/index.m3u8?token=test
+#EXTINF:-1,METRO TV GHANA (AF)
+http://199.66.95.242:80/22/22120/index.m3u8?token=test
+#EXTINF:-1,EMMANUEL TV AFRICA (AF)
+http://199.66.95.242:80/22/22005/index.m3u8?token=test
+#EXTINF:-1,KYK NET & KIE (AF)
+http://199.66.95.242:80/22/22039/index.m3u8?token=test
+#EXTINF:-1,HRT 2 (HR)
+http://199.66.95.242:80/25/25002/index.m3u8?token=test
+#EXTINF:-1,HRT 4 (HR)
+http://199.66.95.242:80/25/25004/index.m3u8?token=test
+#EXTINF:-1,HRT 1 (HR)
+http://199.66.95.242:80/25/25001/index.m3u8?token=test
+#EXTINF:-1,HRT 3 (HR)
+http://199.66.95.242:80/25/25003/index.m3u8?token=test
+#EXTINF:-1,HRT 5 (HR)
+http://199.66.95.242:80/25/25005/index.m3u8?token=test
+#EXTINF:-1,CMC TV (HR)
+http://199.66.95.242:80/25/25007/index.m3u8?token=test
+#EXTINF:-1,RTL 1 (HR)
+http://199.66.95.242:80/25/25008/index.m3u8?token=test
+#EXTINF:-1,RTL 2 (HR)
+http://199.66.95.242:80/25/25009/index.m3u8?token=test
+#EXTINF:-1,ARENA 1 (HR)
+http://199.66.95.242:80/25/25010/index.m3u8?token=test
+#EXTINF:-1,ARENA 2 (HR)
+http://199.66.95.242:80/25/25011/index.m3u8?token=test
+#EXTINF:-1,ARENA 3 (HR)
+http://199.66.95.242:80/25/25012/index.m3u8?token=test
+#EXTINF:-1,PINK (RS)
+http://199.66.95.242:80/25/25015/index.m3u8?token=test
+#EXTINF:-1,ARENA 4 (HR)
+http://199.66.95.242:80/25/25013/index.m3u8?token=test
+#EXTINF:-1,PINK 2 (RS)
+http://199.66.95.242:80/25/25016/index.m3u8?token=test
+#EXTINF:-1,ARENA 5 (HR)
+http://199.66.95.242:80/25/25014/index.m3u8?token=test
+#EXTINF:-1,PINK 3 (RS)
+http://199.66.95.242:80/25/25017/index.m3u8?token=test
+#EXTINF:-1,PINK ACTION (RS)
+http://199.66.95.242:80/25/25018/index.m3u8?token=test
+#EXTINF:-1,PINK COMEDY (RS)
+http://199.66.95.242:80/25/25020/index.m3u8?token=test
+#EXTINF:-1,PINK CRIME & MYSTERY (RS)
+http://199.66.95.242:80/25/25021/index.m3u8?token=test
+#EXTINF:-1,PINK EXTRA (RS)
+http://199.66.95.242:80/25/25022/index.m3u8?token=test
+#EXTINF:-1,PINK FOLK 1 (RS)
+http://199.66.95.242:80/25/25023/index.m3u8?token=test
+#EXTINF:-1,PINK FOLK 2 (RS)
+http://199.66.95.242:80/25/25024/index.m3u8?token=test
+#EXTINF:-1,PINK FILM (RS)
+http://199.66.95.242:80/25/25025/index.m3u8?token=test
+#EXTINF:-1,PINK HITS (RS)
+http://199.66.95.242:80/25/25026/index.m3u8?token=test
+#EXTINF:-1,PINK HORROR (RS)
+http://199.66.95.242:80/25/25027/index.m3u8?token=test
+#EXTINF:-1,PINK KUVAR (RS)
+http://199.66.95.242:80/25/25028/index.m3u8?token=test
+#EXTINF:-1,PINK LOL (RS)
+http://199.66.95.242:80/25/25029/index.m3u8?token=test
+#EXTINF:-1,PINK PREMIUM (RS)
+http://199.66.95.242:80/25/25033/index.m3u8?token=test
+#EXTINF:-1,PINK M (RS)
+http://199.66.95.242:80/25/25030/index.m3u8?token=test
+#EXTINF:-1,PINK PEDIA (RS)
+http://199.66.95.242:80/25/25031/index.m3u8?token=test
+#EXTINF:-1,PINK PLUS (RS)
+http://199.66.95.242:80/25/25032/index.m3u8?token=test
+#EXTINF:-1,PINK REALITY (RS)
+http://199.66.95.242:80/25/25034/index.m3u8?token=test
+#EXTINF:-1,PINK ROMANCE (RS)
+http://199.66.95.242:80/25/25035/index.m3u8?token=test
+#EXTINF:-1,PINK SERIJE (RS)
+http://199.66.95.242:80/25/25036/index.m3u8?token=test
+#EXTINF:-1,PINK SHOW (RS)
+http://199.66.95.242:80/25/25037/index.m3u8?token=test
+#EXTINF:-1,PINK STYLE (RS)
+http://199.66.95.242:80/25/25038/index.m3u8?token=test
+#EXTINF:-1,PINK SCIFI & FANTASY (RS)
+http://199.66.95.242:80/25/25039/index.m3u8?token=test
+#EXTINF:-1,PINK THRILLER (RS)
+http://199.66.95.242:80/25/25040/index.m3u8?token=test
+#EXTINF:-1,PINK WESTERN (RS)
+http://199.66.95.242:80/25/25041/index.m3u8?token=test
+#EXTINF:-1,PINK ZABAVA (RS)
+http://199.66.95.242:80/25/25042/index.m3u8?token=test
+#EXTINF:-1,PINK CLASSIC (RS)
+http://199.66.95.242:80/25/25043/index.m3u8?token=test
+#EXTINF:-1,PINK FAMILY (RS)
+http://199.66.95.242:80/25/25044/index.m3u8?token=test
+#EXTINF:-1,PINK HAHA (RS)
+http://199.66.95.242:80/25/25045/index.m3u8?token=test
+#EXTINF:-1,PINK KIDS (RS)
+http://199.66.95.242:80/25/25046/index.m3u8?token=test
+#EXTINF:-1,PINK MOVIES (RS)
+http://199.66.95.242:80/25/25047/index.m3u8?token=test
+#EXTINF:-1,PINK MUSIC (RS)
+http://199.66.95.242:80/25/25048/index.m3u8?token=test
+#EXTINF:-1,PINK MUSIC 2 (RS)
+http://199.66.95.242:80/25/25049/index.m3u8?token=test
+#EXTINF:-1,PINK SOAP (RS)
+http://199.66.95.242:80/25/25050/index.m3u8?token=test
+#EXTINF:-1,PINK WORLD CINEMA (RS)
+http://199.66.95.242:80/25/25051/index.m3u8?token=test
+#EXTINF:-1,PINK WORLD (RS)
+http://199.66.95.242:80/25/25052/index.m3u8?token=test
+#EXTINF:-1,PINK PANTHER (RS)
+http://199.66.95.242:80/25/25053/index.m3u8?token=test
+#EXTINF:-1,KANAL 5  (MK)
+http://199.66.95.242:80/25/25055/index.m3u8?token=test
+#EXTINF:-1,25 VESTI (MK)
+http://199.66.95.242:80/25/25054/index.m3u8?token=test
+#EXTINF:-1,KANAL 5 PLUS  (MK)
+http://199.66.95.242:80/25/25056/index.m3u8?token=test
+#EXTINF:-1,MRT 1 (MK)
+http://199.66.95.242:80/25/25057/index.m3u8?token=test
+#EXTINF:-1,MRT 2  (MK)
+http://199.66.95.242:80/25/25058/index.m3u8?token=test
+#EXTINF:-1,SITEL 1  (MK)
+http://199.66.95.242:80/25/25059/index.m3u8?token=test
+#EXTINF:-1,SITEL 2  (MK)
+http://199.66.95.242:80/25/25060/index.m3u8?token=test
+#EXTINF:-1,SITEL 3  (MK)
+http://199.66.95.242:80/25/25061/index.m3u8?token=test
+#EXTINF:-1,ALPHA  (MK)
+http://199.66.95.242:80/25/25062/index.m3u8?token=test
+#EXTINF:-1,TELMA  (MK)
+http://199.66.95.242:80/25/25063/index.m3u8?token=test
+#EXTINF:-1,SKY FOLK  (MK)
+http://199.66.95.242:80/25/25064/index.m3u8?token=test
+#EXTINF:-1,FOLK TV  (MK)
+http://199.66.95.242:80/25/25065/index.m3u8?token=test
+#EXTINF:-1,NOVA TV  (MK)
+http://199.66.95.242:80/25/25066/index.m3u8?token=test
+#EXTINF:-1,ERA TV  (MK)
+http://199.66.95.242:80/25/25067/index.m3u8?token=test
+#EXTINF:-1,KANAL 21  (MK)
+http://199.66.95.242:80/25/25068/index.m3u8?token=test
+#EXTINF:-1,TOP (AL)
+http://199.66.95.242:80/25/25069/index.m3u8?token=test
+#EXTINF:-1,NEWS 24 (AL)
+http://199.66.95.242:80/25/25072/index.m3u8?token=test
+#EXTINF:-1,VIZION PLUS  (AL)
+http://199.66.95.242:80/25/25071/index.m3u8?token=test
+#EXTINF:-1,KLAN (AL)
+http://199.66.95.242:80/25/25070/index.m3u8?token=test
+#EXTINF:-1,TRING SHAQIP (AL)
+http://199.66.95.242:80/25/25073/index.m3u8?token=test
+#EXTINF:-1,TRING FANTASY (AL)
+http://199.66.95.242:80/25/25075/index.m3u8?token=test
+#EXTINF:-1,TRING SUPER (AL)
+http://199.66.95.242:80/25/25076/index.m3u8?token=test
+#EXTINF:-1,TRING COMEDY (AL)
+http://199.66.95.242:80/25/25077/index.m3u8?token=test
+#EXTINF:-1,TRING LIFE (AL)
+http://199.66.95.242:80/25/25078/index.m3u8?token=test
+#EXTINF:-1,TRING SMILE (AL)
+http://199.66.95.242:80/25/25079/index.m3u8?token=test
+#EXTINF:-1,TRING SPORT 2 (AL)
+http://199.66.95.242:80/25/25082/index.m3u8?token=test
+#EXTINF:-1,TRING TRING (AL)
+http://199.66.95.242:80/25/25080/index.m3u8?token=test
+#EXTINF:-1,KTV (AL)
+http://199.66.95.242:80/25/25085/index.m3u8?token=test
+#EXTINF:-1,TRING SPORT 1 (AL)
+http://199.66.95.242:80/25/25081/index.m3u8?token=test
+#EXTINF:-1,TRING SPORT 3 (AL)
+http://199.66.95.242:80/25/25083/index.m3u8?token=test
+#EXTINF:-1,TRING SPORT 4 (AL)
+http://199.66.95.242:80/25/25084/index.m3u8?token=test
+#EXTINF:-1,FLIM+ (HU)
+http://199.66.95.242:80/25/25087/index.m3u8?token=test
+#EXTINF:-1,VIASAT 3 (HU)
+http://199.66.95.242:80/25/25086/index.m3u8?token=test
+#EXTINF:-1,ATV (HU)
+http://199.66.95.242:80/25/25089/index.m3u8?token=test
+#EXTINF:-1,VIASAT 6 (HU)
+http://199.66.95.242:80/25/25090/index.m3u8?token=test
+#EXTINF:-1,360 (RU)
+http://199.66.95.242:80/29/29002/index.m3u8?token=test
+#EXTINF:-1,24техно (RU)
+http://199.66.95.242:80/29/29001/index.m3u8?token=test
+#EXTINF:-1,8 kanal (RU)
+http://199.66.95.242:80/29/29004/index.m3u8?token=test
+#EXTINF:-1,A media hit (RU)
+http://199.66.95.242:80/29/29005/index.m3u8?token=test
+#EXTINF:-1,A media premium (RU)
+http://199.66.95.242:80/29/29006/index.m3u8?token=test
+#EXTINF:-1,CINEMA (RU)
+http://199.66.95.242:80/29/29008/index.m3u8?token=test
+#EXTINF:-1,MATCH (RU)
+http://199.66.95.242:80/29/29011/index.m3u8?token=test
+#EXTINF:-1,RUS ID (RU)
+http://199.66.95.242:80/29/29009/index.m3u8?token=test
+#EXTINF:-1,MATCH ARENA (RU)
+http://199.66.95.242:80/29/29012/index.m3u8?token=test
+#EXTINF:-1,Extream Sports (RU)
+http://199.66.95.242:80/29/29010/index.m3u8?token=test
+#EXTINF:-1,MATCH IGRA (RU)
+http://199.66.95.242:80/29/29013/index.m3u8?token=test
+#EXTINF:-1,MATH NASH (RU)
+http://199.66.95.242:80/29/29014/index.m3u8?token=test
+#EXTINF:-1,MIR (RU)
+http://199.66.95.242:80/29/29015/index.m3u8?token=test
+#EXTINF:-1,MIR 24 (RU)
+http://199.66.95.242:80/29/29016/index.m3u8?token=test
+#EXTINF:-1,NTV (RU)
+http://199.66.95.242:80/29/29018/index.m3u8?token=test
+#EXTINF:-1,MOSKVA 24 (RU)
+http://199.66.95.242:80/29/29017/index.m3u8?token=test
+#EXTINF:-1,TV1000 (RU)
+http://199.66.95.242:80/29/29021/index.m3u8?token=test
+#EXTINF:-1,ROSSIYA 1 (RU)
+http://199.66.95.242:80/29/29019/index.m3u8?token=test
+#EXTINF:-1,RTVI (RU)
+http://199.66.95.242:80/29/29020/index.m3u8?token=test
+#EXTINF:-1,TV1000Русскоекино (RU)
+http://199.66.95.242:80/29/29023/index.m3u8?token=test
+#EXTINF:-1,TV1000 ACTION (RU)
+http://199.66.95.242:80/29/29022/index.m3u8?token=test
+#EXTINF:-1,Авто24  (RU)
+http://199.66.95.242:80/29/29024/index.m3u8?token=test
+#EXTINF:-1,Бобер (RU)
+http://199.66.95.242:80/29/29025/index.m3u8?token=test
+#EXTINF:-1,Диалогиорыбалке (RU)
+http://199.66.95.242:80/29/29027/index.m3u8?token=test
+#EXTINF:-1,ТвойДом (RU)
+http://199.66.95.242:80/29/29028/index.m3u8?token=test
+#EXTINF:-1,Глазамитуриста (RU)
+http://199.66.95.242:80/29/29026/index.m3u8?token=test
+#EXTINF:-1,Успех (RU)
+http://199.66.95.242:80/29/29029/index.m3u8?token=test
+#EXTINF:-1,Футбол (RU)
+http://199.66.95.242:80/29/29030/index.m3u8?token=test
+#EXTINF:-1,Дача (UKR)
+http://199.66.95.242:80/29/29031/index.m3u8?token=test
+#EXTINF:-1,Наука (UKR)
+http://199.66.95.242:80/29/29032/index.m3u8?token=test
+#EXTINF:-1,Терра (UKR)
+http://199.66.95.242:80/29/29033/index.m3u8?token=test
+#EXTINF:-1,Трофей (UKR)
+http://199.66.95.242:80/29/29034/index.m3u8?token=test
+#EXTINF:-1,Фауна (UKR)
+http://199.66.95.242:80/29/29035/index.m3u8?token=test
+#EXTINF:-1,Эпоха (UKR)
+http://199.66.95.242:80/29/29036/index.m3u8?token=test
+#EXTINF:-1,C1R (NA) (RU)
+http://199.66.95.242:80/29/29037/index.m3u8?token=test
+#EXTINF:-1,RTN (NA) (RU)
+http://199.66.95.242:80/29/29038/index.m3u8?token=test
+#EXTINF:-1,ROSSIYA 24
+http://199.66.95.242:80/29/29039/index.m3u8?token=test
