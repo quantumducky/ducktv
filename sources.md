@@ -53,13 +53,25 @@ http://51.75.112.123:85/lt-rytas/mono.m3u8?token=home
 http://51.75.112.123:85/lt-balticum/mono.m3u8?token=home
 http://51.75.112.123:85/lt-balt-auks/mono.m3u8?token=home
 
+http://51.75.112.123:85/lv-ltv1/mono.m3u8?token=home
+http://51.75.112.123:85/lv-ltv7/mono.m3u8?token=home
+http://51.75.112.123:85/lv-tv3/mono.m3u8?token=home
+http://51.75.112.123:85/lv-tv6/mono.m3u8?token=home
 http://51.75.112.123:85/lv-lnt/mono.m3u8?token=home
+http://51.75.112.123:85/lv-kanals2/mono.m3u8?token=home
+http://51.75.112.123:85/lv-riga24/mono.m3u8?token=home
+http://51.75.112.123:85/lv-sportacentrs/mono.m3u8?token=home
+http://51.75.112.123:85/lv-3plus/mono.m3u8?token=home
+http://51.75.112.123:85/lv-360/mono.m3u8?token=home
+http://51.75.112.123:85/lv-stv/mono.m3u8?token=home
+http://51.75.112.123:85/lv-retv/mono.m3u8?token=home
 
 http://51.75.112.123:85/en-ITV/mono.m3u8?token=home
 http://51.75.112.123:85/en-BBCOneHD/mono.m3u8?token=home
 http://51.75.112.123:85/en-BBCTwoEng/mono.m3u8?token=home
 http://51.75.112.123:85/en-BBCTwoHD/mono.m3u8?token=home
 http://51.75.112.123:85/en-RTEOne/mono.m3u8?token=home
+http://51.75.112.123:85/en-sky-f1/mono.m3u8?token=home
 
 http://51.75.112.123:85/ru-tv1000/mono.m3u8?token=home
 http://51.75.112.123:85/ru-eurosport/mono.m3u8?token=home
