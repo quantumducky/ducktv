@@ -1,0 +1,311 @@
+#EXTM3U
+#EXTINF:36,LRT HD
+http://213.226.137.133:81/tl/l1/index.m3u8
+#EXTINF:36,LRT Plius HD
+http://213.226.137.133:81/tl/l2/index.m3u8
+#EXTINF:72,Lietuvos Rytas
+http://213.226.137.133:81/tl/l35/index.m3u8
+#EXTINF:72,Lietuvos Rytas HD
+http://213.226.137.130:81/tl2/l703/index.m3u8
+#EXTINF:36,LNK
+http://213.226.137.133:81/tl/l3/index.m3u8
+#EXTINF:72,LNK HD
+http://213.226.137.130:81/tl2/l710/index.m3u8
+#EXTINF:36,TV6
+http://213.226.137.133:81/tl/l4/index.m3u8
+#EXTINF:72,TV6 HD
+http://213.226.137.130:81/tl2/l702/index.m3u8
+#EXTINF:36,BTV
+http://213.226.137.133:81/tl/l5/index.m3u8
+#EXTINF:72,BTV HD
+http://213.226.137.130:81/tl2/l711/index.m3u8
+#EXTINF:36,TV3
+http://213.226.137.133:81/tl/l6/index.m3u8
+#EXTINF:72,TV3 HD
+http://213.226.137.130:81/tl2/l701/index.m3u8
+#EXTINF:36,Info TV
+http://213.226.137.133:81/tl/l7/index.m3u8
+#EXTINF:72,Info HD
+http://213.226.137.133:81/tl/l713/index.m3u8
+#EXTINF:36,TV2
+http://213.226.137.133:81/tl/l8/index.m3u8
+#EXTINF:36,TV1
+http://213.226.137.133:81/tl/l9/index.m3u8
+#EXTINF:72,TV1 HD
+http://213.226.137.133:81/tl/l712/index.m3u8
+#EXTINF:36,TV8
+http://213.226.137.133:81/tl/l10/index.m3u8
+#EXTINF:72,TV8 HD
+http://213.226.137.133:81/tl/l714/index.m3u8
+#EXTINF:54,TV3 Film HD
+http://213.226.137.130:81/tl2/l845/index.m3u8
+#EXTINF:71,BalticumTV
+http://213.226.137.130:81/tl2/l11/index.m3u8
+#EXTINF:72,Delfi HD
+http://213.226.137.133:81/tl/l715/index.m3u8
+
+
+
+#EXTINF:72,Наука
+http://213.226.137.130:81/tl2/l114/index.m3u8
+#EXTINF:72,История
+http://213.226.137.130:81/tl2/l116/index.m3u8
+#EXTINF:72,ABTO24
+http://213.226.137.130:81/tl2/l117/index.m3u8
+#EXTINF:54,Moja Stichija
+http://213.226.137.130:81/tl2/l119/index.m3u8
+#EXTINF:72,Extreme Sports
+http://213.226.137.130:81/tl2/l120/index.m3u8
+#EXTINF:60,Дикий
+http://213.226.137.130:81/tl2/l124/index.m3u8
+#EXTINF:72,Travel+Adventure
+http://213.226.137.130:81/tl2/l125/index.m3u8
+#EXTINF:36,Euronews RU
+http://213.226.137.130:81/tl2/l127/index.m3u8
+#EXTINF:43,NatGeo Wild HD
+http://213.226.137.130:81/tl2/l350/index.m3u8
+#EXTINF:36,Match football HD
+http://213.226.137.130:81/tl2/l351/index.m3u8
+#EXTINF:36,Match football 2
+http://213.226.137.130:81/tl2/l352/index.m3u8
+#EXTINF:36,Match football 3
+http://213.226.137.130:81/tl2/l353/index.m3u8
+#EXTINF:36,Eurosport HD
+http://213.226.137.130:81/tl2/l354/index.m3u8
+#EXTINF:72,NatGeo HD
+http://213.226.137.130:81/tl2/l355/index.m3u8
+#EXTINF:36,Amedia Premium HD
+http://213.226.137.130:81/tl2/l356/index.m3u8
+#EXTINF:36,CTC kIds HD
+http://213.226.137.130:81/tl2/l357/index.m3u8
+#EXTINF:36,Match Arena HD
+http://213.226.137.130:81/tl2/l360/index.m3u8
+#EXTINF:36,Discovery HD
+http://213.226.137.130:81/tl2/l361/index.m3u8
+#EXTINF:36,Pukas HD
+http://213.226.137.130:81/tl2/l362/index.m3u8
+#EXTINF:60,МУЗ
+http://213.226.137.130:81/tl2/l501/index.m3u8
+#EXTINF:72,Sony Turbo
+http://213.226.137.130:81/tl2/l503/index.m3u8
+#EXTINF:72,Viasat Nature
+http://213.226.137.130:81/tl2/l506/index.m3u8
+#EXTINF:72,Nick Jr.
+http://213.226.137.130:81/tl2/l508/index.m3u8
+#EXTINF:72,BRIDGE TV Русский Хит
+http://213.226.137.130:81/tl2/l511/index.m3u8
+#EXTINF:72,Doktor
+http://213.226.137.130:81/tl2/l513/index.m3u8
+#EXTINF:72,Че
+http://213.226.137.130:81/tl2/l515/index.m3u8
+#EXTINF:72,ТЕЛЕКАФЕ
+http://213.226.137.130:81/tl2/l516/index.m3u8
+#EXTINF:60,Домашний
+http://213.226.137.130:81/tl2/l517/index.m3u8
+#EXTINF:72,Пятый канал
+http://213.226.137.130:81/tl2/l518/index.m3u8
+#EXTINF:72,Любимое Кино
+http://213.226.137.130:81/tl2/l519/index.m3u8
+#EXTINF:72,НСТ
+http://213.226.137.130:81/tl2/l520/index.m3u8
+#EXTINF:72,Русский бестселлер
+http://213.226.137.130:81/tl2/l521/index.m3u8
+#EXTINF:72,КИНОСЕМЬЯ
+http://213.226.137.130:81/tl2/l522/index.m3u8
+#EXTINF:72,КИНОСВИДАНИЕ
+http://213.226.137.130:81/tl2/l523/index.m3u8
+#EXTINF:36,Bolywood HD
+http://213.226.137.130:81/tl2/l524/index.m3u8
+#EXTINF:36,VIP Megahit HD
+http://213.226.137.130:81/tl2/l527/index.m3u8
+#EXTINF:36,VIP Comedy HD
+http://213.226.137.130:81/tl2/l528/index.m3u8
+#EXTINF:72,Paramount Comedy
+http://213.226.137.130:81/tl2/l529/index.m3u8
+#EXTINF:72,Русский роман
+http://213.226.137.130:81/tl2/l532/index.m3u8
+#EXTINF:36,Sci-Fi
+http://213.226.137.130:81/tl2/l533/index.m3u8
+#EXTINF:36,Mir
+http://213.226.137.130:81/tl2/l709/index.m3u8
+#EXTINF:36,France24 HD
+http://213.226.137.130:81/tl2/l758/index.m3u8
+#EXTINF:18,France24 FR
+http://213.226.137.130:81/tl2/l759/index.m3u8
+#EXTINF:36,Euronews HD
+http://213.226.137.130:81/tl2/l760/index.m3u8
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:36,Eurosport HD
+http://213.226.137.133:81/tl/l11/index.m3u8
+#EXTINF:36,NatGeo
+http://213.226.137.133:81/tl/l12/index.m3u8
+#EXTINF:36,Animal Planet HD
+http://213.226.137.133:81/tl/l13/index.m3u8
+#EXTINF:36,Travel HD
+http://213.226.137.133:81/tl/l14/index.m3u8
+#EXTINF:72,Kinohit
+http://213.226.137.133:81/tl/l16/index.m3u8
+#EXTINF:43,TLC HD
+http://213.226.137.133:81/tl/l18/index.m3u8
+#EXTINF:72,ID
+http://213.226.137.133:81/tl/l23/index.m3u8
+#EXTINF:72,CNN International
+http://213.226.137.133:81/tl/l24/index.m3u8
+#EXTINF:72,Discovery Science
+http://213.226.137.133:81/tl/l26/index.m3u8
+#EXTINF:72,TVC
+http://213.226.137.133:81/tl/l28/index.m3u8
+#EXTINF:36,NTV HD
+http://213.226.137.133:81/tl/l40/index.m3u8
+#EXTINF:36,TNT HD
+http://213.226.137.133:81/tl/l41/index.m3u8
+#EXTINF:36,Rosija HD
+http://213.226.137.133:81/tl/l42/index.m3u8
+#EXTINF:72,CTC
+http://213.226.137.133:81/tl/l43/index.m3u8
+#EXTINF:72,Rosija 24
+http://213.226.137.133:81/tl/l44/index.m3u8
+#EXTINF:0, Channel 45
+http://213.226.137.133:81/tl/l45/index.m3u8
+#EXTINF:36,Pervyj HD
+http://213.226.137.133:81/tl/l46/index.m3u8
+#EXTINF:72,Ren TV
+http://213.226.137.133:81/tl/l47/index.m3u8
+#EXTINF:72,Pyatnitsa!
+http://213.226.137.133:81/tl/l48/index.m3u8
+#EXTINF:0, Rosija K
+http://213.226.137.133:81/tl/l49/index.m3u8
+#EXTINF:0, Zvezda
+http://213.226.137.133:81/tl/l50/index.m3u8
+#EXTINF:0, ТВ3
+http://213.226.137.133:81/tl/l51/index.m3u8
+#EXTINF:0, Kinokomediya
+http://213.226.137.133:81/tl/l52/index.m3u8
+#EXTINF:0, Nashe Novoe Kino
+http://213.226.137.133:81/tl/l53/index.m3u8
+#EXTINF:0, Rodnoe Kino
+http://213.226.137.133:81/tl/l54/index.m3u8
+#EXTINF:0, Dialogi o rybalke
+http://213.226.137.133:81/tl/l55/index.m3u8
+#EXTINF:72,Mezzo Live HD
+http://213.226.137.133:81/tl/l56/index.m3u8
+#EXTINF:72,Outdoor Channel
+http://213.226.137.133:81/tl/l59/index.m3u8
+#EXTINF:72,SHOT TV
+http://213.226.137.133:81/tl/l60/index.m3u8
+#EXTINF:72,Playboy TV
+http://213.226.137.133:81/tl/l61/index.m3u8
+#EXTINF:72,THT4
+http://213.226.137.133:81/tl/l63/index.m3u8
+#EXTINF:60,а аа-аЂа
+http://213.226.137.133:81/tl/l64/index.m3u8
+#EXTINF:72,аббаНб аЂа
+http://213.226.137.133:81/tl/l65/index.m3u8
+#EXTINF:72,аааЂаЇ! ааааІ
+http://213.226.137.133:81/tl/l66/index.m3u8
+#EXTINF:36,KXL HD
+http://213.226.137.133:81/tl/l67/index.m3u8
+#EXTINF:72,Match! Strana
+http://213.226.137.133:81/tl/l73/index.m3u8
+#EXTINF:36,Match Premier HD
+http://213.226.137.133:81/tl/l74/index.m3u8
+#EXTINF:36,Dom Kino HD
+http://213.226.137.133:81/tl/l75/index.m3u8
+#EXTINF:72,Kinomiks
+http://213.226.137.133:81/tl/l79/index.m3u8
+#EXTINF:36,Shanson
+http://213.226.137.133:81/tl/l88/index.m3u8
+#EXTINF:72,ааВбаОаПаА ааЛбб аЂа
+http://213.226.137.133:81/tl/l89/index.m3u8
+#EXTINF:72,AMEDIA HIT
+http://213.226.137.133:81/tl/l90/index.m3u8
+#EXTINF:72,TV1000
+http://213.226.137.133:81/tl/l91/index.m3u8
+#EXTINF:72,TV1000 Action
+http://213.226.137.133:81/tl/l92/index.m3u8
+#EXTINF:72,TV1000 RU
+http://213.226.137.133:81/tl/l93/index.m3u8
+#EXTINF:36,Viasat Explorer
+http://213.226.137.133:81/tl/l94/index.m3u8
+#EXTINF:36,Viasat History
+http://213.226.137.133:81/tl/l95/index.m3u8
+#EXTINF:72,Viasat Nature
+http://213.226.137.133:81/tl/l96/index.m3u8
+#EXTINF:36,Viasat Sport
+http://213.226.137.133:81/tl/l97/index.m3u8
+#EXTINF:72,Food Network
+http://213.226.137.133:81/tl/l98/index.m3u8
+#EXTINF:72,RU.TV
+http://213.226.137.133:81/tl/l99/index.m3u8
+#EXTINF:72,Fashion Tv
+http://213.226.137.133:81/tl/l101/index.m3u8
+#EXTINF:72,абаЗбаКаА ааЕбаВаОаГаО
+http://213.226.137.133:81/tl/l102/index.m3u8
+#EXTINF:72,аЁаАбаАбаАаН
+http://213.226.137.133:81/tl/l103/index.m3u8
+#EXTINF:72,ааааЁ аЂа
+http://213.226.137.133:81/tl/l104/index.m3u8
+#EXTINF:72,ааВбаО ааЛбб
+http://213.226.137.133:81/tl/l105/index.m3u8
+#EXTINF:72,MTV Rus
+http://213.226.137.133:81/tl/l107/index.m3u8
+#EXTINF:72,MTV 80s
+http://213.226.137.133:81/tl/l108/index.m3u8
+#EXTINF:72,MTV 90s
+http://213.226.137.133:81/tl/l109/index.m3u8
+#EXTINF:72,ааЃааЁааа аааа
+http://213.226.137.133:81/tl/l111/index.m3u8
+#EXTINF:72,ааааа 
+http://213.226.137.133:81/tl/l112/index.m3u8
+#EXTINF:36,MTV HD
+http://213.226.137.133:81/tl/l302/index.m3u8
+#EXTINF:36,Kino Premiera HD
+http://213.226.137.133:81/tl/l303/index.m3u8
+#EXTINF:36,Match Igra HD
+http://213.226.137.133:81/tl/l304/index.m3u8
+#EXTINF:36,HD Life
+http://213.226.137.133:81/tl/l305/index.m3u8
+#EXTINF:36,VIP Premiere HD
+http://213.226.137.133:81/tl/l319/index.m3u8
+#EXTINF:36,Match HD
+http://213.226.137.133:81/tl/l320/index.m3u8
+#EXTINF:36,RTG HD
+http://213.226.137.133:81/tl/l321/index.m3u8
+#EXTINF:36,Bridge Deluxe HD
+http://213.226.137.133:81/tl/l322/index.m3u8
+#EXTINF:36,Eurosport 2 HD
+http://213.226.137.133:81/tl/l326/index.m3u8
+#EXTINF:72,CNBC
+http://213.226.137.133:81/tl/l400/index.m3u8
+#EXTINF:36,Boomerang
+http://213.226.137.133:81/tl/l401/index.m3u8
+#EXTINF:36,M1
+http://213.226.137.133:81/tl/l404/index.m3u8
+#EXTINF:36,2x2
+http://213.226.137.133:81/tl/l405/index.m3u8
+#EXTINF:36,Izvestija
+http://213.226.137.133:81/tl/l406/index.m3u8
+#EXTINF:36,Eurokino
+http://213.226.137.133:81/tl/l407/index.m3u8
+#EXTINF:36,KVN
+http://213.226.137.133:81/tl/l410/index.m3u8
+#EXTINF:36,World Fashion
+http://213.226.137.133:81/tl/l411/index.m3u8
+#EXTINF:36,Tocka Otryva
+http://213.226.137.133:81/tl/l412/index.m3u8
+#EXTINF:36,365
+http://213.226.137.133:81/tl/l413/index.m3u8
+#EXTINF:72,аааааЃаааЁ
+http://213.226.137.133:81/tl/l415/index.m3u8
+#EXTINF:36,E TV
+http://213.226.137.133:81/tl/l416/index.m3u8
+#EXTINF:36,Multi
+http://213.226.137.133:81/tl/l417/index.m3u8
+#EXTINF:36,Basketball
+http://213.226.137.133:81/tl/l423/index.m3u8

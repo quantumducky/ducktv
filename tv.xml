@@ -22,13 +22,13 @@
 </channel> -->
 
 <channel>
-  <title><![CDATA[Fastlink]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/fastlink.m3u8]]></playlist_url>
+  <title><![CDATA[LT ir RU kanalai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/213_226_137.m3u8]]></playlist_url>
 </channel>
 
 <channel>
-  <title><![CDATA[Plius TV]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/pliustv.m3u8]]></playlist_url>
+  <title><![CDATA[LT Kanalai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/liuxtv.m3u8]]></playlist_url>
 </channel>
 
 <channel>
