@@ -16,6 +16,31 @@
 </channel>
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/what_we_do_in_shadows.m3u8]]></playlist_url>
+  <title><![CDATA[Чем мы заняты в тени]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
+  <title><![CDATA[Наследники]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/yellowstone.m3u8]]></playlist_url>
+  <title><![CDATA[Йеллоустоун]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/I_know_this_much_is_true.m3u8]]></playlist_url>
+  <title><![CDATA[Я знаю, что это правда]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/peaky_blinders.m3u8]]></playlist_url>
+  <title><![CDATA[Острые козырьки]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_100.m3u8]]></playlist_url>
   <title><![CDATA[Сотня]]></title>
 </channel>

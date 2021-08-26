@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 Shows:
 http://fanserials.bz
 https://vseriale.co
+http://kabarkino.org
+https://serialhd.net/
 
 Movies:
 https://filmix.co
@@ -86,15 +88,3 @@ http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723
 
 https://github.com/erkexzcx/lietuviska-tv
 https://sites.google.com/site/gintarmixas/home
-
-
-http://88.216.84.52:64144/n1/index.m3u8
-http://88.216.84.51:64144/n1/index.m3u8
-http://88.216.84.42:64144/n1/index.m3u8
-http://88.216.84.41:64144/n1/index.m3u8
-http://88.216.84.39:64144/n1/index.m3u8
-http://88.216.84.34:64144/n1/index.m3u8
-http://88.216.84.33:64144/n1/index.m3u8
-http://88.216.84.28:64144/n1/index.m3u8
-http://88.216.84.18:64144/n1/index.m3u8
-http://88.216.84.17:64144/n1/index.m3u8
