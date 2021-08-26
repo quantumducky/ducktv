@@ -6,20 +6,18 @@
 <items>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mcleods.m3u8]]></playlist_url>
-  <title><![CDATA[Дочери МакЛеода]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/better_call_saul.m3u8]]></playlist_url>
+  <title><![CDATA[Лучше звоните Солу]]></title>
 </channel>
 
-
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dr_quinn.m3u8]]></playlist_url>
-  <title><![CDATA[Доктор Куин]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_newsroom.m3u8]]></playlist_url>
+  <title><![CDATA[Служба новостей]]></title>
 </channel>
 
-
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/all_rivers_run.m3u8]]></playlist_url>
-  <title><![CDATA[Все реки текут]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_100.m3u8]]></playlist_url>
+  <title><![CDATA[Сотня]]></title>
 </channel>
 
 </items></item>

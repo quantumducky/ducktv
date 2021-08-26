@@ -42,6 +42,11 @@
 </channel>
 
 <channel>
+  <title><![CDATA[Serialai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows.main.xml#.XML]]></playlist_url>
+</channel>
+
+<channel>
   <title><![CDATA[Kiti]]></title>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/other.xml#.XML]]></playlist_url>
 </channel>
