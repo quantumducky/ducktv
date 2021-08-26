@@ -43,7 +43,7 @@
 
 <channel>
   <title><![CDATA[Serialai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows.main.xml#.XML]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/main.xml#.XML]]></playlist_url>
 </channel>
 
 <channel>
