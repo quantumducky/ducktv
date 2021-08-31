@@ -11,6 +11,7 @@ https://serialhd.net/
 
 Movies:
 https://filmix.co
+kinokrad.co
 
 LT:
 https://serialai.live/

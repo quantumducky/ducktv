@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+
+<title><![CDATA[Duck TV]]></title>
+
+<items>
+
+<channel>
+  <title><![CDATA[Побег из Шоушенка]]></title>
+  <stream_url><![CDATA[https://bk2-hls.kinokrad.co/hls/Pobeg.iz.Showshenka.HDRip/playlist.m3u8]]></stream_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Pabėgimas iš Šoušenko]]></title>
+  <stream_url><![CDATA[https://srv2.filmplay.club/videos/filmai/The.Shawshank.Redemption.1994.BDRip.XviD.AC3.Lt.En.Morpheus.mp4]]></stream_url>
+</channel>
+
+</items></item>
