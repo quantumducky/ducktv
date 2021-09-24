@@ -6,8 +6,18 @@
 <items>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/better_call_saul.m3u8]]></playlist_url>
-  <title><![CDATA[Лучше звоните Солу]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
+  <title><![CDATA[Наследники]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/ozark.m3u8]]></playlist_url>
+  <title><![CDATA[Озарк]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/deadwood.m3u8]]></playlist_url>
+  <title><![CDATA[Дэдвyд]]></title>
 </channel>
 
 <channel>
@@ -18,11 +28,6 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/what_we_do_in_shadows.m3u8]]></playlist_url>
   <title><![CDATA[Чем мы заняты в тени]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
-  <title><![CDATA[Наследники]]></title>
 </channel>
 
 <channel>
@@ -38,11 +43,6 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/peaky_blinders.m3u8]]></playlist_url>
   <title><![CDATA[Острые козырьки]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_100.m3u8]]></playlist_url>
-  <title><![CDATA[Сотня]]></title>
 </channel>
 
 </items></item>

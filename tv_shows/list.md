@@ -1,4 +1,3 @@
-ozark
 hannibal
 house of cards
 the west wing
@@ -13,6 +12,5 @@ the last dance
 band of brothers
 arrested development
 barry
-deadwood
 the wire
 the knick

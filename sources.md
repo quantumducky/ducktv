@@ -2,21 +2,29 @@
 Duck TV Main:
 https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 
+F! Streams:
+http://freestreams-live1.com/skysformula1/
+http://f1livegp.me/f1/live.html
 
 Shows:
 http://fanserials.bz
 https://vseriale.co
 http://kabarkino.org
 https://serialhd.net/
+http://seasonvar.ru
 
 Movies:
 https://filmix.co
 kinokrad.co
+https://kino-ep.online
 
 LT:
 https://serialai.live/
 https://45.87.43.43/
-https://185.238.0.238/
+https://185.238.0.238/  https://filmaivip.com
+http://103.155.92.210
+https://serialai.club
+https://serialai.online
 
 
 video links:
@@ -89,3 +97,7 @@ http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723
 
 https://github.com/erkexzcx/lietuviska-tv
 https://sites.google.com/site/gintarmixas/home
+
+
+https://ce6-eba-1004g0.streamalloha.live/hs/17/1630448298/L1CKiGZWr9sDcCRGxYTIKw/231/21231/4/index-f4-v1-sa4-a1.m3u8
+https://ce6-eba-1004g0.streamalloha.live/hs/17/1630448298/L1CKiGZWr9sDcCRGxYTIKw/231/21231/4/index-f2-v1-sa4-a1.m3u8

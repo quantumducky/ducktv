@@ -1,7 +1,42 @@
 #EXTM3U
+# http://kabarkino.org/2261-nasledniki-1-sezon-s6.html
 #EXTINF:-1, S1 E1
 http://s4.fplay.online/content/stream/films/succession.s01e01.celebration.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_69649/hls/720/index.m3u8
 #EXTINF:-1, S1 E2
 http://s4.fplay.online/content/stream/films/succession.s01e02.sht.show.at.the.fk.factory.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_68076/hls/720/index.m3u8
 #EXTINF:-1, S1 E3
 http://s4.fplay.online/content/stream/films/succession.s01e03.lifeboats.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_69650/hls/720/index.m3u8
+#EXTINF:-1, S1 E4
+http://s4.fplay.online/content/stream/films/succession.s01e04.sad.sack.wasp.trap.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_69651/hls/720/index.m3u8
+#EXTINF:-1, S1 E5
+http://s4.fplay.online/content/stream/films/succession.s01e05.i.went.to.market.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_69652/hls/720/index.m3u8
+#EXTINF:-1, S1 E6
+http://s4.fplay.online/content/stream/films/succession.s01e06.which.side.are.you.on.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_70187/hls/720/index.m3u8
+#EXTINF:-1, S1 E7
+http://s4.fplay.online/content/stream/films/succession.s01e07.austerlitz.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_70188/hls/720/index.m3u8
+#EXTINF:-1, S1 E8
+http://s4.fplay.online/content/stream/films/succession.s01e08.prague.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_70730/hls/720/index.m3u8
+#EXTINF:-1, S1 E9
+http://s2.fplay.online/content/stream/films/succession.s01e09.prenuptial.720p.amzn.webdl.dd5.1.h.264.amedia.pal_117091/hls/720/index.m3u8
+#EXTINF:-1, S1 E10
+http://s4.fplay.online/content/stream/films/succession.s01e10.nobody.is.ever.missing.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_71817/hls/720/index.m3u8
+#EXTINF:-1, S2 E1
+http://s4.fplay.online/content/stream/films/succession.s02e01.webdl.1080p_115987/hls/720/index.m3u8
+#EXTINF:-1, S2 E2
+http://s4.fplay.online/content/stream/films/succession.s02e02.webdl.1080p_115988/hls/720/index.m3u8
+#EXTINF:-1, S2 E3
+http://s11.fplay.online/content/stream/films/succession.s02e03.webdl.1080p_116986/hls/720/index.m3u8
+#EXTINF:-1, S2 E4
+http://s2.fplay.online/content/stream/films/succession.s02e04.webdl.1080p_118811/hls/720/index.m3u8
+#EXTINF:-1, S2 E5
+http://s11.fplay.online/content/stream/films/succession.s02e05.webdl.1080p_120234/hls/720/index.m3u8
+#EXTINF:-1, S2 E6
+http://s11.fplay.online/content/stream/films/succession.s02e06.webdl.1080p_122015/hls/720/index.m3u8
+#EXTINF:-1, S2 E7
+http://s22.fplay.online/content/stream/films/succession.s02e07.return.1080p.amzn.webdl.h.264.rus.a.ddp5.1.srteniahd_123049/hls/720/index.m3u8
+#EXTINF:-1, S2 E8
+http://s4.fplay.online/content/stream/films/succession.s02e08.webdl.1080p_123864/hls/720/index.m3u8
+#EXTINF:-1, S2 E9
+http://s22.fplay.online/content/stream/films/succession.s02e09.dc.1080p.amzn.webdl.h.264.rus.a.ddp5.1.srteniahd_124984/hls/720/index.m3u8
+#EXTINF:-1, S2 E10
+http://s11.fplay.online/content/stream/films/succession.s02e10.this.is.not.for.tears.1080p.amzn.webdl.h.264.rus.a.ddp5.1.srteniahd_126048/hls/720/index.m3u8
