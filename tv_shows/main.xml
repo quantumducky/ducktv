@@ -69,6 +69,11 @@
 </channel>
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos.m3u8]]></playlist_url>
+  <title><![CDATA[Нарко]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
   <title><![CDATA[Наследники]]></title>
 </channel>

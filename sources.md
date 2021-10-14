@@ -11,6 +11,7 @@ http://kabarkino.org
 https://serialhd.net/
 http://www.boomtv.ru/
 https://hdoriginal.ru/
+https://kinokrad.co
 
 not good:
 http://fanserials.bz
@@ -19,7 +20,7 @@ http://seasonvar.ru
 
 Movies:
 https://filmix.co
-kinokrad.co
+https://kinokrad.co
 https://kino-ep.online
 
 LT:
