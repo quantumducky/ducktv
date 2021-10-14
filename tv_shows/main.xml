@@ -1,18 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 
+<!--
+  WATCHED: 
+  ozark - Озарк
+  peaky_blinders - Острые козырьки
+
+
+  TO TRY:
+  hannibal
+  house of cards
+  the west wing
+  true detective
+  narcos
+  vikings
+  spartacus
+  the punisher
+  boardwalk empire
+  taboo
+  the last dance
+  band of brothers
+  arrested development
+  barry
+
+
+  PASSED:
+  the_newsroom - Служба новостей
+  what_we_do_in_shadows - Чем мы заняты в тени
+  yellowstone - Йеллоустоун
+  I_know_this_much_is_true - Я знаю, что это правда
+-->
+
 <title><![CDATA[Serialai]]></title>
 
 <items>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
-  <title><![CDATA[Наследники]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_wire.m3u8]]></playlist_url>
+  <title><![CDATA[Прoслушка]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/ozark.m3u8]]></playlist_url>
-  <title><![CDATA[Озарк]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_knick.m3u8]]></playlist_url>
+  <title><![CDATA[Больница Никербокер]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_knick.m3u8]]></playlist_url>
+  <title><![CDATA[Настоящий детектив]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
+  <title><![CDATA[Наследники]]></title>
 </channel>
 
 <channel>
@@ -23,31 +63,6 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/boardwalk_empire.m3u8]]></playlist_url>
   <title><![CDATA[Подпольная империя]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_newsroom.m3u8]]></playlist_url>
-  <title><![CDATA[Служба новостей]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/what_we_do_in_shadows.m3u8]]></playlist_url>
-  <title><![CDATA[Чем мы заняты в тени]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/yellowstone.m3u8]]></playlist_url>
-  <title><![CDATA[Йеллоустоун]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/I_know_this_much_is_true.m3u8]]></playlist_url>
-  <title><![CDATA[Я знаю, что это правда]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/peaky_blinders.m3u8]]></playlist_url>
-  <title><![CDATA[Острые козырьки]]></title>
 </channel>
 
 </items></item>
