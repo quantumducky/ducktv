@@ -1,0 +1,26 @@
+#EXTM3U
+# http://www.boomtv.ru/publ/lostfilm/dekster/2-1-0-1239
+#EXTINF:-1, S1 E1
+http://s4.playep.pro/content/stream/films/01._dekster_292677/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s4.playep.pro/content/stream/films/02._krokodilovy_slezy_292678/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s4.playep.pro/content/stream/films/03._cherri_so_ldom_292679/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s4.playep.pro/content/stream/films/04._ruka_pomoshhi_292680/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s4.playep.pro/content/stream/films/05._lyubov_poamerikanski_292681/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+http://s4.playep.pro/content/stream/films/06._vernut_otpravitelyu_292682/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+http://s4.playep.pro/content/stream/films/07._krug_druzej_292683/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+http://s4.playep.pro/content/stream/films/08._psixoanaliz_292684/hls/1080/index.m3u8
+#EXTINF:-1, S1 E9
+http://s4.playep.pro/content/stream/films/09._otczu_vidnee_292685/hls/1080/index.m3u8
+#EXTINF:-1, S1 E10
+http://s4.playep.pro/content/stream/films/10._zhizn_v_krasnom_czvete_292686/hls/1080/index.m3u8
+#EXTINF:-1, S1 E11
+http://s4.playep.pro/content/stream/films/11._istina_gdeto_ryadom_292687/hls/1080/index.m3u8
+#EXTINF:-1, S1 E12
+http://s4.playep.pro/content/stream/films/12._rozhdennyj_svobodnym_292688/hls/1080/index.m3u8

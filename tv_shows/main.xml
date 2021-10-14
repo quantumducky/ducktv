@@ -11,12 +11,10 @@
   hannibal
   house of cards
   the west wing
-  true detective
   narcos
   vikings
   spartacus
   the punisher
-  boardwalk empire
   taboo
   the last dance
   band of brothers
@@ -48,6 +46,26 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_knick.m3u8]]></playlist_url>
   <title><![CDATA[Настоящий детектив]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_blacklist.m3u8]]></playlist_url>
+  <title><![CDATA[Черный список]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dexter.m3u8]]></playlist_url>
+  <title><![CDATA[Декстер]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/brooklyn_99.m3u8]]></playlist_url>
+  <title><![CDATA[Бруклин 9-9]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_hounting_of_hill_house.m3u8]]></playlist_url>
+  <title><![CDATA[Призрак дома на холме]]></title>
 </channel>
 
 <channel>
