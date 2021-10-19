@@ -104,16 +104,4 @@ https://github.com/erkexzcx/lietuviska-tv
 https://sites.google.com/site/gintarmixas/home
 
 
-
-lamafilm.club
-kinogo.zone
-kinof.pro
-https://f24-6cf-1033g0.streamalloha.live/hs/17/1634245695/jDr_m6t7Q9u5mcr5QNulNw/208/10208/4/index-f2-v1-sa4-a1.m3u8
-https://b86-b4d-2100g0.streamalloha.live/hs/36/1634247033/2BKNIs8xdX_KThXMrCw_Qg/771/370771/4/index-f2-v1-sa4-a1.m3u8
-
-
-kinogo.biz
-https://b43-c2d-303g0.streamalloha.live/nchs/31/1634246213/c0PqHUxaTPsG6VNxrvBJ5A/886/347886/index-f3-v1-f5-a1.m3u8
-https://nova.cloud.cdnland.in/movies/8ed2885eb9bbcdb8fb748f6e46bdf314ce580292/e0348b6215617330e1a3e79a118c23e3:2021101515/720.mp4
-
 http://data10-cdn.datalock.ru/fi2lm/1de89e73277a0d40b3621a94e5e410b2/7f_Narcos.S01E01.720p.WEB.rus.LostFilm.TV.a1.16.10.15.mp4

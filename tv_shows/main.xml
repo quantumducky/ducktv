@@ -44,7 +44,7 @@
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_knick.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/true_detective.m3u8]]></playlist_url>
   <title><![CDATA[Настоящий детектив]]></title>
 </channel>
 
@@ -72,6 +72,11 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos.m3u8]]></playlist_url>
   <title><![CDATA[Нарко]]></title>
 </channel>
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
+  <title><![CDATA[Нарко: Мексика]]></title>
+</channel> -->
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
