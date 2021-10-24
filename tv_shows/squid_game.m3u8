@@ -1,0 +1,20 @@
+#EXTM3U
+# http://www.boomtv.ru/publ/lostfilm/igra_v_kalmara_003/2-1-0-5129
+#EXTINF:-1, S1 E1
+http://s9.playep.pro/content/stream/films/squid.game.s01e01.1080p.rus.lostfilm.tv_333071/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s12.playep.pro/content/stream/films/squid.game.s01e02.1080p.rus.lostfilm.tv_335419/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s12.playep.pro/content/stream/films/squid.game.s01e03.1080p.rus.lostfilm.tv_335420/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s9.playep.pro/content/stream/films/squid.game.s01e04.1080p.rus.lostfilm.tv_336582/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s12.playep.pro/content/stream/films/squid.game.s01e05.1080p.rus.lostfilm.tv_337198/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+http://s9.playep.pro/content/stream/films/squid.game.s01e06.1080p.rus.lostfilm.tv_339774/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+http://s9.playep.pro/content/stream/films/squid.game.s01e07.1080p.rus.lostfilm.tv_339896/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+http://s3.playep.pro/content/stream/films/squid.game.s01e08.1080p.rus.lostfilm.tv_339978/hls/1080/index.m3u8
+#EXTINF:-1, S1 E9
+http://s9.playep.pro/content/stream/films/squid.game.s01e09.1080p.rus.lostfilm.tv_340310/hls/1080/index.m3u8

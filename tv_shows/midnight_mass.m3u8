@@ -1,0 +1,16 @@
+#EXTM3U
+# http://www.boomtv.ru/publ/lostfilm/polunochnaja_messa/2-1-0-5177
+#EXTINF:-1, S1 E1
+http://s5.playep.pro/content/stream/films/midnight.mass.s01e01.1080p.rus.lostfilm.tv_332103/hls/720/index.m3u8
+#EXTINF:-1, S1 E2
+http://s2.playep.pro/content/stream/films/midnight.mass.s01e02.1080p.rus.lostfilm.tv_334731/hls/720/index.m3u8
+#EXTINF:-1, S1 E3
+http://s9.playep.pro/content/stream/films/midnight.mass.s01e03.1080p.rus.lostfilm.tv_337951/hls/720/index.m3u8
+#EXTINF:-1, S1 E4
+http://s3.playep.pro/content/stream/films/midnight.mass.s01e04.1080p.rus.lostfilm.tv_340147/hls/720/index.m3u8
+#EXTINF:-1, S1 E5
+http://s8.playep.pro/content/stream/films/midnight.mass.s01e05.book.v.gospel.1080p.nf.webdl.ddp5.1.h.264eniahd_330397/hls/720/index.m3u8
+#EXTINF:-1, S1 E6
+http://s3.playep.pro/content/stream/films/midnight.mass.s01e06.book.vi.acts.of.the.apostles.1080p.nf.webdl.ddp5.1.h.264eniahd_330400/hls/720/index.m3u8
+#EXTINF:-1, S1 E7
+http://s2.playep.pro/content/stream/films/midnight.mass.s01e07.book.vii.revelation.1080p.nf.webdl.ddp5.1.h.264eniahd_330401/hls/720/index.m3u8

@@ -103,5 +103,10 @@ http://78.158.0.93/239.255.251.146/video.m3u8?token=0e71f7c14d1e6b394d4b4c776723
 https://github.com/erkexzcx/lietuviska-tv
 https://sites.google.com/site/gintarmixas/home
 
-
+seasonvar.ru
 http://data10-cdn.datalock.ru/fi2lm/1de89e73277a0d40b3621a94e5e410b2/7f_Narcos.S01E01.720p.WEB.rus.LostFilm.TV.a1.16.10.15.mp4
+
+http://seasonvar.ru/serial-2899--Malkol_m_v_tcentre_vnimaniya-1-season.html
+http://data05-cdn.datalock.ru/fi2lm/dbdefe6165ea3da1085a6ce741683ef2/7f_Malcolm.in.the.middle.S01.E02.-.Red.Dress.a1.28.08.13.mp4
+
+https://nl100.cdnsqu.com/s/FXFSoGEGYEQ7t8O.cKxIPzr2xEFBQUFBQUFBQUFBQklqYmlBQUJC/uhd_mc/Soul.2020.WEB-DL.2160p.SDR.dub.rus_480.mp4

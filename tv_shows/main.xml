@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 
-<!--
-  WATCHED: 
-  ozark - Озарк
-  peaky_blinders - Острые козырьки
-
-
-  TO TRY:
-  hannibal
-  house of cards
-  the west wing
-  narcos
-  vikings
-  spartacus
-  the punisher
-  taboo
-  the last dance
-  band of brothers
-  arrested development
-  barry
-
-
-  PASSED:
-  the_newsroom - Служба новостей
-  what_we_do_in_shadows - Чем мы заняты в тени
-  yellowstone - Йеллоустоун
-  I_know_this_much_is_true - Я знаю, что это правда
--->
-
 <title><![CDATA[Serialai]]></title>
 
 <items>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/squid_game.m3u8]]></playlist_url>
+  <title><![CDATA[Игра в кальмара]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/midnight_mass.m3u8]]></playlist_url>
+  <title><![CDATA[Полуночная месса]]></title>
+</channel>
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_wire.m3u8]]></playlist_url>
@@ -94,3 +76,31 @@
 </channel>
 
 </items></item>
+
+<!--
+  WATCHED: 
+  ozark - Озарк
+  peaky_blinders - Острые козырьки
+
+
+  TO TRY:
+  hannibal
+  house of cards
+  the west wing
+  narcos
+  vikings
+  spartacus
+  the punisher
+  taboo
+  the last dance
+  band of brothers
+  arrested development
+  barry
+
+
+  PASSED:
+  the_newsroom - Служба новостей
+  what_we_do_in_shadows - Чем мы заняты в тени
+  yellowstone - Йеллоустоун
+  I_know_this_much_is_true - Я знаю, что это правда
+-->
