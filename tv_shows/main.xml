@@ -6,6 +6,46 @@
 <items>
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dopesick.m3u8]]></playlist_url>
+  <title><![CDATA[Ломка (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/fargo.m3u8]]></playlist_url>
+  <title><![CDATA[Фарго (4/4)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/generation_kill.m3u8]]></playlist_url>
+  <title><![CDATA[Поколение убийц (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/john_adams.m3u8]]></playlist_url>
+  <title><![CDATA[Джон Адамс (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/spartacus.m3u8]]></playlist_url>
+  <title><![CDATA[Спартак (1/3)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_americans.m3u8]]></playlist_url>
+  <title><![CDATA[Американцы (1/6)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/house_of_cards.m3u8]]></playlist_url>
+  <title><![CDATA[Карточный домик (1/6)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mad_men.m3u8]]></playlist_url>
+  <title><![CDATA[Безумцы (1/7)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/squid_game.m3u8]]></playlist_url>
   <title><![CDATA[Игра в кальмара]]></title>
 </channel>
@@ -85,11 +125,8 @@
 
   TO TRY:
   hannibal
-  house of cards
   the west wing
-  narcos
   vikings
-  spartacus
   the punisher
   taboo
   the last dance
