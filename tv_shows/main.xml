@@ -5,6 +5,38 @@
 
 <items>
 
+<!-- Ongoing season -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mayor_of_kingstown.m3u8]]></playlist_url>
+  <title><![CDATA[Мэр Кингстауна (1/1)]]></title>
+</channel> -->
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
+  <title><![CDATA[Нарко: Мексика (3/3)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/barry.m3u8]]></playlist_url>
+  <title><![CDATA[Барри (2/2)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/billions.m3u8]]></playlist_url>
+  <title><![CDATA[Миллиарды (1/5)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/sharp_objects.m3u8]]></playlist_url>
+  <title><![CDATA[Острые предметы (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/shameless.m3u8]]></playlist_url>
+  <title><![CDATA[Бесстыжие (1/11)]]></title>
+</channel>
+
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dopesick.m3u8]]></playlist_url>
   <title><![CDATA[Ломка (1/1)]]></title>
@@ -37,7 +69,7 @@
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/house_of_cards.m3u8]]></playlist_url>
-  <title><![CDATA[Карточный домик (1/6)]]></title>
+  <title><![CDATA[Карточный домик (6/6)]]></title>
 </channel>
 
 <channel>
@@ -95,11 +127,6 @@
   <title><![CDATA[Нарко]]></title>
 </channel>
 
-<!-- <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
-  <title><![CDATA[Нарко: Мексика]]></title>
-</channel> -->
-
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
   <title><![CDATA[Наследники]]></title>
@@ -111,7 +138,7 @@
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/boardwalk_empire.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githububasercontent.com/quantumducky/ducktv/master/tv_shows/boardwalk_empire.m3u8]]></playlist_url>
   <title><![CDATA[Подпольная империя]]></title>
 </channel>
 
@@ -132,7 +159,11 @@
   the last dance
   band of brothers
   arrested development
-  barry
+  manhunt: unabomber
+  rectify
+  halt and catch fire
+
+  tastedive house of cards
 
 
   PASSED:
