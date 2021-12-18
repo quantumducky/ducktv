@@ -13,6 +13,11 @@
 </channel> -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/house_of_cards.m3u8]]></playlist_url>
+  <title><![CDATA[Карточный домик (6/6)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
   <title><![CDATA[Нарко: Мексика (3/3)]]></title>
 </channel>
@@ -65,11 +70,6 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_americans.m3u8]]></playlist_url>
   <title><![CDATA[Американцы (1/6)]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/house_of_cards.m3u8]]></playlist_url>
-  <title><![CDATA[Карточный домик (6/6)]]></title>
 </channel>
 
 <channel>
@@ -162,6 +162,9 @@
   manhunt: unabomber
   rectify
   halt and catch fire
+  homeland
+  malcolm in the middle
+  third rock from the sun
 
   tastedive house of cards
 
