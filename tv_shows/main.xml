@@ -12,6 +12,36 @@
   <title><![CDATA[Мэр Кингстауна (1/1)]]></title>
 </channel> -->
 
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/1883.m3u8]]></playlist_url>
+  <title><![CDATA[1883 (1/1)]]></title>
+</channel> -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_man_in_the_high_castle.m3u8]]></playlist_url>
+  <title><![CDATA[Человек в высоком замке (1/4)]]></title>
+</channel> -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/hell_on_wheels.m3u8]]></playlist_url>
+  <title><![CDATA[Ад на колесах (1/5)]]></title>
+</channel> -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/rome.m3u8]]></playlist_url>
+  <title><![CDATA[Рим (1/2)]]></title>
+</channel> -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_missing.m3u8]]></playlist_url>
+  <title><![CDATA[Пропавший без вести (1/2)]]></title>
+</channel> -->
+
+<!-- <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_borgias.m3u8]]></playlist_url>
+  <title><![CDATA[Борджиа (1/3)]]></title>
+</channel> -->
+
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
   <title><![CDATA[Нарко: Мексика (3/3)]]></title>

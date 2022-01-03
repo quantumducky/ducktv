@@ -1,0 +1,26 @@
+#EXTM3U
+# https://8serialov.net/load/boevik/rim_11/3-1-0-1401
+#EXTINF:-1, S1 E1
+https://s7.plwork.net/content/stream/films/rome_s01e01_307414/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+https://s7.plwork.net/content/stream/films/rome_s01e02_307415/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+https://s7.plwork.net/content/stream/films/rome_s01e03_307416/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+https://s7.plwork.net/content/stream/films/rome_s01e04_307417/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+https://s7.plwork.net/content/stream/films/rome_s01e05_307418/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+https://s7.plwork.net/content/stream/films/rome_s01e06_307419/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+https://s7.plwork.net/content/stream/films/rome_s01e07_307420/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+https://s7.plwork.net/content/stream/films/rome_s01e08_307421/hls/1080/index.m3u8
+#EXTINF:-1, S1 E9
+https://s7.plwork.net/content/stream/films/rome_s01e09_307422/hls/1080/index.m3u8
+#EXTINF:-1, S1 E10
+https://s7.plwork.net/content/stream/films/rome_s01e10_307423/hls/1080/index.m3u8
+#EXTINF:-1, S1 E11
+https://s7.plwork.net/content/stream/films/rome_s01e11_307424/hls/1080/index.m3u8
+#EXTINF:-1, S1 E12
+https://s7.plwork.net/content/stream/films/rome_s01e12_307425/hls/1080/index.m3u8

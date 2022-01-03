@@ -17,6 +17,8 @@ https://serialhd.net/
 http://www.boomtv.ru/
 http://goodserials.tv
 https://hdoriginal.ru/
+https://8serialov.net/
+https://sezzzon.me
 https://kinokrad.co
 
 not good:
@@ -36,6 +38,7 @@ https://185.238.0.238/  https://filmaivip.com
 http://103.155.92.210
 https://serialai.club
 https://serialai.online
+https://www.kinas.tv
 
 
 List generator:
@@ -121,6 +124,7 @@ http://data05-cdn.datalock.ru/fi2lm/dbdefe6165ea3da1085a6ce741683ef2/7f_Malcolm.
 https://nl100.cdnsqu.com/s/FXFSoGEGYEQ7t8O.cKxIPzr2xEFBQUFBQUFBQUFBQklqYmlBQUJC/uhd_mc/Soul.2020.WEB-DL.2160p.SDR.dub.rus_480.mp4
 
 rectify smotret
+http://zserials.org:
 http://data03-cdn.datalock.ru/fi2lm/676a81e82e2991f8fb9ed2d09b318faf/7f_Rectify.S01E01.Always.There.1080p.BDRip.x264.R.a1.02.12.21.mp4
 
 https://media2.krasview.ru/video/80765509fbf6985/3f094305501a244.mp4?stream=1
