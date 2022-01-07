@@ -22,18 +22,28 @@
 </channel> -->
 
 <channel>
-  <title><![CDATA[LT ir RU kanalai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/213_226_137.m3u8]]></playlist_url>
+  <title><![CDATA[Kanalai 1]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/213_226_140.m3u8]]></playlist_url>
 </channel>
 
 <channel>
-  <title><![CDATA[LT Kanalai]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/liuxtv.m3u8]]></playlist_url>
+  <title><![CDATA[Kanalai 2]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/tv_channels_alexes78.m3u8]]></playlist_url>
 </channel>
 
 <channel>
-  <title><![CDATA[OTT Blue (LT-RU)]]></title>
-  <playlist_url><![CDATA[http://portal.ott.pink/playlist.m3u?token=C04057280A26508812ED7245AD524DC6]]></playlist_url>
+  <title><![CDATA[Kanalai 3]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/tv_channels_stephenda_mag_14.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Kanalai 4]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/channels.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Kanalai 5 (tik LT)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/playlist_lt_only.m3u8]]></playlist_url>
 </channel>
 
 <channel>

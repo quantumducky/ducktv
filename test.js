@@ -4,35 +4,32 @@ const fsPromise = require('fs').promises;
 // const parserFactory = require('ts-exif-parser').ExifParserFactory;
 
 const INTERVAL =  4000;
-const LIMIT = 250;
+const LIMIT = 1000;
 
 let mainInterval;
 let urlList = [];
-let i = 1;
+let i = 750;
 
 
 (async () => {
 
-  // const rootUrl = 'http://213.226.137.133:81/tl2';
-  // let playlistData = '#EXTM3U\n';
-  // [...Array(999).keys()].forEach(id => {
-  //   playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
-  //   playlistData += `${rootUrl}/l${id+1}/index.m3u8\n`;
-  // });
-  // await writeToFile(playlistData, `playlist_133_tl2.m3u8`);
+  // 88.216.84.52:64144 = open
+  // 88.216.84.51:64144 = open
+  // 88.216.84.44:64144 = open
+  // 88.216.84.42:64144 = open
+  // 88.216.84.41:64144 = open
+  // 88.216.84.39:64144 = open
+  // 88.216.84.34:64144 = open 	e04.plius.tv
+  // 88.216.84.33:64144 = open 	e03.plius.tv
+  // 88.216.84.28:64144 = open
+  // 88.216.84.18:64144 = open  e02.plius.tv
+  // 88.216.84.17:64144 = open 	e01.plius.tv  e05.plius.tv
 
-
-  // const rootUrl = 'http://78.158.0.93';
-  // const token = '0e71f7c14d1e6b394d4b4c776723a201%3A179f69e735f';
-  // let playlistData = '#EXTM3U\n';
-  // [...Array(255).keys()].forEach(id => {
-  //   playlistData += `#EXTINF:-1, Channel ${id+1}\n`;
-  //   playlistData += `${rootUrl}/239.255.255.${id+1}/video.m3u8${token !== '' ? '?token=' + token : ''}\n`;
-  // });
-  // await writeToFile(playlistData, `fastlink.m3u8`);
+  // e06.plius.tv  84.32.134.222
 
   // port range checker:
   // http://ports.my-addr.com/ip-range-port-scanner-tool.php
+  // 213.226.137.* SPLIUS-BITE Siauliu kabeline televizija 
 
   // checked:
   // 130 | tl | l1-999 - 1
@@ -46,7 +43,8 @@ let i = 1;
   // 133 | tl2 | l1-999 done|nothing
   // 133 | tl3 | l1-250 done|nothing
 
-  // 140 | tl | l1-1000 done
+  // 140 | tl | l1-1000 done | f
+  // 140 | tl2 | l1-750 done | n
 
 
   mainInterval = setInterval(fetchUrls, INTERVAL);

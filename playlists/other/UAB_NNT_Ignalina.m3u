@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,LNK
+http://45.145.32.15:20004/lnk/video.m3u8
+#EXTINF:-1,TV3
+http://45.145.32.15:20004/tv3/video.m3u8
+#EXTINF:-1,LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
+#EXTINF:-1,LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
+#EXTINF:-1,TV1
+http://45.145.32.15:20004/tv1/video.m3u8
+#EXTINF:-1,TV8
+http://45.145.32.15:20004/tv8/video.m3u8
+#EXTINF:-1,TV6
+http://45.145.32.15:20004/tv6/video.m3u8
+#EXTINF:-1,BTV
+http://45.145.32.15:20004/btv/video.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
+#EXTINF:-1,Info TV
+http://45.145.32.15:20004/info_tv/video.m3u8
+#EXTINF:-1,Delfi TV
+http://45.145.32.15:20004/delfi_tv/video.m3u8
+#EXTINF:-1,2TV
+http://45.145.32.15:20004/2tv/video.m3u8
+#EXTINF:-1,Current Time
+http://45.145.32.15:20004/current_time/video.m3u8
+#EXTINF:-1,LRT
+http://45.145.32.15:20005/lrt_televizija/video.m3u8
+#EXTINF:-1,LRT Plius
+http://45.145.32.15:20005/lrt_plius/video.m3u8

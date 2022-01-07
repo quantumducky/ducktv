@@ -1,0 +1,771 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ITV1London.uk" tvg-name="itv 1 HD" tvg-logo="",itv 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/160
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="ITV 2" tvg-logo="",ITV 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/19
+#EXTINF:-1 tvg-id="ITV2.uk" tvg-name="Itv 2 HD" tvg-logo="",Itv 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/316
+#EXTINF:-1 tvg-id="rte.1.ie" tvg-name="Rte One" tvg-logo="http://l.mq7.xyz/logo/414.png",Rte One
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/11
+#EXTINF:-1 tvg-id="rte.1.ie" tvg-name="RTE One HD" tvg-logo="http://l.mq7.xyz/logo/414.png",RTE One HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/398
+#EXTINF:-1 tvg-id="rte.2.ie" tvg-name="RTÉ2" tvg-logo="http://l.mq7.xyz/logo/415.png",RTÉ2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/16
+#EXTINF:-1 tvg-id="rte.2.ie" tvg-name="RTE Two HD" tvg-logo="http://l.mq7.xyz/logo/415.png",RTE Two HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/610
+#EXTINF:-1 tvg-id="virgin.media.one.ie" tvg-name="ONE" tvg-logo="",ONE
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/396
+#EXTINF:-1 tvg-id="tg4.ie" tvg-name="TG4" tvg-logo="",TG4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/80
+#EXTINF:-1 tvg-id="virgin.media.three.ie" tvg-name="Be3" tvg-logo="",Be3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/299
+#EXTINF:-1 tvg-id="virgin.media.two.ie" tvg-name="TWO" tvg-logo="",TWO
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/609
+#EXTINF:-1 tvg-id="sky.1.ie" tvg-name="Sky 1 HD" tvg-logo="",Sky 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/397
+#EXTINF:-1 tvg-id="sky.witness.ie" tvg-name="Sky Witness HD" tvg-logo="",Sky Witness HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/287
+#EXTINF:-1 tvg-id="SkyAtlantic.uk" tvg-name="Sky Atlantic HD" tvg-logo="",Sky Atlantic HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/68
+#EXTINF:-1 tvg-id="sky.arts.ie" tvg-name="Sky Arts" tvg-logo="",Sky Arts
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/728
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="Gold" tvg-logo="",Gold
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/317
+#EXTINF:-1 tvg-id="GOLD.uk" tvg-name="GOLD HD" tvg-logo="",GOLD HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14113
+#EXTINF:-1 tvg-id="sky.two.ie" tvg-name="Sky 2" tvg-logo="",Sky 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/66
+#EXTINF:-1 tvg-id="watch.ie" tvg-name="Watch" tvg-logo="",Watch
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/320
+#EXTINF:-1 tvg-id="Dave.uk" tvg-name="Dave" tvg-logo="http://l.mq7.xyz/logo/416.png",Dave
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/416
+#EXTINF:-1 tvg-id="comedy.central.ie" tvg-name="Comedy Central UK" tvg-logo="",Comedy Central UK
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/288
+#EXTINF:-1 tvg-id="ComedyCentralExtra.uk" tvg-name="Comedy Central Extra" tvg-logo="",Comedy Central Extra
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14114
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="",ITV 4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/436
+#EXTINF:-1 tvg-id="ITV3.uk" tvg-name="ITV 3" tvg-logo="",ITV 3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/647
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITVbe" tvg-logo="",ITVbe
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/663
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4" tvg-logo="",Channel 4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/332
+#EXTINF:-1 tvg-id="Channel4.uk" tvg-name="Channel 4 HD" tvg-logo="",Channel 4 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/435
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5" tvg-logo="",Channel 5
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/329
+#EXTINF:-1 tvg-id="Channel5.uk" tvg-name="Channel 5 HD" tvg-logo="",Channel 5 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/363
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4 HD" tvg-logo="",E4 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/330
+#EXTINF:-1 tvg-id="More4.uk" tvg-name="More4" tvg-logo="",More4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/328
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="BBC 1" tvg-logo="http://l.mq7.xyz/logo/418.png",BBC 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/334
+#EXTINF:-1 tvg-id="BBC1London.uk" tvg-name="BBC 1 HD" tvg-logo="http://l.mq7.xyz/logo/418.png",BBC 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/362
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2" tvg-logo="http://l.mq7.xyz/logo/418.png",BBC 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/335
+#EXTINF:-1 tvg-id="BBC2.uk" tvg-name="BBC 2 HD" tvg-logo="http://l.mq7.xyz/logo/418.png",BBC 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/434
+#EXTINF:-1 tvg-id="BBC4.uk" tvg-name="BBC 4 HD" tvg-logo="http://l.mq7.xyz/logo/418.png",BBC 4 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/333
+#EXTINF:-1 tvg-id="mezzo.lt" tvg-name="Mezzo Live HD" tvg-logo="http://l.mq7.xyz/logo/572.png",Mezzo Live HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/411
+#EXTINF:-1 tvg-id="FoodNetwork.uk" tvg-name="Food Network" tvg-logo="",Food Network
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/413
+#EXTINF:-1 tvg-id="E.uk" tvg-name="E!" tvg-logo="",E!
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/407
+#EXTINF:-1 tvg-id="sky.cinema.premiere.ie" tvg-name="Sky Cinema Premiere HD" tvg-logo="",Sky Cinema Premiere HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/46
+#EXTINF:-1 tvg-id="sky.cinema.premiere.ie" tvg-name="Sky Cinema Premiere." tvg-logo="",Sky Cinema Premiere.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/718
+#EXTINF:-1 tvg-id="sky.cinema.sci.fi.horror.ie" tvg-name="Sky Cinema Sci-Fi and Horror" tvg-logo="",Sky Cinema Sci-Fi and Horror
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/47
+#EXTINF:-1 tvg-id="sky.cinema.scfi.horror.ie" tvg-name="Sky Cinema Sci-Fi and Horror." tvg-logo="",Sky Cinema Sci-Fi and Horror.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/725
+#EXTINF:-1 tvg-id="sky.cinema.greats.ie" tvg-name="Sky Cinema Greats" tvg-logo="",Sky Cinema Greats
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/48
+#EXTINF:-1 tvg-id="sky.cinema.greats.ie" tvg-name="Sky Cinema Greats." tvg-logo="",Sky Cinema Greats.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/726
+#EXTINF:-1 tvg-id="sky.cinema.animation.ie" tvg-name="Sky Cinema Disney HD" tvg-logo="",Sky Cinema Disney HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/51
+#EXTINF:-1 tvg-id="sky.cinema.disney.ie" tvg-name="Sky Movies Disney" tvg-logo="",Sky Movies Disney
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/719
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Sky Cinema Family HD" tvg-logo="",Sky Cinema Family HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/49
+#EXTINF:-1 tvg-id="SkyMoviesFamily.uk" tvg-name="Sky Cinema Family." tvg-logo="",Sky Cinema Family.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/722
+#EXTINF:-1 tvg-id="SkyMoviesActionThriller.uk" tvg-name="Sky Cinema Action HD" tvg-logo="",Sky Cinema Action HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/54
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky Cinema Comedy HD" tvg-logo="",Sky Cinema Comedy HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/53
+#EXTINF:-1 tvg-id="SkyMoviesComedy.uk" tvg-name="Sky Cinema Comedy." tvg-logo="",Sky Cinema Comedy.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/720
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller" tvg-logo="",Sky Cinema Thriller
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/37
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-name="Sky Cinema Thriller." tvg-logo="",Sky Cinema Thriller.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/724
+#EXTINF:-1 tvg-id="sky.cinema.drama.ie" tvg-name="Sky Cinema Drama HD" tvg-logo="",Sky Cinema Drama HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/50
+#EXTINF:-1 tvg-id="sky.cinema.drama.ie" tvg-name="Sky Cinema Drama." tvg-logo="",Sky Cinema Drama.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/723
+#EXTINF:-1 tvg-id="SkyMoviesIndie.uk" tvg-name="Sky Cinema Select HD" tvg-logo="",Sky Cinema Select HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/44
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-name="Sky Cinema Hits" tvg-logo="",Sky Cinema Hits
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/399
+#EXTINF:-1 tvg-id="Film4.uk" tvg-name="Film 4" tvg-logo="",Film 4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/327
+#EXTINF:-1 tvg-id="TCM.uk" tvg-name="TCM" tvg-logo="",TCM
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/694
+#EXTINF:-1 tvg-id="sony.ru" tvg-name="Duo 3" tvg-logo="http://l.mq7.xyz/logo/65.png",Duo 3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/406
+#EXTINF:-1 tvg-id="sky.sports.main.event.ie" tvg-name="Sky Sports Main Event HD" tvg-logo="",Sky Sports Main Event HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/62
+#EXTINF:-1 tvg-id="sky.sports.main.event.ie" tvg-name="Sky Sports Main Event FHD" tvg-logo="",Sky Sports Main Event FHD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/613
+#EXTINF:-1 tvg-id="sky.sports.main.event.ie" tvg-name="Sky Sports Main Event" tvg-logo="",Sky Sports Main Event
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/611
+#EXTINF:-1 tvg-id="sky.sports.premier.league.ie" tvg-name="Sky Sports Premier League HD" tvg-logo="",Sky Sports Premier League HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/295
+#EXTINF:-1 tvg-id="SkySpPL.uk" tvg-name="Sky Sports Premier League FHD" tvg-logo="",Sky Sports Premier League FHD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/617
+#EXTINF:-1 tvg-id="sky.sports.premier.league.ie" tvg-name="Sky Sports Premier League" tvg-logo="",Sky Sports Premier League
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/656
+#EXTINF:-1 tvg-id="sky.sports.football.ie" tvg-name="Sky Sports Football" tvg-logo="",Sky Sports Football
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/304
+#EXTINF:-1 tvg-id="SkySpFball.uk" tvg-name="Sky Sports Football HD" tvg-logo="",Sky Sports Football HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/653
+#EXTINF:-1 tvg-id="sky.sports.cricket.ie" tvg-name="Sky Sports Cricket" tvg-logo="",Sky Sports Cricket
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/61
+#EXTINF:-1 tvg-id="sky.sports.cricket.ie" tvg-name="sky sports Cricket HD" tvg-logo="",sky sports Cricket HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/614
+#EXTINF:-1 tvg-id="sky.sports.golf.ie" tvg-name="Sky Sports Golf HD" tvg-logo="",Sky Sports Golf HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/59
+#EXTINF:-1 tvg-id="sky.sports.golf.ie" tvg-name="Sky Sports Golf FHD" tvg-logo="",Sky Sports Golf FHD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/616
+#EXTINF:-1 tvg-id="sky.sports.golf.ie" tvg-name="Sky Sports Golf" tvg-logo="",Sky Sports Golf
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/263
+#EXTINF:-1 tvg-id="sky.sports.f1.ie" tvg-name="Sky Sports F1" tvg-logo="",Sky Sports F1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/64
+#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="Sky Sports F1 HD" tvg-logo="",Sky Sports F1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/618
+#EXTINF:-1 tvg-id="sky.sports.action.ie" tvg-name="Sky Sports Action" tvg-logo="",Sky Sports Action
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/60
+#EXTINF:-1 tvg-id="sky.sports.action.ie" tvg-name="Sky Sports Action HD" tvg-logo="",Sky Sports Action HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/615
+#EXTINF:-1 tvg-id="SkySpAction.uk" tvg-name="Sky Sports Action." tvg-logo="",Sky Sports Action.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/662
+#EXTINF:-1 tvg-id="sky.sports.arena.ie" tvg-name="Sky Sports Arena HD" tvg-logo="",Sky Sports Arena HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/81
+#EXTINF:-1 tvg-id="sky.sports.arena.ie" tvg-name="Sky Sports Arena FHD" tvg-logo="",Sky Sports Arena FHD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/648
+#EXTINF:-1 tvg-id="40+.ie" tvg-name="Sky Sports News HQ" tvg-logo="",Sky Sports News HQ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/409
+#EXTINF:-1 tvg-id="sky.sport.mix.ie" tvg-name="Sky Sports Mix" tvg-logo="",Sky Sports Mix
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/338
+#EXTINF:-1 tvg-id="sky.sports.racing.ie" tvg-name="Sky Sports Racing " tvg-logo="",Sky Sports Racing 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/692
+#EXTINF:-1 tvg-id="AtTheRaces.uk" tvg-name="At The Races HD" tvg-logo="",At The Races HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/302
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="Eurosport 1 uk" tvg-logo="",Eurosport 1 uk
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/421
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="Eurosport 2 HD uk" tvg-logo="http://l.mq7.xyz/logo/261.png",Eurosport 2 HD uk
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/675
+#EXTINF:-1 tvg-id="eurosport.1.ru" tvg-name="Eurosport 1 HD" tvg-logo="http://l.mq7.xyz/logo/110.png",Eurosport 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/196
+#EXTINF:-1 tvg-id="eurosport.2.ru" tvg-name="Eurosport 2 HD" tvg-logo="http://l.mq7.xyz/logo/261.png",Eurosport 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/282
+#EXTINF:-1 tvg-id="bt.sport.1.ie" tvg-name="BT Sports 1 HD" tvg-logo="http://l.mq7.xyz/logo/511.png",BT Sports 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/91
+#EXTINF:-1 tvg-id="bt.sport.2.ie" tvg-name="BT Sports 2 HD" tvg-logo="http://l.mq7.xyz/logo/512.png",BT Sports 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/90
+#EXTINF:-1 tvg-id="bt.sport.3.ie" tvg-name="BT Sports 3 HD" tvg-logo="",BT Sports 3 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/89
+#EXTINF:-1 tvg-id="bt.sport.1.ie" tvg-name="BT Sport 1" tvg-logo="http://l.mq7.xyz/logo/511.png",BT Sport 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/665
+#EXTINF:-1 tvg-id="bt.sport.2.ie" tvg-name="BT Sport 2" tvg-logo="http://l.mq7.xyz/logo/512.png",BT Sport 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/664
+#EXTINF:-1 tvg-id="bt.sport.3.ie" tvg-name="BT Sport 3" tvg-logo="",BT Sport 3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/695
+#EXTINF:-1 tvg-id="bt.sport.espn.ie" tvg-name="BT Sport / ESPN" tvg-logo="",BT Sport / ESPN
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/92
+#EXTINF:-1 tvg-id="PremierSports.uk" tvg-name="Premier Sports 1 HD" tvg-logo="",Premier Sports 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/732
+#EXTINF:-1 tvg-id="premier.sports.2.roi.ie" tvg-name="Premier Sports 2 HD" tvg-logo="",Premier Sports 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/730
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="Racing uk" tvg-logo="",Racing uk
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/408
+#EXTINF:-1 tvg-id="sky.sports.box.office.ie" tvg-name="Sky Sports Box Office" tvg-logo="",Sky Sports Box Office
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/426
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="DAZN Box office (backup) " tvg-logo="",DAZN Box office (backup) 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/668
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="Sky Sport Box Office HD" tvg-logo="",Sky Sport Box Office HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/714
+#EXTINF:-1 tvg-id="NottsTV.uk" tvg-name="DMAX" tvg-logo="",DMAX
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/427
+#EXTINF:-1 tvg-id="rt.ru" tvg-name="RT English" tvg-logo="",RT English
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/373
+#EXTINF:-1 tvg-id="lrt.lt" tvg-name="LRT TELEVIZIJA" tvg-logo="http://l.mq7.xyz/logo/41.png",LRT TELEVIZIJA
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/215
+#EXTINF:-1 tvg-id="setanta.sports.lv" tvg-name="Setanta Sports" tvg-logo="http://l.mq7.xyz/logo/69.png",Setanta Sports
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/87
+#EXTINF:-1 tvg-id="matce.futbol.1.ru" tvg-name="Матч! Футбол 1" tvg-logo="http://l.mq7.xyz/logo/216.png",Матч! Футбол 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/326
+#EXTINF:-1 tvg-id="matce.futbol.2.ru" tvg-name="Матч! Футбол 2" tvg-logo="http://l.mq7.xyz/logo/212.png",Матч! Футбол 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/206
+#EXTINF:-1 tvg-id="matce.futbol.3.ru" tvg-name="Матч! Футбол 3" tvg-logo="http://l.mq7.xyz/logo/213.png",Матч! Футбол 3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/3
+#EXTINF:-1 tvg-id="matce.futbol.1.ru" tvg-name="Матч! Футбол 1 HD" tvg-logo="http://l.mq7.xyz/logo/103.png",Матч! Футбол 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/422
+#EXTINF:-1 tvg-id="matce.futbol.2.ru" tvg-name="Матч! Футбол 2 HD" tvg-logo="http://l.mq7.xyz/logo/105.png",Матч! Футбол 2 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/289
+#EXTINF:-1 tvg-id="match-football3" tvg-name="Матч! Футбол 3 HD" tvg-logo="http://l.mq7.xyz/logo/106.png",Матч! Футбол 3 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/355
+#EXTINF:-1 tvg-id="1088" tvg-name="Deluxe Music HD" tvg-logo="http://l.mq7.xyz/logo/11.png",Deluxe Music HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/52
+#EXTINF:-1 tvg-id="mcm-top" tvg-name="MCM TOP HD" tvg-logo="http://l.mq7.xyz/logo/22.png",MCM TOP HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/414
+#EXTINF:-1 tvg-id="viasat.sport.ru" tvg-name="Viasat Sport" tvg-logo="http://l.mq7.xyz/logo/220.png",Viasat Sport
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/131
+#EXTINF:-1 tvg-id="mir.basketbola.ru" tvg-name="Мир Баскетбола" tvg-logo="",Мир Баскетбола
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/170
+#EXTINF:-1 tvg-id="tv3.sport.lt" tvg-name="TV3 Sport LT" tvg-logo="http://l.mq7.xyz/logo/76n.png",TV3 Sport LT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/234
+#EXTINF:-1 tvg-id="tv3.sport.2.lt" tvg-name="TV3 Sport 2 LT HD" tvg-logo="http://l.mq7.xyz/logo/624hd.png",TV3 Sport 2 LT HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14122
+#EXTINF:-1 tvg-id="tv3.sport.lt" tvg-name="TV3 Sport LT HD" tvg-logo="http://l.mq7.xyz/logo/76hd.png",TV3 Sport LT HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/759
+#EXTINF:-1 tvg-id="fightbox-hd" tvg-name="FightBox HD" tvg-logo="http://l.mq7.xyz/logo/17.png",FightBox HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12822
+#EXTINF:-1 tvg-id="BBCRedButton.uk" tvg-name="BBC Red Button" tvg-logo="",BBC Red Button
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/736
+#EXTINF:-1 tvg-id="matce.arena.ru" tvg-name="Матч! Арена" tvg-logo="",Матч! Арена
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/378
+#EXTINF:-1 tvg-id="match-arena" tvg-name="Матч! Арена HD" tvg-logo="http://l.mq7.xyz/logo/113.png",Матч! Арена HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/291
+#EXTINF:-1 tvg-id="kkal.ru" tvg-name="КХЛ ТВ HD" tvg-logo="http://l.mq7.xyz/logo/111.png",КХЛ ТВ HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/323
+#EXTINF:-1 tvg-id="matce.igra.ru" tvg-name="Матч! Игра" tvg-logo="http://l.mq7.xyz/logo/569.png",Матч! Игра
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/379
+#EXTINF:-1 tvg-id="avto.pljus.ru" tvg-name="Авто плюс" tvg-logo="http://l.mq7.xyz/logo/221.png",Авто плюс
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/13
+#EXTINF:-1 tvg-id="sport.1.lt" tvg-name="Sport1" tvg-logo="http://l.mq7.xyz/logo/66.png",Sport1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/220
+#EXTINF:-1 tvg-id="sport.1.lt" tvg-name="Sport1 HD" tvg-logo="http://l.mq7.xyz/logo/66.png",Sport1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12824
+#EXTINF:-1 tvg-id="matce.ru" tvg-name="МАТЧ! HD" tvg-logo="http://l.mq7.xyz/logo/107.png",МАТЧ! HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/645
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="BoxNation" tvg-logo="",BoxNation
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/357
+#EXTINF:-1 tvg-id="matce.ru" tvg-name="Матч! ТВ" tvg-logo="http://l.mq7.xyz/logo/568.png",Матч! ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/99
+#EXTINF:-1 tvg-id="matce.premser.ru" tvg-name="Матч! Премьер" tvg-logo="http://l.mq7.xyz/logo/567.png",Матч! Премьер
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/346
+#EXTINF:-1 tvg-id="matce.boets.ru" tvg-name="Матч! Боец" tvg-logo="http://l.mq7.xyz/logo/210.png",Матч! Боец
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/358
+#EXTINF:-1 tvg-id="vh1.european.ru" tvg-name="MTV 00s" tvg-logo="",MTV 00s
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/608
+#EXTINF:-1 tvg-id="mtv.hits.ru" tvg-name="MTV Hits" tvg-logo="http://l.mq7.xyz/logo/61.png",MTV Hits
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/606
+#EXTINF:-1 tvg-id="MTV.uk" tvg-name="MTV" tvg-logo="http://l.mq7.xyz/logo/225.png",MTV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/284
+#EXTINF:-1 tvg-id="club.mtv.ru" tvg-name="DEEJAY TV" tvg-logo="",DEEJAY TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/604
+#EXTINF:-1 tvg-id="mtv.90s.ru" tvg-name="MTV 90s" tvg-logo="http://l.mq7.xyz/logo/228.png",MTV 90s
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/402
+#EXTINF:-1 tvg-id="mtv-live-hd" tvg-name="MTV live HD" tvg-logo="http://l.mq7.xyz/logo/112.png",MTV live HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/194
+#EXTINF:-1 tvg-id="mcm.top.ru" tvg-name="MCM Top" tvg-logo="http://l.mq7.xyz/logo/229.png",MCM Top
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/144
+#EXTINF:-1 tvg-id="tnt.music.ru" tvg-name="ТНТ MUSIC" tvg-logo="http://l.mq7.xyz/logo/232.png",ТНТ MUSIC
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/640
+#EXTINF:-1 tvg-id="europa.plus.ru" tvg-name="Европа Плюс ТВ" tvg-logo="http://l.mq7.xyz/logo/227.png",Европа Плюс ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/156
+#EXTINF:-1 tvg-id="lja.minor.ru" tvg-name="Ля-минор" tvg-logo="http://l.mq7.xyz/logo/119.png",Ля-минор
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/76
+#EXTINF:-1 tvg-id="muz.ru" tvg-name="Муз-ТВ" tvg-logo="http://l.mq7.xyz/logo/233.png",Муз-ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/262
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="Disney Junior" tvg-logo="http://l.mq7.xyz/logo/7.png",Disney Junior
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/296
+#EXTINF:-1 tvg-id="disney.junior.usa.east.us" tvg-name="us Disney Junior" tvg-logo="http://l.mq7.xyz/logo/7.png",us Disney Junior
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/165
+#EXTINF:-1 tvg-id="kanal.disney.ru" tvg-name="Disney Channel" tvg-logo="http://l.mq7.xyz/logo/244.png",Disney Channel
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/83
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="NickToons" tvg-logo="",NickToons
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/311
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="http://l.mq7.xyz/logo/71.png",Nickelodeon
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/72
+#EXTINF:-1 tvg-id="nickelodeon.ru" tvg-name="Nickelodeon EU" tvg-logo="http://l.mq7.xyz/logo/71.png",Nickelodeon EU
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/310
+#EXTINF:-1 tvg-id="tiny.pop.ie" tvg-name="Tiny POP" tvg-logo="",Tiny POP
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/331
+#EXTINF:-1 tvg-id="mtv.80s.ru" tvg-name="MTV 80s" tvg-logo="",MTV 80s
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/713
+#EXTINF:-1 tvg-id="NickJunior.uk" tvg-name="Nick Jr" tvg-logo="http://l.mq7.xyz/logo/584.png",Nick Jr
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/73
+#EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="Cartoon Network" tvg-logo="http://l.mq7.xyz/logo/75.png",Cartoon Network
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/77
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang" tvg-logo="http://l.mq7.xyz/logo/248.png",Boomerang
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/268
+#EXTINF:-1 tvg-id="jimjam.ru" tvg-name="JimJam" tvg-logo="http://l.mq7.xyz/logo/242.png",JimJam
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/646
+#EXTINF:-1 tvg-id="baby.ie" tvg-name="BabyTV" tvg-logo="",BabyTV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/312
+#EXTINF:-1 tvg-id="rtejr.ie" tvg-name="RTE jr" tvg-logo="",RTE jr
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/401
+#EXTINF:-1 tvg-id="NickJrPeppa.uk" tvg-name="Nick Jr Too" tvg-logo="",Nick Jr Too
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/286
+#EXTINF:-1 tvg-id="tv1000.ru" tvg-name="TV1000" tvg-logo="http://l.mq7.xyz/logo/132.png",TV1000
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/283
+#EXTINF:-1 tvg-id="hollywood.ru" tvg-name="Hollywood HD" tvg-logo="http://l.mq7.xyz/logo/91.png",Hollywood HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/204
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" tvg-logo="http://l.mq7.xyz/logo/413.png",Discovery Turbo
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/428
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="Discovery History" tvg-logo="http://l.mq7.xyz/logo/417.png",Discovery History
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/429
+#EXTINF:-1 tvg-id="Discovery.uk" tvg-name="Discovery" tvg-logo="http://l.mq7.xyz/logo/56.png",Discovery
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/24
+#EXTINF:-1 tvg-id="tlc.ru" tvg-name="TLC Russia" tvg-logo="",TLC Russia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/275
+#EXTINF:-1 tvg-id="id.investigation.discovery.ru" tvg-name="Investigation Discovery" tvg-logo="http://l.mq7.xyz/logo/189.png",Investigation Discovery
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/301
+#EXTINF:-1 tvg-id="Discovery_HD_Showcase" tvg-name="Discovery ULTRA" tvg-logo="",Discovery ULTRA
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/198
+#EXTINF:-1 tvg-id="discovery.ru" tvg-name="Discovery HD" tvg-logo="http://l.mq7.xyz/logo/56.png",Discovery HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/211
+#EXTINF:-1 tvg-id="nickelodeon.ru" tvg-name="Nickelodeon HD" tvg-logo="http://l.mq7.xyz/logo/116.png",Nickelodeon HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/437
+#EXTINF:-1 tvg-id="viasat.nature.history.ru" tvg-name="Viasat Nature/History HD" tvg-logo="http://l.mq7.xyz/logo/102.png",Viasat Nature/History HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/98
+#EXTINF:-1 tvg-id="viasat.nature.ru" tvg-name="Viasat Nature" tvg-logo="http://l.mq7.xyz/logo/57.png",Viasat Nature
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/151
+#EXTINF:-1 tvg-id="viasat.history.ru" tvg-name="Viasat History" tvg-logo="http://l.mq7.xyz/logo/390.png",Viasat History
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/314
+#EXTINF:-1 tvg-id="viasat.explore.ru" tvg-name="Viasat Explore" tvg-logo="http://l.mq7.xyz/logo/194.png",Viasat Explore
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/152
+#EXTINF:-1 tvg-id="national.geographic.ru" tvg-name="National Geographic Channel" tvg-logo="http://l.mq7.xyz/logo/60.png",National Geographic Channel
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/303
+#EXTINF:-1 tvg-id="national.geographic.ru" tvg-name="National Geographic HD" tvg-logo="http://l.mq7.xyz/logo/60.png",National Geographic HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/423
+#EXTINF:-1 tvg-id="nat.geo.wild.ru" tvg-name="Nat Geo Wild" tvg-logo="",Nat Geo Wild
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/305
+#EXTINF:-1 tvg-id="national.geographic.wild.ru" tvg-name="Nat Geo Wild HD" tvg-logo="http://l.mq7.xyz/logo/93.png",Nat Geo Wild HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/410
+#EXTINF:-1 tvg-id="tlc.ru" tvg-name="TLC Россия HD" tvg-logo="http://l.mq7.xyz/logo/104.png",TLC Россия HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/361
+#EXTINF:-1 tvg-id="history.ie" tvg-name="History" tvg-logo="http://l.mq7.xyz/logo/195.png",History
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/300
+#EXTINF:-1 tvg-id="history2.ru" tvg-name="H2" tvg-logo="",H2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/308
+#EXTINF:-1 tvg-id="history.ru" tvg-name="History Россия HD" tvg-logo="http://l.mq7.xyz/logo/195.png",History Россия HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/359
+#EXTINF:-1 tvg-id="animal.planet.ru" tvg-name="Animal Planet" tvg-logo="http://l.mq7.xyz/logo/201.png",Animal Planet
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/162
+#EXTINF:-1 tvg-id="animal.planet.ru" tvg-name="Animal Planet HD" tvg-logo="http://l.mq7.xyz/logo/94.png",Animal Planet HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/272
+#EXTINF:-1 tvg-id="the.cooking.us" tvg-name="Cooking Channel HD" tvg-logo="",Cooking Channel HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/318
+#EXTINF:-1 tvg-id="pervyj.ru" tvg-name="Первый канал" tvg-logo="http://l.mq7.xyz/logo/122.png",Первый канал
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/325
+#EXTINF:-1 tvg-id="pervyj.ru" tvg-name="Первый канал HD" tvg-logo="http://l.mq7.xyz/logo/79.png",Первый канал HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/142
+#EXTINF:-1 tvg-id="rossija.1.ru" tvg-name="Россия 1" tvg-logo="http://l.mq7.xyz/logo/540.png",Россия 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/140
+#EXTINF:-1 tvg-id="rossija.1.ru" tvg-name="Россия 1 HD" tvg-logo="http://l.mq7.xyz/logo/80.png",Россия 1 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/292
+#EXTINF:-1 tvg-id="tv.3.ru" tvg-name="ТВ-3" tvg-logo="",ТВ-3
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/132
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ" tvg-logo="http://l.mq7.xyz/logo/130.png",ТНТ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/130
+#EXTINF:-1 tvg-id="tnt-pl2" tvg-name="ТНТ (+2)" tvg-logo="http://l.mq7.xyz/logo/130.png",ТНТ (+2)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/322
+#EXTINF:-1 tvg-id="tnt4.ru" tvg-name="ТНТ4" tvg-logo="http://l.mq7.xyz/logo/125.png",ТНТ4
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/164
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое Кино" tvg-logo="http://l.mq7.xyz/logo/141.png",Любимое Кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/366
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ" tvg-logo="http://l.mq7.xyz/logo/126.png",НТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/166
+#EXTINF:-1 tvg-id="ntv-pl2" tvg-name="НТВ (+2)" tvg-logo="http://l.mq7.xyz/logo/128.png",НТВ (+2)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/367
+#EXTINF:-1 tvg-id="ren.ru" tvg-name="РЕН ТВ" tvg-logo="http://l.mq7.xyz/logo/541.png",РЕН ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/141
+#EXTINF:-1 tvg-id="usadsba.ru" tvg-name="Усадьба" tvg-logo="",Усадьба
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/257
+#EXTINF:-1 tvg-id="paramount.comedy.ru" tvg-name="Paramount Comedy Russia" tvg-logo="http://l.mq7.xyz/logo/159.png",Paramount Comedy Russia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/171
+#EXTINF:-1 tvg-id="sts.ru" tvg-name="СТС" tvg-logo="http://l.mq7.xyz/logo/127.png",СТС
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/133
+#EXTINF:-1 tvg-id="sts.love.ru" tvg-name="СТС Love" tvg-logo="http://l.mq7.xyz/logo/170.png",СТС Love
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/383
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-name="Русский иллюзион" tvg-logo="http://l.mq7.xyz/logo/155.png",Русский иллюзион
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/390
+#EXTINF:-1 tvg-id="nauka.ru" tvg-name="Наука 2.0" tvg-logo="http://l.mq7.xyz/logo/204.png",Наука 2.0
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/365
+#EXTINF:-1 tvg-id="1.music.ru" tvg-name="Ностальгия" tvg-logo="http://l.mq7.xyz/logo/198.png",Ностальгия
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/389
+#EXTINF:-1 tvg-id="da.vinci.ru" tvg-name="Da Vinci Learning" tvg-logo="http://l.mq7.xyz/logo/13.png",Da Vinci Learning
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/313
+#EXTINF:-1 tvg-id="tv.xxi.ru" tvg-name="TV XXI" tvg-logo="http://l.mq7.xyz/logo/30.png",TV XXI
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/394
+#EXTINF:-1 tvg-id="tvts.ru" tvg-name="ТВЦ" tvg-logo="http://l.mq7.xyz/logo/52.png",ТВЦ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/391
+#EXTINF:-1 tvg-id="russkij.detektiv.ru" tvg-name="Русский детектив" tvg-logo="http://l.mq7.xyz/logo/62.png",Русский детектив
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/372
+#EXTINF:-1 tvg-id="ani" tvg-name="ANI" tvg-logo="http://l.mq7.xyz/logo/253.png",ANI
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/376
+#EXTINF:-1 tvg-id="kanal.disney.ru" tvg-name="Канал Disney" tvg-logo="http://l.mq7.xyz/logo/244.png",Канал Disney
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/96
+#EXTINF:-1 tvg-id="okaota.i.rybalka.ru" tvg-name="Охота и рыбалка" tvg-logo="http://l.mq7.xyz/logo/175.png",Охота и рыбалка
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/243
+#EXTINF:-1 tvg-id="tiji.ru" tvg-name="TiJi" tvg-logo="http://l.mq7.xyz/logo/240.png",TiJi
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/364
+#EXTINF:-1 tvg-id="soversaenno.sekretno.ru" tvg-name="Совершенно секретно" tvg-logo="http://l.mq7.xyz/logo/200.png",Совершенно секретно
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/393
+#EXTINF:-1 tvg-id="rtg.ru" tvg-name="RTG" tvg-logo="http://l.mq7.xyz/logo/192.png",RTG
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/374
+#EXTINF:-1 tvg-id="deutsche.welle.ru" tvg-name="Deutsche Welle" tvg-logo="",Deutsche Welle
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/395
+#EXTINF:-1 tvg-id="dialogi.o.rybalke.ru" tvg-name="Диалоги о рыбалке" tvg-logo="",Диалоги о рыбалке
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/371
+#EXTINF:-1 tvg-id="mir.ru" tvg-name="Мир" tvg-logo="http://l.mq7.xyz/logo/20.png",Мир
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/382
+#EXTINF:-1 tvg-id="history.ru" tvg-name="History (Россия)" tvg-logo="http://l.mq7.xyz/logo/195.png",History (Россия)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/370
+#EXTINF:-1 tvg-id="gulli.girl.ru" tvg-name="Gulli (Россия)" tvg-logo="http://l.mq7.xyz/logo/239.png",Gulli (Россия)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/369
+#EXTINF:-1 tvg-id="ju.ru" tvg-name="Ю-ТВ" tvg-logo="http://l.mq7.xyz/logo/563.png",Ю-ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/380
+#EXTINF:-1 tvg-id="2x2.ru" tvg-name="2х2" tvg-logo="http://l.mq7.xyz/logo/314.png",2х2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/384
+#EXTINF:-1 tvg-id="a1.ru" tvg-name="Amedia 1" tvg-logo="http://l.mq7.xyz/logo/162.png",Amedia 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/385
+#EXTINF:-1 tvg-id="amedia.hit.ru" tvg-name="Amedia Hit" tvg-logo="http://l.mq7.xyz/logo/161.png",Amedia Hit
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/386
+#EXTINF:-1 tvg-id="fox.ru" tvg-name="Fox Россия" tvg-logo="http://l.mq7.xyz/logo/58.png",Fox Россия
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/10
+#EXTINF:-1 tvg-id="fox.life.ru" tvg-name="Fox Life" tvg-logo="http://l.mq7.xyz/logo/59.png",Fox Life
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14133
+#EXTINF:-1 tvg-id="fox.ru" tvg-name="FOX Россия HD" tvg-logo="http://l.mq7.xyz/logo/95.png",FOX Россия HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/641
+#EXTINF:-1 tvg-id="amedia.premium.ru" tvg-name="Amedia Premium HD" tvg-logo="http://l.mq7.xyz/logo/89.png",Amedia Premium HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/387
+#EXTINF:-1 tvg-id="cbs.reality.ru" tvg-name="CBS Reality" tvg-logo="http://l.mq7.xyz/logo/545.png",CBS Reality
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/347
+#EXTINF:-1 tvg-id="travel.ru" tvg-name="Travel Channel HD" tvg-logo="http://l.mq7.xyz/logo/62.png",Travel Channel HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/424
+#EXTINF:-1 tvg-id="dom.kino.premium.ru" tvg-name="Дом Кино Премиум HD" tvg-logo="http://l.mq7.xyz/logo/88.png",Дом Кино Премиум HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/642
+#EXTINF:-1 tvg-id="bridge.ru" tvg-name="Bridge HD" tvg-logo="http://l.mq7.xyz/logo/120.png",Bridge HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/643
+#EXTINF:-1 tvg-id="kinopremsera.ru" tvg-name="Кинопремьера HD" tvg-logo="http://l.mq7.xyz/logo/85.png",Кинопремьера HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/605
+#EXTINF:-1 tvg-id="kidzone.plus.lt" tvg-name="KIdZone+ HD" tvg-logo="",KIdZone+ HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/644
+#EXTINF:-1 tvg-id="hdl.ru" tvg-name="HD Life" tvg-logo="http://l.mq7.xyz/logo/98.png",HD Life
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/294
+#EXTINF:-1 tvg-id="matce.premser.ru" tvg-name="Матч! Премьер HD" tvg-logo="http://l.mq7.xyz/logo/567.png",Матч! Премьер HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/246
+#EXTINF:-1 tvg-id="vip.premiere.ru" tvg-name="ViP Premiere HD" tvg-logo="http://l.mq7.xyz/logo/6.png",ViP Premiere HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/103
+#EXTINF:-1 tvg-id="vip.comedy.ru" tvg-name="ViP Comedy HD" tvg-logo="http://l.mq7.xyz/logo/4.png",ViP Comedy HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/106
+#EXTINF:-1 tvg-id="vip.megahit.ru" tvg-name="ViP Megahit HD" tvg-logo="http://l.mq7.xyz/logo/5.png",ViP Megahit HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/105
+#EXTINF:-1 tvg-id="tv1000.russkoe.kino.ru" tvg-name="TV1000 Русское кино" tvg-logo="http://l.mq7.xyz/logo/135.png",TV1000 Русское кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/182
+#EXTINF:-1 tvg-id="kinokait.ru" tvg-name="Кинохит" tvg-logo="http://l.mq7.xyz/logo/143.png",Кинохит
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/155
+#EXTINF:-1 tvg-id="tnt.ru" tvg-name="ТНТ HD" tvg-logo="http://l.mq7.xyz/logo/258.png",ТНТ HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/660
+#EXTINF:-1 tvg-id="cee.ru" tvg-name="Че" tvg-logo="http://l.mq7.xyz/logo/556.png",Че
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/261
+#EXTINF:-1 tvg-id="rossija.kulstura.ru" tvg-name="Россия K" tvg-logo="http://l.mq7.xyz/logo/376.png",Россия K
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/137
+#EXTINF:-1 tvg-id="pjatnitsa.ru" tvg-name="ПЯТНИЦА!" tvg-logo="http://l.mq7.xyz/logo/542.png",ПЯТНИЦА!
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/129
+#EXTINF:-1 tvg-id="zvezda.ru" tvg-name="Звезда" tvg-logo="http://l.mq7.xyz/logo/154.png",Звезда
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/135
+#EXTINF:-1 tvg-id="domasanie.zivotnye.ru" tvg-name="Домашние животные" tvg-logo="http://l.mq7.xyz/logo/179.png",Домашние животные
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/208
+#EXTINF:-1 tvg-id="kkal.ru" tvg-name="КХЛ ТВ" tvg-logo="http://l.mq7.xyz/logo/586.png",КХЛ ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/138
+#EXTINF:-1 tvg-id="mir.seriala.ru" tvg-name="Мир сериала" tvg-logo="http://l.mq7.xyz/logo/601.png",Мир сериала
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/271
+#EXTINF:-1 tvg-id="rossija.24.ru" tvg-name="Россия 24" tvg-logo="http://l.mq7.xyz/logo/338.png",Россия 24
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/139
+#EXTINF:-1 tvg-id="kinokomedija.ru" tvg-name="Кинокомедия" tvg-logo="http://l.mq7.xyz/logo/153.png",Кинокомедия
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/153
+#EXTINF:-1 tvg-id="dom.kino.ru" tvg-name="Дом Кино" tvg-logo="http://l.mq7.xyz/logo/140.png",Дом Кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/607
+#EXTINF:-1 tvg-id="1.music.ru" tvg-name="Киносемья" tvg-logo="http://l.mq7.xyz/logo/139.png",Киносемья
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/145
+#EXTINF:-1 tvg-id="rodnoe.kino.ru" tvg-name="Родное кино" tvg-logo="http://l.mq7.xyz/logo/145.png",Родное кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/147
+#EXTINF:-1 tvg-id="1.music.ru" tvg-name="Мужское кино" tvg-logo="http://l.mq7.xyz/logo/146.png",Мужское кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/274
+#EXTINF:-1 tvg-id="kinomiks.ru" tvg-name="Киномикс" tvg-logo="http://l.mq7.xyz/logo/142.png",Киномикс
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/256
+#EXTINF:-1 tvg-id="kinosvidanie.ru" tvg-name="Киносвидание" tvg-logo="http://l.mq7.xyz/logo/147.png",Киносвидание
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/345
+#EXTINF:-1 tvg-id="nasae.novoe.kino.ru" tvg-name="Наше новое кино" tvg-logo="http://l.mq7.xyz/logo/144.png",Наше новое кино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/265
+#EXTINF:-1 tvg-id="evrokino" tvg-name="Еврокино" tvg-logo="http://l.mq7.xyz/logo/158.png",Еврокино
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/388
+#EXTINF:-1 tvg-id="a2.ru" tvg-name="Amedia 2" tvg-logo="http://l.mq7.xyz/logo/163.png",Amedia 2
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/258
+#EXTINF:-1 tvg-id="bridge.russkij.kait.ru" tvg-name="BRIDGE TV Русский Хит" tvg-logo="http://l.mq7.xyz/logo/230.png",BRIDGE TV Русский Хит
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/348
+#EXTINF:-1 tvg-id="lrt.lt" tvg-name="LRT HD" tvg-logo="http://l.mq7.xyz/logo/50.png",LRT HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/360
+#EXTINF:-1 tvg-id="lnk.lt" tvg-name="LNK" tvg-logo="http://l.mq7.xyz/logo/40.png",LNK
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/172
+#EXTINF:-1 tvg-id="lnk-lt" tvg-name="LNK HD" tvg-logo="http://l.mq7.xyz/logo/40.png",LNK HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14127
+#EXTINF:-1 tvg-id="tv3-lt" tvg-name="TV3 Lithuania" tvg-logo="http://l.mq7.xyz/logo/42n.png",TV3 Lithuania
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/174
+#EXTINF:-1 tvg-id="tv3-lt" tvg-name="TV3 Lithuania HD" tvg-logo="http://l.mq7.xyz/logo/42hd.png",TV3 Lithuania HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/745
+#EXTINF:-1 tvg-id="tv6-lt" tvg-name="TV6 Lithuania" tvg-logo="http://l.mq7.xyz/logo/45.png",TV6 Lithuania
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/175
+#EXTINF:-1 tvg-id="tv6-lt" tvg-name="TV6 Lithuania HD" tvg-logo="http://l.mq7.xyz/logo/45.png",TV6 Lithuania HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12820
+#EXTINF:-1 tvg-id="btv.lt" tvg-name="BTV" tvg-logo="http://l.mq7.xyz/logo/43.png",BTV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/176
+#EXTINF:-1 tvg-id="btv.lt" tvg-name="BTV HD" tvg-logo="http://l.mq7.xyz/logo/43.png",BTV HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14125
+#EXTINF:-1 tvg-id="info.lt" tvg-name="Info TV HD" tvg-logo="http://l.mq7.xyz/logo/49.png",Info TV HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14126
+#EXTINF:-1 tvg-id="tv1-lt" tvg-name="TV1 Lithuania" tvg-logo="http://l.mq7.xyz/logo/46.png",TV1 Lithuania
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/178
+#EXTINF:-1 tvg-id="tv1.lt" tvg-name="TV1 Lithuania HD" tvg-logo="http://l.mq7.xyz/logo/46.png",TV1 Lithuania HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14124
+#EXTINF:-1 tvg-id="tv8-lt" tvg-name="TV8 Lithuania" tvg-logo="http://l.mq7.xyz/logo/47.png",TV8 Lithuania
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/214
+#EXTINF:-1 tvg-id="tv8-lt" tvg-name="TV8 Lithuania HD" tvg-logo="http://l.mq7.xyz/logo/47.png",TV8 Lithuania HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14055
+#EXTINF:-1 tvg-id="tv1000-premium-lt" tvg-name="TV3 Film LT" tvg-logo="http://l.mq7.xyz/logo/262n.png",TV3 Film LT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/213
+#EXTINF:-1 tvg-id="tv1000-premium-lt" tvg-name="TV3 Film LT HD" tvg-logo="http://l.mq7.xyz/logo/262hd.png",TV3 Film LT HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14116
+#EXTINF:-1 tvg-id="liuks" tvg-name="2TV" tvg-logo="http://l.mq7.xyz/logo/68.png",2TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/200
+#EXTINF:-1 tvg-id="lietuvos.ryto.lt" tvg-name="Lietuvos Rytas" tvg-logo="http://l.mq7.xyz/logo/44.png",Lietuvos Rytas
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/177
+#EXTINF:-1 tvg-id="lietuvos.ryto.lt" tvg-name="Lietuvos Rytas HD" tvg-logo="http://l.mq7.xyz/logo/1.png",Lietuvos Rytas HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/264
+#EXTINF:-1 tvg-id="lrt.plius.lt" tvg-name="LRT KULTURA" tvg-logo="http://l.mq7.xyz/logo/48.png",LRT KULTURA
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/216
+#EXTINF:-1 tvg-id="lrt.plius.lt" tvg-name="LRT KULTURA HD" tvg-logo="http://l.mq7.xyz/logo/387.png",LRT KULTURA HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/650
+#EXTINF:-1 tvg-id="info.lt" tvg-name="Info TV" tvg-logo="http://l.mq7.xyz/logo/49.png",Info TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/201
+#EXTINF:-1 tvg-id="balticum.platinum.lt" tvg-name="Balticum Platinum" tvg-logo="http://l.mq7.xyz/logo/534.png",Balticum Platinum
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12827
+#EXTINF:-1 tvg-id="balticum.auksinis.lt" tvg-name="Balticum Auksinis" tvg-logo="http://l.mq7.xyz/logo/51.png",Balticum Auksinis
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/242
+#EXTINF:-1 tvg-id="balticum.lt" tvg-name="Balticum" tvg-logo="http://l.mq7.xyz/logo/10.png",Balticum
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/239
+#EXTINF:-1 tvg-id="filmzone.lt" tvg-name="FilmZone LT" tvg-logo="http://l.mq7.xyz/logo/2n.png",FilmZone LT
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/270
+#EXTINF:-1 tvg-id="filmzone.plus.lt" tvg-name="FilmZone+ HD" tvg-logo="http://l.mq7.xyz/logo/8.png",FilmZone+ HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12821
+#EXTINF:-1 tvg-id="kidzone.lt" tvg-name="KidZone TV" tvg-logo="http://l.mq7.xyz/logo/70.png",KidZone TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/203
+#EXTINF:-1 tvg-id="ltv1.lv" tvg-name="LTV1 Latvia" tvg-logo="http://l.mq7.xyz/logo/003.png",LTV1 Latvia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/344
+#EXTINF:-1 tvg-id="sony.turbo.ru" tvg-name="Sony Turbo" tvg-logo="http://l.mq7.xyz/logo/64.png",Sony Turbo
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/260
+#EXTINF:-1 tvg-id="tv3.mini.lv" tvg-name="TV3 Mini" tvg-logo="http://l.mq7.xyz/logo/001.png",TV3 Mini
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/342
+#EXTINF:-1 tvg-id="tv3.life.lv" tvg-name="TV3 Life" tvg-logo="http://l.mq7.xyz/logo/002.png",TV3 Life
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/339
+#EXTINF:-1 tvg-id="3.plus.lv" tvg-name="3+ Latvia" tvg-logo="http://l.mq7.xyz/logo/005.png",3+ Latvia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/207
+#EXTINF:-1 tvg-id="1.music.ru" tvg-name="Остросюжетное HD" tvg-logo="",Остросюжетное HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/750
+#EXTINF:-1 tvg-id="nasae.krutoe.ru" tvg-name="Наше крутое HD" tvg-logo="",Наше крутое HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/752
+#EXTINF:-1 tvg-id="tv6.lv" tvg-name="TV6 Latvia" tvg-logo="http://l.mq7.xyz/logo/45.png",TV6 Latvia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/340
+#EXTINF:-1 tvg-id="tv3.lv" tvg-name="TV3 Latvia" tvg-logo="http://l.mq7.xyz/logo/42n.png",TV3 Latvia
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/343
+#EXTINF:-1 tvg-id="sts.baltic.lv" tvg-name="СТС Baltic" tvg-logo="http://l.mq7.xyz/logo/127.png",СТС Baltic
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/248
+#EXTINF:-1 tvg-id="fox.ie" tvg-name="FOX" tvg-logo="http://l.mq7.xyz/logo/58.png",FOX
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/418
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="Fox News" tvg-logo="",Fox News
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/691
+#EXTINF:-1 tvg-id="match-igra" tvg-name="Матч! Игра HD" tvg-logo="http://l.mq7.xyz/logo/109.png",Матч! Игра HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/293
+#EXTINF:-1 tvg-id="now.90s.gb" tvg-name="Eurodance 90s" tvg-logo="",Eurodance 90s
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/315
+#EXTINF:-1 tvg-id="ntv.ru" tvg-name="НТВ HD" tvg-logo="http://l.mq7.xyz/logo/81.png",НТВ HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/758
+#EXTINF:-1 tvg-id="ltv7.lv" tvg-name="LTV7" tvg-logo="http://l.mq7.xyz/logo/004.png",LTV7
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/12826
+#EXTINF:-1 tvg-id="alibi.ie" tvg-name="Alibi UK " tvg-logo="",Alibi UK 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/419
+#EXTINF:-1 tvg-id="smartzone" tvg-name="SmartZone HD" tvg-logo="",SmartZone HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14112
+#EXTINF:-1 tvg-id="DiscoveryScience.blt" tvg-name="Discovery Science" tvg-logo="http://l.mq7.xyz/logo/187.png",Discovery Science
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14131
+#EXTINF:-1 tvg-id="euro-en" tvg-name="EuroNews" tvg-logo="http://l.mq7.xyz/logo/72.png",EuroNews
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/412
+#EXTINF:-1 tvg-id="fox.news.us" tvg-name="FOX News" tvg-logo="",FOX News
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/108
+#EXTINF:-1 tvg-id="rte.news.now.ie" tvg-name="Rte News Now" tvg-logo="",Rte News Now
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/400
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="CNN" tvg-logo="",CNN
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/45
+#EXTINF:-1 tvg-id="cnbc.world.us" tvg-name="CNBC" tvg-logo="",CNBC
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/168
+#EXTINF:-1 tvg-id="sky.sports.news.ie" tvg-name="Sky Sports News HQ." tvg-logo="",Sky Sports News HQ.
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/324
+#EXTINF:-1 tvg-id="sky.news.hq.ie" tvg-name="Sky News UK" tvg-logo="",Sky News UK
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/619
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Bloomberg" tvg-logo="http://l.mq7.xyz/logo/634.png",Bloomberg
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14135
+#EXTINF:-1 tvg-id="BBC_World" tvg-name="BBC News" tvg-logo="http://l.mq7.xyz/logo/73.png",BBC News
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/623
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="BT Box Office " tvg-logo="",BT Box Office 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14132
+#EXTINF:-1 tvg-id="docubox.ru" tvg-name="DOCUBOX HD" tvg-logo="http://l.mq7.xyz/logo/522.png",DOCUBOX HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/756
+#EXTINF:-1 tvg-id="siauliu.lt" tvg-name="Šiaulių TV" tvg-logo="http://l.mq7.xyz/logo/589.png",Šiaulių TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/755
+#EXTINF:-1 tvg-id="eda.premium.ru" tvg-name="Еда Премиум HD" tvg-logo="",Еда Премиум HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/751
+#EXTINF:-1 tvg-id="horse.country.gb" tvg-name="Horse & Country" tvg-logo="",Horse & Country
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14169
+#EXTINF:-1 tvg-id="dtx.ru" tvg-name="DTX HD" tvg-logo="http://l.mq7.xyz/logo/185.png",DTX HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/744
+#EXTINF:-1 tvg-id="DiscoveryScience.blt" tvg-name="Discovery Science HD" tvg-logo="http://l.mq7.xyz/logo/187.png",Discovery Science HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/4855
+#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="FastnfunBox HD" tvg-logo="http://l.mq7.xyz/logo/524.png",FastnfunBox HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/757
+#EXTINF:-1 tvg-id="init-lt" tvg-name="Init TV HD" tvg-logo="http://l.mq7.xyz/logo/576.png",Init TV HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/754
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit HD" tvg-logo="http://l.mq7.xyz/logo/300.png",Kronehit HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/4849
+#EXTINF:-1 tvg-id="" tvg-name="One.by Rus HD" tvg-logo="",One.by Rus HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/4852
+#EXTINF:-1 tvg-id="onemuz" tvg-name="One.by HD" tvg-logo="http://l.mq7.xyz/logo/274.png",One.by HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/4850
+#EXTINF:-1 tvg-id="ViasatHistory.lt" tvg-name="Viasat History HD" tvg-logo="http://l.mq7.xyz/logo/390.png",Viasat History HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/746
+#EXTINF:-1 tvg-id="bober.ru" tvg-name="Бобёр" tvg-logo="http://l.mq7.xyz/logo/181.png",Бобёр
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14166
+#EXTINF:-1 tvg-id="" tvg-name="One.by 4K" tvg-logo="",One.by 4K
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/742
+#EXTINF:-1 tvg-id="dozhd" tvg-name="Дождь HD" tvg-logo="http://l.mq7.xyz/logo/54.png",Дождь HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/747
+#EXTINF:-1 tvg-id="kino.ru" tvg-name="Кино ТВ" tvg-logo="http://l.mq7.xyz/logo/151.png",Кино ТВ
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/749
+#EXTINF:-1 tvg-id="ntv.stils.ru" tvg-name="НТВ Стиль" tvg-logo="http://l.mq7.xyz/logo/25.png",НТВ Стиль
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14168
+#EXTINF:-1 tvg-id="komedija.ru" tvg-name="Русская Комедия" tvg-logo="http://l.mq7.xyz/logo/156.png",Русская Комедия
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/748
+#EXTINF:-1 tvg-id="russkij.roman.ru" tvg-name="Русский Роман" tvg-logo="http://l.mq7.xyz/logo/137.png",Русский Роман
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14167
+#EXTINF:-1 tvg-id="lolo.lt" tvg-name="Pingviniukas" tvg-logo="http://l.mq7.xyz/logo/3.png",Pingviniukas
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/425
+#EXTINF:-1 tvg-id="delfi.lt" tvg-name="Delfi TV HD" tvg-logo="http://l.mq7.xyz/logo/447.png",Delfi TV HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/734
+#EXTINF:-1 tvg-id="epik-drama" tvg-name="Epic Drama HD" tvg-logo="http://l.mq7.xyz/logo/651.png",Epic Drama HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14173
+#EXTINF:-1 tvg-id="vip.serial.ru" tvg-name="ViP Serial HD" tvg-logo="http://l.mq7.xyz/logo/006.png",ViP Serial HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14172
+#EXTINF:-1 tvg-id="ntv.pravo.ru" tvg-name="НТВ Право" tvg-logo="http://l.mq7.xyz/logo/24.png",НТВ Право
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14174
+#EXTINF:-1 tvg-id="sky.documentaries.ie" tvg-name="Sky Documentaries" tvg-logo="",Sky Documentaries
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14145
+#EXTINF:-1 tvg-id="sky.nature.ie" tvg-name="Sky Nature" tvg-logo="",Sky Nature
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/686
+#EXTINF:-1 tvg-id="40+.ie" tvg-name="Film4 HD" tvg-logo="",Film4 HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/181
+#EXTINF:-1 tvg-id="tv3.sport.open.lt" tvg-name="TV3 Sport LT HD Open" tvg-logo="",TV3 Sport LT HD Open
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/309
+#EXTINF:-1 tvg-id="" tvg-name="1 Premier League games (3PM games)" tvg-logo="",1 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14117
+#EXTINF:-1 tvg-id="" tvg-name="2 Premier League games (3PM games)" tvg-logo="",2 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14118
+#EXTINF:-1 tvg-id="" tvg-name="3 Premier League games (3PM games)" tvg-logo="",3 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14119
+#EXTINF:-1 tvg-id="" tvg-name="4 Premier League games (3PM games)" tvg-logo="",4 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14120
+#EXTINF:-1 tvg-id="" tvg-name="5 Premier League games (3PM games)" tvg-logo="",5 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14121
+#EXTINF:-1 tvg-id="" tvg-name="6 Premier League games (3PM games)" tvg-logo="",6 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/690
+#EXTINF:-1 tvg-id="" tvg-name="7 Premier League games (3PM games)" tvg-logo="",7 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/689
+#EXTINF:-1 tvg-id="bein.sports.2.ae" tvg-name="8 Premier League games (3PM games)" tvg-logo="",8 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/688
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="9 Premier League games (3PM games)" tvg-logo="",9 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/682
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="10 Premier League games (3PM games)" tvg-logo="",10 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14154
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="MUTV" tvg-logo="",MUTV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/306
+#EXTINF:-1 tvg-id="chstv.ie" tvg-name="Chelsea TV" tvg-logo="",Chelsea TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/415
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="LiverpoolFCTV" tvg-logo="",LiverpoolFCTV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/65
+#EXTINF:-1 tvg-id="" tvg-name="NBA " tvg-logo="",NBA 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/678
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="beiN Sports 11" tvg-logo="",beiN Sports 11
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/687
+#EXTINF:-1 tvg-id="perviy.baltijskij.lt" tvg-name="1 Baltijskij kanal" tvg-logo="http://l.mq7.xyz/logo/122.png",1 Baltijskij kanal
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14175
+#EXTINF:-1 tvg-id="dikaya-rybalka-hd" tvg-name="Дикая рыбалка HD" tvg-logo="",Дикая рыбалка HD
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14180
+#EXTINF:-1 tvg-id="ntv.mir.lt" tvg-name="NTV Mir Lietuva" tvg-logo="http://l.mq7.xyz/logo/81.png",NTV Mir Lietuva
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14177
+#EXTINF:-1 tvg-id="1.music.ru" tvg-name="RU.TV" tvg-logo="http://l.mq7.xyz/logo/236.png",RU.TV
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14178
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="5 STAR" tvg-logo="",5 STAR
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14155
+#EXTINF:-1 tvg-id="40+.ie" tvg-name="5 USA" tvg-logo="",5 USA
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/319
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="Sony Classic" tvg-logo="",Sony Classic
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/735
+#EXTINF:-1 tvg-id="sony.max.ie" tvg-name="Sony Max" tvg-logo="",Sony Max
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/655
+#EXTINF:-1 tvg-id="cbs.drama.ie" tvg-name="CBS DRAMA" tvg-logo="",CBS DRAMA
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/711
+#EXTINF:-1 tvg-id="eurosport-4k" tvg-name="Eurosport 4K" tvg-logo="",Eurosport 4K
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14182
+#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1" tvg-logo="",Digi Sport 1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/679
+#EXTINF:-1 tvg-id="" tvg-name="M-1" tvg-logo="http://l.mq7.xyz/logo/613.png",M-1
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/354
+#EXTINF:-1 tvg-id="" tvg-name="Power Hit Radio" tvg-logo="http://l.mq7.xyz/logo/616.png",Power Hit Radio
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14137
+#EXTINF:-1 tvg-id="" tvg-name="Ruskoje Radio" tvg-logo="http://l.mq7.xyz/logo/621.png",Ruskoje Radio
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14139
+#EXTINF:-1 tvg-id="" tvg-name="RC" tvg-logo="http://l.mq7.xyz/logo/618.png",RC
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14140
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="11 Premier League games (3PM games)" tvg-logo="",11 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14146
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="12 Premier League games (3PM games)" tvg-logo="",12 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14147
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="13 Premier League games (3PM games)" tvg-logo="",13 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14148
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="14 Premier League games (3PM games)" tvg-logo="",14 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14149
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="15 Premier League games (3PM games)" tvg-logo="",15 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14150
+#EXTINF:-1 tvg-id="102.2.smooth.radio.gb" tvg-name="16 Premier League games (3PM games)" tvg-logo="",16 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/671
+#EXTINF:-1 tvg-id="TSN2" tvg-name="17 Premier League games (3PM games)" tvg-logo="",17 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/670
+#EXTINF:-1 tvg-id="TSN4" tvg-name="18 Premier League games (3PM games)" tvg-logo="",18 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/672
+#EXTINF:-1 tvg-id="TSN3" tvg-name="19 Premier League games (3PM games)" tvg-logo="",19 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/673
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="20 Premier League games (3PM games)" tvg-logo="",20 Premier League games (3PM games)
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14151
+#EXTINF:-1 tvg-id="4music.ie" tvg-name="ITV box office " tvg-logo="",ITV box office 
+http://188.40.58.61:8000/stephenda_mag_14/fXpoeijAuz/14153

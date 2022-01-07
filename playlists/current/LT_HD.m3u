@@ -1,0 +1,15 @@
+﻿#EXTM3U
+#EXTINF:-1 timeshift="7",TV8 HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/14055
+#EXTINF:-1 timeshift="7",TV6 HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/12820
+#EXTINF:-1 timeshift="7",TV3 HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/745
+#EXTINF:-1 timeshift="7"tvg-id="balt-plat-lt",Balticum Platinum HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/12827
+#EXTINF:-1 timeshift="7",Delfi TV HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/734
+#EXTINF:-1 timeshift="7",TV3 Film HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/14116
+#EXTINF:-1 timeshift="7",LNK HD
+http://188.40.58.61:8000/darragh/carry_mag_13/VfoCYGpv12/14127

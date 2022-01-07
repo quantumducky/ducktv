@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,2Tv
+http://212.52.59.86:8776/play/a02b
+#EXTINF:-1,BTV
+http://212.52.59.86:8776/play/a02g
+#EXTINF:-1,CurrentTime
+http://212.52.59.86:8776/play/a01a
+#EXTINF:-1,Delfi.tv
+http://212.52.59.86:8776/play/a01y
+#EXTINF:-1,Info TV
+http://212.52.59.86:8776/play/a02a
+#EXTINF:-1,LNK
+http://212.52.59.86:8776/play/a029
+#EXTINF:-1,LRT PLIUS
+http://212.52.59.86:8776/play/a025
+#EXTINF:-1,LRT PLIUS HD
+http://212.52.59.86:8776/play/a013
+#EXTINF:-1,LRT TELEVIZIJA
+http://212.52.59.86:8776/play/a011
+#EXTINF:-1,LRT TELEVIZIJA HD
+http://212.52.59.86:8776/play/a01k
+#EXTINF:-1,Lietuvos rytas TV
+http://212.52.59.86:8776/play/a028
+#EXTINF:-1,TV1
+http://212.52.59.86:8776/play/a02d
+#EXTINF:-1,TV3
+http://212.52.59.86:8776/play/a02e
+#EXTINF:-1,TV6
+http://212.52.59.86:8776/play/a02f
+#EXTINF:-1,TV8
+http://212.52.59.86:8776/play/a02c
