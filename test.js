@@ -3,12 +3,12 @@ const fsPromise = require('fs').promises;
 // const cheerio = require('cheerio');
 // const parserFactory = require('ts-exif-parser').ExifParserFactory;
 
-const INTERVAL =  5000;
-const LIMIT = 1500;
+const INTERVAL =  4000;
+const LIMIT = 250;
 
 let mainInterval;
 let urlList = [];
-let i = 1250;
+let i = 1;
 
 
 (async () => {
@@ -31,6 +31,9 @@ let i = 1250;
   // });
   // await writeToFile(playlistData, `fastlink.m3u8`);
 
+  // port range checker:
+  // http://ports.my-addr.com/ip-range-port-scanner-tool.php
+
   // checked:
   // 130 | tl | l1-999 - 1
   // 130 | tl1 | l1-250 - done|nothing
@@ -43,12 +46,14 @@ let i = 1250;
   // 133 | tl2 | l1-999 done|nothing
   // 133 | tl3 | l1-250 done|nothing
 
+  // 140 | tl | l1-1000 done
+
 
   mainInterval = setInterval(fetchUrls, INTERVAL);
 })();
 
 async function fetchUrls() {
-  const URL = `http://213.226.137.133:81/tl/l${i}/index.m3u8`;
+  const URL = `http://213.226.137.140:81/tl2/l${i}/index.m3u8`;
 
   await fetch(URL).then(res => {
     if (res.ok) {
