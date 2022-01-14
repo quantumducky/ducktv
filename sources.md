@@ -20,11 +20,11 @@ https://hdoriginal.ru/
 https://8serialov.net/
 https://sezzzon.me
 https://kinokrad.co
+http://seasonvar.ru
 
 not good:
 http://fanserials.bz
 https://vseriale.co
-http://seasonvar.ru
 
 Movies:
 https://filmix.co
