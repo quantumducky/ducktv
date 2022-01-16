@@ -1,4 +1,54 @@
 #EXTM3U url-tvg="http://ottg.cc/epg.xml.gz"
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3733.png",LRT
+http://str17.ottg.cc/3733/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=516&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/9055.png",LRT HD
+http://str17.ottg.cc/9055/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=723&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-kultura"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/6503.png",LRT Plius HD
+http://str17.ottg.cc/6503/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=728&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/2255.png",TV3
+http://str17.ottg.cc/2255/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=515&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/9102.png",TV3 HD
+http://str17.ottg.cc/9102/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=720&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lnk"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/1753.png",LNK
+http://str17.ottg.cc/1753/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=512&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lnk"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/5900.png",LNK HD
+http://str17.ottg.cc/5900/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=724&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="btv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3855.png",BTV
+http://str17.ottg.cc/3855/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=513&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="btv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/2538.png",BTV HD
+http://str17.ottg.cc/2538/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=726&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/1155.png",TV1 HD
+http://str17.ottg.cc/1155/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=719&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv6-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/1309.png",TV6 HD
+http://str17.ottg.cc/1309/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=721&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv8-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3814.png",TV8 HD
+http://str17.ottg.cc/3814/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=722&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="info-tv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/2282.png",Info TV HD
+http://str17.ottg.cc/2282/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=725&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lietuvos-ryto-televizija"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/5861.png",Lietuvos Rytas HD
+http://str17.ottg.cc/5861/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=729&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-premium"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3127.png",TV3 Film HD
+http://str17.ottg.cc/3127/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=605&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-auksinis"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3691.png",Balticum Auksinis
+http://str17.ottg.cc/3691/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=787&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-platinum"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/4151.png",Balticum Platinum HD
+http://str17.ottg.cc/4151/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=730&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="init-tv"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/3138.png",Init TV
+http://str17.ottg.cc/3138/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=788&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmzone"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/1203.png",FilmZone HD
+http://str17.ottg.cc/1203/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=733&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmzone-plus-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/2423.png",FilmZone+ HD
+http://str17.ottg.cc/2423/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=734&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="epik-drama"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/5415.png",Epic Drama HD
+http://str17.ottg.cc/5415/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=732&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/7729.png",TV3 Sport HD
+http://str17.ottg.cc/7729/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=594&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports-plus"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/4490.png",TV3 Sport 2 HD
+http://str17.ottg.cc/4490/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=607&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-sport-open"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/2337.png",TV3 Sport Open HD
+http://str17.ottg.cc/2337/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=1031&req_host=pkjX3BL
+#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sport1-lt"  group-title="LT" tvg-logo="http://pl.ottglanz.tv/icon/4035.png",Sport1 HD
+http://str17.ottg.cc/4035/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=727&req_host=pkjX3BL
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/9195.png",Первый канал
 http://str17.ottg.cc/9195/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=70&req_host=pkjX3BL
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/2214.png",Первый канал HD
@@ -805,16 +855,8 @@ http://str17.ottg.cc/8162/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/7658/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=509&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="atv-armenia"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/5659.png",Atv HD AM
 http://str17.ottg.cc/5659/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=510&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lnk"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/1753.png",LNK LT
-http://str17.ottg.cc/1753/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=512&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="btv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/3855.png",BTV
-http://str17.ottg.cc/3855/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=513&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/7524.png",TV3 HD LV
 http://str17.ottg.cc/7524/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=514&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/2255.png",TV3 LT
-http://str17.ottg.cc/2255/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=515&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/3733.png",LRT
-http://str17.ottg.cc/3733/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=516&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ltv1"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/1144.png",LTV1
 http://str17.ottg.cc/1144/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=517&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="pervy"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/2580.png",Первый канал HD PREMIUM+
@@ -957,8 +999,6 @@ http://str17.ottg.cc/6107/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/4399/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=592&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="8kanal-by"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/8447.png",8 Канал HD BY
 http://str17.ottg.cc/8447/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=593&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports"  group-title="Спорт" tvg-logo="http://pl.ottglanz.tv/icon/7729.png",TV3 Sport HD PREMIUM+
-http://str17.ottg.cc/7729/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=594&req_host=pkjX3BL
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="tnt4"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/2304.png",ТНТ4 HD
 http://str17.ottg.cc/2304/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=595&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv-pravo"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/8025.png",НТВ Право
@@ -979,12 +1019,8 @@ http://str17.ottg.cc/5672/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/6899/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=603&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ntv-serial"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/3213.png",НТВ Сериал
 http://str17.ottg.cc/3213/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=604&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1000-premium"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/3127.png",TV3 Film HD PREMIUM+
-http://str17.ottg.cc/3127/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=605&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kinoseria"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/9769.png",Киносерия
 http://str17.ottg.cc/9769/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=606&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tvplay-sports-plus"  group-title="Спорт" tvg-logo="http://pl.ottglanz.tv/icon/4490.png",TV3 Sport 2 HD PREMIUM+
-http://str17.ottg.cc/4490/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=607&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="amc"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/7676.png",AMC
 http://str17.ottg.cc/5792/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=609&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="zagorodny"  group-title="Познавательные" tvg-logo="http://pl.ottglanz.tv/icon/5180.png",Загородный
@@ -1185,36 +1221,6 @@ http://str17.ottg.cc/6140/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/9098/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=717&req_host=pkjX3BL
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="domashny"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/4131.png",Домашний HD
 http://str17.ottg.cc/4131/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=718&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv1-lt"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/1155.png",TV1 HD LT
-http://str17.ottg.cc/1155/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=719&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-lt"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/9102.png",TV3 HD LT
-http://str17.ottg.cc/9102/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=720&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv6-lt"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/1309.png",TV6 HD LT
-http://str17.ottg.cc/1309/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=721&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv8-lt"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/3814.png",TV8 HD LT
-http://str17.ottg.cc/3814/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=722&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-tv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/9055.png",LRT HD LT
-http://str17.ottg.cc/9055/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=723&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lnk"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/5900.png",LNK HD LT
-http://str17.ottg.cc/5900/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=724&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="info-tv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/2282.png",INFO TV HD LT
-http://str17.ottg.cc/2282/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=725&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="btv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/2538.png",BTV HD LT
-http://str17.ottg.cc/2538/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=726&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="sport1-lt"  group-title="Спорт" tvg-logo="http://pl.ottglanz.tv/icon/4035.png",Sport1 HD LT
-http://str17.ottg.cc/4035/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=727&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lrt-kultura"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/6503.png",LRT Plius HD LT
-http://str17.ottg.cc/6503/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=728&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="lietuvos-ryto-televizija"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/5861.png",Lietuvos Rytas HD LT
-http://str17.ottg.cc/5861/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=729&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-platinum"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/4151.png",Balticum Platinum HD LT
-http://str17.ottg.cc/4151/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=730&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="epik-drama"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/5415.png",Epic Drama HD
-http://str17.ottg.cc/5415/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=732&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmzone"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/1203.png",FilmZone HD
-http://str17.ottg.cc/1203/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=733&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmzone-plus-lt"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/2423.png",FilmZone+ HD
-http://str17.ottg.cc/2423/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=734&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="mezzo-live-hd"  group-title="Музыкальные" tvg-logo="http://pl.ottglanz.tv/icon/2603.png",Mezzo Live HD PREMIUM+
 http://str17.ottg.cc/2603/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=735&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="filmbox-ru"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/8937.png",FilmBox
@@ -1319,10 +1325,6 @@ http://str17.ottg.cc/8297/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/1911/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=785&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ukraina24"  group-title="Украина" tvg-logo="http://pl.ottglanz.tv/icon/4644.png",Украина 24 HD
 http://str17.ottg.cc/4644/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=786&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="balticum-auksinis"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/3691.png",Balticum Auksinis LT
-http://str17.ottg.cc/3691/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=787&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="init-tv"  group-title="Зарубежные" tvg-logo="http://pl.ottglanz.tv/icon/3138.png",Init TV LT
-http://str17.ottg.cc/3138/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=788&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="ducktv"  group-title="Детские" tvg-logo="http://pl.ottglanz.tv/icon/8296.png",Duck HD
 http://str17.ottg.cc/8296/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=789&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="zal-suda"  group-title="Общие" tvg-logo="http://pl.ottglanz.tv/icon/7322.png",Зал суда
@@ -1773,8 +1775,6 @@ http://str17.ottg.cc/5789/video.m3u8?username=alexes78&password=240476&token=6a2
 http://str17.ottg.cc/7068/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=1028&req_host=pkjX3BL
 #EXTINF:-1 timeshift="14" catchup-days="14" catchup-type="flussonic" tvg-id="plan-b"  group-title="Кино" tvg-logo="http://pl.ottglanz.tv/icon/2429.png",Plan_B HD
 http://str17.ottg.cc/2429/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=1030&req_host=pkjX3BL
-#EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="tv3-sport-open"  group-title="Спорт" tvg-logo="http://pl.ottglanz.tv/icon/2337.png",TV3 Sport Open HD LT
-http://str17.ottg.cc/2337/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=1031&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="kxl"  group-title="Спорт" tvg-logo="http://pl.ottglanz.tv/icon/7762.png",KHL HD
 http://str17.ottg.cc/7762/video.m3u8?username=alexes78&password=240476&token=6a27c8c1f76cf6d72cb040cbae2136e0&ch_id=1032&req_host=pkjX3BL
 #EXTINF:-1 timeshift="7" catchup-days="7" catchup-type="flussonic" tvg-id="bcu-survival"  group-title="Кинозалы" tvg-logo="http://pl.ottglanz.tv/icon/6035.png",BCU Survival HD

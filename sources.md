@@ -69,6 +69,13 @@ http://ottv.tk/public/plst/plstfb/playlist.php?ott
 ottv.tk#.XML
 
 
+Portal: http://81.7.108.35:80/stalker_portal/server/administrator/login.php 
+online|offline: 
+User:Pass: admin:1
+http://81.7.108.35/stalker_portal/server/tools/m3u.php
+
+http://84.17.46.97:88/stalker_portal/server/administrator/login.php  login:admin  passw:dadapogi tik nieko nepridirbkit 🙂
+
 https://liux.tv/
 http://51.75.112.123:85/lt-tv3/mono.m3u8?token=home
 http://51.75.112.123:85/lt-lnk/mono.m3u8?token=home
