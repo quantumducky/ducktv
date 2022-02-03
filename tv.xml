@@ -22,13 +22,18 @@
 </channel> -->
 
 <channel>
-  <title><![CDATA[Kanalai 1]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/213_226_137_140.m3u8]]></playlist_url>
+  <title><![CDATA[Glanz TV]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/glanz_tv.m3u8]]></playlist_url>
 </channel>
 
 <channel>
-  <title><![CDATA[Kanalai 2]]></title>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/tv_channels_alexes78.m3u8]]></playlist_url>
+  <title><![CDATA[Glanz TV Filmai]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/glanz_tv_video.m3u8]]></playlist_url>
+</channel>
+
+<channel>
+  <title><![CDATA[Kanalai 1]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/playlists/current/213_226_137_140.m3u8]]></playlist_url>
 </channel>
 
 <channel>
