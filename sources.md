@@ -43,6 +43,7 @@ https://www.kinas.tv
 
 IPTV Glanz
 http://pl.ottglanz.tv:80/get.php?username=alexes78&password=240476&type=m3u&output=hls
+https://ottg.in/user/quantumducky/#
 
 List generator:
 https://mytexttools.com/numbered-list-generator.html
