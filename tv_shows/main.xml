@@ -14,30 +14,30 @@
 
 <!-- ################### -->
 
-<!-- <channel>
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/hell_on_wheels.m3u8]]></playlist_url>
   <title><![CDATA[Ад на колесах (1/5)]]></title>
-</channel> -->
+</channel>
 
-<!-- <channel>
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/rome.m3u8]]></playlist_url>
   <title><![CDATA[Рим (1/2)]]></title>
-</channel> -->
+</channel>
 
-<!-- <channel>
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/malcolm_in_the_middle.m3u8]]></playlist_url>
   <title><![CDATA[Малкольм в центре внимания (1/7)]]></title>
-</channel> -->
+</channel>
 
-<!-- <channel>
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mayor_of_kingstown.m3u8]]></playlist_url>
   <title><![CDATA[Мэр Кингстауна (1/1)]]></title>
-</channel> -->
+</channel>
 
-<!-- <channel>
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/californication.m3u8]]></playlist_url>
   <title><![CDATA[Блудливая Калифорния (1/7)]]></title>
-</channel> -->
+</channel>
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_man_in_the_high_castle.m3u8]]></playlist_url>
