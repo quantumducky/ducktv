@@ -1,0 +1,21 @@
+{
+
+  "manifest_version": 2,
+  "name": "Pakartot Downloader",
+  "version": "1.0",
+
+  "description": "Adds a download button to pakartot.lt",
+
+  "icons": {
+    "48": "icons/pakartot_logo.svg",
+    "96": "icons/pakartot_logo.svg"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.pakartot.lt/*"],
+      "js": ["borderify.js"]
+    }
+  ]
+
+}
