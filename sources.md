@@ -75,7 +75,7 @@ online|offline:
 User:Pass: admin:1
 http://81.7.108.35/stalker_portal/server/tools/m3u.php
 
-http://84.17.46.97:88/stalker_portal/server/administrator/login.php  login:admin  passw:dadapogi tik nieko nepridirbkit 🙂
+http://84.17.46.97:88/stalker_portal/server/administrator/login.php  login:admin  passw:dadapogi tik nieko nepridirbkit
 
 https://liux.tv/
 http://51.75.112.123:85/lt-tv3/mono.m3u8?token=home
@@ -139,3 +139,13 @@ http://zserials.org:
 http://data03-cdn.datalock.ru/fi2lm/676a81e82e2991f8fb9ed2d09b318faf/7f_Rectify.S01E01.Always.There.1080p.BDRip.x264.R.a1.02.12.21.mp4
 
 https://media2.krasview.ru/video/80765509fbf6985/3f094305501a244.mp4?stream=1
+
+https://zetflix.online/films/ikar/
+https://iridium.prosto.hdvideobox.me/e8dfe4894624f213ba05a846ef90b16d:2022021519/movies/577e3d69c22aeff3964e68ec6098e50f13713cf5/720.mp4
+
+
+https://rezka.ag/films/documentary/37785-ikar-2017.html
+https://stream.voidboost.cc/2/2/2/1/1/1/993ca170aeb2806a204f02e78d74eab1:2022021612:e1854fa1-7fc5-4c51-90c7-4bfa801cc499/u5xik.mp4:hls:manifest.m3u8
+https://calfium.stream.voidboost.cc/2/2/2/1/1/1/993ca170aeb2806a204f02e78d74eab1:2022021612:e1854fa1-7fc5-4c51-90c7-4bfa801cc499/u5xik.mp4:hls:manifest.m3u8
+
+https://1856689131.takedwn.ws/x-en-x/khb2FBL2Ya8ckX8xFy8xFn8ckC8xFn8xRp8GmoXzqwe0Rn8xRhQcW1Z6bmxWSmOJYr1ckC9GSmqIRn12Rp50qc==
