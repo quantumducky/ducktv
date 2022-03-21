@@ -1,2 +1,22 @@
 #EXTM3U
 # https://8serialov.net/load/vestern/1883-1-sezon/4-1-0-3200
+#EXTINF:-1, S1 E1
+https://s12.plwork.net/content/stream/films/1883.s01e01.1080p.rus.lostfilm.tv_354690/hls/720/index.m3u8
+#EXTINF:-1, S1 E2
+https://s7.plwork.net/content/stream/films/1883.s01e02.1080p.rus.lostfilm.tv_355320/hls/720/index.m3u8
+#EXTINF:-1, S1 E3
+https://s4.plwork.net/content/stream/films/1883.s01e03.1080p.rus.lostfilm.tv_355868/hls/720/index.m3u8
+#EXTINF:-1, S1 E4
+https://s9.plwork.net/content/stream/films/1883.s01e04.1080p.rus.lostfilm.tv_358108/hls/720/index.m3u8
+#EXTINF:-1, S1 E5
+https://s4.plwork.net/content/stream/films/1883.s01e05.1080p.rus.lostfilm.tv_359184/hls/720/index.m3u8
+#EXTINF:-1, S1 E6
+https://s9.plwork.net/content/stream/films/1883.s01e06.1080p.rus.lostfilm.tv_362771/hls/720/index.m3u8
+#EXTINF:-1, S1 E7
+https://s9.plwork.net/content/stream/films/1883.s01e07.1080p.rus.lostfilm.tv_364403/hls/720/index.m3u8
+#EXTINF:-1, S1 E8
+https://s4.plwork.net/content/stream/films/1883.s01e08.1080p.rus.lostfilm.tv_365826/hls/720/index.m3u8
+#EXTINF:-1, S1 E9
+https://s9.plwork.net/content/stream/films/1883.s01e09.1080p.rus.lostfilm.tv_367590/hls/720/index.m3u8
+#EXTINF:-1, S1 E10
+https://s5.plwork.net/content/stream/films/1883.s01e10.1080p.rus.lostfilm.tv_368424/hls/720/index.m3u8

@@ -5,6 +5,7 @@ https://raw.githubusercontent.com/quantumducky/ducktv/master/tv.xml#.XML
 F! Streams:
 http://freestreams-live1.com/skysformula1/
 http://f1livegp.me/f1/live.html
+https://live1.formula1stream.cc/game/formula-1-2022-bahrain-gp-live-stream/
 
 F1 video archive:
 https://www.sport-video.org.ua/other.html
@@ -19,8 +20,11 @@ http://goodserials.tv
 https://hdoriginal.ru/
 https://8serialov.net/
 https://sezzzon.me
+http://www.lostfilmhd.ru/
+https://hdzip.tv/
 https://kinokrad.co
 http://seasonvar.ru
+http://zserials.org
 
 not good:
 http://fanserials.bz
@@ -138,14 +142,19 @@ rectify smotret
 http://zserials.org:
 http://data03-cdn.datalock.ru/fi2lm/676a81e82e2991f8fb9ed2d09b318faf/7f_Rectify.S01E01.Always.There.1080p.BDRip.x264.R.a1.02.12.21.mp4
 
-https://media2.krasview.ru/video/80765509fbf6985/3f094305501a244.mp4?stream=1
 
-https://zetflix.online/films/ikar/
-https://iridium.prosto.hdvideobox.me/e8dfe4894624f213ba05a846ef90b16d:2022021519/movies/577e3d69c22aeff3964e68ec6098e50f13713cf5/720.mp4
+https://gidonline.io/film/chasti-tela/
+https://meteor.stream.voidboost.in/tvseries/f9b3eb9b55ef6d1cdb71583e197a00af7ecfd570/d39d83a5ae5c369e3c7d9dcc562e479d:2022032202:NU9yWC9QM2dOYmNocG5hS1NUb2g3cFlmekE3a040VjdHZm9LVDFvWUpJMTFtdFdZSkR4ZmRNeGNOUkJ4eTdlMDRLb01qU0lmVUhIWXdDSm1FeUkzTjhCN281Z3MwNGN6dG1VeHNXenIyWUk9/720.mp4:hls:manifest.m3u8
 
 
-https://rezka.ag/films/documentary/37785-ikar-2017.html
-https://stream.voidboost.cc/2/2/2/1/1/1/993ca170aeb2806a204f02e78d74eab1:2022021612:e1854fa1-7fc5-4c51-90c7-4bfa801cc499/u5xik.mp4:hls:manifest.m3u8
-https://calfium.stream.voidboost.cc/2/2/2/1/1/1/993ca170aeb2806a204f02e78d74eab1:2022021612:e1854fa1-7fc5-4c51-90c7-4bfa801cc499/u5xik.mp4:hls:manifest.m3u8
+https://filmix.ac/seria/drama/6897-chasti-tela-l-2009.html
+https://nl06.cdnsqu.com/s/FXFSxG0zd6qlrSJ72AjAaQ5FnEFBQUFBQUFBQUFBQkErQkN3d0JC/nip.tuck.2003-nf20/s01e01_720.mp4
 
-https://1856689131.takedwn.ws/x-en-x/khb2FBL2Ya8ckX8xFy8xFn8ckC8xFn8xRp8GmoXzqwe0Rn8xRhQcW1Z6bmxWSmOJYr1ckC9GSmqIRn12Rp50qc==
+
+https://eserial2.ru/1654-2003-chasti-tela.html
+https://ourdb.ru/tvseries/e27fbb518df4f1fc848d895934b3bc115f547e8c/d5213d5c6d02707ab8cb5a77e375bfa8:2022032217/hls.m3u8
+https://scandium.ourdb.ru/tvseries/e27fbb518df4f1fc848d895934b3bc115f547e8c/d5213d5c6d02707ab8cb5a77e375bfa8:2022032217/720.mp4:hls:manifest.m3u8
+
+
+northern exposure
+https://hdserial.ru/item/13061-severnaya-storona
