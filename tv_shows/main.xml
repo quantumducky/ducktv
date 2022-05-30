@@ -10,8 +10,23 @@
 <!-- ################### -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/peaky_blinders.m3u8]]></playlist_url>
+  <title><![CDATA[Острые козырьки <span style="color: #b52222">(naujas sezonas)</span> (6/6)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/ozark.m3u8]]></playlist_url>
   <title><![CDATA[Озарк <span style="color: #b52222">(naujas sezonas)</span> (4/4)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/tokyo_vice.m3u8]]></playlist_url>
+  <title><![CDATA[Полиция Токио (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/from.m3u8]]></playlist_url>
+  <title><![CDATA[Извне (1/1)]]></title>
 </channel>
 
 <channel>
@@ -33,7 +48,7 @@
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/arrested_development.m3u8]]></playlist_url>
-  <title><![CDATA[Задержка в развитии (1/5)]]></title>
+  <title><![CDATA[Задержка в развитии (5/5)]]></title>
 </channel>
 
 <channel>
@@ -262,10 +277,11 @@
   the last kingdom
   always sunny
   severance
-  from
   black books
   plebs
   sherlock
+  the offer
+  pachinko
 
 
   PASSED:

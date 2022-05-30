@@ -59,3 +59,16 @@ http://s3.fplay.online/content/stream/films/peaky.blinders.s05e04.1080p.rus.lost
 http://s11.fplay.online/content/stream/films/peaky.blinders.s05e05.1080p.rus.lostfilm.tv_121965/hls/1080/index.m3u8
 #EXTINF:-1, S5 E6
 http://s11.fplay.online/content/stream/films/peaky.blinders.s05e06.1080p.rus.lostfilm.tv_122974/hls/1080/index.m3u8
+
+#EXTINF:-1, S6 E1
+https://s4.fplay.online/content/stream/films/peaky.blinders.s06e01.1080p.rus.lostfilm.tv_368493/hls/720/index.m3u8
+#EXTINF:-1, S6 E2
+https://s4.fplay.online/content/stream/films/peaky.blinders.s06e02.1080p.rus.lostfilm.tv_369210/hls/1080/index.m3u8
+#EXTINF:-1, S6 E3
+https://s5.fplay.online/content/stream/films/peaky.blinders.s06e03.1080p.rus.lostfilm.tv_369797/hls/1080/index.m3u8
+#EXTINF:-1, S6 E4
+https://s4.fplay.online/content/stream/films/peaky.blinders.s06e04.1080p.rus.lostfilm.tv_370343/hls/1080/index.m3u8
+#EXTINF:-1, S6 E5
+https://s4.fplay.online/content/stream/films/peaky.blinders.s06e05.1080p.rus.lostfilm.tv_370874/hls/1080/index.m3u8
+#EXTINF:-1, S6 E6
+https://s4.fplay.online/content/stream/films/peaky.blinders.s06e06.1080p.rus.lostfilm.tv_371694/hls/1080/index.m3u8
