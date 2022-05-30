@@ -10,6 +10,28 @@
 <!-- ################### -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/ozark.m3u8]]></playlist_url>
+  <title><![CDATA[Озарк <span style="color: #b52222">(naujas sezonas)</span> (4/4)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/parks_and_recreation.m3u8]]></playlist_url>
+  <title><![CDATA[Парки и зоны отдыха (1/7)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/winning_time.m3u8]]></playlist_url>
+  <title><![CDATA[Время победы: Расцвет династии Лейкерс (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_last_dance.m3u8]]></playlist_url>
+  <title><![CDATA[Последний танец (1/1)]]></title>
+</channel>
+
+<!-- ################### -->
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/arrested_development.m3u8]]></playlist_url>
   <title><![CDATA[Задержка в развитии (1/5)]]></title>
 </channel>
@@ -233,7 +255,6 @@
   vikings
   the punisher
   taboo
-  the last dance
   band of brothers
   rectify
   halt and catch fire
@@ -242,9 +263,9 @@
   always sunny
   severance
   from
-  winning time lakers
   black books
   plebs
+  sherlock
 
 
   PASSED:
