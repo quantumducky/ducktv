@@ -1,5 +1,5 @@
 #EXTM3U
-# http://kabarkino.org/2261-nasledniki-1-sezon-s6.html
+# http://www.lostfilmhd.ru/publ/serialy/nasledniki_33/1-1-0-819
 #EXTINF:-1, S1 E1
 http://s4.fplay.online/content/stream/films/succession.s01e01.celebration.1080p.amzn.webdl.dd5.1.h.264.amedia.pal_69649/hls/720/index.m3u8
 #EXTINF:-1, S1 E2
@@ -40,3 +40,21 @@ http://s4.fplay.online/content/stream/films/succession.s02e08.webdl.1080p_123864
 http://s22.fplay.online/content/stream/films/succession.s02e09.dc.1080p.amzn.webdl.h.264.rus.a.ddp5.1.srteniahd_124984/hls/720/index.m3u8
 #EXTINF:-1, S2 E10
 http://s11.fplay.online/content/stream/films/succession.s02e10.this.is.not.for.tears.1080p.amzn.webdl.h.264.rus.a.ddp5.1.srteniahd_126048/hls/720/index.m3u8
+#EXTINF:-1, S3 E1
+http://s2.playep.pro/content/stream/films/succession.amedia.s03e01_345215/hls/1080/index.m3u8
+#EXTINF:-1, S3 E2
+http://s2.playep.pro/content/stream/films/succession.amedia.s03e02_345216/hls/1080/index.m3u8
+#EXTINF:-1, S3 E3
+http://s2.playep.pro/content/stream/films/succession.amedia.s03e03_345217/hls/1080/index.m3u8
+#EXTINF:-1, S3 E4
+http://s2.playep.pro/content/stream/films/succession.amedia.s03e04_345218/hls/1080/index.m3u8
+#EXTINF:-1, S3 E5
+http://s2.playep.pro/content/stream/films/succession.amedia.s03e05_345219/hls/1080/index.m3u8
+#EXTINF:-1, S3 E6
+http://s6.playep.pro/content/stream/films/succession.s03.e06.2021.webdl.1080p.exkinoray_347296/hls/1080/index.m3u8
+#EXTINF:-1, S3 E7
+http://s4.playep.pro/content/stream/films/succession.s03.e07.2021.webdl.1080p.exkinoray_350284/hls/1080/index.m3u8
+#EXTINF:-1, S3 E8
+http://s6.playep.pro/content/stream/films/succession.s03.e08.2021.webdl.1080p.exkinoray_351529/hls/1080/index.m3u8
+#EXTINF:-1, S3 E9
+http://s2.playep.pro/content/stream/films/succession.s03.e09.2021.webdl.1080p.exkinoray_353023/hls/1080/index.m3u8

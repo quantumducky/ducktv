@@ -10,249 +10,284 @@
 <!-- ################### -->
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/peaky_blinders.m3u8]]></playlist_url>
-  <title><![CDATA[Острые козырьки <span style="color: #b52222">(naujas sezonas)</span> (6/6)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/terminal_list.m3u8]]></playlist_url>
+  <title><![CDATA[Список смертников (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/ozark.m3u8]]></playlist_url>
-  <title><![CDATA[Озарк <span style="color: #b52222">(naujas sezonas)</span> (4/4)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/banshee.m3u8]]></playlist_url>
+  <title><![CDATA[Банши (1/4)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/tokyo_vice.m3u8]]></playlist_url>
-  <title><![CDATA[Полиция Токио (1/1)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/psych.m3u8]]></playlist_url>
+  <title><![CDATA[Ясновидец (1/8)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/from.m3u8]]></playlist_url>
-  <title><![CDATA[Извне (1/1)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/black_bird.m3u8]]></playlist_url>
+  <title><![CDATA[Чёрная птица (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/parks_and_recreation.m3u8]]></playlist_url>
-  <title><![CDATA[Парки и зоны отдыха (1/7)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/severance.m3u8]]></playlist_url>
+  <title><![CDATA[Разделение (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/winning_time.m3u8]]></playlist_url>
-  <title><![CDATA[Время победы: Расцвет династии Лейкерс (1/1)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/for_all_mankind.m3u8]]></playlist_url>
+  <title><![CDATA[Ради всего человечества (1/3)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_last_dance.m3u8]]></playlist_url>
-  <title><![CDATA[Последний танец (1/1)]]></title>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/entourage.m3u8]]></playlist_url>
+  <title><![CDATA[Красавцы (1/8)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/succession.m3u8]]></playlist_url>
+  <title><![CDATA[Наследники <span style="color: #b52222">(naujas sezonas)</span> (3/3)]]></title>
 </channel>
 
 <!-- ################### -->
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/arrested_development.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/peaky_blinders.m3u8]]></playlist_url>
+  <title><![CDATA[Острые козырьки (6/6)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/ozark.m3u8]]></playlist_url>
+  <title><![CDATA[Озарк (4/4)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/tokyo_vice.m3u8]]></playlist_url>
+  <title><![CDATA[Полиция Токио (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/from.m3u8]]></playlist_url>
+  <title><![CDATA[Извне (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/parks_and_recreation.m3u8]]></playlist_url>
+  <title><![CDATA[Парки и зоны отдыха (1/7)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/winning_time.m3u8]]></playlist_url>
+  <title><![CDATA[Время победы: Расцвет династии Лейкерс (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_last_dance.m3u8]]></playlist_url>
+  <title><![CDATA[Последний танец (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/arrested_development.m3u8]]></playlist_url>
   <title><![CDATA[Задержка в развитии (5/5)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/manhunt_unabomber.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/manhunt_unabomber.m3u8]]></playlist_url>
   <title><![CDATA[Охота на Унабомбера (2/2)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/1883.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/1883.m3u8]]></playlist_url>
   <title><![CDATA[1883 (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_killing.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_killing.m3u8]]></playlist_url>
   <title><![CDATA[Убийство (1/4)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/resident_alien.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/resident_alien.m3u8]]></playlist_url>
   <title><![CDATA[Засланец из космоса (1/2)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/after_life.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/after_life.m3u8]]></playlist_url>
   <title><![CDATA[Жизнь после смерти (1/3)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/it_crowd.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/it_crowd.m3u8]]></playlist_url>
   <title><![CDATA[Компьютерщики (1/4)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/hell_on_wheels.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/hell_on_wheels.m3u8]]></playlist_url>
   <title><![CDATA[Ад на колесах (1/5)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/rome.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/rome.m3u8]]></playlist_url>
   <title><![CDATA[Рим (1/2)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/malcolm_in_the_middle.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/malcolm_in_the_middle.m3u8]]></playlist_url>
   <title><![CDATA[Малкольм в центре внимания (1/7)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mayor_of_kingstown.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/mayor_of_kingstown.m3u8]]></playlist_url>
   <title><![CDATA[Мэр Кингстауна (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/californication.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/californication.m3u8]]></playlist_url>
   <title><![CDATA[Блудливая Калифорния (7/7)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_man_in_the_high_castle.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_man_in_the_high_castle.m3u8]]></playlist_url>
   <title><![CDATA[Человек в высоком замке (1/4)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/third_rock_from_the_sun.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/third_rock_from_the_sun.m3u8]]></playlist_url>
   <title><![CDATA[Третья планета от Солнца (1/6)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_missing.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_missing.m3u8]]></playlist_url>
   <title><![CDATA[Пропавший без вести (1/2)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_borgias.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_borgias.m3u8]]></playlist_url>
   <title><![CDATA[Борджиа (1/3)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos_mexico.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/narcos_mexico.m3u8]]></playlist_url>
   <title><![CDATA[Нарко: Мексика (3/3)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/barry.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/barry.m3u8]]></playlist_url>
   <title><![CDATA[Барри (2/2)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/billions.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/billions.m3u8]]></playlist_url>
   <title><![CDATA[Миллиарды (1/5)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/sharp_objects.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/sharp_objects.m3u8]]></playlist_url>
   <title><![CDATA[Острые предметы (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/shameless.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/shameless.m3u8]]></playlist_url>
   <title><![CDATA[Бесстыжие (11/11)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dopesick.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/dopesick.m3u8]]></playlist_url>
   <title><![CDATA[Ломка (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/fargo.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/fargo.m3u8]]></playlist_url>
   <title><![CDATA[Фарго (4/4)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/generation_kill.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/generation_kill.m3u8]]></playlist_url>
   <title><![CDATA[Поколение убийц (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/john_adams.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/john_adams.m3u8]]></playlist_url>
   <title><![CDATA[Джон Адамс (1/1)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/spartacus.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/spartacus.m3u8]]></playlist_url>
   <title><![CDATA[Спартак (1/3)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_americans.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_americans.m3u8]]></playlist_url>
   <title><![CDATA[Американцы (1/6)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/house_of_cards.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/house_of_cards.m3u8]]></playlist_url>
   <title><![CDATA[Карточный домик (6/6)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/mad_men.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/mad_men.m3u8]]></playlist_url>
   <title><![CDATA[Безумцы (1/7)]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/squid_game.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/squid_game.m3u8]]></playlist_url>
   <title><![CDATA[Игра в кальмара]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/midnight_mass.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/midnight_mass.m3u8]]></playlist_url>
   <title><![CDATA[Полуночная месса]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_wire.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_wire.m3u8]]></playlist_url>
   <title><![CDATA[Прoслушка]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_knick.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_knick.m3u8]]></playlist_url>
   <title><![CDATA[Больница Никербокер]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/true_detective.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/true_detective.m3u8]]></playlist_url>
   <title><![CDATA[Настоящий детектив]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_blacklist.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_blacklist.m3u8]]></playlist_url>
   <title><![CDATA[Черный список]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dexter.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/dexter.m3u8]]></playlist_url>
   <title><![CDATA[Декстер]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/brooklyn_99.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/brooklyn_99.m3u8]]></playlist_url>
   <title><![CDATA[Бруклин 9-9]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_hounting_of_hill_house.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/the_hounting_of_hill_house.m3u8]]></playlist_url>
   <title><![CDATA[Призрак дома на холме]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/narcos.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/narcos.m3u8]]></playlist_url>
   <title><![CDATA[Нарко]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/succession.m3u8]]></playlist_url>
-  <title><![CDATA[Наследники]]></title>
-</channel>
-
-<channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/deadwood.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/deadwood.m3u8]]></playlist_url>
   <title><![CDATA[Дэдвyд]]></title>
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githububasercontent.com/quantumducky/ducktv/master/tv_shows/boardwalk_empire.m3u8]]></playlist_url>
+  <playlist_url><![CDATA[https://raw.githububasercontent.com/quantumducky/ducktv/master/tv_shows/watched/boardwalk_empire.m3u8]]></playlist_url>
   <title><![CDATA[Подпольная империя]]></title>
 </channel>
 
@@ -276,7 +311,6 @@
   homeland
   the last kingdom
   always sunny
-  severance
   black books
   plebs
   sherlock
@@ -285,7 +319,13 @@
   11.22.63
   ted lasso
   bosch
+  the old man
+  the rehearsal
+  the handmaid's tail
+  eastbound and down
 
+
+ <span style="color: #b52222">(naujas sezonas)</span>
 
   PASSED:
   the_newsroom - Служба новостей

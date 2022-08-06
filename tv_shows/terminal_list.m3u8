@@ -1,0 +1,18 @@
+#EXTM3U
+# http://www.bomtv.ru/catalog/russian_sound/spisok_smertnikov/11-1-0-5824
+#EXTINF:-1, S1 E1
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e01.the.engram_390878/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e02.encoding_390881/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e03.consolidation_390879/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e04.detachment_390882/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s1.playep.pro/vod/films/the.terminal.list.s01e05.disruption_390880/hls/index.m3u8
+#EXTINF:-1, S1 E6
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e06.transience_390883/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e07.extinction_390884/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+http://s1.playep.pro/content/stream/films/the.terminal.list.s01e08.reclamation_390885/hls/1080/index.m3u8

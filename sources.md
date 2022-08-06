@@ -32,6 +32,7 @@ https://vseriale.co
 
 Movies:
 https://filmix.co
+https://filmix.ac
 https://kinokrad.co
 https://kino-ep.online
 

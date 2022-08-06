@@ -1,0 +1,14 @@
+#EXTM3U
+# http://www.bomtv.ru/catalog/dubljazh/chjornaja_ptica/12-1-0-5830
+#EXTINF:-1, S1 E1
+http://s2.playep.pro/content/stream/films/black.bird.s01e01.dub_388825/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s2.playep.pro/content/stream/films/black.bird.s01e02.dub_388826/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s1.playep.pro/content/stream/films/black.bird.s01e03.hand.to.mouth.1080p.atvp.webdl.ddp5.1.h.264eniahd_390731/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s1.playep.pro/content/stream/films/black.bird.s01e04.whatshername.1080p.atvp.webdl.ddp5.1.h.264eniahd_392208/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s4.playep.pro/content/stream/films/blackbird.s01.e05.dub_393345/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+http://s1.playep.pro/content/stream/films/black.bird.s01e06.dub_394521/hls/1080/index.m3u8

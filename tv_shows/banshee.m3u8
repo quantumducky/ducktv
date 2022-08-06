@@ -1,0 +1,22 @@
+#EXTM3U
+# http://www.bomtv.ru/catalog/newstudio/banshi_002/1-1-0-795
+#EXTINF:-1, S1 E1
+http://s6.playep.pro/content/stream/films/1x01__pilotnyj_epizod_297086/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s6.playep.pro/content/stream/films/1x02__rejv_297087/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s6.playep.pro/content/stream/films/1x03__znakomtes_novyj_boss_297088/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s6.playep.pro/content/stream/films/1x04__ogloxnut_napolovinu_ili_umeret_polnostyu_297089/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s6.playep.pro/content/stream/films/1x05__krovnye_uzy_297090/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+http://s6.playep.pro/content/stream/films/1x06__viks_297091/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+http://s6.playep.pro/content/stream/films/1x07__vsadnik_na_blednom_kone_297092/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+http://s6.playep.pro/content/stream/films/1x08__budem_zhit_vechno_297093/hls/1080/index.m3u8
+#EXTINF:-1, S1 E9
+http://s6.playep.pro/content/stream/films/1x09__vechnyj_kovboj_297094/hls/1080/index.m3u8
+#EXTINF:-1, S1 E10
+http://s6.playep.pro/content/stream/films/1x10__smes_bezumiya_297095/hls/1080/index.m3u8

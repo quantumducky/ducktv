@@ -1,0 +1,20 @@
+#EXTM3U
+# http://www.lostfilmhd.ru/publ/serialy/razdelenie_02/1-1-0-2254
+#EXTINF:-1, S1 E1
+http://s3.playep.pro/content/stream/films/severance.s01e01.1080p.rus.lostfilm.tv_367990/hls/1080/index.m3u8
+#EXTINF:-1, S1 E2
+http://s4.playep.pro/content/stream/films/severance.s01e02.1080p.rus.lostfilm.tv_368075/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://s1.playep.pro/content/stream/films/severance.s01e03.rus.1080p.lostfilm.tv_390755/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://s1.playep.pro/content/stream/films/severance.s01e04.rus.1080p.lostfilm.tv_390739/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://s2.playep.pro/content/stream/films/severance.s01e05.rus.1080p.lostfilm.tv_369658/hls/1080/index.m3u8
+#EXTINF:-1, S1 E6
+http://s4.playep.pro/content/stream/films/severance.s01e06.rus.1080p.lostfilm.tv_370188/hls/1080/index.m3u8
+#EXTINF:-1, S1 E7
+http://s2.playep.pro/content/stream/films/severance.s01e07.rus.1080p.lostfilm.tv_370701/hls/1080/index.m3u8
+#EXTINF:-1, S1 E8
+http://s2.playep.pro/content/stream/films/severance.s01e08.rus.1080p.lostfilm.tv_371197/hls/1080/index.m3u8
+#EXTINF:-1, S1 E9
+http://s3.playep.pro/content/stream/films/severance.s01e09.rus.1080p.lostfilm.tv_372038/hls/1080/index.m3u8
