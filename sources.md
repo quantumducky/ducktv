@@ -26,6 +26,10 @@ https://kinokrad.co
 http://seasonvar.ru
 http://zserials.org
 
+https://subline.su/
+1luxtv.net
+lordserial.run
+
 not good:
 http://fanserials.bz
 https://vseriale.co
