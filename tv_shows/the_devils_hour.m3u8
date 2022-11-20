@@ -1,0 +1,14 @@
+#EXTM3U
+# http://zserials.org/zarubezhnye/the-devils-hour.php
+#EXTINF:-1, S1 E1
+http://cdn1.miradres.com/content/stream/films/thedevilshour.s01.e01.newstudio_408330/hls/720/index.m3u8
+#EXTINF:-1, S1 E2
+http://s1.miradres.com/content/stream/films/thedevilshour.s01.e02.newstudio_408499/hls/720/index.m3u8
+#EXTINF:-1, S1 E3
+http://s1.miradres.com/content/stream/films/the.devils.hour.s01e03.newstudio_409709/hls/720/index.m3u8
+#EXTINF:-1, S1 E4
+http://cdn1.miradres.com/content/stream/films/the.devils.hour.s01e04.newstudio_409710/hls/720/index.m3u8
+#EXTINF:-1, S1 E5
+http://s1.miradres.com/content/stream/films/the.devils.hour.s01e05.newstudio_409711/hls/720/index.m3u8
+#EXTINF:-1, S1 E6
+http://s1.miradres.com/content/stream/films/the.devils.hour.s01e06.newstudio_409712/hls/720/index.m3u8

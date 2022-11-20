@@ -7,7 +7,24 @@
 
 <!-- Ongoing season -->
 
+<!-- tulsa king -->
+
 <!-- ################### -->
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/sas_rogue_hearoes.m3u8]]></playlist_url>
+  <title><![CDATA[САС: Неизвестные герои (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_devils_hour.m3u8]]></playlist_url>
+  <title><![CDATA[Час дьявола (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_english.m3u8]]></playlist_url>
+  <title><![CDATA[Англичанка (1/1)]]></title>
+</channel>
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/terminal_list.m3u8]]></playlist_url>

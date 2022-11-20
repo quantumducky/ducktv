@@ -1,0 +1,14 @@
+#EXTM3U
+# http://zserials.org/zarubezhnye/the-english.php
+#EXTINF:-1, S1 E1
+http://cdn7.miradres.com/content/stream/films/the.english.s01e01.webrip.1080p.rus.5.1.hdrezka.studio_411292/hls/720/index.m3u8
+#EXTINF:-1, S1 E2
+http://cdn7.miradres.com/content/stream/films/the.english.s01e02.webrip.1080p.rus.5.1.hdrezka.studio_411730/hls/1080/index.m3u8
+#EXTINF:-1, S1 E3
+http://cdn7.miradres.com/content/stream/films/the.english.s01e03.webrip.1080p.rus.5.1.hdrezka.studio_411731/hls/1080/index.m3u8
+#EXTINF:-1, S1 E4
+http://cdn7.miradres.com/content/stream/films/the.english.s01e04.webrip.1080p.rus.5.1.hdrezka.studio_411732/hls/1080/index.m3u8
+#EXTINF:-1, S1 E5
+http://cdn1.miradres.com/content/stream/films/the.english.s01e05.webrip.1080p.rus.5.1.hdrezka.studio_411733/hls/720/index.m3u8
+#EXTINF:-1, S1 E6
+http://cdn1.miradres.com/content/stream/films/the.english.s01e06.webrip.1080p.rus.5.1.hdrezka.studio_411734/hls/720/index.m3u8
