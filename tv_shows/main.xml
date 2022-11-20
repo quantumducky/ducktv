@@ -12,6 +12,21 @@
 <!-- ################### -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dahmer.m3u8]]></playlist_url>
+  <title><![CDATA[Монстр: История Джеффри Дамера (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/jack_ryan.m3u8]]></playlist_url>
+  <title><![CDATA[Джек Райан (2/2)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_old_man.m3u8]]></playlist_url>
+  <title><![CDATA[Старик (1/1)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/sas_rogue_hearoes.m3u8]]></playlist_url>
   <title><![CDATA[САС: Неизвестные герои (1/1)]]></title>
 </channel>
