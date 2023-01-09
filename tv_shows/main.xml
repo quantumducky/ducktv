@@ -5,11 +5,44 @@
 
 <items>
 
-<!-- Ongoing season -->
+<!-- ################### -->
 
-<!-- tulsa king -->
+<!--
+  tulsa king, oz, reno 911, 30 rock, letterkrnny 
+
+-->
 
 <!-- ################### -->
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_offer.m3u8]]></playlist_url>
+  <title><![CDATA[Предложение (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/11_22_63.m3u8]]></playlist_url>
+  <title><![CDATA[11/22/63 (1/1)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/trailer_park_boys.m3u8]]></playlist_url>
+  <title><![CDATA[Парни из Трейлерпарка (1/12)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_shield.m3u8]]></playlist_url>
+  <title><![CDATA[Щит (1/7)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/eureka.m3u8]]></playlist_url>
+  <title><![CDATA[Эврика (1/5)]]></title>
+</channel>
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_spy.m3u8]]></playlist_url>
+  <title><![CDATA[Шпион (1/1)]]></title>
+</channel>
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/dahmer.m3u8]]></playlist_url>
@@ -348,7 +381,6 @@
   sherlock
   the offer
   pachinko
-  11.22.63
   ted lasso
   bosch
   the old man

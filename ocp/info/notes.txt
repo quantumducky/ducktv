@@ -1,0 +1,15 @@
+DateTime to remember:
+- no constructors, instances created with static method of()
+- Period stores year/month/day P2Y26M17D
+- Period ofWeeks() converts to days (week * 7)
+- Duration stores hours/minutes/seconds (with fraction). ofMinutes(90) -> 'PT1h30M'
+- Period / Duration of...() methods are static, nesting does not work.
+  Period.ofMonths(2).ofDays(3) -> 'P3D'
+- Instant can be obtained from ZonedDateTime, not LocalDateTime because no time zone
+- Instant allows to add units day and small (NO MONTHS/YEARS!! although it displays it)
+
+Strings and Locales:
+- if multiple threads are updating same object, use StringBuffer not StringBuilder
+- Locale constructors takes JUST LANGUAGE OR LANG AND COUNTRY: new Locale("en") / Locale("en", "US")
+- extend ListResourceBundle and implement Object[][] getContents() method
+- getObject() to retrieve no string values from java class resource bundle

@@ -25,7 +25,6 @@ https://hdzip.tv/
 https://kinokrad.co
 http://seasonvar.ru
 http://zserials.org
-
 https://subline.su/
 1luxtv.net
 lordserial.run
