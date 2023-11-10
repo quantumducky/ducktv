@@ -6,8 +6,13 @@
 <items>
 
 <channel>
+  <title><![CDATA[Oppenheimer]]></title>
+  <stream_url><![CDATA[https://251-a1e-3000g0.v.plground.live:10402/hs/54/1699654835/fS8YUj0VLq855mTcJghIHA/705/823705/4/index-f1-v1-sa4-a1.m3u8]]></stream_url>
+</channel>
+
+<!-- <channel>
   <title><![CDATA[<script></script>]]></title>
   <stream_url><![CDATA[https://nl06.cdnsqu.com/s/FXFSfHTrUhZTprwvMzT4RScBZUFBQUFBQUFBQUFBQlk5SUJnZ0JC/hd-nf19/There.Will.Be.Blood.2007.BDRip.1080p_720.mp4]]></stream_url>
-</channel>
+</channel> -->
 
 </items></item>
