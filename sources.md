@@ -37,6 +37,7 @@ Movies:
 https://filmix.co
 https://filmix.ac
 https://kinokrad.co
+https://kinokrad.cc/
 https://kino-ep.online
 
 LT:
@@ -47,6 +48,9 @@ http://103.155.92.210
 https://serialai.club
 https://serialai.online
 https://www.kinas.tv
+
+
+https://github.com/Free-TV/IPTV
 
 
 IPTV Glanz
