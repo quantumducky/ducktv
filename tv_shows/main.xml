@@ -15,10 +15,16 @@
 <!-- ################### -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/shameless.m3u8]]></playlist_url>
+  <title><![CDATA[Бесстыжие (11/11)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/animal_kingdom.m3u8]]></playlist_url>
   <title><![CDATA[По волчьим законам (6/6)]]></title>
 </channel>
 
+<!-- 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_offer.m3u8]]></playlist_url>
   <title><![CDATA[Предложение (1/1)]]></title>
@@ -118,8 +124,6 @@
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/succession.m3u8]]></playlist_url>
   <title><![CDATA[Наследники <span style="color: #b52222">(naujas sezonas)</span> (3/3)]]></title>
 </channel>
-
-<!-- ################### -->
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/peaky_blinders.m3u8]]></playlist_url>
@@ -257,11 +261,6 @@
 </channel>
 
 <channel>
-  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/shameless.m3u8]]></playlist_url>
-  <title><![CDATA[Бесстыжие (11/11)]]></title>
-</channel>
-
-<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/watched/dopesick.m3u8]]></playlist_url>
   <title><![CDATA[Ломка (1/1)]]></title>
 </channel>
@@ -359,7 +358,7 @@
 <channel>
   <playlist_url><![CDATA[https://raw.githububasercontent.com/quantumducky/ducktv/master/tv_shows/watched/boardwalk_empire.m3u8]]></playlist_url>
   <title><![CDATA[Подпольная империя]]></title>
-</channel>
+</channel> -->
 
 </items></item>
 

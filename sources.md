@@ -13,11 +13,8 @@ https://www.reddit.com/r/MotorsportsReplays/
 https://overtakefans.com
 
 Shows:
-http://kabarkino.org
-https://serialhd.net/
-http://www.boomtv.ru/
-http://goodserials.tv
 https://hdoriginal.ru/
+
 https://8serialov.net/
 https://sezzzon.me
 http://www.lostfilmhd.ru/
