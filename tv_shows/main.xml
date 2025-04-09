@@ -15,6 +15,11 @@
 <!-- ################### -->
 
 <channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_innocent.m3u8]]></playlist_url>
+  <title><![CDATA[Харлан Кобен. Невиновен (1/1)]]></title>
+</channel>
+
+<channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/adolescence.m3u8]]></playlist_url>
   <title><![CDATA[Сериал Подросток (1/1)]]></title>
 </channel>
