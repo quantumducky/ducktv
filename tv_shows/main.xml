@@ -11,8 +11,13 @@
   tulsa king, oz, reno 911, 30 rock, letterkrnny 
 
 -->
-
+1923.m3u8
 <!-- ################### -->
+
+<channel>
+  <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/1923.m3u8]]></playlist_url>
+  <title><![CDATA[1923 (2/2)]]></title>
+</channel>
 
 <channel>
   <playlist_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/the_innocent.m3u8]]></playlist_url>
