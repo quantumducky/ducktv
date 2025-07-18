@@ -20,6 +20,7 @@ https://sezzzon.me
 http://www.lostfilmhd.ru/
 https://hdzip.tv/
 https://kinokrad.co
+https://kinokrad.net/
 http://seasonvar.ru
 http://zserials.org
 https://subline.su/
