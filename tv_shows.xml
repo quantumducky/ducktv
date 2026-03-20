@@ -6,7 +6,7 @@
 <items>
 <channel>
   <title><![CDATA[Гевелий]]></title>
-  <stream_url><![CDATA[heweliusz.m3u8]]></stream_url>
+  <stream_url><![CDATA[https://raw.githubusercontent.com/quantumducky/ducktv/master/tv_shows/heweliusz.m3u8]]></stream_url>
 </channel>
 
 <!-- <channel>
