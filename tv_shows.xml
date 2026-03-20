@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 
-<title><![CDATA[Filmai]]></title>
+<title><![CDATA[Serialai]]></title>
 
 <items>
 <channel>
-  <title><![CDATA[FOM]]></title>
-  <stream_url><![CDATA[http://192.168.1.112:8080/Filmai/fom.mp4]]></stream_url>
+  <title><![CDATA[Гевелий]]></title>
+  <stream_url><![CDATA[heweliusz.m3u8]]></stream_url>
 </channel>
 
 <!-- <channel>
